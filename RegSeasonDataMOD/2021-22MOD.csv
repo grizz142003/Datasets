@@ -1,0 +1,1313 @@
+Date,Time,Visitor,Visitor_Goals,Home,Home_Goals,OT,Winner,Loser,HPP,VPP
+2021-10-12,7:30 PM,Pittsburgh Penguins,6,Tampa Bay Lightning,2,,Pittsburgh Penguins,Tampa Bay Lightning,0.0,0.0
+2021-10-12,10:00 PM,Seattle Kraken,3,Vegas Golden Knights,4,,Vegas Golden Knights,Seattle Kraken,0.0,0.0
+2021-10-13,10:00 PM,Winnipeg Jets,1,Anaheim Ducks,4,,Anaheim Ducks,Winnipeg Jets,0.0,0.0
+2021-10-13,10:00 PM,Chicago Blackhawks,2,Colorado Avalanche,4,,Colorado Avalanche,Chicago Blackhawks,0.0,0.0
+2021-10-13,10:00 PM,Vancouver Canucks,2,Edmonton Oilers,3,SO,Edmonton Oilers,Vancouver Canucks,0.0,0.0
+2021-10-13,7:00 PM,Montreal Canadiens,1,Toronto Maple Leafs,2,,Toronto Maple Leafs,Montreal Canadiens,0.0,0.0
+2021-10-13,7:30 PM,New York Rangers,1,Washington Capitals,5,,Washington Capitals,New York Rangers,0.0,0.0
+2021-10-14,7:00 PM,Montreal Canadiens,1,Buffalo Sabres,5,,Buffalo Sabres,Montreal Canadiens,0.0,0.0
+2021-10-14,7:00 PM,New York Islanders,3,Carolina Hurricanes,6,,Carolina Hurricanes,New York Islanders,0.0,0.0
+2021-10-14,7:00 PM,Arizona Coyotes,2,Columbus Blue Jackets,8,,Columbus Blue Jackets,Arizona Coyotes,0.0,0.0
+2021-10-14,7:30 PM,Tampa Bay Lightning,7,Detroit Red Wings,6,OT,Tampa Bay Lightning,Detroit Red Wings,0.0,0.0
+2021-10-14,7:00 PM,Pittsburgh Penguins,4,Florida Panthers,5,OT,Florida Panthers,Pittsburgh Penguins,0.0,1.0
+2021-10-14,10:30 PM,Vegas Golden Knights,2,Los Angeles Kings,6,,Los Angeles Kings,Vegas Golden Knights,0.0,1.0
+2021-10-14,8:00 PM,Seattle Kraken,4,Nashville Predators,3,,Seattle Kraken,Nashville Predators,0.0,0.0
+2021-10-14,7:00 PM,Dallas Stars,3,New York Rangers,2,OT,Dallas Stars,New York Rangers,0.0,0.0
+2021-10-14,7:00 PM,Toronto Maple Leafs,2,Ottawa Senators,3,,Ottawa Senators,Toronto Maple Leafs,0.0,1.0
+2021-10-15,10:00 PM,Minnesota Wild,2,Anaheim Ducks,1,,Minnesota Wild,Anaheim Ducks,1.0,0.0
+2021-10-15,7:00 PM,Chicago Blackhawks,3,New Jersey Devils,4,OT,New Jersey Devils,Chicago Blackhawks,0.0,0.0
+2021-10-15,7:00 PM,Vancouver Canucks,5,Philadelphia Flyers,4,SO,Vancouver Canucks,Philadelphia Flyers,0.0,0.5
+2021-10-16,7:00 PM,Dallas Stars,1,Boston Bruins,3,,Boston Bruins,Dallas Stars,0.0,1.0
+2021-10-16,1:00 PM,Arizona Coyotes,1,Buffalo Sabres,2,SO,Buffalo Sabres,Arizona Coyotes,1.0,0.0
+2021-10-16,7:00 PM,Seattle Kraken,1,Columbus Blue Jackets,2,OT,Columbus Blue Jackets,Seattle Kraken,1.0,0.5
+2021-10-16,9:00 PM,St. Louis Blues,5,Colorado Avalanche,3,,St. Louis Blues,Colorado Avalanche,1.0,0.0
+2021-10-16,7:00 PM,Vancouver Canucks,1,Detroit Red Wings,3,,Detroit Red Wings,Vancouver Canucks,0.5,0.75
+2021-10-16,10:00 PM,Calgary Flames,2,Edmonton Oilers,5,,Edmonton Oilers,Calgary Flames,1.0,0.0
+2021-10-16,6:00 PM,New York Islanders,1,Florida Panthers,5,,Florida Panthers,New York Islanders,1.0,0.0
+2021-10-16,10:30 PM,Minnesota Wild,3,Los Angeles Kings,2,,Minnesota Wild,Los Angeles Kings,1.0,1.0
+2021-10-16,7:00 PM,New York Rangers,3,Montreal Canadiens,1,,New York Rangers,Montreal Canadiens,0.0,0.25
+2021-10-16,8:00 PM,Carolina Hurricanes,3,Nashville Predators,2,,Carolina Hurricanes,Nashville Predators,0.0,1.0
+2021-10-16,7:00 PM,Chicago Blackhawks,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Chicago Blackhawks,0.75,0.25
+2021-10-16,10:00 PM,Winnipeg Jets,3,San Jose Sharks,4,,San Jose Sharks,Winnipeg Jets,0.0,0.0
+2021-10-16,7:00 PM,Ottawa Senators,1,Toronto Maple Leafs,3,,Toronto Maple Leafs,Ottawa Senators,0.5,1.0
+2021-10-16,7:00 PM,Tampa Bay Lightning,2,Washington Capitals,1,OT,Tampa Bay Lightning,Washington Capitals,1.0,0.5
+2021-10-17,5:00 PM,Dallas Stars,2,Ottawa Senators,3,,Ottawa Senators,Dallas Stars,0.5,0.5
+2021-10-18,10:00 PM,St. Louis Blues,7,Arizona Coyotes,4,,St. Louis Blues,Arizona Coyotes,0.25,1.0
+2021-10-18,9:30 PM,Anaheim Ducks,3,Calgary Flames,2,OT,Anaheim Ducks,Calgary Flames,0.0,0.5
+2021-10-18,7:00 PM,Seattle Kraken,1,Philadelphia Flyers,6,,Philadelphia Flyers,Seattle Kraken,0.5,0.5
+2021-10-18,7:00 PM,New York Rangers,2,Toronto Maple Leafs,1,OT,New York Rangers,Toronto Maple Leafs,0.6666666666666666,0.5
+2021-10-19,7:00 PM,Vancouver Canucks,2,Buffalo Sabres,5,,Buffalo Sabres,Vancouver Canucks,1.0,0.5
+2021-10-19,8:00 PM,New York Islanders,4,Chicago Blackhawks,1,,New York Islanders,Chicago Blackhawks,0.16666666666666666,0.0
+2021-10-19,7:30 PM,Columbus Blue Jackets,1,Detroit Red Wings,4,,Detroit Red Wings,Columbus Blue Jackets,0.75,1.0
+2021-10-19,9:00 PM,Anaheim Ducks,5,Edmonton Oilers,6,,Edmonton Oilers,Anaheim Ducks,1.0,0.6666666666666666
+2021-10-19,8:00 PM,Winnipeg Jets,5,Minnesota Wild,6,OT,Minnesota Wild,Winnipeg Jets,1.0,0.0
+2021-10-19,7:00 PM,San Jose Sharks,5,Montreal Canadiens,0,,San Jose Sharks,Montreal Canadiens,0.0,1.0
+2021-10-19,7:00 PM,Seattle Kraken,2,New Jersey Devils,4,,New Jersey Devils,Seattle Kraken,1.0,0.375
+2021-10-19,8:00 PM,Los Angeles Kings,1,Nashville Predators,2,,Nashville Predators,Los Angeles Kings,0.0,0.5
+2021-10-19,7:00 PM,Dallas Stars,2,Pittsburgh Penguins,1,SO,Dallas Stars,Pittsburgh Penguins,0.8333333333333334,0.3333333333333333
+2021-10-19,7:00 PM,Florida Panthers,4,Tampa Bay Lightning,1,,Florida Panthers,Tampa Bay Lightning,0.6666666666666666,1.0
+2021-10-19,7:00 PM,Colorado Avalanche,3,Washington Capitals,6,,Washington Capitals,Colorado Avalanche,0.75,0.5
+2021-10-20,7:30 PM,Boston Bruins,3,Philadelphia Flyers,6,,Philadelphia Flyers,Boston Bruins,0.75,1.0
+2021-10-20,10:00 PM,St. Louis Blues,3,Vegas Golden Knights,1,,St. Louis Blues,Vegas Golden Knights,0.5,1.0
+2021-10-21,10:00 PM,Edmonton Oilers,5,Arizona Coyotes,1,,Edmonton Oilers,Arizona Coyotes,0.16666666666666666,1.0
+2021-10-21,7:00 PM,New York Islanders,2,Columbus Blue Jackets,3,OT,Columbus Blue Jackets,New York Islanders,0.6666666666666666,0.3333333333333333
+2021-10-21,8:30 PM,Vancouver Canucks,4,Chicago Blackhawks,1,,Vancouver Canucks,Chicago Blackhawks,0.125,0.375
+2021-10-21,7:30 PM,Calgary Flames,3,Detroit Red Wings,0,,Calgary Flames,Detroit Red Wings,0.8333333333333334,0.25
+2021-10-21,7:00 PM,Colorado Avalanche,1,Florida Panthers,4,,Florida Panthers,Colorado Avalanche,1.0,0.3333333333333333
+2021-10-21,7:00 PM,Carolina Hurricanes,4,Montreal Canadiens,1,,Carolina Hurricanes,Montreal Canadiens,0.0,1.0
+2021-10-21,7:00 PM,Washington Capitals,4,New Jersey Devils,1,,Washington Capitals,New Jersey Devils,1.0,0.8333333333333334
+2021-10-21,8:00 PM,New York Rangers,3,Nashville Predators,1,,New York Rangers,Nashville Predators,0.3333333333333333,0.625
+2021-10-21,7:00 PM,San Jose Sharks,2,Ottawa Senators,1,,San Jose Sharks,Ottawa Senators,0.6666666666666666,1.0
+2021-10-21,8:00 PM,Anaheim Ducks,1,Winnipeg Jets,5,,Winnipeg Jets,Anaheim Ducks,0.16666666666666666,0.5
+2021-10-22,7:00 PM,Boston Bruins,4,Buffalo Sabres,1,,Boston Bruins,Buffalo Sabres,1.0,0.5
+2021-10-22,8:30 PM,Los Angeles Kings,2,Dallas Stars,3,OT,Dallas Stars,Los Angeles Kings,0.5,0.3333333333333333
+2021-10-22,6:00 PM,San Jose Sharks,5,Toronto Maple Leafs,3,,San Jose Sharks,Toronto Maple Leafs,0.625,1.0
+2021-10-22,10:00 PM,Edmonton Oilers,5,Vegas Golden Knights,3,,Edmonton Oilers,Vegas Golden Knights,0.3333333333333333,1.0
+2021-10-23,9:00 PM,New York Islanders,3,Arizona Coyotes,0,,New York Islanders,Arizona Coyotes,0.125,0.375
+2021-10-23,7:00 PM,Carolina Hurricanes,5,Columbus Blue Jackets,1,,Carolina Hurricanes,Columbus Blue Jackets,0.75,1.0
+2021-10-23,6:00 PM,Anaheim Ducks,3,Minnesota Wild,4,OT,Minnesota Wild,Anaheim Ducks,1.0,0.4
+2021-10-23,7:00 PM,Detroit Red Wings,1,Montreal Canadiens,6,,Montreal Canadiens,Detroit Red Wings,0.0,0.625
+2021-10-23,7:00 PM,Buffalo Sabres,1,New Jersey Devils,2,OT,New Jersey Devils,Buffalo Sabres,0.6666666666666666,0.75
+2021-10-23,1:00 PM,New York Rangers,3,Ottawa Senators,2,,New York Rangers,Ottawa Senators,0.5,0.7
+2021-10-23,7:00 PM,Florida Panthers,4,Philadelphia Flyers,2,,Florida Panthers,Philadelphia Flyers,0.8333333333333334,1.0
+2021-10-23,7:00 PM,Toronto Maple Leafs,1,Pittsburgh Penguins,7,,Pittsburgh Penguins,Toronto Maple Leafs,0.75,0.5
+2021-10-23,10:00 PM,Vancouver Canucks,4,Seattle Kraken,2,,Vancouver Canucks,Seattle Kraken,0.3,0.5
+2021-10-23,8:00 PM,Los Angeles Kings,3,St. Louis Blues,7,,St. Louis Blues,Los Angeles Kings,1.0,0.375
+2021-10-23,7:00 PM,Colorado Avalanche,4,Tampa Bay Lightning,3,SO,Colorado Avalanche,Tampa Bay Lightning,0.5,0.25
+2021-10-23,7:00 PM,Nashville Predators,4,Winnipeg Jets,6,,Winnipeg Jets,Nashville Predators,0.375,0.25
+2021-10-23,1:00 PM,Calgary Flames,4,Washington Capitals,3,OT,Calgary Flames,Washington Capitals,0.875,0.5
+2021-10-24,1:00 PM,San Jose Sharks,3,Boston Bruins,4,,Boston Bruins,San Jose Sharks,0.6666666666666666,1.0
+2021-10-24,7:00 PM,Detroit Red Wings,6,Chicago Blackhawks,3,,Detroit Red Wings,Chicago Blackhawks,0.1,0.5
+2021-10-24,6:00 PM,Nashville Predators,5,Minnesota Wild,2,,Nashville Predators,Minnesota Wild,1.0,0.2
+2021-10-24,10:00 PM,New York Islanders,2,Vegas Golden Knights,0,,New York Islanders,Vegas Golden Knights,0.25,0.5
+2021-10-25,7:00 PM,Tampa Bay Lightning,1,Buffalo Sabres,5,,Buffalo Sabres,Tampa Bay Lightning,0.7,0.5
+2021-10-25,7:00 PM,Toronto Maple Leafs,1,Carolina Hurricanes,4,,Carolina Hurricanes,Toronto Maple Leafs,1.0,0.4166666666666667
+2021-10-25,7:00 PM,Dallas Stars,1,Columbus Blue Jackets,4,,Columbus Blue Jackets,Dallas Stars,0.6,0.6
+2021-10-25,7:00 PM,Arizona Coyotes,3,Florida Panthers,5,,Florida Panthers,Arizona Coyotes,1.0,0.1
+2021-10-25,7:00 PM,Calgary Flames,5,New York Rangers,1,,Calgary Flames,New York Rangers,0.75,0.625
+2021-10-25,7:00 PM,Washington Capitals,7,Ottawa Senators,5,,Washington Capitals,Ottawa Senators,0.4,0.8
+2021-10-25,8:00 PM,Los Angeles Kings,0,St. Louis Blues,3,,St. Louis Blues,Los Angeles Kings,1.0,0.3
+2021-10-26,10:00 PM,Winnipeg Jets,4,Anaheim Ducks,3,,Winnipeg Jets,Anaheim Ducks,0.4166666666666667,0.5
+2021-10-26,8:00 PM,Vegas Golden Knights,3,Colorado Avalanche,1,,Vegas Golden Knights,Colorado Avalanche,0.4,0.2
+2021-10-26,7:00 PM,Calgary Flames,5,New Jersey Devils,3,,Calgary Flames,New Jersey Devils,0.75,0.7
+2021-10-26,8:30 PM,San Jose Sharks,1,Nashville Predators,3,,Nashville Predators,San Jose Sharks,0.3333333333333333,0.8
+2021-10-26,7:00 PM,Tampa Bay Lightning,5,Pittsburgh Penguins,1,,Tampa Bay Lightning,Pittsburgh Penguins,0.8,0.4166666666666667
+2021-10-26,10:00 PM,Montreal Canadiens,1,Seattle Kraken,5,,Seattle Kraken,Montreal Canadiens,0.25,0.16666666666666666
+2021-10-26,10:00 PM,Minnesota Wild,3,Vancouver Canucks,2,,Minnesota Wild,Vancouver Canucks,0.5833333333333334,0.8
+2021-10-27,7:30 PM,Toronto Maple Leafs,3,Chicago Blackhawks,2,OT,Toronto Maple Leafs,Chicago Blackhawks,0.08333333333333333,0.35714285714285715
+2021-10-27,8:30 PM,Vegas Golden Knights,3,Dallas Stars,2,OT,Vegas Golden Knights,Dallas Stars,0.5,0.3333333333333333
+2021-10-27,10:00 PM,Philadelphia Flyers,5,Edmonton Oilers,3,,Philadelphia Flyers,Edmonton Oilers,1.0,0.625
+2021-10-27,7:00 PM,Boston Bruins,1,Florida Panthers,4,,Florida Panthers,Boston Bruins,1.0,0.75
+2021-10-27,7:00 PM,Detroit Red Wings,3,Washington Capitals,2,OT,Detroit Red Wings,Washington Capitals,0.8333333333333334,0.5833333333333334
+2021-10-28,10:00 PM,Buffalo Sabres,4,Anaheim Ducks,3,OT,Buffalo Sabres,Anaheim Ducks,0.35714285714285715,0.75
+2021-10-28,7:00 PM,Boston Bruins,0,Carolina Hurricanes,3,,Carolina Hurricanes,Boston Bruins,1.0,0.6
+2021-10-28,10:30 PM,Winnipeg Jets,3,Los Angeles Kings,2,,Winnipeg Jets,Los Angeles Kings,0.25,0.5833333333333334
+2021-10-28,7:00 PM,Calgary Flames,4,Pittsburgh Penguins,0,,Calgary Flames,Pittsburgh Penguins,0.6666666666666666,0.75
+2021-10-28,10:00 PM,Minnesota Wild,1,Seattle Kraken,4,,Seattle Kraken,Minnesota Wild,0.35714285714285715,0.8333333333333334
+2021-10-28,10:30 PM,Montreal Canadiens,4,San Jose Sharks,0,,Montreal Canadiens,San Jose Sharks,0.6666666666666666,0.14285714285714285
+2021-10-28,8:00 PM,Colorado Avalanche,4,St. Louis Blues,3,,Colorado Avalanche,St. Louis Blues,1.0,0.3333333333333333
+2021-10-28,7:00 PM,Arizona Coyotes,1,Tampa Bay Lightning,5,,Tampa Bay Lightning,Arizona Coyotes,0.5,0.08333333333333333
+2021-10-28,10:00 PM,Philadelphia Flyers,2,Vancouver Canucks,1,,Philadelphia Flyers,Vancouver Canucks,0.5,0.7
+2021-10-29,7:00 PM,Chicago Blackhawks,3,Carolina Hurricanes,6,,Carolina Hurricanes,Chicago Blackhawks,1.0,0.14285714285714285
+2021-10-29,8:30 PM,Ottawa Senators,4,Dallas Stars,1,,Ottawa Senators,Dallas Stars,0.5,0.3333333333333333
+2021-10-29,7:00 PM,Florida Panthers,3,Detroit Red Wings,2,OT,Florida Panthers,Detroit Red Wings,0.6428571428571429,1.0
+2021-10-29,7:00 PM,Columbus Blue Jackets,0,New York Rangers,4,,New York Rangers,Columbus Blue Jackets,0.6428571428571429,0.6666666666666666
+2021-10-29,8:00 PM,Anaheim Ducks,4,Vegas Golden Knights,5,SO,Vegas Golden Knights,Anaheim Ducks,0.42857142857142855,0.375
+2021-10-29,7:00 PM,Arizona Coyotes,0,Washington Capitals,2,,Washington Capitals,Arizona Coyotes,0.7857142857142857,0.07142857142857142
+2021-10-30,7:00 PM,Florida Panthers,2,Boston Bruins,3,SO,Boston Bruins,Florida Panthers,0.5,1.0
+2021-10-30,10:00 PM,Philadelphia Flyers,0,Calgary Flames,4,,Calgary Flames,Philadelphia Flyers,0.7857142857142857,0.75
+2021-10-30,9:00 PM,Minnesota Wild,1,Colorado Avalanche,4,,Colorado Avalanche,Minnesota Wild,0.42857142857142855,0.7142857142857143
+2021-10-30,4:00 PM,Montreal Canadiens,2,Los Angeles Kings,5,,Los Angeles Kings,Montreal Canadiens,0.21428571428571427,0.25
+2021-10-30,1:30 PM,New York Islanders,2,Nashville Predators,3,SO,Nashville Predators,New York Islanders,0.42857142857142855,0.5833333333333334
+2021-10-30,7:00 PM,New Jersey Devils,4,Pittsburgh Penguins,2,,New Jersey Devils,Pittsburgh Penguins,0.5714285714285714,0.6
+2021-10-30,7:00 PM,Winnipeg Jets,1,San Jose Sharks,2,OT,San Jose Sharks,Winnipeg Jets,0.5714285714285714,0.6428571428571429
+2021-10-30,8:00 PM,Chicago Blackhawks,0,St. Louis Blues,1,,St. Louis Blues,Chicago Blackhawks,0.8333333333333334,0.125
+2021-10-30,7:00 PM,Detroit Red Wings,4,Toronto Maple Leafs,5,,Toronto Maple Leafs,Detroit Red Wings,0.4375,0.625
+2021-10-30,10:00 PM,Edmonton Oilers,2,Vancouver Canucks,1,,Edmonton Oilers,Vancouver Canucks,0.4375,0.8333333333333334
+2021-10-31,4:00 PM,Montreal Canadiens,2,Anaheim Ducks,4,,Anaheim Ducks,Montreal Canadiens,0.3888888888888889,0.2222222222222222
+2021-10-31,1:00 PM,Arizona Coyotes,1,Carolina Hurricanes,2,,Carolina Hurricanes,Arizona Coyotes,1.0,0.0625
+2021-10-31,4:00 PM,Buffalo Sabres,2,Los Angeles Kings,3,,Los Angeles Kings,Buffalo Sabres,0.3125,0.7857142857142857
+2021-10-31,5:00 PM,Columbus Blue Jackets,4,New Jersey Devils,3,SO,Columbus Blue Jackets,New Jersey Devils,0.6666666666666666,0.5714285714285714
+2021-10-31,9:00 PM,New York Rangers,3,Seattle Kraken,1,,New York Rangers,Seattle Kraken,0.4375,0.6875
+2021-11-01,8:00 PM,Ottawa Senators,1,Chicago Blackhawks,5,,Chicago Blackhawks,Ottawa Senators,0.1111111111111111,0.42857142857142855
+2021-11-01,9:30 PM,Seattle Kraken,2,Edmonton Oilers,5,,Edmonton Oilers,Seattle Kraken,0.8571428571428571,0.3888888888888889
+2021-11-01,7:00 PM,Washington Capitals,2,Tampa Bay Lightning,3,,Tampa Bay Lightning,Washington Capitals,0.5625,0.8125
+2021-11-02,10:00 PM,New Jersey Devils,0,Anaheim Ducks,4,,Anaheim Ducks,New Jersey Devils,0.45,0.6428571428571429
+2021-11-02,9:00 PM,Nashville Predators,3,Calgary Flames,2,OT,Nashville Predators,Calgary Flames,0.8125,0.5
+2021-11-02,8:00 PM,Ottawa Senators,4,Minnesota Wild,5,OT,Minnesota Wild,Ottawa Senators,0.625,0.375
+2021-11-02,7:00 PM,Detroit Red Wings,0,Montreal Canadiens,3,,Montreal Canadiens,Detroit Red Wings,0.2,0.5555555555555556
+2021-11-02,7:00 PM,Arizona Coyotes,0,Philadelphia Flyers,3,,Philadelphia Flyers,Arizona Coyotes,0.6428571428571429,0.05555555555555555
+2021-11-02,10:30 PM,Buffalo Sabres,3,San Jose Sharks,5,,San Jose Sharks,Buffalo Sabres,0.625,0.6875
+2021-11-02,7:00 PM,Vegas Golden Knights,0,Toronto Maple Leafs,4,,Toronto Maple Leafs,Vegas Golden Knights,0.5,0.5
+2021-11-02,10:00 PM,New York Rangers,2,Vancouver Canucks,3,OT,Vancouver Canucks,New York Rangers,0.3888888888888889,0.7222222222222222
+2021-11-02,8:00 PM,Dallas Stars,3,Winnipeg Jets,4,SO,Winnipeg Jets,Dallas Stars,0.625,0.4375
+2021-11-03,8:30 PM,Carolina Hurricanes,4,Chicago Blackhawks,3,,Carolina Hurricanes,Chicago Blackhawks,0.2,1.0
+2021-11-03,9:00 PM,Columbus Blue Jackets,5,Colorado Avalanche,4,OT,Columbus Blue Jackets,Colorado Avalanche,0.5,0.625
+2021-11-03,8:30 PM,Nashville Predators,2,Edmonton Oilers,5,,Edmonton Oilers,Nashville Predators,0.875,0.5555555555555556
+2021-11-03,10:00 PM,St. Louis Blues,2,Los Angeles Kings,3,SO,Los Angeles Kings,St. Louis Blues,0.3888888888888889,0.8571428571428571
+2021-11-04,7:00 PM,Detroit Red Wings,1,Boston Bruins,5,,Boston Bruins,Detroit Red Wings,0.5714285714285714,0.5
+2021-11-04,9:00 PM,Dallas Stars,4,Calgary Flames,3,OT,Dallas Stars,Calgary Flames,0.7777777777777778,0.4444444444444444
+2021-11-04,7:00 PM,Washington Capitals,4,Florida Panthers,5,OT,Florida Panthers,Washington Capitals,0.9444444444444444,0.7222222222222222
+2021-11-04,7:00 PM,New York Islanders,6,Montreal Canadiens,2,,New York Islanders,Montreal Canadiens,0.2727272727272727,0.5714285714285714
+2021-11-04,7:00 PM,Vegas Golden Knights,5,Ottawa Senators,1,,Vegas Golden Knights,Ottawa Senators,0.3888888888888889,0.4444444444444444
+2021-11-04,7:00 PM,Philadelphia Flyers,2,Pittsburgh Penguins,3,OT,Pittsburgh Penguins,Philadelphia Flyers,0.5,0.6875
+2021-11-04,10:00 PM,Buffalo Sabres,2,Seattle Kraken,5,,Seattle Kraken,Buffalo Sabres,0.35,0.6111111111111112
+2021-11-04,10:30 PM,St. Louis Blues,5,San Jose Sharks,3,,St. Louis Blues,San Jose Sharks,0.6666666666666666,0.8125
+2021-11-04,7:00 PM,Tampa Bay Lightning,1,Toronto Maple Leafs,2,OT,Toronto Maple Leafs,Tampa Bay Lightning,0.55,0.6111111111111112
+2021-11-05,10:00 PM,Arizona Coyotes,1,Anaheim Ducks,3,,Anaheim Ducks,Arizona Coyotes,0.5,0.05
+2021-11-05,9:30 PM,New York Rangers,5,Edmonton Oilers,6,OT,Edmonton Oilers,New York Rangers,0.8888888888888888,0.7
+2021-11-05,10:30 PM,New Jersey Devils,2,Los Angeles Kings,3,OT,Los Angeles Kings,New Jersey Devils,0.45,0.5625
+2021-11-05,10:00 PM,Nashville Predators,3,Vancouver Canucks,2,,Nashville Predators,Vancouver Canucks,0.45,0.5
+2021-11-05,8:00 PM,Chicago Blackhawks,1,Winnipeg Jets,5,,Winnipeg Jets,Chicago Blackhawks,0.6666666666666666,0.18181818181818182
+2021-11-06,10:00 PM,Seattle Kraken,4,Arizona Coyotes,5,,Arizona Coyotes,Seattle Kraken,0.045454545454545456,0.4090909090909091
+2021-11-06,7:00 PM,Detroit Red Wings,4,Buffalo Sabres,3,OT,Detroit Red Wings,Buffalo Sabres,0.55,0.45454545454545453
+2021-11-06,7:00 PM,Colorado Avalanche,2,Columbus Blue Jackets,4,,Columbus Blue Jackets,Colorado Avalanche,0.6666666666666666,0.5
+2021-11-06,10:00 PM,New York Rangers,0,Calgary Flames,6,,Calgary Flames,New York Rangers,0.75,0.6818181818181818
+2021-11-06,6:00 PM,Carolina Hurricanes,2,Florida Panthers,5,,Florida Panthers,Carolina Hurricanes,0.95,1.0
+2021-11-06,7:00 PM,Vegas Golden Knights,5,Montreal Canadiens,2,,Vegas Golden Knights,Montreal Canadiens,0.25,0.5
+2021-11-06,2:00 PM,Tampa Bay Lightning,5,Ottawa Senators,3,,Tampa Bay Lightning,Ottawa Senators,0.35,0.6
+2021-11-06,7:00 PM,Minnesota Wild,5,Pittsburgh Penguins,4,SO,Minnesota Wild,Pittsburgh Penguins,0.5555555555555556,0.6666666666666666
+2021-11-06,10:30 PM,New Jersey Devils,3,San Jose Sharks,2,SO,New Jersey Devils,San Jose Sharks,0.6,0.5555555555555556
+2021-11-06,7:00 PM,Boston Bruins,2,Toronto Maple Leafs,5,,Toronto Maple Leafs,Boston Bruins,0.5909090909090909,0.625
+2021-11-06,7:00 PM,New York Islanders,2,Winnipeg Jets,0,,New York Islanders,Winnipeg Jets,0.7,0.625
+2021-11-06,7:00 PM,Philadelphia Flyers,2,Washington Capitals,1,,Philadelphia Flyers,Washington Capitals,0.7,0.6666666666666666
+2021-11-07,8:00 PM,St. Louis Blues,1,Anaheim Ducks,4,,Anaheim Ducks,St. Louis Blues,0.5416666666666666,0.8333333333333334
+2021-11-07,7:00 PM,Nashville Predators,1,Chicago Blackhawks,2,OT,Chicago Blackhawks,Nashville Predators,0.16666666666666666,0.5454545454545454
+2021-11-07,6:00 PM,Vegas Golden Knights,2,Detroit Red Wings,5,,Detroit Red Wings,Vegas Golden Knights,0.5,0.5454545454545454
+2021-11-07,8:00 PM,New York Islanders,2,Minnesota Wild,5,,Minnesota Wild,New York Islanders,0.7,0.6666666666666666
+2021-11-07,10:00 PM,Dallas Stars,3,Vancouver Canucks,6,,Vancouver Canucks,Dallas Stars,0.4090909090909091,0.5
+2021-11-08,7:00 PM,Florida Panthers,3,New York Rangers,4,,New York Rangers,Florida Panthers,0.625,0.9545454545454546
+2021-11-08,7:30 PM,Los Angeles Kings,5,Toronto Maple Leafs,1,,Los Angeles Kings,Toronto Maple Leafs,0.625,0.5
+2021-11-08,7:00 PM,Buffalo Sabres,3,Washington Capitals,5,,Washington Capitals,Buffalo Sabres,0.6363636363636364,0.5454545454545454
+2021-11-09,7:00 PM,Ottawa Senators,2,Boston Bruins,3,,Boston Bruins,Ottawa Senators,0.5555555555555556,0.3181818181818182
+2021-11-09,9:00 PM,San Jose Sharks,4,Calgary Flames,1,,San Jose Sharks,Calgary Flames,0.7727272727272727,0.5909090909090909
+2021-11-09,8:30 PM,Pittsburgh Penguins,2,Chicago Blackhawks,3,SO,Chicago Blackhawks,Pittsburgh Penguins,0.23076923076923078,0.55
+2021-11-09,7:30 PM,Edmonton Oilers,2,Detroit Red Wings,4,,Detroit Red Wings,Edmonton Oilers,0.5384615384615384,0.9
+2021-11-09,7:00 PM,Los Angeles Kings,3,Montreal Canadiens,2,OT,Los Angeles Kings,Montreal Canadiens,0.23076923076923078,0.5416666666666666
+2021-11-09,7:00 PM,Florida Panthers,3,New Jersey Devils,7,,New Jersey Devils,Florida Panthers,0.6,0.875
+2021-11-09,7:00 PM,Carolina Hurricanes,2,Tampa Bay Lightning,1,OT,Carolina Hurricanes,Tampa Bay Lightning,0.6363636363636364,0.9
+2021-11-09,10:00 PM,Anaheim Ducks,3,Vancouver Canucks,2,OT,Anaheim Ducks,Vancouver Canucks,0.4583333333333333,0.5769230769230769
+2021-11-09,10:00 PM,Seattle Kraken,2,Vegas Golden Knights,4,,Vegas Golden Knights,Seattle Kraken,0.5,0.375
+2021-11-09,8:00 PM,St. Louis Blues,3,Winnipeg Jets,2,SO,St. Louis Blues,Winnipeg Jets,0.6363636363636364,0.75
+2021-11-10,10:00 PM,Minnesota Wild,5,Arizona Coyotes,2,,Minnesota Wild,Arizona Coyotes,0.125,0.7272727272727273
+2021-11-10,8:30 PM,Nashville Predators,4,Dallas Stars,2,,Nashville Predators,Dallas Stars,0.45454545454545453,0.5416666666666666
+2021-11-10,7:30 PM,Toronto Maple Leafs,3,Philadelphia Flyers,0,,Toronto Maple Leafs,Philadelphia Flyers,0.7,0.5769230769230769
+2021-11-11,7:00 PM,Edmonton Oilers,5,Boston Bruins,3,,Edmonton Oilers,Boston Bruins,0.6,0.8181818181818182
+2021-11-11,9:00 PM,Vancouver Canucks,1,Colorado Avalanche,7,,Colorado Avalanche,Vancouver Canucks,0.45,0.46153846153846156
+2021-11-11,7:30 PM,Washington Capitals,2,Detroit Red Wings,0,,Washington Capitals,Detroit Red Wings,0.5714285714285714,0.6666666666666666
+2021-11-11,7:00 PM,Calgary Flames,2,Montreal Canadiens,4,,Montreal Canadiens,Calgary Flames,0.25,0.7083333333333334
+2021-11-11,7:00 PM,New York Islanders,0,New Jersey Devils,4,,New Jersey Devils,New York Islanders,0.6363636363636364,0.6
+2021-11-11,7:00 PM,Los Angeles Kings,2,Ottawa Senators,0,,Los Angeles Kings,Ottawa Senators,0.2916666666666667,0.5769230769230769
+2021-11-11,7:00 PM,Florida Panthers,2,Pittsburgh Penguins,3,SO,Pittsburgh Penguins,Florida Panthers,0.5454545454545454,0.8076923076923077
+2021-11-11,10:00 PM,Anaheim Ducks,7,Seattle Kraken,4,,Anaheim Ducks,Seattle Kraken,0.34615384615384615,0.6071428571428571
+2021-11-11,8:00 PM,Nashville Predators,4,St. Louis Blues,3,OT,Nashville Predators,St. Louis Blues,0.7727272727272727,0.5769230769230769
+2021-11-11,10:00 PM,Minnesota Wild,2,Vegas Golden Knights,3,,Vegas Golden Knights,Minnesota Wild,0.5384615384615384,0.75
+2021-11-11,8:00 PM,San Jose Sharks,1,Winnipeg Jets,4,,Winnipeg Jets,San Jose Sharks,0.625,0.625
+2021-11-12,7:00 PM,Edmonton Oilers,2,Buffalo Sabres,3,,Buffalo Sabres,Edmonton Oilers,0.5,0.8333333333333334
+2021-11-12,7:00 PM,Philadelphia Flyers,2,Carolina Hurricanes,1,,Philadelphia Flyers,Carolina Hurricanes,0.9090909090909091,0.6363636363636364
+2021-11-12,7:00 PM,Washington Capitals,4,Columbus Blue Jackets,3,,Washington Capitals,Columbus Blue Jackets,0.7,0.6923076923076923
+2021-11-12,8:30 PM,Arizona Coyotes,1,Chicago Blackhawks,2,,Chicago Blackhawks,Arizona Coyotes,0.2857142857142857,0.11538461538461539
+2021-11-12,7:00 PM,Calgary Flames,1,Toronto Maple Leafs,2,OT,Toronto Maple Leafs,Calgary Flames,0.6071428571428571,0.6538461538461539
+2021-11-13,7:00 PM,Toronto Maple Leafs,5,Buffalo Sabres,4,,Toronto Maple Leafs,Buffalo Sabres,0.5384615384615384,0.6333333333333333
+2021-11-13,7:30 PM,St. Louis Blues,2,Carolina Hurricanes,3,,Carolina Hurricanes,St. Louis Blues,0.8333333333333334,0.75
+2021-11-13,7:00 PM,New York Rangers,5,Columbus Blue Jackets,3,,New York Rangers,Columbus Blue Jackets,0.6363636363636364,0.6538461538461539
+2021-11-13,9:00 PM,San Jose Sharks,2,Colorado Avalanche,6,,Colorado Avalanche,San Jose Sharks,0.5,0.5769230769230769
+2021-11-13,8:00 PM,Philadelphia Flyers,2,Dallas Stars,5,,Dallas Stars,Philadelphia Flyers,0.4166666666666667,0.6666666666666666
+2021-11-13,7:00 PM,Montreal Canadiens,2,Detroit Red Wings,3,OT,Detroit Red Wings,Montreal Canadiens,0.5333333333333333,0.3
+2021-11-13,1:00 PM,Boston Bruins,5,New Jersey Devils,2,,Boston Bruins,New Jersey Devils,0.6666666666666666,0.5454545454545454
+2021-11-13,8:00 PM,Arizona Coyotes,1,Nashville Predators,4,,Nashville Predators,Arizona Coyotes,0.6071428571428571,0.10714285714285714
+2021-11-13,7:00 PM,Pittsburgh Penguins,3,Ottawa Senators,6,,Ottawa Senators,Pittsburgh Penguins,0.2692307692307692,0.5833333333333334
+2021-11-13,10:00 PM,Minnesota Wild,4,Seattle Kraken,2,,Minnesota Wild,Seattle Kraken,0.32142857142857145,0.6923076923076923
+2021-11-13,7:00 PM,Florida Panthers,2,Tampa Bay Lightning,3,OT,Tampa Bay Lightning,Florida Panthers,0.625,0.7857142857142857
+2021-11-13,10:00 PM,Vancouver Canucks,4,Vegas Golden Knights,7,,Vegas Golden Knights,Vancouver Canucks,0.5714285714285714,0.42857142857142855
+2021-11-13,7:00 PM,Los Angeles Kings,2,Winnipeg Jets,3,OT,Winnipeg Jets,Los Angeles Kings,0.6538461538461539,0.6071428571428571
+2021-11-14,8:00 PM,Vancouver Canucks,1,Anaheim Ducks,5,,Anaheim Ducks,Vancouver Canucks,0.6333333333333333,0.4
+2021-11-14,7:00 PM,Montreal Canadiens,2,Boston Bruins,5,,Boston Bruins,Montreal Canadiens,0.5833333333333334,0.3125
+2021-11-14,7:00 PM,New Jersey Devils,3,New York Rangers,4,SO,New York Rangers,New Jersey Devils,0.6785714285714286,0.6153846153846154
+2021-11-14,5:00 PM,Calgary Flames,4,Ottawa Senators,0,,Calgary Flames,Ottawa Senators,0.32142857142857145,0.6428571428571429
+2021-11-14,7:00 PM,Edmonton Oilers,5,St. Louis Blues,4,,Edmonton Oilers,St. Louis Blues,0.6923076923076923,0.7692307692307693
+2021-11-14,7:00 PM,Pittsburgh Penguins,1,Washington Capitals,6,,Washington Capitals,Pittsburgh Penguins,0.7142857142857143,0.5384615384615384
+2021-11-15,7:00 PM,Detroit Red Wings,3,Columbus Blue Jackets,5,,Columbus Blue Jackets,Detroit Red Wings,0.5833333333333334,0.5625
+2021-11-15,7:00 PM,New York Islanders,1,Tampa Bay Lightning,4,,Tampa Bay Lightning,New York Islanders,0.6538461538461539,0.5454545454545454
+2021-11-16,10:00 PM,Washington Capitals,2,Anaheim Ducks,3,OT,Anaheim Ducks,Washington Capitals,0.65625,0.7333333333333333
+2021-11-16,8:30 PM,Detroit Red Wings,2,Dallas Stars,5,,Dallas Stars,Detroit Red Wings,0.46153846153846156,0.5294117647058824
+2021-11-16,7:00 PM,New York Islanders,1,Florida Panthers,6,,Florida Panthers,New York Islanders,0.7666666666666667,0.5
+2021-11-16,8:00 PM,San Jose Sharks,4,Minnesota Wild,1,,San Jose Sharks,Minnesota Wild,0.7142857142857143,0.5357142857142857
+2021-11-16,7:00 PM,Montreal Canadiens,2,New York Rangers,3,,New York Rangers,Montreal Canadiens,0.7,0.29411764705882354
+2021-11-16,7:00 PM,Calgary Flames,1,Philadelphia Flyers,2,OT,Philadelphia Flyers,Calgary Flames,0.6153846153846154,0.6666666666666666
+2021-11-16,7:00 PM,Buffalo Sabres,2,Pittsburgh Penguins,1,,Buffalo Sabres,Pittsburgh Penguins,0.5,0.5
+2021-11-16,8:00 PM,Arizona Coyotes,3,St. Louis Blues,2,,Arizona Coyotes,St. Louis Blues,0.6428571428571429,0.1
+2021-11-16,7:00 PM,Nashville Predators,0,Toronto Maple Leafs,3,,Toronto Maple Leafs,Nashville Predators,0.65625,0.6333333333333333
+2021-11-16,10:00 PM,Carolina Hurricanes,4,Vegas Golden Knights,2,,Carolina Hurricanes,Vegas Golden Knights,0.6,0.8461538461538461
+2021-11-16,8:00 PM,Edmonton Oilers,2,Winnipeg Jets,5,,Winnipeg Jets,Edmonton Oilers,0.6785714285714286,0.7857142857142857
+2021-11-17,10:30 PM,Washington Capitals,2,Los Angeles Kings,0,,Washington Capitals,Los Angeles Kings,0.6,0.71875
+2021-11-17,10:00 PM,Chicago Blackhawks,4,Seattle Kraken,2,,Chicago Blackhawks,Seattle Kraken,0.3,0.3333333333333333
+2021-11-17,9:00 PM,Colorado Avalanche,4,Vancouver Canucks,2,,Colorado Avalanche,Vancouver Canucks,0.375,0.5416666666666666
+2021-11-18,10:00 PM,Carolina Hurricanes,2,Anaheim Ducks,1,,Carolina Hurricanes,Anaheim Ducks,0.6764705882352942,0.8571428571428571
+2021-11-18,9:00 PM,Columbus Blue Jackets,5,Arizona Coyotes,4,SO,Columbus Blue Jackets,Arizona Coyotes,0.15625,0.6153846153846154
+2021-11-18,7:00 PM,Calgary Flames,5,Buffalo Sabres,0,,Calgary Flames,Buffalo Sabres,0.5333333333333333,0.65625
+2021-11-18,9:00 PM,Winnipeg Jets,1,Edmonton Oilers,2,SO,Edmonton Oilers,Winnipeg Jets,0.7333333333333333,0.7
+2021-11-18,7:00 PM,New Jersey Devils,1,Florida Panthers,4,,Florida Panthers,New Jersey Devils,0.78125,0.6071428571428571
+2021-11-18,8:00 PM,Dallas Stars,2,Minnesota Wild,7,,Minnesota Wild,Dallas Stars,0.6666666666666666,0.5
+2021-11-18,7:00 PM,Pittsburgh Penguins,6,Montreal Canadiens,0,,Pittsburgh Penguins,Montreal Canadiens,0.2777777777777778,0.4666666666666667
+2021-11-18,7:00 PM,Tampa Bay Lightning,4,Philadelphia Flyers,3,SO,Tampa Bay Lightning,Philadelphia Flyers,0.6428571428571429,0.6785714285714286
+2021-11-18,8:00 PM,San Jose Sharks,1,St. Louis Blues,4,,St. Louis Blues,San Jose Sharks,0.6,0.5666666666666667
+2021-11-18,7:00 PM,New York Rangers,1,Toronto Maple Leafs,2,,Toronto Maple Leafs,New York Rangers,0.6764705882352942,0.71875
+2021-11-18,10:00 PM,Detroit Red Wings,2,Vegas Golden Knights,5,,Vegas Golden Knights,Detroit Red Wings,0.5625,0.5
+2021-11-19,10:00 PM,Colorado Avalanche,7,Seattle Kraken,3,,Colorado Avalanche,Seattle Kraken,0.28125,0.5769230769230769
+2021-11-19,10:00 PM,Winnipeg Jets,2,Vancouver Canucks,3,,Vancouver Canucks,Winnipeg Jets,0.35294117647058826,0.6875
+2021-11-20,8:00 PM,Detroit Red Wings,1,Arizona Coyotes,2,OT,Arizona Coyotes,Detroit Red Wings,0.17647058823529413,0.47368421052631576
+2021-11-20,8:00 PM,St. Louis Blues,1,Dallas Stars,4,,Dallas Stars,St. Louis Blues,0.4666666666666667,0.625
+2021-11-20,10:00 PM,Chicago Blackhawks,2,Edmonton Oilers,5,,Edmonton Oilers,Chicago Blackhawks,0.75,0.375
+2021-11-20,6:00 PM,Minnesota Wild,4,Florida Panthers,5,,Florida Panthers,Minnesota Wild,0.7941176470588235,0.6875
+2021-11-20,4:00 PM,Carolina Hurricanes,5,Los Angeles Kings,4,,Carolina Hurricanes,Los Angeles Kings,0.5625,0.8666666666666667
+2021-11-20,7:00 PM,Nashville Predators,3,Montreal Canadiens,6,,Montreal Canadiens,Nashville Predators,0.2631578947368421,0.59375
+2021-11-20,7:00 PM,Calgary Flames,5,New York Islanders,2,,Calgary Flames,New York Islanders,0.46153846153846156,0.6764705882352942
+2021-11-20,7:00 PM,Boston Bruins,5,Philadelphia Flyers,2,,Boston Bruins,Philadelphia Flyers,0.6333333333333333,0.6153846153846154
+2021-11-20,10:30 PM,Washington Capitals,4,San Jose Sharks,0,,Washington Capitals,San Jose Sharks,0.53125,0.7352941176470589
+2021-11-20,4:00 PM,New Jersey Devils,5,Tampa Bay Lightning,3,,New Jersey Devils,Tampa Bay Lightning,0.7,0.5666666666666667
+2021-11-20,7:00 PM,Pittsburgh Penguins,2,Toronto Maple Leafs,0,,Pittsburgh Penguins,Toronto Maple Leafs,0.6944444444444444,0.5
+2021-11-20,10:00 PM,Columbus Blue Jackets,2,Vegas Golden Knights,3,,Vegas Golden Knights,Columbus Blue Jackets,0.5882352941176471,0.6428571428571429
+2021-11-21,7:00 PM,Calgary Flames,4,Boston Bruins,0,,Calgary Flames,Boston Bruins,0.6428571428571429,0.6944444444444444
+2021-11-21,10:00 PM,Arizona Coyotes,2,Los Angeles Kings,1,OT,Arizona Coyotes,Los Angeles Kings,0.5294117647058824,0.2222222222222222
+2021-11-21,7:30 PM,Toronto Maple Leafs,3,New York Islanders,0,,Toronto Maple Leafs,New York Islanders,0.42857142857142855,0.6578947368421053
+2021-11-21,6:00 PM,Buffalo Sabres,4,New York Rangers,5,,New York Rangers,Buffalo Sabres,0.6764705882352942,0.5
+2021-11-21,9:00 PM,Washington Capitals,2,Seattle Kraken,5,,Seattle Kraken,Washington Capitals,0.2647058823529412,0.75
+2021-11-21,5:00 PM,Minnesota Wild,4,Tampa Bay Lightning,5,SO,Tampa Bay Lightning,Minnesota Wild,0.65625,0.6470588235294118
+2021-11-21,8:00 PM,Chicago Blackhawks,1,Vancouver Canucks,0,,Chicago Blackhawks,Vancouver Canucks,0.3888888888888889,0.35294117647058826
+2021-11-22,7:00 PM,Columbus Blue Jackets,7,Buffalo Sabres,4,,Columbus Blue Jackets,Buffalo Sabres,0.47058823529411764,0.6
+2021-11-22,8:30 PM,Ottawa Senators,5,Colorado Avalanche,7,,Colorado Avalanche,Ottawa Senators,0.6071428571428571,0.3
+2021-11-22,8:00 PM,Anaheim Ducks,2,Nashville Predators,3,,Nashville Predators,Anaheim Ducks,0.5588235294117647,0.6388888888888888
+2021-11-22,10:30 PM,Carolina Hurricanes,1,San Jose Sharks,2,OT,San Jose Sharks,Carolina Hurricanes,0.5,0.875
+2021-11-22,8:00 PM,Vegas Golden Knights,2,St. Louis Blues,5,,St. Louis Blues,Vegas Golden Knights,0.5882352941176471,0.6111111111111112
+2021-11-22,8:30 PM,Pittsburgh Penguins,3,Winnipeg Jets,1,,Pittsburgh Penguins,Winnipeg Jets,0.6470588235294118,0.5294117647058824
+2021-11-23,9:00 PM,Chicago Blackhawks,2,Calgary Flames,5,,Calgary Flames,Chicago Blackhawks,0.7105263157894737,0.3888888888888889
+2021-11-23,8:30 PM,Edmonton Oilers,1,Dallas Stars,4,,Dallas Stars,Edmonton Oilers,0.5,0.7647058823529411
+2021-11-23,7:00 PM,Philadelphia Flyers,0,Tampa Bay Lightning,4,,Tampa Bay Lightning,Philadelphia Flyers,0.6764705882352942,0.59375
+2021-11-24,10:00 PM,Edmonton Oilers,5,Arizona Coyotes,3,,Edmonton Oilers,Arizona Coyotes,0.2631578947368421,0.7222222222222222
+2021-11-24,7:00 PM,Boston Bruins,5,Buffalo Sabres,1,,Boston Bruins,Buffalo Sabres,0.4444444444444444,0.6
+2021-11-24,7:00 PM,Winnipeg Jets,0,Columbus Blue Jackets,3,,Columbus Blue Jackets,Winnipeg Jets,0.625,0.6111111111111112
+2021-11-24,9:00 PM,Anaheim Ducks,2,Colorado Avalanche,5,,Colorado Avalanche,Anaheim Ducks,0.6333333333333333,0.6052631578947368
+2021-11-24,7:30 PM,St. Louis Blues,2,Detroit Red Wings,4,,Detroit Red Wings,St. Louis Blues,0.475,0.6111111111111112
+2021-11-24,7:00 PM,Philadelphia Flyers,1,Florida Panthers,2,OT,Florida Panthers,Philadelphia Flyers,0.8055555555555556,0.5588235294117647
+2021-11-24,10:00 PM,Toronto Maple Leafs,6,Los Angeles Kings,2,,Toronto Maple Leafs,Los Angeles Kings,0.5277777777777778,0.675
+2021-11-24,7:00 PM,Minnesota Wild,3,New Jersey Devils,2,SO,Minnesota Wild,New Jersey Devils,0.59375,0.6388888888888888
+2021-11-24,8:00 PM,Vegas Golden Knights,5,Nashville Predators,2,,Vegas Golden Knights,Nashville Predators,0.5833333333333334,0.5789473684210527
+2021-11-24,7:30 PM,New York Rangers,4,New York Islanders,1,,New York Rangers,New York Islanders,0.4,0.6944444444444444
+2021-11-24,7:00 PM,Vancouver Canucks,1,Pittsburgh Penguins,4,,Pittsburgh Penguins,Vancouver Canucks,0.5555555555555556,0.3684210526315789
+2021-11-24,10:00 PM,Carolina Hurricanes,1,Seattle Kraken,2,,Seattle Kraken,Carolina Hurricanes,0.3055555555555556,0.8529411764705882
+2021-11-24,10:30 PM,Ottawa Senators,3,San Jose Sharks,6,,San Jose Sharks,Ottawa Senators,0.5277777777777778,0.28125
+2021-11-24,7:00 PM,Montreal Canadiens,3,Washington Capitals,6,,Washington Capitals,Montreal Canadiens,0.7105263157894737,0.3
+2021-11-26,4:00 PM,Ottawa Senators,0,Anaheim Ducks,4,,Anaheim Ducks,Ottawa Senators,0.575,0.2647058823529412
+2021-11-26,1:00 PM,New York Rangers,5,Boston Bruins,2,,New York Rangers,Boston Bruins,0.625,0.7105263157894737
+2021-11-26,7:00 PM,Montreal Canadiens,1,Buffalo Sabres,4,,Buffalo Sabres,Montreal Canadiens,0.42105263157894735,0.2857142857142857
+2021-11-26,7:00 PM,Vancouver Canucks,2,Columbus Blue Jackets,4,,Columbus Blue Jackets,Vancouver Canucks,0.6470588235294118,0.35
+2021-11-26,3:30 PM,St. Louis Blues,2,Chicago Blackhawks,3,OT,Chicago Blackhawks,St. Louis Blues,0.3684210526315789,0.5789473684210527
+2021-11-26,7:30 PM,Colorado Avalanche,1,Dallas Stars,3,,Dallas Stars,Colorado Avalanche,0.5294117647058824,0.65625
+2021-11-26,3:30 PM,Winnipeg Jets,1,Minnesota Wild,7,,Minnesota Wild,Winnipeg Jets,0.6578947368421053,0.5789473684210527
+2021-11-26,6:00 PM,New Jersey Devils,2,Nashville Predators,4,,Nashville Predators,New Jersey Devils,0.5526315789473685,0.5882352941176471
+2021-11-26,7:30 PM,Pittsburgh Penguins,1,New York Islanders,0,,Pittsburgh Penguins,New York Islanders,0.375,0.5789473684210527
+2021-11-26,3:30 PM,Carolina Hurricanes,6,Philadelphia Flyers,3,,Carolina Hurricanes,Philadelphia Flyers,0.5555555555555556,0.8055555555555556
+2021-11-26,10:30 PM,Toronto Maple Leafs,4,San Jose Sharks,1,,Toronto Maple Leafs,San Jose Sharks,0.5526315789473685,0.6904761904761905
+2021-11-26,7:00 PM,Seattle Kraken,0,Tampa Bay Lightning,3,,Tampa Bay Lightning,Seattle Kraken,0.6944444444444444,0.34210526315789475
+2021-11-26,5:00 PM,Florida Panthers,3,Washington Capitals,4,,Washington Capitals,Florida Panthers,0.725,0.8157894736842105
+2021-11-27,8:00 PM,Dallas Stars,3,Arizona Coyotes,2,,Dallas Stars,Arizona Coyotes,0.25,0.5555555555555556
+2021-11-27,10:00 PM,Winnipeg Jets,4,Calgary Flames,2,,Winnipeg Jets,Calgary Flames,0.725,0.55
+2021-11-27,9:00 PM,Nashville Predators,2,Colorado Avalanche,6,,Colorado Avalanche,Nashville Predators,0.6176470588235294,0.575
+2021-11-27,7:00 PM,Buffalo Sabres,2,Detroit Red Wings,3,OT,Detroit Red Wings,Buffalo Sabres,0.5,0.45
+2021-11-27,6:00 PM,Seattle Kraken,4,Florida Panthers,1,,Seattle Kraken,Florida Panthers,0.775,0.325
+2021-11-27,7:00 PM,Ottawa Senators,2,Los Angeles Kings,4,,Los Angeles Kings,Ottawa Senators,0.5,0.25
+2021-11-27,7:00 PM,Montreal Canadiens,6,Pittsburgh Penguins,3,,Montreal Canadiens,Pittsburgh Penguins,0.6,0.2727272727272727
+2021-11-27,8:00 PM,Columbus Blue Jackets,3,St. Louis Blues,6,,St. Louis Blues,Columbus Blue Jackets,0.575,0.6666666666666666
+2021-11-27,7:00 PM,Edmonton Oilers,3,Vegas Golden Knights,2,,Edmonton Oilers,Vegas Golden Knights,0.6,0.7368421052631579
+2021-11-28,8:00 PM,Toronto Maple Leafs,5,Anaheim Ducks,1,,Toronto Maple Leafs,Anaheim Ducks,0.5952380952380952,0.7045454545454546
+2021-11-28,7:00 PM,Vancouver Canucks,2,Boston Bruins,3,,Boston Bruins,Vancouver Canucks,0.5882352941176471,0.3333333333333333
+2021-11-28,1:00 PM,Washington Capitals,4,Carolina Hurricanes,2,,Washington Capitals,Carolina Hurricanes,0.8157894736842105,0.7380952380952381
+2021-11-28,7:00 PM,San Jose Sharks,2,Chicago Blackhawks,0,,San Jose Sharks,Chicago Blackhawks,0.4,0.525
+2021-11-28,2:00 PM,Tampa Bay Lightning,2,Minnesota Wild,4,,Minnesota Wild,Tampa Bay Lightning,0.675,0.7105263157894737
+2021-11-28,7:00 PM,Philadelphia Flyers,2,New Jersey Devils,5,,New Jersey Devils,Philadelphia Flyers,0.5555555555555556,0.5263157894736842
+2021-11-29,7:00 PM,Seattle Kraken,7,Buffalo Sabres,4,,Seattle Kraken,Buffalo Sabres,0.4523809523809524,0.35714285714285715
+2021-11-29,9:00 PM,Pittsburgh Penguins,1,Calgary Flames,2,SO,Calgary Flames,Pittsburgh Penguins,0.6904761904761905,0.5714285714285714
+2021-11-29,7:30 PM,Vancouver Canucks,2,Montreal Canadiens,1,,Vancouver Canucks,Montreal Canadiens,0.30434782608695654,0.3181818181818182
+2021-11-29,7:30 PM,Arizona Coyotes,1,Winnipeg Jets,0,,Arizona Coyotes,Winnipeg Jets,0.5714285714285714,0.23809523809523808
+2021-11-30,7:00 PM,Detroit Red Wings,2,Boston Bruins,1,,Detroit Red Wings,Boston Bruins,0.6111111111111112,0.5227272727272727
+2021-11-30,8:30 PM,Carolina Hurricanes,1,Dallas Stars,4,,Dallas Stars,Carolina Hurricanes,0.5789473684210527,0.775
+2021-11-30,7:00 PM,Washington Capitals,4,Florida Panthers,5,,Florida Panthers,Washington Capitals,0.7380952380952381,0.75
+2021-11-30,10:30 PM,Anaheim Ducks,5,Los Angeles Kings,4,SO,Anaheim Ducks,Los Angeles Kings,0.525,0.5681818181818182
+2021-11-30,8:00 PM,Arizona Coyotes,2,Minnesota Wild,5,,Minnesota Wild,Arizona Coyotes,0.6904761904761905,0.2727272727272727
+2021-11-30,7:00 PM,San Jose Sharks,5,New Jersey Devils,2,,San Jose Sharks,New Jersey Devils,0.5789473684210527,0.5476190476190477
+2021-11-30,8:00 PM,Columbus Blue Jackets,0,Nashville Predators,6,,Nashville Predators,Columbus Blue Jackets,0.5476190476190477,0.631578947368421
+2021-11-30,8:00 PM,Tampa Bay Lightning,3,St. Louis Blues,4,SO,St. Louis Blues,Tampa Bay Lightning,0.5952380952380952,0.675
+2021-12-01,10:00 PM,Vegas Golden Knights,5,Anaheim Ducks,6,,Anaheim Ducks,Vegas Golden Knights,0.5869565217391305,0.5714285714285714
+2021-12-01,7:30 PM,Seattle Kraken,3,Detroit Red Wings,4,SO,Detroit Red Wings,Seattle Kraken,0.5434782608695652,0.38636363636363635
+2021-12-01,10:00 PM,Pittsburgh Penguins,2,Edmonton Oilers,5,,Edmonton Oilers,Pittsburgh Penguins,0.75,0.5681818181818182
+2021-12-01,7:00 PM,Philadelphia Flyers,1,New York Rangers,4,,New York Rangers,Philadelphia Flyers,0.725,0.5
+2021-12-01,7:30 PM,Vancouver Canucks,6,Ottawa Senators,2,,Vancouver Canucks,Ottawa Senators,0.23684210526315788,0.34782608695652173
+2021-12-01,7:30 PM,Colorado Avalanche,3,Toronto Maple Leafs,8,,Toronto Maple Leafs,Colorado Avalanche,0.717391304347826,0.6388888888888888
+2021-12-02,7:00 PM,Ottawa Senators,3,Carolina Hurricanes,2,,Ottawa Senators,Carolina Hurricanes,0.7380952380952381,0.225
+2021-12-02,8:30 PM,Columbus Blue Jackets,2,Dallas Stars,3,,Dallas Stars,Columbus Blue Jackets,0.6,0.6
+2021-12-02,7:00 PM,Buffalo Sabres,4,Florida Panthers,7,,Florida Panthers,Buffalo Sabres,0.75,0.4318181818181818
+2021-12-02,10:30 PM,Calgary Flames,3,Los Angeles Kings,2,,Calgary Flames,Los Angeles Kings,0.5238095238095238,0.7045454545454546
+2021-12-02,8:00 PM,New Jersey Devils,2,Minnesota Wild,5,,Minnesota Wild,New Jersey Devils,0.7045454545454546,0.55
+2021-12-02,7:00 PM,Colorado Avalanche,4,Montreal Canadiens,1,,Colorado Avalanche,Montreal Canadiens,0.2916666666666667,0.6052631578947368
+2021-12-02,8:00 PM,Boston Bruins,2,Nashville Predators,0,,Boston Bruins,Nashville Predators,0.5681818181818182,0.5789473684210527
+2021-12-02,7:30 PM,San Jose Sharks,2,New York Islanders,1,OT,San Jose Sharks,New York Islanders,0.35294117647058826,0.5681818181818182
+2021-12-02,7:00 PM,St. Louis Blues,2,Tampa Bay Lightning,4,,Tampa Bay Lightning,St. Louis Blues,0.6666666666666666,0.6136363636363636
+2021-12-02,7:00 PM,Chicago Blackhawks,4,Washington Capitals,3,SO,Chicago Blackhawks,Washington Capitals,0.717391304347826,0.38095238095238093
+2021-12-03,10:00 PM,Calgary Flames,4,Anaheim Ducks,3,SO,Calgary Flames,Anaheim Ducks,0.6041666666666666,0.717391304347826
+2021-12-03,9:30 PM,Vegas Golden Knights,7,Arizona Coyotes,1,,Vegas Golden Knights,Arizona Coyotes,0.2608695652173913,0.5454545454545454
+2021-12-03,7:00 PM,San Jose Sharks,0,New York Rangers,1,,New York Rangers,San Jose Sharks,0.7380952380952381,0.5869565217391305
+2021-12-03,10:00 PM,Edmonton Oilers,3,Seattle Kraken,4,,Seattle Kraken,Edmonton Oilers,0.391304347826087,0.7619047619047619
+2021-12-03,8:00 PM,New Jersey Devils,4,Winnipeg Jets,8,,Winnipeg Jets,New Jersey Devils,0.5454545454545454,0.5238095238095238
+2021-12-04,7:00 PM,Tampa Bay Lightning,3,Boston Bruins,2,OT,Tampa Bay Lightning,Boston Bruins,0.6,0.6818181818181818
+2021-12-04,7:30 PM,Buffalo Sabres,2,Carolina Hurricanes,6,,Carolina Hurricanes,Buffalo Sabres,0.7045454545454546,0.41304347826086957
+2021-12-04,7:00 PM,New York Islanders,3,Detroit Red Wings,4,OT,Detroit Red Wings,New York Islanders,0.5625,0.3611111111111111
+2021-12-04,1:00 PM,St. Louis Blues,3,Florida Panthers,4,SO,Florida Panthers,St. Louis Blues,0.7608695652173914,0.5869565217391305
+2021-12-04,7:00 PM,Toronto Maple Leafs,3,Minnesota Wild,4,SO,Minnesota Wild,Toronto Maple Leafs,0.717391304347826,0.7291666666666666
+2021-12-04,7:00 PM,Montreal Canadiens,3,Nashville Predators,4,OT,Nashville Predators,Montreal Canadiens,0.5434782608695652,0.28
+2021-12-04,8:00 PM,Chicago Blackhawks,2,New York Rangers,3,,New York Rangers,Chicago Blackhawks,0.75,0.4090909090909091
+2021-12-04,7:00 PM,Colorado Avalanche,5,Ottawa Senators,6,OT,Ottawa Senators,Colorado Avalanche,0.2619047619047619,0.625
+2021-12-04,10:00 PM,Pittsburgh Penguins,4,Vancouver Canucks,1,,Pittsburgh Penguins,Vancouver Canucks,0.375,0.5434782608695652
+2021-12-04,7:00 PM,Columbus Blue Jackets,1,Washington Capitals,3,,Washington Capitals,Columbus Blue Jackets,0.7083333333333334,0.5714285714285714
+2021-12-05,6:00 PM,San Jose Sharks,4,Columbus Blue Jackets,6,,Columbus Blue Jackets,San Jose Sharks,0.5454545454545454,0.5625
+2021-12-05,8:00 PM,Los Angeles Kings,5,Edmonton Oilers,1,,Los Angeles Kings,Edmonton Oilers,0.7272727272727273,0.5
+2021-12-05,7:30 PM,Chicago Blackhawks,3,New York Islanders,2,SO,Chicago Blackhawks,New York Islanders,0.3684210526315789,0.391304347826087
+2021-12-05,6:00 PM,Tampa Bay Lightning,7,Philadelphia Flyers,1,,Tampa Bay Lightning,Philadelphia Flyers,0.47619047619047616,0.6956521739130435
+2021-12-05,10:00 PM,Calgary Flames,2,Vegas Golden Knights,3,,Vegas Golden Knights,Calgary Flames,0.5652173913043478,0.7291666666666666
+2021-12-05,8:00 PM,Toronto Maple Leafs,3,Winnipeg Jets,6,,Winnipeg Jets,Toronto Maple Leafs,0.5652173913043478,0.72
+2021-12-06,8:30 PM,Arizona Coyotes,1,Dallas Stars,4,,Dallas Stars,Arizona Coyotes,0.6190476190476191,0.25
+2021-12-06,7:00 PM,Ottawa Senators,3,New Jersey Devils,2,SO,Ottawa Senators,New Jersey Devils,0.5,0.29545454545454547
+2021-12-06,7:00 PM,Colorado Avalanche,7,Philadelphia Flyers,5,,Colorado Avalanche,Philadelphia Flyers,0.45454545454545453,0.6190476190476191
+2021-12-06,10:00 PM,Pittsburgh Penguins,6,Seattle Kraken,1,,Pittsburgh Penguins,Seattle Kraken,0.4166666666666667,0.5625
+2021-12-06,10:00 PM,Los Angeles Kings,0,Vancouver Canucks,4,,Vancouver Canucks,Los Angeles Kings,0.36,0.5217391304347826
+2021-12-06,7:00 PM,Anaheim Ducks,3,Washington Capitals,4,SO,Washington Capitals,Anaheim Ducks,0.72,0.6
+2021-12-07,7:30 PM,Anaheim Ducks,2,Buffalo Sabres,0,,Anaheim Ducks,Buffalo Sabres,0.3958333333333333,0.5961538461538461
+2021-12-07,8:30 PM,New York Rangers,6,Chicago Blackhawks,2,,New York Rangers,Chicago Blackhawks,0.4166666666666667,0.7608695652173914
+2021-12-07,7:00 PM,Nashville Predators,5,Detroit Red Wings,2,,Nashville Predators,Detroit Red Wings,0.58,0.5625
+2021-12-07,9:00 PM,Minnesota Wild,4,Edmonton Oilers,1,,Minnesota Wild,Edmonton Oilers,0.6956521739130435,0.7291666666666666
+2021-12-07,7:00 PM,Tampa Bay Lightning,3,Montreal Canadiens,2,,Tampa Bay Lightning,Montreal Canadiens,0.28846153846153844,0.7083333333333334
+2021-12-07,7:00 PM,New York Islanders,5,Ottawa Senators,3,,New York Islanders,Ottawa Senators,0.32608695652173914,0.375
+2021-12-07,10:30 PM,Calgary Flames,3,San Jose Sharks,5,,San Jose Sharks,Calgary Flames,0.54,0.7
+2021-12-07,8:00 PM,Florida Panthers,3,St. Louis Blues,4,OT,St. Louis Blues,Florida Panthers,0.5833333333333334,0.7708333333333334
+2021-12-07,7:00 PM,Columbus Blue Jackets,4,Toronto Maple Leafs,5,,Toronto Maple Leafs,Columbus Blue Jackets,0.6923076923076923,0.5652173913043478
+2021-12-07,8:00 PM,Carolina Hurricanes,4,Winnipeg Jets,2,,Carolina Hurricanes,Winnipeg Jets,0.5833333333333334,0.717391304347826
+2021-12-08,7:00 PM,Philadelphia Flyers,0,New Jersey Devils,3,,New Jersey Devils,Philadelphia Flyers,0.5,0.43478260869565216
+2021-12-08,7:00 PM,Colorado Avalanche,7,New York Rangers,3,,Colorado Avalanche,New York Rangers,0.7708333333333334,0.6363636363636364
+2021-12-08,9:00 PM,Boston Bruins,1,Vancouver Canucks,2,SO,Vancouver Canucks,Boston Bruins,0.38461538461538464,0.5952380952380952
+2021-12-08,10:00 PM,Dallas Stars,4,Vegas Golden Knights,5,,Vegas Golden Knights,Dallas Stars,0.5833333333333334,0.6363636363636364
+2021-12-09,7:00 PM,Anaheim Ducks,2,Columbus Blue Jackets,1,SO,Anaheim Ducks,Columbus Blue Jackets,0.5416666666666666,0.6111111111111112
+2021-12-09,9:00 PM,Carolina Hurricanes,2,Calgary Flames,1,OT,Carolina Hurricanes,Calgary Flames,0.6730769230769231,0.7291666666666666
+2021-12-09,9:00 PM,Boston Bruins,3,Edmonton Oilers,2,,Boston Bruins,Edmonton Oilers,0.6666666666666666,0.5909090909090909
+2021-12-09,10:30 PM,Dallas Stars,0,Los Angeles Kings,4,,Los Angeles Kings,Dallas Stars,0.5,0.6086956521739131
+2021-12-09,7:00 PM,Chicago Blackhawks,2,Montreal Canadiens,0,,Chicago Blackhawks,Montreal Canadiens,0.2777777777777778,0.4
+2021-12-09,7:30 PM,Nashville Predators,4,New York Islanders,3,,Nashville Predators,New York Islanders,0.40476190476190477,0.58
+2021-12-09,10:00 PM,Winnipeg Jets,3,Seattle Kraken,0,,Winnipeg Jets,Seattle Kraken,0.4,0.56
+2021-12-09,10:30 PM,Minnesota Wild,5,San Jose Sharks,2,,Minnesota Wild,San Jose Sharks,0.5576923076923077,0.74
+2021-12-09,8:00 PM,Detroit Red Wings,2,St. Louis Blues,6,,St. Louis Blues,Detroit Red Wings,0.6,0.5576923076923077
+2021-12-09,7:00 PM,Tampa Bay Lightning,5,Toronto Maple Leafs,3,,Tampa Bay Lightning,Toronto Maple Leafs,0.7037037037037037,0.72
+2021-12-10,9:00 PM,Florida Panthers,3,Arizona Coyotes,1,,Florida Panthers,Arizona Coyotes,0.24,0.76
+2021-12-10,7:00 PM,New York Rangers,2,Buffalo Sabres,1,,New York Rangers,Buffalo Sabres,0.38,0.74
+2021-12-10,9:00 PM,Detroit Red Wings,3,Colorado Avalanche,7,,Colorado Avalanche,Detroit Red Wings,0.6521739130434783,0.5370370370370371
+2021-12-10,7:30 PM,Nashville Predators,3,New Jersey Devils,2,,Nashville Predators,New Jersey Devils,0.5208333333333334,0.5961538461538461
+2021-12-10,10:00 PM,Winnipeg Jets,3,Vancouver Canucks,4,SO,Vancouver Canucks,Winnipeg Jets,0.4074074074074074,0.5769230769230769
+2021-12-10,10:00 PM,Philadelphia Flyers,4,Vegas Golden Knights,3,,Philadelphia Flyers,Vegas Golden Knights,0.6,0.4166666666666667
+2021-12-10,7:00 PM,Pittsburgh Penguins,4,Washington Capitals,2,,Pittsburgh Penguins,Washington Capitals,0.7307692307692307,0.58
+2021-12-11,9:00 PM,Philadelphia Flyers,5,Arizona Coyotes,3,,Philadelphia Flyers,Arizona Coyotes,0.23076923076923078,0.44
+2021-12-11,7:00 PM,Washington Capitals,3,Buffalo Sabres,2,SO,Washington Capitals,Buffalo Sabres,0.36538461538461536,0.7037037037037037
+2021-12-11,10:00 PM,Boston Bruins,4,Calgary Flames,2,,Boston Bruins,Calgary Flames,0.6666666666666666,0.6086956521739131
+2021-12-11,10:00 PM,Carolina Hurricanes,3,Edmonton Oilers,1,,Carolina Hurricanes,Edmonton Oilers,0.64,0.74
+2021-12-11,10:30 PM,Minnesota Wild,1,Los Angeles Kings,2,,Los Angeles Kings,Minnesota Wild,0.52,0.75
+2021-12-11,7:30 PM,New Jersey Devils,2,New York Islanders,4,,New York Islanders,New Jersey Devils,0.38636363636363635,0.5
+2021-12-11,1:00 PM,Tampa Bay Lightning,0,Ottawa Senators,4,,Ottawa Senators,Tampa Bay Lightning,0.3125,0.7307692307692307
+2021-12-11,7:00 PM,Anaheim Ducks,0,Pittsburgh Penguins,1,,Pittsburgh Penguins,Anaheim Ducks,0.5961538461538461,0.625
+2021-12-11,10:00 PM,Columbus Blue Jackets,5,Seattle Kraken,4,OT,Columbus Blue Jackets,Seattle Kraken,0.38461538461538464,0.54
+2021-12-11,10:30 PM,Dallas Stars,1,San Jose Sharks,2,,San Jose Sharks,Dallas Stars,0.5370370370370371,0.5833333333333334
+2021-12-11,7:00 PM,Montreal Canadiens,1,St. Louis Blues,4,,St. Louis Blues,Montreal Canadiens,0.6153846153846154,0.26785714285714285
+2021-12-11,7:00 PM,Chicago Blackhawks,4,Toronto Maple Leafs,5,,Toronto Maple Leafs,Chicago Blackhawks,0.6785714285714286,0.4230769230769231
+2021-12-12,8:00 PM,Florida Panthers,2,Colorado Avalanche,3,,Colorado Avalanche,Florida Panthers,0.6666666666666666,0.7692307692307693
+2021-12-12,7:00 PM,Nashville Predators,1,New York Rangers,0,,Nashville Predators,New York Rangers,0.75,0.6111111111111112
+2021-12-12,7:00 PM,Anaheim Ducks,3,St. Louis Blues,2,OT,Anaheim Ducks,St. Louis Blues,0.6296296296296297,0.603448275862069
+2021-12-12,10:00 PM,Carolina Hurricanes,1,Vancouver Canucks,2,,Vancouver Canucks,Carolina Hurricanes,0.42857142857142855,0.75
+2021-12-12,9:00 PM,Minnesota Wild,4,Vegas Golden Knights,6,,Vegas Golden Knights,Minnesota Wild,0.5769230769230769,0.7222222222222222
+2021-12-14,7:00 PM,Vegas Golden Knights,4,Boston Bruins,1,,Vegas Golden Knights,Boston Bruins,0.625,0.5925925925925926
+2021-12-14,9:00 PM,New York Rangers,2,Colorado Avalanche,4,,Colorado Avalanche,New York Rangers,0.68,0.7222222222222222
+2021-12-14,8:30 PM,St. Louis Blues,4,Dallas Stars,1,,St. Louis Blues,Dallas Stars,0.56,0.625
+2021-12-14,7:30 PM,New York Islanders,1,Detroit Red Wings,2,,Detroit Red Wings,New York Islanders,0.5178571428571429,0.41304347826086957
+2021-12-14,9:00 PM,Toronto Maple Leafs,5,Edmonton Oilers,1,,Toronto Maple Leafs,Edmonton Oilers,0.6153846153846154,0.6896551724137931
+2021-12-14,7:00 PM,Ottawa Senators,8,Florida Panthers,2,,Ottawa Senators,Florida Panthers,0.7407407407407407,0.34
+2021-12-14,7:00 PM,New Jersey Devils,1,Philadelphia Flyers,6,,Philadelphia Flyers,New Jersey Devils,0.46153846153846156,0.4807692307692308
+2021-12-14,7:00 PM,Montreal Canadiens,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Montreal Canadiens,0.6111111111111112,0.25862068965517243
+2021-12-14,10:30 PM,Seattle Kraken,3,San Jose Sharks,1,,Seattle Kraken,San Jose Sharks,0.5535714285714286,0.3888888888888889
+2021-12-14,7:00 PM,Los Angeles Kings,2,Tampa Bay Lightning,3,OT,Tampa Bay Lightning,Los Angeles Kings,0.7037037037037037,0.5384615384615384
+2021-12-14,10:00 PM,Columbus Blue Jackets,3,Vancouver Canucks,4,,Vancouver Canucks,Columbus Blue Jackets,0.4482758620689655,0.5576923076923077
+2021-12-14,8:00 PM,Buffalo Sabres,4,Winnipeg Jets,2,,Buffalo Sabres,Winnipeg Jets,0.5740740740740741,0.37037037037037035
+2021-12-15,10:00 PM,Seattle Kraken,1,Anaheim Ducks,4,,Anaheim Ducks,Seattle Kraken,0.6166666666666667,0.4107142857142857
+2021-12-15,9:00 PM,New York Rangers,3,Arizona Coyotes,2,,New York Rangers,Arizona Coyotes,0.2222222222222222,0.6964285714285714
+2021-12-15,8:00 PM,Washington Capitals,4,Chicago Blackhawks,5,OT,Chicago Blackhawks,Washington Capitals,0.4074074074074074,0.7142857142857143
+2021-12-16,7:00 PM,Detroit Red Wings,3,Carolina Hurricanes,5,,Carolina Hurricanes,Detroit Red Wings,0.7222222222222222,0.5344827586206896
+2021-12-16,9:00 PM,Columbus Blue Jackets,2,Edmonton Oilers,5,,Edmonton Oilers,Columbus Blue Jackets,0.5925925925925926,0.5370370370370371
+2021-12-16,7:00 PM,Los Angeles Kings,4,Florida Panthers,1,,Los Angeles Kings,Florida Panthers,0.7142857142857143,0.5370370370370371
+2021-12-16,8:00 PM,Buffalo Sabres,3,Minnesota Wild,2,SO,Buffalo Sabres,Minnesota Wild,0.6964285714285714,0.39285714285714285
+2021-12-16,7:00 PM,Philadelphia Flyers,2,Montreal Canadiens,3,SO,Montreal Canadiens,Philadelphia Flyers,0.25,0.48148148148148145
+2021-12-16,7:00 PM,Vegas Golden Knights,5,New Jersey Devils,3,,Vegas Golden Knights,New Jersey Devils,0.46296296296296297,0.6071428571428571
+2021-12-16,8:00 PM,Colorado Avalanche,2,Nashville Predators,5,,Nashville Predators,Colorado Avalanche,0.625,0.6923076923076923
+2021-12-16,7:30 PM,Boston Bruins,1,New York Islanders,3,,New York Islanders,Boston Bruins,0.3958333333333333,0.6
+2021-12-16,10:30 PM,Vancouver Canucks,5,San Jose Sharks,2,,Vancouver Canucks,San Jose Sharks,0.5344827586206896,0.4666666666666667
+2021-12-16,7:00 PM,Ottawa Senators,1,Tampa Bay Lightning,2,,Tampa Bay Lightning,Ottawa Senators,0.7142857142857143,0.36538461538461536
+2021-12-17,10:00 PM,Arizona Coyotes,6,Anaheim Ducks,5,OT,Arizona Coyotes,Anaheim Ducks,0.6166666666666667,0.21428571428571427
+2021-12-17,8:30 PM,Nashville Predators,3,Chicago Blackhawks,2,OT,Nashville Predators,Chicago Blackhawks,0.42857142857142855,0.6379310344827587
+2021-12-17,7:00 PM,Vegas Golden Knights,3,New York Rangers,2,SO,Vegas Golden Knights,New York Rangers,0.7068965517241379,0.6206896551724138
+2021-12-17,7:00 PM,Buffalo Sabres,2,Pittsburgh Penguins,3,OT,Pittsburgh Penguins,Buffalo Sabres,0.625,0.41379310344827586
+2021-12-17,8:00 PM,Dallas Stars,1,St. Louis Blues,4,,St. Louis Blues,Dallas Stars,0.6379310344827587,0.5384615384615384
+2021-12-17,8:00 PM,Washington Capitals,5,Winnipeg Jets,2,,Washington Capitals,Winnipeg Jets,0.5535714285714286,0.7068965517241379
+2021-12-18,7:00 PM,Los Angeles Kings,1,Carolina Hurricanes,5,,Carolina Hurricanes,Los Angeles Kings,0.7321428571428571,0.5535714285714286
+2021-12-18,8:00 PM,Chicago Blackhawks,3,Dallas Stars,4,OT,Dallas Stars,Chicago Blackhawks,0.5185185185185185,0.43103448275862066
+2021-12-18,8:00 PM,New Jersey Devils,2,Detroit Red Wings,5,,Detroit Red Wings,New Jersey Devils,0.5166666666666667,0.44642857142857145
+2021-12-18,7:00 PM,Ottawa Senators,3,Philadelphia Flyers,4,OT,Philadelphia Flyers,Ottawa Senators,0.48214285714285715,0.35185185185185186
+2021-12-18,10:00 PM,Edmonton Oilers,5,Seattle Kraken,3,,Edmonton Oilers,Seattle Kraken,0.39655172413793105,0.6071428571428571
+2021-12-19,7:00 PM,Pittsburgh Penguins,3,New Jersey Devils,2,,Pittsburgh Penguins,New Jersey Devils,0.43103448275862066,0.6379310344827587
+2021-12-19,2:00 PM,Vegas Golden Knights,4,New York Islanders,3,SO,Vegas Golden Knights,New York Islanders,0.42,0.6333333333333333
+2021-12-19,3:00 PM,St. Louis Blues,2,Winnipeg Jets,4,,Winnipeg Jets,St. Louis Blues,0.5344827586206896,0.65
+2021-12-19,7:00 PM,Los Angeles Kings,3,Washington Capitals,2,,Los Angeles Kings,Washington Capitals,0.7166666666666667,0.5344827586206896
+2021-12-20,8:30 PM,Minnesota Wild,4,Dallas Stars,7,,Dallas Stars,Minnesota Wild,0.5357142857142857,0.6896551724137931
+2021-12-21,10:00 PM,Tampa Bay Lightning,4,Vegas Golden Knights,3,,Tampa Bay Lightning,Vegas Golden Knights,0.6333333333333333,0.7241379310344828
+2021-12-28,10:30 PM,Vegas Golden Knights,6,Los Angeles Kings,3,,Vegas Golden Knights,Los Angeles Kings,0.55,0.6333333333333333
+2021-12-28,10:30 PM,Arizona Coyotes,7,San Jose Sharks,8,SO,San Jose Sharks,Arizona Coyotes,0.5166666666666667,0.2413793103448276
+2021-12-28,7:00 PM,Montreal Canadiens,4,Tampa Bay Lightning,5,OT,Tampa Bay Lightning,Montreal Canadiens,0.7333333333333333,0.2833333333333333
+2021-12-29,10:30 PM,Vancouver Canucks,2,Anaheim Ducks,1,OT,Vancouver Canucks,Anaheim Ducks,0.6333333333333333,0.48333333333333334
+2021-12-29,7:00 PM,New Jersey Devils,4,Buffalo Sabres,3,,New Jersey Devils,Buffalo Sabres,0.4166666666666667,0.4166666666666667
+2021-12-29,7:00 PM,New York Rangers,3,Florida Panthers,4,,Florida Panthers,New York Rangers,0.6896551724137931,0.7
+2021-12-29,10:00 PM,Philadelphia Flyers,3,Seattle Kraken,2,OT,Philadelphia Flyers,Seattle Kraken,0.38333333333333336,0.5
+2021-12-29,8:30 PM,Edmonton Oilers,2,St. Louis Blues,4,,St. Louis Blues,Edmonton Oilers,0.6166666666666667,0.6206896551724138
+2021-12-29,7:00 PM,Nashville Predators,3,Washington Capitals,5,,Washington Capitals,Nashville Predators,0.6833333333333333,0.65
+2021-12-30,7:00 PM,Montreal Canadiens,0,Carolina Hurricanes,4,,Carolina Hurricanes,Montreal Canadiens,0.7413793103448276,0.3
+2021-12-30,7:00 PM,Nashville Predators,3,Columbus Blue Jackets,4,SO,Columbus Blue Jackets,Nashville Predators,0.5178571428571429,0.65
+2021-12-30,7:00 PM,Tampa Bay Lightning,3,Florida Panthers,9,,Florida Panthers,Tampa Bay Lightning,0.7,0.7666666666666667
+2021-12-30,10:30 PM,Vancouver Canucks,1,Los Angeles Kings,2,SO,Los Angeles Kings,Vancouver Canucks,0.5166666666666667,0.48333333333333334
+2021-12-30,7:30 PM,Buffalo Sabres,1,New York Islanders,4,,New York Islanders,Buffalo Sabres,0.4230769230769231,0.38333333333333336
+2021-12-30,10:00 PM,Calgary Flames,6,Seattle Kraken,4,,Calgary Flames,Seattle Kraken,0.4,0.6428571428571429
+2021-12-30,10:30 PM,Philadelphia Flyers,2,San Jose Sharks,3,OT,San Jose Sharks,Philadelphia Flyers,0.5166666666666667,0.5166666666666667
+2021-12-31,7:30 PM,Washington Capitals,3,Detroit Red Wings,1,,Washington Capitals,Detroit Red Wings,0.5333333333333333,0.7
+2021-12-31,1:00 PM,Edmonton Oilers,5,New Jersey Devils,6,OT,New Jersey Devils,Edmonton Oilers,0.4166666666666667,0.6
+2021-12-31,7:00 PM,New York Rangers,4,Tampa Bay Lightning,3,SO,New York Rangers,Tampa Bay Lightning,0.7333333333333333,0.7
+2021-12-31,3:00 PM,Anaheim Ducks,1,Vegas Golden Knights,3,,Vegas Golden Knights,Anaheim Ducks,0.6666666666666666,0.6166666666666667
+2022-01-01,1:00 PM,Buffalo Sabres,3,Boston Bruins,4,OT,Boston Bruins,Buffalo Sabres,0.5769230769230769,0.35
+2022-01-01,1:00 PM,Carolina Hurricanes,7,Columbus Blue Jackets,4,,Carolina Hurricanes,Columbus Blue Jackets,0.5344827586206896,0.75
+2022-01-01,1:00 PM,Montreal Canadiens,2,Florida Panthers,5,,Florida Panthers,Montreal Canadiens,0.7,0.3
+2022-01-01,10:30 PM,Philadelphia Flyers,3,Los Angeles Kings,6,,Los Angeles Kings,Philadelphia Flyers,0.55,0.5166666666666667
+2022-01-01,7:00 PM,St. Louis Blues,6,Minnesota Wild,4,,St. Louis Blues,Minnesota Wild,0.6666666666666666,0.6166666666666667
+2022-01-01,2:00 PM,Chicago Blackhawks,1,Nashville Predators,6,,Nashville Predators,Chicago Blackhawks,0.6666666666666666,0.43333333333333335
+2022-01-01,2:00 PM,Edmonton Oilers,2,New York Islanders,3,OT,New York Islanders,Edmonton Oilers,0.4444444444444444,0.5833333333333334
+2022-01-01,10:00 PM,Vancouver Canucks,5,Seattle Kraken,2,,Vancouver Canucks,Seattle Kraken,0.36666666666666664,0.5
+2022-01-01,7:00 PM,Ottawa Senators,0,Toronto Maple Leafs,6,,Toronto Maple Leafs,Ottawa Senators,0.7,0.35714285714285715
+2022-01-02,7:00 PM,Calgary Flames,5,Chicago Blackhawks,1,,Calgary Flames,Chicago Blackhawks,0.43333333333333335,0.6551724137931034
+2022-01-02,3:00 PM,Anaheim Ducks,2,Colorado Avalanche,4,,Colorado Avalanche,Anaheim Ducks,0.6666666666666666,0.6166666666666667
+2022-01-02,1:00 PM,Boston Bruins,5,Detroit Red Wings,1,,Boston Bruins,Detroit Red Wings,0.5,0.5925925925925926
+2022-01-02,12:30 PM,Tampa Bay Lightning,0,New York Rangers,4,,New York Rangers,Tampa Bay Lightning,0.7166666666666667,0.7166666666666667
+2022-01-02,1:00 PM,San Jose Sharks,5,Pittsburgh Penguins,8,,Pittsburgh Penguins,San Jose Sharks,0.65,0.5166666666666667
+2022-01-02,4:00 PM,Winnipeg Jets,5,Vegas Golden Knights,4,OT,Winnipeg Jets,Vegas Golden Knights,0.7,0.55
+2022-01-02,3:00 PM,New Jersey Devils,4,Washington Capitals,3,OT,New Jersey Devils,Washington Capitals,0.7,0.4166666666666667
+2022-01-03,7:00 PM,Edmonton Oilers,1,New York Rangers,4,,New York Rangers,Edmonton Oilers,0.7166666666666667,0.5666666666666667
+2022-01-04,10:00 PM,Philadelphia Flyers,1,Anaheim Ducks,4,,Anaheim Ducks,Philadelphia Flyers,0.6166666666666667,0.48333333333333334
+2022-01-04,9:00 PM,Winnipeg Jets,3,Arizona Coyotes,1,,Winnipeg Jets,Arizona Coyotes,0.25,0.5833333333333334
+2022-01-04,7:00 PM,New Jersey Devils,3,Boston Bruins,5,,Boston Bruins,New Jersey Devils,0.6071428571428571,0.45
+2022-01-04,7:00 PM,Tampa Bay Lightning,7,Columbus Blue Jackets,2,,Tampa Bay Lightning,Columbus Blue Jackets,0.5166666666666667,0.7166666666666667
+2022-01-04,8:30 PM,Colorado Avalanche,4,Chicago Blackhawks,3,OT,Colorado Avalanche,Chicago Blackhawks,0.4166666666666667,0.6785714285714286
+2022-01-04,7:30 PM,San Jose Sharks,2,Detroit Red Wings,6,,Detroit Red Wings,San Jose Sharks,0.4666666666666667,0.48333333333333334
+2022-01-04,7:00 PM,Calgary Flames,2,Florida Panthers,6,,Florida Panthers,Calgary Flames,0.7,0.6666666666666666
+2022-01-04,10:00 PM,Nashville Predators,3,Vegas Golden Knights,2,,Nashville Predators,Vegas Golden Knights,0.7166666666666667,0.6666666666666666
+2022-01-05,7:30 PM,St. Louis Blues,3,Pittsburgh Penguins,5,,Pittsburgh Penguins,St. Louis Blues,0.65,0.6166666666666667
+2022-01-05,7:00 PM,Edmonton Oilers,2,Toronto Maple Leafs,4,,Toronto Maple Leafs,Edmonton Oilers,0.7,0.5333333333333333
+2022-01-06,9:00 PM,Chicago Blackhawks,4,Arizona Coyotes,6,,Arizona Coyotes,Chicago Blackhawks,0.25,0.43333333333333335
+2022-01-06,7:00 PM,Minnesota Wild,3,Boston Bruins,2,,Minnesota Wild,Boston Bruins,0.6206896551724138,0.6333333333333333
+2022-01-06,7:00 PM,San Jose Sharks,3,Buffalo Sabres,2,,San Jose Sharks,Buffalo Sabres,0.3333333333333333,0.45
+2022-01-06,9:00 PM,Winnipeg Jets,1,Colorado Avalanche,7,,Colorado Avalanche,Winnipeg Jets,0.6896551724137931,0.6166666666666667
+2022-01-06,8:30 PM,Florida Panthers,5,Dallas Stars,6,SO,Dallas Stars,Florida Panthers,0.5517241379310345,0.7
+2022-01-06,10:30 PM,Nashville Predators,4,Los Angeles Kings,2,,Nashville Predators,Los Angeles Kings,0.5833333333333334,0.7
+2022-01-06,7:00 PM,Columbus Blue Jackets,1,New Jersey Devils,3,,New Jersey Devils,Columbus Blue Jackets,0.4166666666666667,0.48333333333333334
+2022-01-06,7:00 PM,Pittsburgh Penguins,6,Philadelphia Flyers,2,,Pittsburgh Penguins,Philadelphia Flyers,0.45,0.6666666666666666
+2022-01-06,7:00 PM,Calgary Flames,1,Tampa Bay Lightning,4,,Tampa Bay Lightning,Calgary Flames,0.7333333333333333,0.6666666666666666
+2022-01-06,10:00 PM,New York Rangers,1,Vegas Golden Knights,5,,Vegas Golden Knights,New York Rangers,0.6833333333333333,0.7166666666666667
+2022-01-07,7:00 PM,Calgary Flames,3,Carolina Hurricanes,6,,Carolina Hurricanes,Calgary Flames,0.75,0.65
+2022-01-07,8:00 PM,Washington Capitals,1,St. Louis Blues,5,,St. Louis Blues,Washington Capitals,0.5833333333333334,0.6833333333333333
+2022-01-08,10:00 PM,New York Rangers,4,Anaheim Ducks,1,,New York Rangers,Anaheim Ducks,0.6333333333333333,0.6833333333333333
+2022-01-08,8:00 PM,Nashville Predators,4,Arizona Coyotes,2,,Nashville Predators,Arizona Coyotes,0.26666666666666666,0.7333333333333333
+2022-01-08,7:00 PM,Florida Panthers,4,Carolina Hurricanes,3,OT,Florida Panthers,Carolina Hurricanes,0.75,0.6833333333333333
+2022-01-08,7:00 PM,New Jersey Devils,3,Columbus Blue Jackets,4,,Columbus Blue Jackets,New Jersey Devils,0.45,0.45
+2022-01-08,7:00 PM,Toronto Maple Leafs,4,Colorado Avalanche,5,OT,Colorado Avalanche,Toronto Maple Leafs,0.7,0.7333333333333333
+2022-01-08,2:00 PM,Pittsburgh Penguins,2,Dallas Stars,3,,Dallas Stars,Pittsburgh Penguins,0.5666666666666667,0.6666666666666666
+2022-01-08,10:30 PM,Detroit Red Wings,0,Los Angeles Kings,4,,Los Angeles Kings,Detroit Red Wings,0.5666666666666667,0.5
+2022-01-08,8:00 PM,Washington Capitals,2,Minnesota Wild,3,SO,Minnesota Wild,Washington Capitals,0.6333333333333333,0.6666666666666666
+2022-01-08,7:00 PM,San Jose Sharks,3,Philadelphia Flyers,2,OT,San Jose Sharks,Philadelphia Flyers,0.45,0.48333333333333334
+2022-01-08,7:00 PM,Boston Bruins,5,Tampa Bay Lightning,2,,Boston Bruins,Tampa Bay Lightning,0.7666666666666667,0.6
+2022-01-08,10:00 PM,Chicago Blackhawks,2,Vegas Golden Knights,1,,Chicago Blackhawks,Vegas Golden Knights,0.6833333333333333,0.43333333333333335
+2022-01-09,8:00 PM,Detroit Red Wings,3,Anaheim Ducks,4,SO,Anaheim Ducks,Detroit Red Wings,0.6333333333333333,0.5
+2022-01-09,2:00 PM,Dallas Stars,1,St. Louis Blues,2,,St. Louis Blues,Dallas Stars,0.5833333333333334,0.5666666666666667
+2022-01-10,9:00 PM,Seattle Kraken,3,Colorado Avalanche,4,,Colorado Avalanche,Seattle Kraken,0.7,0.35
+2022-01-10,10:30 PM,New York Rangers,1,Los Angeles Kings,3,,Los Angeles Kings,New York Rangers,0.6,0.6833333333333333
+2022-01-10,7:00 PM,Boston Bruins,7,Washington Capitals,3,,Boston Bruins,Washington Capitals,0.65,0.6
+2022-01-11,10:00 PM,Pittsburgh Penguins,4,Anaheim Ducks,1,,Pittsburgh Penguins,Anaheim Ducks,0.65,0.65
+2022-01-11,7:00 PM,Tampa Bay Lightning,6,Buffalo Sabres,1,,Tampa Bay Lightning,Buffalo Sabres,0.3333333333333333,0.7333333333333333
+2022-01-11,7:00 PM,Chicago Blackhawks,4,Columbus Blue Jackets,2,,Chicago Blackhawks,Columbus Blue Jackets,0.48333333333333334,0.4666666666666667
+2022-01-11,7:00 PM,Vancouver Canucks,2,Florida Panthers,5,,Florida Panthers,Vancouver Canucks,0.6833333333333333,0.5333333333333333
+2022-01-11,8:00 PM,Colorado Avalanche,4,Nashville Predators,5,OT,Nashville Predators,Colorado Avalanche,0.7333333333333333,0.7333333333333333
+2022-01-11,10:30 PM,Detroit Red Wings,2,San Jose Sharks,3,OT,San Jose Sharks,Detroit Red Wings,0.5166666666666667,0.48333333333333334
+2022-01-11,10:00 PM,Toronto Maple Leafs,4,Vegas Golden Knights,3,SO,Toronto Maple Leafs,Vegas Golden Knights,0.65,0.7166666666666667
+2022-01-12,10:00 PM,Toronto Maple Leafs,1,Arizona Coyotes,2,,Arizona Coyotes,Toronto Maple Leafs,0.26666666666666666,0.7333333333333333
+2022-01-12,7:00 PM,Montreal Canadiens,1,Boston Bruins,5,,Boston Bruins,Montreal Canadiens,0.6333333333333333,0.3
+2022-01-12,8:30 PM,Seattle Kraken,2,Dallas Stars,5,,Dallas Stars,Seattle Kraken,0.5666666666666667,0.35
+2022-01-13,7:00 PM,Philadelphia Flyers,2,Boston Bruins,3,,Boston Bruins,Philadelphia Flyers,0.6333333333333333,0.43333333333333335
+2022-01-13,7:00 PM,Columbus Blue Jackets,6,Carolina Hurricanes,0,,Columbus Blue Jackets,Carolina Hurricanes,0.7333333333333333,0.45
+2022-01-13,9:00 PM,Ottawa Senators,4,Calgary Flames,1,,Ottawa Senators,Calgary Flames,0.6166666666666667,0.3448275862068966
+2022-01-13,8:30 PM,Montreal Canadiens,2,Chicago Blackhawks,3,OT,Chicago Blackhawks,Montreal Canadiens,0.5,0.3
+2022-01-13,7:30 PM,Winnipeg Jets,3,Detroit Red Wings,0,,Winnipeg Jets,Detroit Red Wings,0.4666666666666667,0.6
+2022-01-13,10:30 PM,Pittsburgh Penguins,2,Los Angeles Kings,6,,Los Angeles Kings,Pittsburgh Penguins,0.6333333333333333,0.65
+2022-01-13,8:00 PM,Buffalo Sabres,4,Nashville Predators,1,,Buffalo Sabres,Nashville Predators,0.7333333333333333,0.31666666666666665
+2022-01-13,7:30 PM,New Jersey Devils,2,New York Islanders,3,,New York Islanders,New Jersey Devils,0.4642857142857143,0.4166666666666667
+2022-01-13,10:30 PM,New York Rangers,3,San Jose Sharks,0,,New York Rangers,San Jose Sharks,0.55,0.6833333333333333
+2022-01-13,8:00 PM,Seattle Kraken,1,St. Louis Blues,2,,St. Louis Blues,Seattle Kraken,0.6166666666666667,0.35
+2022-01-13,7:00 PM,Vancouver Canucks,2,Tampa Bay Lightning,4,,Tampa Bay Lightning,Vancouver Canucks,0.7333333333333333,0.5
+2022-01-14,9:00 PM,Arizona Coyotes,3,Colorado Avalanche,4,SO,Colorado Avalanche,Arizona Coyotes,0.75,0.3
+2022-01-14,7:00 PM,Dallas Stars,1,Florida Panthers,7,,Florida Panthers,Dallas Stars,0.6833333333333333,0.6
+2022-01-14,8:00 PM,Anaheim Ducks,3,Minnesota Wild,7,,Minnesota Wild,Anaheim Ducks,0.6333333333333333,0.6333333333333333
+2022-01-15,9:00 PM,Colorado Avalanche,5,Arizona Coyotes,0,,Colorado Avalanche,Arizona Coyotes,0.31666666666666665,0.7833333333333333
+2022-01-15,1:00 PM,Nashville Predators,3,Boston Bruins,4,OT,Boston Bruins,Nashville Predators,0.6333333333333333,0.7
+2022-01-15,1:00 PM,Vancouver Canucks,1,Carolina Hurricanes,4,,Carolina Hurricanes,Vancouver Canucks,0.7,0.4666666666666667
+2022-01-15,8:30 PM,Anaheim Ducks,0,Chicago Blackhawks,3,,Chicago Blackhawks,Anaheim Ducks,0.5166666666666667,0.6
+2022-01-15,7:00 PM,Buffalo Sabres,0,Detroit Red Wings,4,,Detroit Red Wings,Buffalo Sabres,0.45,0.31666666666666665
+2022-01-15,10:00 PM,Ottawa Senators,6,Edmonton Oilers,4,,Ottawa Senators,Edmonton Oilers,0.5,0.36666666666666664
+2022-01-15,6:00 PM,Columbus Blue Jackets,2,Florida Panthers,9,,Florida Panthers,Columbus Blue Jackets,0.6833333333333333,0.48333333333333334
+2022-01-15,2:00 PM,Washington Capitals,2,New York Islanders,0,,Washington Capitals,New York Islanders,0.4827586206896552,0.6333333333333333
+2022-01-15,7:00 PM,New York Rangers,3,Philadelphia Flyers,2,,New York Rangers,Philadelphia Flyers,0.4,0.6833333333333333
+2022-01-15,10:00 PM,Los Angeles Kings,3,Seattle Kraken,1,,Los Angeles Kings,Seattle Kraken,0.35,0.6666666666666666
+2022-01-15,10:30 PM,Pittsburgh Penguins,2,San Jose Sharks,1,OT,Pittsburgh Penguins,San Jose Sharks,0.5166666666666667,0.65
+2022-01-15,7:00 PM,Toronto Maple Leafs,6,St. Louis Blues,5,,Toronto Maple Leafs,St. Louis Blues,0.6166666666666667,0.7333333333333333
+2022-01-15,7:00 PM,Dallas Stars,1,Tampa Bay Lightning,3,,Tampa Bay Lightning,Dallas Stars,0.7333333333333333,0.5666666666666667
+2022-01-16,2:00 PM,Vancouver Canucks,4,Washington Capitals,2,,Vancouver Canucks,Washington Capitals,0.6333333333333333,0.4666666666666667
+2022-01-17,4:00 PM,Montreal Canadiens,2,Arizona Coyotes,5,,Arizona Coyotes,Montreal Canadiens,0.31666666666666665,0.2833333333333333
+2022-01-17,1:00 PM,Detroit Red Wings,3,Buffalo Sabres,2,OT,Detroit Red Wings,Buffalo Sabres,0.2833333333333333,0.48333333333333334
+2022-01-17,3:00 PM,Minnesota Wild,3,Colorado Avalanche,4,SO,Colorado Avalanche,Minnesota Wild,0.7833333333333333,0.6333333333333333
+2022-01-17,7:30 PM,Philadelphia Flyers,1,New York Islanders,4,,New York Islanders,Philadelphia Flyers,0.4666666666666667,0.4
+2022-01-17,5:00 PM,Chicago Blackhawks,2,Seattle Kraken,3,SO,Seattle Kraken,Chicago Blackhawks,0.31666666666666665,0.55
+2022-01-17,4:00 PM,Los Angeles Kings,2,San Jose Sharks,6,,San Jose Sharks,Los Angeles Kings,0.5,0.6666666666666666
+2022-01-17,8:00 PM,Nashville Predators,3,St. Louis Blues,5,,St. Louis Blues,Nashville Predators,0.6,0.6833333333333333
+2022-01-17,10:00 PM,Pittsburgh Penguins,5,Vegas Golden Knights,3,,Pittsburgh Penguins,Vegas Golden Knights,0.6666666666666666,0.6833333333333333
+2022-01-18,7:00 PM,Carolina Hurricanes,7,Boston Bruins,1,,Carolina Hurricanes,Boston Bruins,0.6666666666666666,0.7
+2022-01-18,9:00 PM,Florida Panthers,1,Calgary Flames,5,,Calgary Flames,Florida Panthers,0.5833333333333334,0.6833333333333333
+2022-01-18,8:30 PM,Montreal Canadiens,5,Dallas Stars,3,,Montreal Canadiens,Dallas Stars,0.5333333333333333,0.2833333333333333
+2022-01-18,10:30 PM,Tampa Bay Lightning,6,Los Angeles Kings,4,,Tampa Bay Lightning,Los Angeles Kings,0.6333333333333333,0.75
+2022-01-18,8:00 PM,Vancouver Canucks,3,Nashville Predators,1,,Vancouver Canucks,Nashville Predators,0.6833333333333333,0.5
+2022-01-18,7:00 PM,Buffalo Sabres,3,Ottawa Senators,1,,Buffalo Sabres,Ottawa Senators,0.36666666666666664,0.3
+2022-01-18,7:00 PM,New York Islanders,4,Philadelphia Flyers,3,SO,New York Islanders,Philadelphia Flyers,0.36666666666666664,0.5
+2022-01-18,7:00 PM,Winnipeg Jets,3,Washington Capitals,4,OT,Washington Capitals,Winnipeg Jets,0.6333333333333333,0.6
+2022-01-19,10:00 PM,Colorado Avalanche,2,Anaheim Ducks,0,,Colorado Avalanche,Anaheim Ducks,0.5666666666666667,0.8166666666666667
+2022-01-19,7:00 PM,Arizona Coyotes,4,New Jersey Devils,1,,Arizona Coyotes,New Jersey Devils,0.4,0.35
+2022-01-19,7:30 PM,Toronto Maple Leafs,3,New York Rangers,6,,New York Rangers,Toronto Maple Leafs,0.6833333333333333,0.7666666666666667
+2022-01-20,7:00 PM,Washington Capitals,3,Boston Bruins,4,,Boston Bruins,Washington Capitals,0.6666666666666666,0.65
+2022-01-20,7:00 PM,Dallas Stars,5,Buffalo Sabres,4,,Dallas Stars,Buffalo Sabres,0.3333333333333333,0.5333333333333333
+2022-01-20,9:00 PM,Florida Panthers,6,Edmonton Oilers,0,,Florida Panthers,Edmonton Oilers,0.4666666666666667,0.6666666666666666
+2022-01-20,9:30 PM,Colorado Avalanche,4,Los Angeles Kings,1,,Colorado Avalanche,Los Angeles Kings,0.6,0.8166666666666667
+2022-01-20,8:00 PM,Winnipeg Jets,2,Nashville Predators,5,,Nashville Predators,Winnipeg Jets,0.65,0.5833333333333334
+2022-01-20,7:00 PM,Columbus Blue Jackets,2,Philadelphia Flyers,1,,Columbus Blue Jackets,Philadelphia Flyers,0.36666666666666664,0.45
+2022-01-20,7:00 PM,Ottawa Senators,4,Pittsburgh Penguins,6,,Pittsburgh Penguins,Ottawa Senators,0.7166666666666667,0.36666666666666664
+2022-01-20,10:00 PM,San Jose Sharks,2,Seattle Kraken,3,,Seattle Kraken,San Jose Sharks,0.31666666666666665,0.5333333333333333
+2022-01-20,10:00 PM,Montreal Canadiens,3,Vegas Golden Knights,4,OT,Vegas Golden Knights,Montreal Canadiens,0.6333333333333333,0.2833333333333333
+2022-01-21,10:00 PM,Tampa Bay Lightning,1,Anaheim Ducks,5,,Anaheim Ducks,Tampa Bay Lightning,0.5333333333333333,0.75
+2022-01-21,7:00 PM,New York Rangers,3,Carolina Hurricanes,6,,Carolina Hurricanes,New York Rangers,0.7,0.7
+2022-01-21,7:00 PM,Pittsburgh Penguins,5,Columbus Blue Jackets,2,,Pittsburgh Penguins,Columbus Blue Jackets,0.48333333333333334,0.7166666666666667
+2022-01-21,8:30 PM,Minnesota Wild,5,Chicago Blackhawks,1,,Minnesota Wild,Chicago Blackhawks,0.5666666666666667,0.65
+2022-01-21,7:30 PM,Dallas Stars,5,Detroit Red Wings,4,OT,Dallas Stars,Detroit Red Wings,0.5166666666666667,0.55
+2022-01-21,7:30 PM,Arizona Coyotes,0,New York Islanders,4,,New York Islanders,Arizona Coyotes,0.5333333333333333,0.38333333333333336
+2022-01-21,10:00 PM,St. Louis Blues,5,Seattle Kraken,0,,St. Louis Blues,Seattle Kraken,0.35,0.6
+2022-01-21,10:00 PM,Florida Panthers,2,Vancouver Canucks,1,SO,Florida Panthers,Vancouver Canucks,0.5333333333333333,0.6666666666666666
+2022-01-22,3:00 PM,Winnipeg Jets,2,Boston Bruins,3,,Boston Bruins,Winnipeg Jets,0.6666666666666666,0.55
+2022-01-22,1:00 PM,Philadelphia Flyers,3,Buffalo Sabres,6,,Buffalo Sabres,Philadelphia Flyers,0.3333333333333333,0.3333333333333333
+2022-01-22,7:00 PM,Montreal Canadiens,2,Colorado Avalanche,3,OT,Colorado Avalanche,Montreal Canadiens,0.8166666666666667,0.3
+2022-01-22,10:00 PM,Calgary Flames,3,Edmonton Oilers,5,,Edmonton Oilers,Calgary Flames,0.4666666666666667,0.5833333333333334
+2022-01-22,9:00 PM,Chicago Blackhawks,3,Minnesota Wild,4,OT,Minnesota Wild,Chicago Blackhawks,0.65,0.5333333333333333
+2022-01-22,7:00 PM,Carolina Hurricanes,4,New Jersey Devils,7,,New Jersey Devils,Carolina Hurricanes,0.4,0.7
+2022-01-22,8:30 PM,Detroit Red Wings,1,Nashville Predators,4,,Nashville Predators,Detroit Red Wings,0.6666666666666666,0.5333333333333333
+2022-01-22,7:00 PM,Toronto Maple Leafs,3,New York Islanders,1,,Toronto Maple Leafs,New York Islanders,0.5333333333333333,0.7666666666666667
+2022-01-22,7:00 PM,Arizona Coyotes,3,New York Rangers,7,,New York Rangers,Arizona Coyotes,0.6833333333333333,0.38333333333333336
+2022-01-22,10:30 PM,Tampa Bay Lightning,7,San Jose Sharks,1,,Tampa Bay Lightning,San Jose Sharks,0.5166666666666667,0.7333333333333333
+2022-01-22,7:00 PM,Ottawa Senators,2,Washington Capitals,3,OT,Washington Capitals,Ottawa Senators,0.65,0.3333333333333333
+2022-01-23,6:00 PM,Ottawa Senators,2,Columbus Blue Jackets,1,,Ottawa Senators,Columbus Blue Jackets,0.45,0.35
+2022-01-23,7:00 PM,Los Angeles Kings,3,New Jersey Devils,2,,Los Angeles Kings,New Jersey Devils,0.4166666666666667,0.5666666666666667
+2022-01-23,1:00 PM,Winnipeg Jets,2,Pittsburgh Penguins,3,SO,Pittsburgh Penguins,Winnipeg Jets,0.7333333333333333,0.5166666666666667
+2022-01-23,9:00 PM,Florida Panthers,3,Seattle Kraken,5,,Seattle Kraken,Florida Panthers,0.35,0.6666666666666666
+2022-01-23,10:00 PM,St. Louis Blues,3,Vancouver Canucks,1,,St. Louis Blues,Vancouver Canucks,0.5166666666666667,0.6333333333333333
+2022-01-24,7:00 PM,Anaheim Ducks,5,Boston Bruins,3,,Anaheim Ducks,Boston Bruins,0.6666666666666666,0.5333333333333333
+2022-01-24,9:00 PM,St. Louis Blues,1,Calgary Flames,7,,Calgary Flames,St. Louis Blues,0.55,0.6333333333333333
+2022-01-24,9:00 PM,Chicago Blackhawks,0,Colorado Avalanche,2,,Colorado Avalanche,Chicago Blackhawks,0.8333333333333334,0.55
+2022-01-24,8:00 PM,Montreal Canadiens,2,Minnesota Wild,8,,Minnesota Wild,Montreal Canadiens,0.6833333333333333,0.31666666666666665
+2022-01-24,7:00 PM,Los Angeles Kings,2,New York Rangers,3,SO,New York Rangers,Los Angeles Kings,0.7166666666666667,0.5666666666666667
+2022-01-24,7:00 PM,Dallas Stars,3,Philadelphia Flyers,1,,Dallas Stars,Philadelphia Flyers,0.3333333333333333,0.5833333333333334
+2022-01-24,7:00 PM,Vegas Golden Knights,1,Washington Capitals,0,,Vegas Golden Knights,Washington Capitals,0.65,0.6333333333333333
+2022-01-25,7:00 PM,Vegas Golden Knights,3,Carolina Hurricanes,4,OT,Carolina Hurricanes,Vegas Golden Knights,0.6666666666666666,0.6666666666666666
+2022-01-25,7:00 PM,Dallas Stars,5,New Jersey Devils,1,,Dallas Stars,New Jersey Devils,0.38333333333333336,0.6
+2022-01-25,7:30 PM,Philadelphia Flyers,3,New York Islanders,4,,New York Islanders,Philadelphia Flyers,0.5166666666666667,0.3
+2022-01-25,7:00 PM,Buffalo Sabres,0,Ottawa Senators,5,,Ottawa Senators,Buffalo Sabres,0.38333333333333336,0.35
+2022-01-25,7:00 PM,Arizona Coyotes,3,Pittsburgh Penguins,6,,Pittsburgh Penguins,Arizona Coyotes,0.75,0.38333333333333336
+2022-01-25,10:00 PM,Nashville Predators,4,Seattle Kraken,2,,Nashville Predators,Seattle Kraken,0.35,0.6666666666666666
+2022-01-25,10:00 PM,Edmonton Oilers,3,Vancouver Canucks,2,OT,Edmonton Oilers,Vancouver Canucks,0.5166666666666667,0.4666666666666667
+2022-01-25,8:00 PM,Florida Panthers,5,Winnipeg Jets,3,,Florida Panthers,Winnipeg Jets,0.5166666666666667,0.6666666666666666
+2022-01-26,7:00 PM,Calgary Flames,6,Columbus Blue Jackets,0,,Calgary Flames,Columbus Blue Jackets,0.4166666666666667,0.55
+2022-01-26,10:00 PM,Boston Bruins,3,Colorado Avalanche,4,OT,Colorado Avalanche,Boston Bruins,0.8666666666666667,0.6666666666666666
+2022-01-26,7:30 PM,Chicago Blackhawks,8,Detroit Red Wings,5,,Chicago Blackhawks,Detroit Red Wings,0.5,0.55
+2022-01-26,7:00 PM,Anaheim Ducks,3,Toronto Maple Leafs,4,SO,Toronto Maple Leafs,Anaheim Ducks,0.7666666666666667,0.5333333333333333
+2022-01-26,7:00 PM,San Jose Sharks,4,Washington Capitals,1,,San Jose Sharks,Washington Capitals,0.6166666666666667,0.48333333333333334
+2022-01-27,7:00 PM,New York Rangers,3,Columbus Blue Jackets,5,,Columbus Blue Jackets,New York Rangers,0.38333333333333336,0.7166666666666667
+2022-01-27,9:00 PM,Nashville Predators,2,Edmonton Oilers,3,SO,Edmonton Oilers,Nashville Predators,0.4666666666666667,0.6666666666666666
+2022-01-27,7:00 PM,Vegas Golden Knights,1,Florida Panthers,4,,Florida Panthers,Vegas Golden Knights,0.7,0.65
+2022-01-27,7:00 PM,Anaheim Ducks,5,Montreal Canadiens,4,,Anaheim Ducks,Montreal Canadiens,0.2833333333333333,0.5166666666666667
+2022-01-27,7:00 PM,Los Angeles Kings,3,New York Islanders,2,,Los Angeles Kings,New York Islanders,0.5166666666666667,0.55
+2022-01-27,7:00 PM,Carolina Hurricanes,3,Ottawa Senators,2,SO,Carolina Hurricanes,Ottawa Senators,0.4166666666666667,0.6666666666666666
+2022-01-27,7:00 PM,Seattle Kraken,2,Pittsburgh Penguins,1,OT,Seattle Kraken,Pittsburgh Penguins,0.75,0.35
+2022-01-27,8:00 PM,Calgary Flames,1,St. Louis Blues,5,,St. Louis Blues,Calgary Flames,0.6166666666666667,0.55
+2022-01-27,7:00 PM,New Jersey Devils,2,Tampa Bay Lightning,3,,Tampa Bay Lightning,New Jersey Devils,0.7333333333333333,0.35
+2022-01-27,8:00 PM,Vancouver Canucks,5,Winnipeg Jets,1,,Vancouver Canucks,Winnipeg Jets,0.48333333333333334,0.5
+2022-01-28,9:00 PM,Boston Bruins,2,Arizona Coyotes,1,,Boston Bruins,Arizona Coyotes,0.38333333333333336,0.65
+2022-01-28,8:30 PM,Colorado Avalanche,6,Chicago Blackhawks,4,,Colorado Avalanche,Chicago Blackhawks,0.55,0.8666666666666667
+2022-01-28,9:00 PM,Washington Capitals,5,Dallas Stars,0,,Washington Capitals,Dallas Stars,0.6,0.5833333333333334
+2022-01-28,8:00 PM,Minnesota Wild,3,New York Rangers,2,,Minnesota Wild,New York Rangers,0.6833333333333333,0.7166666666666667
+2022-01-28,7:00 PM,Detroit Red Wings,3,Pittsburgh Penguins,2,SO,Detroit Red Wings,Pittsburgh Penguins,0.7666666666666667,0.4666666666666667
+2022-01-29,9:00 PM,Buffalo Sabres,3,Arizona Coyotes,1,,Buffalo Sabres,Arizona Coyotes,0.35,0.35
+2022-01-29,7:00 PM,New Jersey Devils,1,Carolina Hurricanes,2,,Carolina Hurricanes,New Jersey Devils,0.7,0.31666666666666665
+2022-01-29,10:00 PM,Vancouver Canucks,0,Calgary Flames,1,OT,Calgary Flames,Vancouver Canucks,0.5333333333333333,0.5166666666666667
+2022-01-29,7:00 PM,Toronto Maple Leafs,7,Detroit Red Wings,4,,Toronto Maple Leafs,Detroit Red Wings,0.4666666666666667,0.7666666666666667
+2022-01-29,6:00 PM,San Jose Sharks,4,Florida Panthers,5,OT,Florida Panthers,San Jose Sharks,0.7166666666666667,0.5166666666666667
+2022-01-29,7:00 PM,Edmonton Oilers,7,Montreal Canadiens,2,,Edmonton Oilers,Montreal Canadiens,0.2833333333333333,0.4666666666666667
+2022-01-29,12:30 PM,Anaheim Ducks,2,Ottawa Senators,1,,Anaheim Ducks,Ottawa Senators,0.4,0.5166666666666667
+2022-01-29,1:00 PM,Los Angeles Kings,3,Philadelphia Flyers,4,OT,Philadelphia Flyers,Los Angeles Kings,0.3,0.55
+2022-01-29,3:00 PM,Winnipeg Jets,4,St. Louis Blues,1,,Winnipeg Jets,St. Louis Blues,0.65,0.45
+2022-01-29,7:00 PM,Vegas Golden Knights,3,Tampa Bay Lightning,2,SO,Vegas Golden Knights,Tampa Bay Lightning,0.7333333333333333,0.6166666666666667
+2022-01-30,5:00 PM,San Jose Sharks,1,Carolina Hurricanes,2,,Carolina Hurricanes,San Jose Sharks,0.7,0.5333333333333333
+2022-01-30,8:00 PM,Buffalo Sabres,1,Colorado Avalanche,4,,Colorado Avalanche,Buffalo Sabres,0.8666666666666667,0.35
+2022-01-30,7:00 PM,Boston Bruins,1,Dallas Stars,6,,Dallas Stars,Boston Bruins,0.6,0.6833333333333333
+2022-01-30,7:00 PM,Columbus Blue Jackets,6,Montreal Canadiens,3,,Columbus Blue Jackets,Montreal Canadiens,0.2833333333333333,0.4166666666666667
+2022-01-30,7:30 PM,Minnesota Wild,4,New York Islanders,3,,Minnesota Wild,New York Islanders,0.48333333333333334,0.7166666666666667
+2022-01-30,1:00 PM,Seattle Kraken,2,New York Rangers,3,,New York Rangers,Seattle Kraken,0.65,0.38333333333333336
+2022-01-30,1:00 PM,Los Angeles Kings,4,Pittsburgh Penguins,3,,Los Angeles Kings,Pittsburgh Penguins,0.7833333333333333,0.55
+2022-01-31,7:00 PM,Florida Panthers,8,Columbus Blue Jackets,4,,Florida Panthers,Columbus Blue Jackets,0.45,0.7333333333333333
+2022-01-31,7:30 PM,Vancouver Canucks,3,Chicago Blackhawks,1,,Vancouver Canucks,Chicago Blackhawks,0.5166666666666667,0.5333333333333333
+2022-01-31,7:30 PM,Anaheim Ducks,1,Detroit Red Wings,2,OT,Detroit Red Wings,Anaheim Ducks,0.4666666666666667,0.5166666666666667
+2022-01-31,7:30 PM,Edmonton Oilers,2,Ottawa Senators,3,OT,Ottawa Senators,Edmonton Oilers,0.4,0.4666666666666667
+2022-01-31,7:30 PM,New Jersey Devils,4,Toronto Maple Leafs,6,,Toronto Maple Leafs,New Jersey Devils,0.7666666666666667,0.31666666666666665
+2022-02-01,7:00 PM,Seattle Kraken,2,Boston Bruins,3,,Boston Bruins,Seattle Kraken,0.65,0.38333333333333336
+2022-02-01,9:00 PM,Arizona Coyotes,3,Colorado Avalanche,2,SO,Arizona Coyotes,Colorado Avalanche,0.8666666666666667,0.35
+2022-02-01,8:30 PM,Calgary Flames,4,Dallas Stars,3,,Calgary Flames,Dallas Stars,0.6333333333333333,0.55
+2022-02-01,7:00 PM,Toronto Maple Leafs,7,New Jersey Devils,1,,Toronto Maple Leafs,New Jersey Devils,0.3,0.7666666666666667
+2022-02-01,8:00 PM,Vancouver Canucks,2,Nashville Predators,4,,Nashville Predators,Vancouver Canucks,0.65,0.5666666666666667
+2022-02-01,7:30 PM,Ottawa Senators,1,New York Islanders,4,,New York Islanders,Ottawa Senators,0.4666666666666667,0.4166666666666667
+2022-02-01,7:00 PM,Florida Panthers,2,New York Rangers,5,,New York Rangers,Florida Panthers,0.65,0.7333333333333333
+2022-02-01,7:00 PM,Winnipeg Jets,1,Philadelphia Flyers,3,,Philadelphia Flyers,Winnipeg Jets,0.3,0.48333333333333334
+2022-02-01,7:00 PM,Washington Capitals,4,Pittsburgh Penguins,3,OT,Washington Capitals,Pittsburgh Penguins,0.7833333333333333,0.5833333333333334
+2022-02-01,7:00 PM,San Jose Sharks,2,Tampa Bay Lightning,3,OT,Tampa Bay Lightning,San Jose Sharks,0.7166666666666667,0.5
+2022-02-01,10:00 PM,Buffalo Sabres,2,Vegas Golden Knights,5,,Vegas Golden Knights,Buffalo Sabres,0.6166666666666667,0.35
+2022-02-02,9:30 PM,Calgary Flames,4,Arizona Coyotes,2,,Calgary Flames,Arizona Coyotes,0.38333333333333336,0.55
+2022-02-02,9:30 PM,Minnesota Wild,5,Chicago Blackhawks,0,,Minnesota Wild,Chicago Blackhawks,0.48333333333333334,0.7166666666666667
+2022-02-02,7:30 PM,Los Angeles Kings,5,Detroit Red Wings,3,,Los Angeles Kings,Detroit Red Wings,0.4666666666666667,0.5833333333333334
+2022-02-02,7:00 PM,Seattle Kraken,3,New York Islanders,0,,Seattle Kraken,New York Islanders,0.4666666666666667,0.38333333333333336
+2022-02-02,7:00 PM,Edmonton Oilers,5,Washington Capitals,3,,Edmonton Oilers,Washington Capitals,0.6,0.48333333333333334
+2022-02-07,7:00 PM,New Jersey Devils,1,Ottawa Senators,4,,Ottawa Senators,New Jersey Devils,0.4166666666666667,0.3
+2022-02-07,7:00 PM,Carolina Hurricanes,3,Toronto Maple Leafs,4,OT,Toronto Maple Leafs,Carolina Hurricanes,0.7666666666666667,0.7333333333333333
+2022-02-08,7:00 PM,Pittsburgh Penguins,4,Boston Bruins,2,,Pittsburgh Penguins,Boston Bruins,0.65,0.7666666666666667
+2022-02-08,9:00 PM,Vegas Golden Knights,4,Edmonton Oilers,0,,Vegas Golden Knights,Edmonton Oilers,0.48333333333333334,0.65
+2022-02-08,7:00 PM,New Jersey Devils,7,Montreal Canadiens,1,,New Jersey Devils,Montreal Canadiens,0.26666666666666666,0.26666666666666666
+2022-02-08,7:00 PM,Carolina Hurricanes,3,Ottawa Senators,4,,Ottawa Senators,Carolina Hurricanes,0.45,0.7166666666666667
+2022-02-08,10:00 PM,Arizona Coyotes,1,Vancouver Canucks,5,,Vancouver Canucks,Arizona Coyotes,0.5666666666666667,0.38333333333333336
+2022-02-08,8:00 PM,Minnesota Wild,0,Winnipeg Jets,2,,Winnipeg Jets,Minnesota Wild,0.4666666666666667,0.7166666666666667
+2022-02-08,7:00 PM,Columbus Blue Jackets,5,Washington Capitals,4,,Columbus Blue Jackets,Washington Capitals,0.5666666666666667,0.4166666666666667
+2022-02-09,9:30 PM,Vegas Golden Knights,0,Calgary Flames,6,,Calgary Flames,Vegas Golden Knights,0.5833333333333334,0.65
+2022-02-09,8:00 PM,Nashville Predators,3,Dallas Stars,4,,Dallas Stars,Nashville Predators,0.6,0.6833333333333333
+2022-02-09,8:00 PM,Chicago Blackhawks,4,Edmonton Oilers,1,,Chicago Blackhawks,Edmonton Oilers,0.48333333333333334,0.45
+2022-02-09,7:00 PM,Detroit Red Wings,6,Philadelphia Flyers,3,,Detroit Red Wings,Philadelphia Flyers,0.31666666666666665,0.4666666666666667
+2022-02-09,10:00 PM,Arizona Coyotes,5,Seattle Kraken,2,,Arizona Coyotes,Seattle Kraken,0.4166666666666667,0.35
+2022-02-09,10:30 PM,New York Islanders,6,Vancouver Canucks,3,,New York Islanders,Vancouver Canucks,0.6,0.43333333333333335
+2022-02-10,7:00 PM,Carolina Hurricanes,6,Boston Bruins,0,,Carolina Hurricanes,Boston Bruins,0.6166666666666667,0.6833333333333333
+2022-02-10,7:00 PM,Columbus Blue Jackets,4,Buffalo Sabres,3,OT,Columbus Blue Jackets,Buffalo Sabres,0.31666666666666665,0.4166666666666667
+2022-02-10,9:00 PM,Toronto Maple Leafs,2,Calgary Flames,5,,Calgary Flames,Toronto Maple Leafs,0.6166666666666667,0.8
+2022-02-10,9:00 PM,Tampa Bay Lightning,2,Colorado Avalanche,3,,Colorado Avalanche,Tampa Bay Lightning,0.85,0.75
+2022-02-10,7:00 PM,Washington Capitals,5,Montreal Canadiens,2,,Washington Capitals,Montreal Canadiens,0.23333333333333334,0.5333333333333333
+2022-02-10,7:00 PM,Pittsburgh Penguins,2,Ottawa Senators,0,,Pittsburgh Penguins,Ottawa Senators,0.48333333333333334,0.7666666666666667
+2022-02-10,8:00 PM,New Jersey Devils,7,St. Louis Blues,4,,New Jersey Devils,St. Louis Blues,0.65,0.2833333333333333
+2022-02-11,10:00 PM,Seattle Kraken,4,Anaheim Ducks,3,,Seattle Kraken,Anaheim Ducks,0.5333333333333333,0.4166666666666667
+2022-02-11,9:30 PM,Tampa Bay Lightning,4,Arizona Coyotes,3,,Tampa Bay Lightning,Arizona Coyotes,0.36666666666666664,0.7166666666666667
+2022-02-11,8:30 PM,Winnipeg Jets,3,Dallas Stars,4,OT,Dallas Stars,Winnipeg Jets,0.6,0.4666666666666667
+2022-02-11,9:00 PM,New York Islanders,1,Edmonton Oilers,3,,Edmonton Oilers,New York Islanders,0.45,0.4666666666666667
+2022-02-12,10:00 PM,New York Islanders,2,Calgary Flames,5,,Calgary Flames,New York Islanders,0.6333333333333333,0.4666666666666667
+2022-02-12,12:00 PM,Philadelphia Flyers,2,Detroit Red Wings,4,,Detroit Red Wings,Philadelphia Flyers,0.5,0.31666666666666665
+2022-02-12,8:00 PM,Carolina Hurricanes,2,Minnesota Wild,3,,Minnesota Wild,Carolina Hurricanes,0.6833333333333333,0.6833333333333333
+2022-02-12,12:30 PM,Columbus Blue Jackets,2,Montreal Canadiens,1,,Columbus Blue Jackets,Montreal Canadiens,0.21666666666666667,0.45
+2022-02-12,7:00 PM,Winnipeg Jets,5,Nashville Predators,2,,Winnipeg Jets,Nashville Predators,0.6833333333333333,0.45
+2022-02-12,12:30 PM,Boston Bruins,2,Ottawa Senators,0,,Boston Bruins,Ottawa Senators,0.48333333333333334,0.6166666666666667
+2022-02-12,8:00 PM,Chicago Blackhawks,1,St. Louis Blues,5,,St. Louis Blues,Chicago Blackhawks,0.65,0.48333333333333334
+2022-02-12,7:00 PM,Toronto Maple Leafs,2,Vancouver Canucks,3,,Vancouver Canucks,Toronto Maple Leafs,0.5666666666666667,0.7666666666666667
+2022-02-13,2:00 PM,Colorado Avalanche,4,Dallas Stars,0,,Colorado Avalanche,Dallas Stars,0.6333333333333333,0.85
+2022-02-13,12:30 PM,Buffalo Sabres,5,Montreal Canadiens,3,,Buffalo Sabres,Montreal Canadiens,0.21666666666666667,0.3333333333333333
+2022-02-13,1:30 PM,Pittsburgh Penguins,4,New Jersey Devils,2,,Pittsburgh Penguins,New Jersey Devils,0.31666666666666665,0.7666666666666667
+2022-02-13,12:30 PM,Ottawa Senators,4,Washington Capitals,1,,Ottawa Senators,Washington Capitals,0.5666666666666667,0.45
+2022-02-14,8:00 PM,Detroit Red Wings,4,Minnesota Wild,7,,Minnesota Wild,Detroit Red Wings,0.7166666666666667,0.5333333333333333
+2022-02-14,9:00 PM,Toronto Maple Leafs,6,Seattle Kraken,2,,Toronto Maple Leafs,Seattle Kraken,0.4166666666666667,0.7333333333333333
+2022-02-14,10:30 PM,Edmonton Oilers,3,San Jose Sharks,0,,Edmonton Oilers,San Jose Sharks,0.5166666666666667,0.48333333333333334
+2022-02-14,9:00 PM,Chicago Blackhawks,3,Winnipeg Jets,1,,Chicago Blackhawks,Winnipeg Jets,0.45,0.45
+2022-02-15,7:00 PM,New York Islanders,3,Buffalo Sabres,6,,Buffalo Sabres,New York Islanders,0.36666666666666664,0.4666666666666667
+2022-02-15,9:00 PM,Columbus Blue Jackets,2,Calgary Flames,6,,Calgary Flames,Columbus Blue Jackets,0.6333333333333333,0.45
+2022-02-15,9:00 PM,Dallas Stars,4,Colorado Avalanche,1,,Dallas Stars,Colorado Avalanche,0.85,0.6
+2022-02-15,10:30 PM,Edmonton Oilers,5,Los Angeles Kings,2,,Edmonton Oilers,Los Angeles Kings,0.6166666666666667,0.48333333333333334
+2022-02-15,7:00 PM,Tampa Bay Lightning,6,New Jersey Devils,3,,Tampa Bay Lightning,New Jersey Devils,0.2833333333333333,0.7166666666666667
+2022-02-15,8:00 PM,Washington Capitals,4,Nashville Predators,1,,Washington Capitals,Nashville Predators,0.65,0.5333333333333333
+2022-02-15,7:00 PM,Boston Bruins,1,New York Rangers,2,SO,New York Rangers,Boston Bruins,0.6833333333333333,0.6166666666666667
+2022-02-15,7:00 PM,St. Louis Blues,5,Ottawa Senators,2,,St. Louis Blues,Ottawa Senators,0.48333333333333334,0.65
+2022-02-15,7:00 PM,Philadelphia Flyers,4,Pittsburgh Penguins,5,OT,Pittsburgh Penguins,Philadelphia Flyers,0.7666666666666667,0.31666666666666665
+2022-02-16,7:30 PM,Florida Panthers,3,Carolina Hurricanes,2,OT,Florida Panthers,Carolina Hurricanes,0.65,0.7
+2022-02-16,9:30 PM,Anaheim Ducks,2,Calgary Flames,6,,Calgary Flames,Anaheim Ducks,0.65,0.5333333333333333
+2022-02-16,10:00 PM,Colorado Avalanche,2,Vegas Golden Knights,0,,Colorado Avalanche,Vegas Golden Knights,0.6166666666666667,0.85
+2022-02-16,7:00 PM,Minnesota Wild,3,Winnipeg Jets,6,,Winnipeg Jets,Minnesota Wild,0.43333333333333335,0.7166666666666667
+2022-02-17,7:00 PM,Ottawa Senators,3,Buffalo Sabres,1,,Ottawa Senators,Buffalo Sabres,0.4,0.48333333333333334
+2022-02-17,8:30 PM,Columbus Blue Jackets,7,Chicago Blackhawks,4,,Columbus Blue Jackets,Chicago Blackhawks,0.48333333333333334,0.4166666666666667
+2022-02-17,9:00 PM,Anaheim Ducks,3,Edmonton Oilers,7,,Edmonton Oilers,Anaheim Ducks,0.48333333333333334,0.5333333333333333
+2022-02-17,7:00 PM,St. Louis Blues,2,Montreal Canadiens,3,OT,Montreal Canadiens,St. Louis Blues,0.21666666666666667,0.6833333333333333
+2022-02-17,7:30 PM,Boston Bruins,1,New York Islanders,4,,New York Islanders,Boston Bruins,0.4666666666666667,0.6333333333333333
+2022-02-17,7:00 PM,Detroit Red Wings,3,New York Rangers,2,SO,Detroit Red Wings,New York Rangers,0.6833333333333333,0.5166666666666667
+2022-02-17,7:00 PM,Washington Capitals,5,Philadelphia Flyers,3,,Washington Capitals,Philadelphia Flyers,0.31666666666666665,0.5333333333333333
+2022-02-17,10:30 PM,Vancouver Canucks,5,San Jose Sharks,4,OT,Vancouver Canucks,San Jose Sharks,0.5166666666666667,0.6
+2022-02-17,7:00 PM,Pittsburgh Penguins,1,Toronto Maple Leafs,4,,Toronto Maple Leafs,Pittsburgh Penguins,0.7333333333333333,0.7666666666666667
+2022-02-17,8:00 PM,Seattle Kraken,3,Winnipeg Jets,5,,Winnipeg Jets,Seattle Kraken,0.4666666666666667,0.38333333333333336
+2022-02-18,7:00 PM,Nashville Predators,3,Carolina Hurricanes,5,,Carolina Hurricanes,Nashville Predators,0.65,0.65
+2022-02-18,8:30 PM,Dallas Stars,1,Chicago Blackhawks,0,SO,Dallas Stars,Chicago Blackhawks,0.45,0.6
+2022-02-18,8:00 PM,Florida Panthers,6,Minnesota Wild,2,,Florida Panthers,Minnesota Wild,0.7166666666666667,0.7
+2022-02-18,10:00 PM,Los Angeles Kings,4,Vegas Golden Knights,3,OT,Los Angeles Kings,Vegas Golden Knights,0.6166666666666667,0.6
+2022-02-19,9:00 PM,Los Angeles Kings,5,Arizona Coyotes,3,,Los Angeles Kings,Arizona Coyotes,0.3333333333333333,0.6333333333333333
+2022-02-19,1:00 PM,Colorado Avalanche,5,Buffalo Sabres,3,,Colorado Avalanche,Buffalo Sabres,0.4,0.85
+2022-02-19,10:00 PM,Seattle Kraken,1,Calgary Flames,2,,Calgary Flames,Seattle Kraken,0.65,0.38333333333333336
+2022-02-19,7:00 PM,Boston Bruins,3,Ottawa Senators,2,OT,Boston Bruins,Ottawa Senators,0.5166666666666667,0.6
+2022-02-19,7:00 PM,St. Louis Blues,6,Toronto Maple Leafs,3,,St. Louis Blues,Toronto Maple Leafs,0.7333333333333333,0.6666666666666666
+2022-02-19,10:00 PM,Anaheim Ducks,7,Vancouver Canucks,4,,Anaheim Ducks,Vancouver Canucks,0.6333333333333333,0.5
+2022-02-19,4:00 PM,Edmonton Oilers,4,Winnipeg Jets,2,,Edmonton Oilers,Winnipeg Jets,0.5,0.5166666666666667
+2022-02-20,7:00 PM,Dallas Stars,1,Arizona Coyotes,3,,Arizona Coyotes,Dallas Stars,0.3,0.6
+2022-02-20,6:00 PM,Buffalo Sabres,3,Columbus Blue Jackets,7,,Columbus Blue Jackets,Buffalo Sabres,0.4166666666666667,0.36666666666666664
+2022-02-20,3:00 PM,Florida Panthers,5,Chicago Blackhawks,2,,Florida Panthers,Chicago Blackhawks,0.4666666666666667,0.7
+2022-02-20,8:00 PM,Minnesota Wild,7,Edmonton Oilers,3,,Minnesota Wild,Edmonton Oilers,0.5166666666666667,0.6833333333333333
+2022-02-20,2:00 PM,Montreal Canadiens,3,New York Islanders,2,SO,Montreal Canadiens,New York Islanders,0.5,0.25
+2022-02-20,5:00 PM,New York Rangers,2,Ottawa Senators,1,,New York Rangers,Ottawa Senators,0.5333333333333333,0.6666666666666666
+2022-02-20,1:00 PM,Carolina Hurricanes,4,Pittsburgh Penguins,3,,Carolina Hurricanes,Pittsburgh Penguins,0.7666666666666667,0.6833333333333333
+2022-02-20,8:00 PM,Vegas Golden Knights,4,San Jose Sharks,1,,Vegas Golden Knights,San Jose Sharks,0.5,0.6
+2022-02-21,1:00 PM,Colorado Avalanche,1,Boston Bruins,5,,Boston Bruins,Colorado Avalanche,0.6333333333333333,0.8833333333333333
+2022-02-21,4:00 PM,Winnipeg Jets,1,Calgary Flames,3,,Calgary Flames,Winnipeg Jets,0.65,0.5
+2022-02-21,7:00 PM,Toronto Maple Leafs,2,Montreal Canadiens,5,,Montreal Canadiens,Toronto Maple Leafs,0.25,0.7
+2022-02-21,3:00 PM,Carolina Hurricanes,4,Philadelphia Flyers,3,OT,Carolina Hurricanes,Philadelphia Flyers,0.31666666666666665,0.6833333333333333
+2022-02-21,10:00 PM,Seattle Kraken,2,Vancouver Canucks,5,,Vancouver Canucks,Seattle Kraken,0.6333333333333333,0.35
+2022-02-22,10:00 PM,San Jose Sharks,3,Anaheim Ducks,4,SO,Anaheim Ducks,San Jose Sharks,0.5333333333333333,0.4666666666666667
+2022-02-22,7:00 PM,Toronto Maple Leafs,3,Columbus Blue Jackets,4,OT,Columbus Blue Jackets,Toronto Maple Leafs,0.45,0.7
+2022-02-22,7:00 PM,Nashville Predators,6,Florida Panthers,4,,Nashville Predators,Florida Panthers,0.7333333333333333,0.6166666666666667
+2022-02-22,7:00 PM,Minnesota Wild,3,Ottawa Senators,4,,Ottawa Senators,Minnesota Wild,0.5333333333333333,0.7166666666666667
+2022-02-22,7:00 PM,St. Louis Blues,4,Philadelphia Flyers,1,,St. Louis Blues,Philadelphia Flyers,0.3333333333333333,0.7
+2022-02-22,10:00 PM,New York Islanders,5,Seattle Kraken,2,,New York Islanders,Seattle Kraken,0.31666666666666665,0.5166666666666667
+2022-02-23,10:00 PM,Los Angeles Kings,3,Arizona Coyotes,2,,Los Angeles Kings,Arizona Coyotes,0.3333333333333333,0.6333333333333333
+2022-02-23,7:30 PM,Winnipeg Jets,2,Dallas Stars,3,OT,Dallas Stars,Winnipeg Jets,0.5666666666666667,0.5
+2022-02-23,7:30 PM,Colorado Avalanche,5,Detroit Red Wings,2,,Colorado Avalanche,Detroit Red Wings,0.5166666666666667,0.85
+2022-02-23,7:30 PM,Buffalo Sabres,0,Montreal Canadiens,4,,Montreal Canadiens,Buffalo Sabres,0.2833333333333333,0.35
+2022-02-23,7:30 PM,Edmonton Oilers,3,Tampa Bay Lightning,5,,Tampa Bay Lightning,Edmonton Oilers,0.7166666666666667,0.48333333333333334
+2022-02-24,7:00 PM,Columbus Blue Jackets,6,Florida Panthers,3,,Columbus Blue Jackets,Florida Panthers,0.7333333333333333,0.48333333333333334
+2022-02-24,8:30 PM,Dallas Stars,1,Nashville Predators,2,SO,Nashville Predators,Dallas Stars,0.65,0.5666666666666667
+2022-02-24,7:00 PM,Washington Capitals,1,New York Rangers,4,,New York Rangers,Washington Capitals,0.6666666666666666,0.5333333333333333
+2022-02-24,7:00 PM,New Jersey Devils,6,Pittsburgh Penguins,1,,New Jersey Devils,Pittsburgh Penguins,0.75,0.2833333333333333
+2022-02-24,10:00 PM,Boston Bruins,3,Seattle Kraken,2,OT,Boston Bruins,Seattle Kraken,0.3,0.6333333333333333
+2022-02-24,10:30 PM,New York Islanders,3,San Jose Sharks,4,SO,San Jose Sharks,New York Islanders,0.48333333333333334,0.55
+2022-02-24,7:00 PM,Minnesota Wild,1,Toronto Maple Leafs,3,,Toronto Maple Leafs,Minnesota Wild,0.6833333333333333,0.7
+2022-02-24,10:00 PM,Calgary Flames,1,Vancouver Canucks,7,,Vancouver Canucks,Calgary Flames,0.6666666666666666,0.65
+2022-02-25,10:00 PM,Los Angeles Kings,4,Anaheim Ducks,1,,Los Angeles Kings,Anaheim Ducks,0.5333333333333333,0.65
+2022-02-25,9:30 PM,Vegas Golden Knights,1,Arizona Coyotes,3,,Arizona Coyotes,Vegas Golden Knights,0.3333333333333333,0.6333333333333333
+2022-02-25,7:00 PM,Columbus Blue Jackets,0,Carolina Hurricanes,4,,Carolina Hurricanes,Columbus Blue Jackets,0.7166666666666667,0.5166666666666667
+2022-02-25,8:30 PM,New Jersey Devils,5,Chicago Blackhawks,8,,Chicago Blackhawks,New Jersey Devils,0.43333333333333335,0.31666666666666665
+2022-02-25,9:00 PM,Winnipeg Jets,3,Colorado Avalanche,6,,Colorado Avalanche,Winnipeg Jets,0.8666666666666667,0.48333333333333334
+2022-02-25,8:00 PM,Buffalo Sabres,3,St. Louis Blues,5,,St. Louis Blues,Buffalo Sabres,0.7166666666666667,0.35
+2022-02-26,10:00 PM,Minnesota Wild,3,Calgary Flames,7,,Calgary Flames,Minnesota Wild,0.6166666666666667,0.6666666666666666
+2022-02-26,7:30 PM,Toronto Maple Leafs,10,Detroit Red Wings,7,,Toronto Maple Leafs,Detroit Red Wings,0.48333333333333334,0.6833333333333333
+2022-02-26,12:30 PM,Edmonton Oilers,4,Florida Panthers,3,,Edmonton Oilers,Florida Panthers,0.7,0.45
+2022-02-26,10:30 PM,New York Islanders,2,Los Angeles Kings,5,,Los Angeles Kings,New York Islanders,0.6833333333333333,0.5666666666666667
+2022-02-26,7:30 PM,Tampa Bay Lightning,3,Nashville Predators,2,,Tampa Bay Lightning,Nashville Predators,0.65,0.75
+2022-02-26,7:00 PM,Montreal Canadiens,2,Ottawa Senators,1,,Montreal Canadiens,Ottawa Senators,0.5666666666666667,0.31666666666666665
+2022-02-26,12:30 PM,Washington Capitals,1,Philadelphia Flyers,2,,Philadelphia Flyers,Washington Capitals,0.3333333333333333,0.5333333333333333
+2022-02-26,3:00 PM,New York Rangers,0,Pittsburgh Penguins,1,,Pittsburgh Penguins,New York Rangers,0.75,0.6666666666666666
+2022-02-26,10:00 PM,Boston Bruins,3,San Jose Sharks,1,,Boston Bruins,San Jose Sharks,0.48333333333333334,0.65
+2022-02-26,10:00 PM,Colorado Avalanche,3,Vegas Golden Knights,2,,Colorado Avalanche,Vegas Golden Knights,0.6333333333333333,0.8666666666666667
+2022-02-27,8:30 PM,New York Islanders,4,Anaheim Ducks,0,,New York Islanders,Anaheim Ducks,0.5,0.55
+2022-02-27,4:00 PM,Winnipeg Jets,5,Arizona Coyotes,3,,Winnipeg Jets,Arizona Coyotes,0.3333333333333333,0.48333333333333334
+2022-02-27,1:00 PM,Edmonton Oilers,1,Carolina Hurricanes,2,,Carolina Hurricanes,Edmonton Oilers,0.75,0.48333333333333334
+2022-02-27,6:00 PM,Pittsburgh Penguins,3,Columbus Blue Jackets,2,,Pittsburgh Penguins,Columbus Blue Jackets,0.5166666666666667,0.75
+2022-02-27,3:00 PM,St. Louis Blues,4,Chicago Blackhawks,0,,St. Louis Blues,Chicago Blackhawks,0.4666666666666667,0.7166666666666667
+2022-02-27,2:00 PM,Buffalo Sabres,2,Dallas Stars,4,,Dallas Stars,Buffalo Sabres,0.55,0.35
+2022-02-27,7:30 PM,Vancouver Canucks,5,New York Rangers,2,,Vancouver Canucks,New York Rangers,0.6333333333333333,0.6666666666666666
+2022-02-27,10:00 PM,Seattle Kraken,1,San Jose Sharks,3,,San Jose Sharks,Seattle Kraken,0.45,0.2833333333333333
+2022-02-28,10:30 PM,Boston Bruins,7,Los Angeles Kings,0,,Boston Bruins,Los Angeles Kings,0.6833333333333333,0.6666666666666666
+2022-02-28,7:30 PM,Vancouver Canucks,2,New Jersey Devils,7,,New Jersey Devils,Vancouver Canucks,0.31666666666666665,0.6666666666666666
+2022-02-28,7:30 PM,Toronto Maple Leafs,5,Washington Capitals,3,,Toronto Maple Leafs,Washington Capitals,0.5166666666666667,0.6833333333333333
+2022-03-01,10:00 PM,Boston Bruins,3,Anaheim Ducks,4,,Anaheim Ducks,Boston Bruins,0.48333333333333334,0.6666666666666666
+2022-03-01,7:00 PM,New Jersey Devils,3,Columbus Blue Jackets,4,,Columbus Blue Jackets,New Jersey Devils,0.48333333333333334,0.3333333333333333
+2022-03-01,9:00 PM,New York Islanders,3,Colorado Avalanche,5,,Colorado Avalanche,New York Islanders,0.8666666666666667,0.5666666666666667
+2022-03-01,7:30 PM,Carolina Hurricanes,3,Detroit Red Wings,4,OT,Detroit Red Wings,Carolina Hurricanes,0.45,0.7833333333333333
+2022-03-01,8:00 PM,Calgary Flames,5,Minnesota Wild,1,,Calgary Flames,Minnesota Wild,0.6333333333333333,0.65
+2022-03-01,7:00 PM,Edmonton Oilers,3,Philadelphia Flyers,0,,Edmonton Oilers,Philadelphia Flyers,0.36666666666666664,0.48333333333333334
+2022-03-01,7:00 PM,Ottawa Senators,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,Ottawa Senators,0.7666666666666667,0.5333333333333333
+2022-03-01,10:00 PM,San Jose Sharks,1,Vegas Golden Knights,3,,Vegas Golden Knights,San Jose Sharks,0.6,0.45
+2022-03-01,8:00 PM,Montreal Canadiens,4,Winnipeg Jets,8,,Winnipeg Jets,Montreal Canadiens,0.48333333333333334,0.31666666666666665
+2022-03-02,8:30 PM,Los Angeles Kings,3,Dallas Stars,4,,Dallas Stars,Los Angeles Kings,0.55,0.6833333333333333
+2022-03-02,7:30 PM,St. Louis Blues,3,New York Rangers,5,,New York Rangers,St. Louis Blues,0.6,0.7166666666666667
+2022-03-02,10:00 PM,Nashville Predators,3,Seattle Kraken,4,,Seattle Kraken,Nashville Predators,0.2833333333333333,0.65
+2022-03-02,7:30 PM,Buffalo Sabres,5,Toronto Maple Leafs,1,,Buffalo Sabres,Toronto Maple Leafs,0.6833333333333333,0.35
+2022-03-03,9:00 PM,Colorado Avalanche,1,Arizona Coyotes,2,,Arizona Coyotes,Colorado Avalanche,0.3333333333333333,0.8666666666666667
+2022-03-03,9:00 PM,Montreal Canadiens,5,Calgary Flames,4,OT,Montreal Canadiens,Calgary Flames,0.65,0.31666666666666665
+2022-03-03,8:30 PM,Edmonton Oilers,3,Chicago Blackhawks,4,OT,Chicago Blackhawks,Edmonton Oilers,0.43333333333333335,0.5166666666666667
+2022-03-03,7:00 PM,Ottawa Senators,0,Florida Panthers,3,,Florida Panthers,Ottawa Senators,0.6666666666666666,0.5
+2022-03-03,7:30 PM,Vancouver Canucks,4,New York Islanders,3,,Vancouver Canucks,New York Islanders,0.55,0.6666666666666666
+2022-03-03,7:00 PM,Minnesota Wild,5,Philadelphia Flyers,4,,Minnesota Wild,Philadelphia Flyers,0.36666666666666664,0.6
+2022-03-03,7:00 PM,Pittsburgh Penguins,5,Tampa Bay Lightning,1,,Pittsburgh Penguins,Tampa Bay Lightning,0.7666666666666667,0.75
+2022-03-03,9:00 PM,Boston Bruins,5,Vegas Golden Knights,2,,Boston Bruins,Vegas Golden Knights,0.6,0.6333333333333333
+2022-03-03,7:00 PM,Carolina Hurricanes,0,Washington Capitals,4,,Washington Capitals,Carolina Hurricanes,0.48333333333333334,0.7666666666666667
+2022-03-04,10:00 PM,Vegas Golden Knights,5,Anaheim Ducks,4,,Vegas Golden Knights,Anaheim Ducks,0.5,0.5666666666666667
+2022-03-04,7:00 PM,Minnesota Wild,4,Buffalo Sabres,5,,Buffalo Sabres,Minnesota Wild,0.38333333333333336,0.6
+2022-03-04,7:00 PM,Pittsburgh Penguins,2,Carolina Hurricanes,3,OT,Carolina Hurricanes,Pittsburgh Penguins,0.7333333333333333,0.75
+2022-03-04,7:00 PM,Los Angeles Kings,4,Columbus Blue Jackets,3,OT,Los Angeles Kings,Columbus Blue Jackets,0.5166666666666667,0.65
+2022-03-04,7:00 PM,New Jersey Devils,1,New York Rangers,3,,New York Rangers,New Jersey Devils,0.6,0.3
+2022-03-04,7:00 PM,Detroit Red Wings,1,Tampa Bay Lightning,3,,Tampa Bay Lightning,Detroit Red Wings,0.7333333333333333,0.45
+2022-03-04,8:00 PM,Dallas Stars,4,Winnipeg Jets,3,OT,Dallas Stars,Winnipeg Jets,0.48333333333333334,0.5833333333333334
+2022-03-05,4:00 PM,Ottawa Senators,5,Arizona Coyotes,8,,Arizona Coyotes,Ottawa Senators,0.36666666666666664,0.4666666666666667
+2022-03-05,7:00 PM,Boston Bruins,5,Columbus Blue Jackets,4,SO,Boston Bruins,Columbus Blue Jackets,0.5166666666666667,0.6666666666666666
+2022-03-05,10:00 PM,Calgary Flames,4,Colorado Avalanche,3,OT,Calgary Flames,Colorado Avalanche,0.8333333333333334,0.6333333333333333
+2022-03-05,7:00 PM,Montreal Canadiens,5,Edmonton Oilers,2,,Montreal Canadiens,Edmonton Oilers,0.5333333333333333,0.35
+2022-03-05,6:00 PM,Detroit Red Wings,2,Florida Panthers,6,,Florida Panthers,Detroit Red Wings,0.6666666666666666,0.4166666666666667
+2022-03-05,12:30 PM,St. Louis Blues,1,New York Islanders,2,,New York Islanders,St. Louis Blues,0.5166666666666667,0.7166666666666667
+2022-03-05,3:00 PM,Chicago Blackhawks,3,Philadelphia Flyers,4,,Philadelphia Flyers,Chicago Blackhawks,0.36666666666666664,0.4666666666666667
+2022-03-05,8:00 PM,Nashville Predators,8,San Jose Sharks,0,,Nashville Predators,San Jose Sharks,0.45,0.6166666666666667
+2022-03-05,7:00 PM,Vancouver Canucks,6,Toronto Maple Leafs,4,,Vancouver Canucks,Toronto Maple Leafs,0.65,0.6666666666666666
+2022-03-05,7:00 PM,Seattle Kraken,2,Washington Capitals,5,,Washington Capitals,Seattle Kraken,0.48333333333333334,0.31666666666666665
+2022-03-06,8:00 PM,San Jose Sharks,2,Anaheim Ducks,3,OT,Anaheim Ducks,San Jose Sharks,0.4666666666666667,0.45
+2022-03-06,1:00 PM,Los Angeles Kings,3,Buffalo Sabres,0,,Los Angeles Kings,Buffalo Sabres,0.4166666666666667,0.65
+2022-03-06,7:00 PM,Seattle Kraken,2,Carolina Hurricanes,3,,Carolina Hurricanes,Seattle Kraken,0.7333333333333333,0.3
+2022-03-06,7:00 PM,Tampa Bay Lightning,6,Chicago Blackhawks,3,,Tampa Bay Lightning,Chicago Blackhawks,0.43333333333333335,0.7333333333333333
+2022-03-06,4:00 PM,Dallas Stars,6,Minnesota Wild,3,,Dallas Stars,Minnesota Wild,0.5666666666666667,0.6166666666666667
+2022-03-06,1:00 PM,St. Louis Blues,2,New Jersey Devils,3,OT,New Jersey Devils,St. Louis Blues,0.3,0.7
+2022-03-06,8:00 PM,Ottawa Senators,1,Vegas Golden Knights,2,,Vegas Golden Knights,Ottawa Senators,0.6,0.4666666666666667
+2022-03-06,7:00 PM,New York Rangers,4,Winnipeg Jets,1,,New York Rangers,Winnipeg Jets,0.5,0.6333333333333333
+2022-03-07,7:00 PM,Los Angeles Kings,3,Boston Bruins,2,OT,Los Angeles Kings,Boston Bruins,0.7,0.6666666666666666
+2022-03-07,7:00 PM,Florida Panthers,6,Buffalo Sabres,1,,Florida Panthers,Buffalo Sabres,0.4,0.6833333333333333
+2022-03-07,7:00 PM,Toronto Maple Leafs,5,Columbus Blue Jackets,4,,Toronto Maple Leafs,Columbus Blue Jackets,0.5,0.6333333333333333
+2022-03-07,9:30 PM,Edmonton Oilers,1,Calgary Flames,3,,Calgary Flames,Edmonton Oilers,0.6333333333333333,0.5333333333333333
+2022-03-07,7:30 PM,Colorado Avalanche,5,New York Islanders,4,,Colorado Avalanche,New York Islanders,0.55,0.8166666666666667
+2022-03-08,9:00 PM,Washington Capitals,5,Calgary Flames,4,,Washington Capitals,Calgary Flames,0.6666666666666666,0.5166666666666667
+2022-03-08,8:30 PM,Anaheim Ducks,3,Chicago Blackhawks,8,,Chicago Blackhawks,Anaheim Ducks,0.43333333333333335,0.4666666666666667
+2022-03-08,7:30 PM,Arizona Coyotes,9,Detroit Red Wings,2,,Arizona Coyotes,Detroit Red Wings,0.4166666666666667,0.4
+2022-03-08,8:00 PM,New York Rangers,2,Minnesota Wild,5,,Minnesota Wild,New York Rangers,0.5333333333333333,0.6333333333333333
+2022-03-08,7:00 PM,Colorado Avalanche,3,New Jersey Devils,5,,New Jersey Devils,Colorado Avalanche,0.3333333333333333,0.85
+2022-03-08,8:00 PM,Dallas Stars,1,Nashville Predators,2,,Nashville Predators,Dallas Stars,0.6166666666666667,0.65
+2022-03-08,7:00 PM,Vegas Golden Knights,1,Philadelphia Flyers,2,,Philadelphia Flyers,Vegas Golden Knights,0.36666666666666664,0.6
+2022-03-08,7:00 PM,Florida Panthers,4,Pittsburgh Penguins,3,,Florida Panthers,Pittsburgh Penguins,0.7333333333333333,0.6833333333333333
+2022-03-08,8:00 PM,Ottawa Senators,4,St. Louis Blues,1,,Ottawa Senators,St. Louis Blues,0.6833333333333333,0.43333333333333335
+2022-03-08,7:30 PM,Seattle Kraken,4,Toronto Maple Leafs,6,,Toronto Maple Leafs,Seattle Kraken,0.6666666666666666,0.26666666666666666
+2022-03-08,8:00 PM,Tampa Bay Lightning,4,Winnipeg Jets,7,,Winnipeg Jets,Tampa Bay Lightning,0.4666666666666667,0.7333333333333333
+2022-03-09,8:00 PM,Washington Capitals,3,Edmonton Oilers,4,OT,Edmonton Oilers,Washington Capitals,0.5333333333333333,0.5166666666666667
+2022-03-09,10:30 PM,Montreal Canadiens,3,Vancouver Canucks,5,,Vancouver Canucks,Montreal Canadiens,0.6666666666666666,0.36666666666666664
+2022-03-10,7:00 PM,Chicago Blackhawks,3,Boston Bruins,4,,Boston Bruins,Chicago Blackhawks,0.6833333333333333,0.43333333333333335
+2022-03-10,7:00 PM,Vegas Golden Knights,1,Buffalo Sabres,3,,Buffalo Sabres,Vegas Golden Knights,0.36666666666666664,0.5666666666666667
+2022-03-10,7:00 PM,Colorado Avalanche,0,Carolina Hurricanes,2,,Carolina Hurricanes,Colorado Avalanche,0.7333333333333333,0.8166666666666667
+2022-03-10,9:00 PM,Tampa Bay Lightning,1,Calgary Flames,4,,Calgary Flames,Tampa Bay Lightning,0.6666666666666666,0.7
+2022-03-10,7:00 PM,Minnesota Wild,6,Detroit Red Wings,5,SO,Minnesota Wild,Detroit Red Wings,0.4166666666666667,0.5333333333333333
+2022-03-10,7:00 PM,Philadelphia Flyers,3,Florida Panthers,6,,Florida Panthers,Philadelphia Flyers,0.7166666666666667,0.36666666666666664
+2022-03-10,10:30 PM,San Jose Sharks,4,Los Angeles Kings,3,OT,San Jose Sharks,Los Angeles Kings,0.6666666666666666,0.43333333333333335
+2022-03-10,7:00 PM,Winnipeg Jets,2,New Jersey Devils,1,,Winnipeg Jets,New Jersey Devils,0.36666666666666664,0.48333333333333334
+2022-03-10,8:00 PM,Anaheim Ducks,1,Nashville Predators,4,,Nashville Predators,Anaheim Ducks,0.6166666666666667,0.4666666666666667
+2022-03-10,7:30 PM,Columbus Blue Jackets,0,New York Islanders,6,,New York Islanders,Columbus Blue Jackets,0.5166666666666667,0.5
+2022-03-10,7:00 PM,Seattle Kraken,3,Ottawa Senators,4,OT,Ottawa Senators,Seattle Kraken,0.43333333333333335,0.26666666666666666
+2022-03-10,8:00 PM,New York Rangers,2,St. Louis Blues,6,,St. Louis Blues,New York Rangers,0.65,0.6333333333333333
+2022-03-10,7:00 PM,Arizona Coyotes,5,Toronto Maple Leafs,4,OT,Arizona Coyotes,Toronto Maple Leafs,0.6666666666666666,0.43333333333333335
+2022-03-11,7:00 PM,Minnesota Wild,2,Columbus Blue Jackets,3,SO,Columbus Blue Jackets,Minnesota Wild,0.5,0.5333333333333333
+2022-03-11,7:30 PM,Winnipeg Jets,2,New York Islanders,5,,New York Islanders,Winnipeg Jets,0.55,0.5166666666666667
+2022-03-11,7:00 PM,Vegas Golden Knights,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Vegas Golden Knights,0.7,0.5333333333333333
+2022-03-11,10:00 PM,Washington Capitals,4,Vancouver Canucks,3,OT,Washington Capitals,Vancouver Canucks,0.6666666666666666,0.5166666666666667
+2022-03-12,7:00 PM,Arizona Coyotes,2,Boston Bruins,3,,Boston Bruins,Arizona Coyotes,0.6833333333333333,0.4666666666666667
+2022-03-12,3:00 PM,Philadelphia Flyers,1,Carolina Hurricanes,3,,Carolina Hurricanes,Philadelphia Flyers,0.7666666666666667,0.3333333333333333
+2022-03-12,7:00 PM,Detroit Red Wings,0,Calgary Flames,3,,Calgary Flames,Detroit Red Wings,0.6833333333333333,0.43333333333333335
+2022-03-12,8:00 PM,New York Rangers,7,Dallas Stars,4,,New York Rangers,Dallas Stars,0.65,0.6333333333333333
+2022-03-12,10:00 PM,Tampa Bay Lightning,1,Edmonton Oilers,4,,Edmonton Oilers,Tampa Bay Lightning,0.5333333333333333,0.7
+2022-03-12,7:00 PM,Seattle Kraken,4,Montreal Canadiens,3,SO,Seattle Kraken,Montreal Canadiens,0.36666666666666664,0.2833333333333333
+2022-03-12,7:00 PM,Anaheim Ducks,1,New Jersey Devils,2,SO,New Jersey Devils,Anaheim Ducks,0.36666666666666664,0.43333333333333335
+2022-03-12,12:30 PM,St. Louis Blues,7,Nashville Predators,4,,St. Louis Blues,Nashville Predators,0.6166666666666667,0.65
+2022-03-12,7:00 PM,Chicago Blackhawks,6,Ottawa Senators,3,,Chicago Blackhawks,Ottawa Senators,0.4666666666666667,0.4166666666666667
+2022-03-12,9:30 PM,Los Angeles Kings,0,San Jose Sharks,5,,San Jose Sharks,Los Angeles Kings,0.4666666666666667,0.6833333333333333
+2022-03-13,4:00 PM,Toronto Maple Leafs,2,Buffalo Sabres,5,,Buffalo Sabres,Toronto Maple Leafs,0.36666666666666664,0.6833333333333333
+2022-03-13,7:00 PM,Vegas Golden Knights,4,Columbus Blue Jackets,6,,Columbus Blue Jackets,Vegas Golden Knights,0.5,0.5
+2022-03-13,8:00 PM,Calgary Flames,0,Colorado Avalanche,3,,Colorado Avalanche,Calgary Flames,0.7833333333333333,0.7166666666666667
+2022-03-13,10:00 PM,Florida Panthers,2,Los Angeles Kings,3,SO,Los Angeles Kings,Florida Panthers,0.65,0.75
+2022-03-13,7:00 PM,Nashville Predators,6,Minnesota Wild,2,,Nashville Predators,Minnesota Wild,0.55,0.5833333333333334
+2022-03-13,7:30 PM,Anaheim Ducks,3,New York Islanders,4,,New York Islanders,Anaheim Ducks,0.55,0.4166666666666667
+2022-03-13,7:00 PM,Montreal Canadiens,4,Philadelphia Flyers,3,OT,Montreal Canadiens,Philadelphia Flyers,0.31666666666666665,0.38333333333333336
+2022-03-13,1:00 PM,Carolina Hurricanes,2,Pittsburgh Penguins,4,,Pittsburgh Penguins,Carolina Hurricanes,0.7,0.7666666666666667
+2022-03-13,7:00 PM,Winnipeg Jets,4,St. Louis Blues,3,OT,Winnipeg Jets,St. Louis Blues,0.6666666666666666,0.5166666666666667
+2022-03-13,10:00 PM,Tampa Bay Lightning,2,Vancouver Canucks,1,,Tampa Bay Lightning,Vancouver Canucks,0.65,0.6666666666666666
+2022-03-14,7:30 PM,Arizona Coyotes,5,Ottawa Senators,3,,Arizona Coyotes,Ottawa Senators,0.45,0.4666666666666667
+2022-03-15,8:30 PM,Boston Bruins,2,Chicago Blackhawks,1,OT,Boston Bruins,Chicago Blackhawks,0.43333333333333335,0.6833333333333333
+2022-03-15,9:00 PM,Detroit Red Wings,5,Edmonton Oilers,7,,Edmonton Oilers,Detroit Red Wings,0.5333333333333333,0.4
+2022-03-15,10:30 PM,Colorado Avalanche,3,Los Angeles Kings,0,,Colorado Avalanche,Los Angeles Kings,0.6833333333333333,0.7833333333333333
+2022-03-15,7:00 PM,Arizona Coyotes,6,Montreal Canadiens,3,,Arizona Coyotes,Montreal Canadiens,0.4166666666666667,0.4666666666666667
+2022-03-15,8:00 PM,Pittsburgh Penguins,1,Nashville Predators,4,,Nashville Predators,Pittsburgh Penguins,0.5833333333333334,0.7
+2022-03-15,7:00 PM,Anaheim Ducks,3,New York Rangers,4,OT,New York Rangers,Anaheim Ducks,0.6333333333333333,0.4
+2022-03-15,10:30 PM,Florida Panthers,3,San Jose Sharks,2,OT,Florida Panthers,San Jose Sharks,0.4666666666666667,0.7666666666666667
+2022-03-15,7:00 PM,Dallas Stars,0,Toronto Maple Leafs,4,,Toronto Maple Leafs,Dallas Stars,0.65,0.65
+2022-03-15,10:00 PM,New Jersey Devils,3,Vancouver Canucks,6,,Vancouver Canucks,New Jersey Devils,0.6166666666666667,0.4
+2022-03-15,8:00 PM,Vegas Golden Knights,3,Winnipeg Jets,7,,Winnipeg Jets,Vegas Golden Knights,0.5166666666666667,0.4666666666666667
+2022-03-15,7:00 PM,New York Islanders,3,Washington Capitals,4,SO,Washington Capitals,New York Islanders,0.5166666666666667,0.5666666666666667
+2022-03-16,10:00 PM,New Jersey Devils,3,Calgary Flames,6,,Calgary Flames,New Jersey Devils,0.6833333333333333,0.4
+2022-03-16,7:30 PM,Boston Bruins,2,Minnesota Wild,4,,Minnesota Wild,Boston Bruins,0.55,0.7166666666666667
+2022-03-16,7:30 PM,Columbus Blue Jackets,4,Ottawa Senators,1,,Columbus Blue Jackets,Ottawa Senators,0.45,0.5333333333333333
+2022-03-16,10:00 PM,Tampa Bay Lightning,4,Seattle Kraken,1,,Tampa Bay Lightning,Seattle Kraken,0.3,0.6666666666666666
+2022-03-17,7:00 PM,Washington Capitals,7,Columbus Blue Jackets,2,,Washington Capitals,Columbus Blue Jackets,0.5666666666666667,0.55
+2022-03-17,9:00 PM,Buffalo Sabres,1,Edmonton Oilers,6,,Edmonton Oilers,Buffalo Sabres,0.5666666666666667,0.38333333333333336
+2022-03-17,10:00 PM,San Jose Sharks,0,Los Angeles Kings,3,,Los Angeles Kings,San Jose Sharks,0.65,0.48333333333333334
+2022-03-17,7:00 PM,Dallas Stars,4,Montreal Canadiens,3,OT,Dallas Stars,Montreal Canadiens,0.4166666666666667,0.6166666666666667
+2022-03-17,7:00 PM,New York Islanders,2,New York Rangers,1,,New York Islanders,New York Rangers,0.65,0.55
+2022-03-17,7:00 PM,Nashville Predators,4,Philadelphia Flyers,5,,Philadelphia Flyers,Nashville Predators,0.3,0.5833333333333334
+2022-03-17,8:00 PM,Pittsburgh Penguins,3,St. Louis Blues,2,SO,Pittsburgh Penguins,St. Louis Blues,0.65,0.6666666666666666
+2022-03-17,7:00 PM,Carolina Hurricanes,2,Toronto Maple Leafs,3,,Toronto Maple Leafs,Carolina Hurricanes,0.65,0.7333333333333333
+2022-03-17,10:00 PM,Detroit Red Wings,1,Vancouver Canucks,0,,Detroit Red Wings,Vancouver Canucks,0.6166666666666667,0.4
+2022-03-17,10:30 PM,Florida Panthers,3,Vegas Golden Knights,5,,Vegas Golden Knights,Florida Panthers,0.4666666666666667,0.7666666666666667
+2022-03-18,10:00 PM,Florida Panthers,3,Anaheim Ducks,0,,Florida Panthers,Anaheim Ducks,0.4,0.7333333333333333
+2022-03-18,7:00 PM,Washington Capitals,4,Carolina Hurricanes,3,SO,Washington Capitals,Carolina Hurricanes,0.7,0.55
+2022-03-18,9:00 PM,Buffalo Sabres,1,Calgary Flames,0,OT,Buffalo Sabres,Calgary Flames,0.6833333333333333,0.38333333333333336
+2022-03-18,7:00 PM,Philadelphia Flyers,1,Ottawa Senators,3,,Ottawa Senators,Philadelphia Flyers,0.4166666666666667,0.3
+2022-03-18,10:30 PM,Colorado Avalanche,5,San Jose Sharks,3,,Colorado Avalanche,San Jose Sharks,0.48333333333333334,0.7833333333333333
+2022-03-18,8:00 PM,Boston Bruins,4,Winnipeg Jets,2,,Boston Bruins,Winnipeg Jets,0.5166666666666667,0.6833333333333333
+2022-03-19,5:00 PM,Pittsburgh Penguins,4,Arizona Coyotes,1,,Pittsburgh Penguins,Arizona Coyotes,0.48333333333333334,0.6666666666666666
+2022-03-19,5:00 PM,St. Louis Blues,4,Columbus Blue Jackets,5,,Columbus Blue Jackets,St. Louis Blues,0.5666666666666667,0.6333333333333333
+2022-03-19,3:00 PM,New Jersey Devils,3,Edmonton Oilers,6,,Edmonton Oilers,New Jersey Devils,0.5833333333333334,0.36666666666666664
+2022-03-19,2:00 PM,Chicago Blackhawks,1,Minnesota Wild,3,,Minnesota Wild,Chicago Blackhawks,0.5666666666666667,0.45
+2022-03-19,7:00 PM,Ottawa Senators,1,Montreal Canadiens,5,,Montreal Canadiens,Ottawa Senators,0.4,0.4166666666666667
+2022-03-19,7:00 PM,Toronto Maple Leafs,3,Nashville Predators,6,,Nashville Predators,Toronto Maple Leafs,0.5833333333333334,0.65
+2022-03-19,2:00 PM,Dallas Stars,2,New York Islanders,4,,New York Islanders,Dallas Stars,0.55,0.6166666666666667
+2022-03-19,10:00 PM,Detroit Red Wings,2,Seattle Kraken,4,,Seattle Kraken,Detroit Red Wings,0.3,0.4
+2022-03-19,8:00 PM,New York Rangers,2,Tampa Bay Lightning,1,,New York Rangers,Tampa Bay Lightning,0.6666666666666666,0.65
+2022-03-19,10:00 PM,Calgary Flames,5,Vancouver Canucks,2,,Calgary Flames,Vancouver Canucks,0.5833333333333334,0.7
+2022-03-19,4:00 PM,Los Angeles Kings,1,Vegas Golden Knights,5,,Vegas Golden Knights,Los Angeles Kings,0.4666666666666667,0.65
+2022-03-20,6:00 PM,New York Rangers,2,Carolina Hurricanes,0,,New York Rangers,Carolina Hurricanes,0.6833333333333333,0.65
+2022-03-20,7:00 PM,Winnipeg Jets,6,Chicago Blackhawks,4,,Winnipeg Jets,Chicago Blackhawks,0.45,0.48333333333333334
+2022-03-20,2:00 PM,New York Islanders,1,Philadelphia Flyers,2,,Philadelphia Flyers,New York Islanders,0.2833333333333333,0.55
+2022-03-20,7:00 PM,Arizona Coyotes,2,San Jose Sharks,4,,San Jose Sharks,Arizona Coyotes,0.45,0.48333333333333334
+2022-03-20,10:00 PM,Buffalo Sabres,3,Vancouver Canucks,2,OT,Buffalo Sabres,Vancouver Canucks,0.5666666666666667,0.4166666666666667
+2022-03-20,5:00 PM,Dallas Stars,3,Washington Capitals,2,,Dallas Stars,Washington Capitals,0.55,0.5833333333333334
+2022-03-21,10:00 PM,Nashville Predators,6,Anaheim Ducks,3,,Nashville Predators,Anaheim Ducks,0.4,0.6
+2022-03-21,9:30 PM,Edmonton Oilers,2,Colorado Avalanche,3,OT,Colorado Avalanche,Edmonton Oilers,0.7833333333333333,0.6
+2022-03-21,8:00 PM,Vegas Golden Knights,0,Minnesota Wild,3,,Minnesota Wild,Vegas Golden Knights,0.6,0.4666666666666667
+2022-03-21,7:00 PM,Boston Bruins,3,Montreal Canadiens,2,OT,Boston Bruins,Montreal Canadiens,0.4166666666666667,0.6833333333333333
+2022-03-22,10:00 PM,Seattle Kraken,4,Arizona Coyotes,2,,Seattle Kraken,Arizona Coyotes,0.45,0.3333333333333333
+2022-03-22,7:00 PM,Tampa Bay Lightning,2,Carolina Hurricanes,3,,Carolina Hurricanes,Tampa Bay Lightning,0.65,0.6333333333333333
+2022-03-22,9:00 PM,San Jose Sharks,4,Calgary Flames,3,,San Jose Sharks,Calgary Flames,0.7333333333333333,0.45
+2022-03-22,8:30 PM,Edmonton Oilers,3,Dallas Stars,5,,Dallas Stars,Edmonton Oilers,0.5833333333333334,0.6166666666666667
+2022-03-22,7:30 PM,Philadelphia Flyers,3,Detroit Red Wings,6,,Detroit Red Wings,Philadelphia Flyers,0.4,0.31666666666666665
+2022-03-22,10:30 PM,Nashville Predators,1,Los Angeles Kings,6,,Los Angeles Kings,Nashville Predators,0.65,0.6
+2022-03-22,7:00 PM,New York Rangers,4,New Jersey Devils,7,,New Jersey Devils,New York Rangers,0.3333333333333333,0.65
+2022-03-22,7:30 PM,Ottawa Senators,0,New York Islanders,3,,New York Islanders,Ottawa Senators,0.55,0.4166666666666667
+2022-03-22,7:00 PM,Columbus Blue Jackets,1,Pittsburgh Penguins,5,,Pittsburgh Penguins,Columbus Blue Jackets,0.6666666666666666,0.5666666666666667
+2022-03-22,8:00 PM,Vegas Golden Knights,0,Winnipeg Jets,4,,Winnipeg Jets,Vegas Golden Knights,0.5166666666666667,0.45
+2022-03-22,7:00 PM,St. Louis Blues,5,Washington Capitals,2,,St. Louis Blues,Washington Capitals,0.5333333333333333,0.6333333333333333
+2022-03-23,10:00 PM,Chicago Blackhawks,4,Anaheim Ducks,2,,Chicago Blackhawks,Anaheim Ducks,0.4,0.43333333333333335
+2022-03-23,7:30 PM,Pittsburgh Penguins,3,Buffalo Sabres,4,SO,Buffalo Sabres,Pittsburgh Penguins,0.43333333333333335,0.7
+2022-03-23,9:30 PM,Vancouver Canucks,3,Colorado Avalanche,1,,Vancouver Canucks,Colorado Avalanche,0.8,0.55
+2022-03-23,7:00 PM,New Jersey Devils,2,Toronto Maple Leafs,3,,Toronto Maple Leafs,New Jersey Devils,0.6166666666666667,0.3333333333333333
+2022-03-24,7:00 PM,Tampa Bay Lightning,2,Boston Bruins,3,,Boston Bruins,Tampa Bay Lightning,0.6833333333333333,0.6333333333333333
+2022-03-24,7:00 PM,Dallas Stars,4,Carolina Hurricanes,3,SO,Dallas Stars,Carolina Hurricanes,0.6666666666666666,0.6166666666666667
+2022-03-24,9:00 PM,San Jose Sharks,2,Edmonton Oilers,5,,Edmonton Oilers,San Jose Sharks,0.6166666666666667,0.48333333333333334
+2022-03-24,10:00 PM,Chicago Blackhawks,4,Los Angeles Kings,3,SO,Chicago Blackhawks,Los Angeles Kings,0.65,0.4666666666666667
+2022-03-24,8:00 PM,Vancouver Canucks,2,Minnesota Wild,3,OT,Minnesota Wild,Vancouver Canucks,0.6333333333333333,0.5833333333333334
+2022-03-24,7:00 PM,Florida Panthers,4,Montreal Canadiens,3,,Florida Panthers,Montreal Canadiens,0.43333333333333335,0.7333333333333333
+2022-03-24,7:30 PM,Detroit Red Wings,2,New York Islanders,5,,New York Islanders,Detroit Red Wings,0.55,0.43333333333333335
+2022-03-24,8:00 PM,Philadelphia Flyers,5,St. Louis Blues,2,,Philadelphia Flyers,St. Louis Blues,0.6333333333333333,0.31666666666666665
+2022-03-24,10:00 PM,Nashville Predators,1,Vegas Golden Knights,6,,Vegas Golden Knights,Nashville Predators,0.45,0.5666666666666667
+2022-03-24,8:00 PM,Ottawa Senators,5,Winnipeg Jets,2,,Ottawa Senators,Winnipeg Jets,0.5166666666666667,0.4166666666666667
+2022-03-25,7:00 PM,Washington Capitals,4,Buffalo Sabres,3,SO,Washington Capitals,Buffalo Sabres,0.4666666666666667,0.5333333333333333
+2022-03-25,9:00 PM,Arizona Coyotes,2,Calgary Flames,4,,Calgary Flames,Arizona Coyotes,0.7333333333333333,0.45
+2022-03-25,9:00 PM,Philadelphia Flyers,3,Colorado Avalanche,6,,Colorado Avalanche,Philadelphia Flyers,0.7666666666666667,0.35
+2022-03-25,7:00 PM,Pittsburgh Penguins,1,New York Rangers,5,,New York Rangers,Pittsburgh Penguins,0.6166666666666667,0.6833333333333333
+2022-03-25,8:00 PM,Columbus Blue Jackets,3,Winnipeg Jets,4,OT,Winnipeg Jets,Columbus Blue Jackets,0.5,0.5666666666666667
+2022-03-26,12:30 PM,New York Islanders,3,Boston Bruins,6,,Boston Bruins,New York Islanders,0.6833333333333333,0.55
+2022-03-26,10:00 PM,Edmonton Oilers,5,Calgary Flames,9,,Calgary Flames,Edmonton Oilers,0.7666666666666667,0.65
+2022-03-26,7:00 PM,Vancouver Canucks,4,Dallas Stars,1,,Vancouver Canucks,Dallas Stars,0.6166666666666667,0.6
+2022-03-26,12:30 PM,Tampa Bay Lightning,2,Detroit Red Wings,1,OT,Tampa Bay Lightning,Detroit Red Wings,0.4,0.6166666666666667
+2022-03-26,10:30 PM,Seattle Kraken,2,Los Angeles Kings,4,,Los Angeles Kings,Seattle Kraken,0.6333333333333333,0.36666666666666664
+2022-03-26,8:00 PM,Columbus Blue Jackets,2,Minnesota Wild,3,OT,Minnesota Wild,Columbus Blue Jackets,0.6333333333333333,0.55
+2022-03-26,7:00 PM,Toronto Maple Leafs,2,Montreal Canadiens,4,,Montreal Canadiens,Toronto Maple Leafs,0.43333333333333335,0.6333333333333333
+2022-03-26,7:00 PM,Florida Panthers,4,Ottawa Senators,3,SO,Florida Panthers,Ottawa Senators,0.43333333333333335,0.7333333333333333
+2022-03-26,10:30 PM,Anaheim Ducks,1,San Jose Sharks,4,,San Jose Sharks,Anaheim Ducks,0.48333333333333334,0.36666666666666664
+2022-03-26,8:00 PM,Carolina Hurricanes,7,St. Louis Blues,2,,Carolina Hurricanes,St. Louis Blues,0.6,0.6833333333333333
+2022-03-26,3:00 PM,Chicago Blackhawks,4,Vegas Golden Knights,5,OT,Vegas Golden Knights,Chicago Blackhawks,0.45,0.4666666666666667
+2022-03-26,7:00 PM,New Jersey Devils,3,Washington Capitals,4,,Washington Capitals,New Jersey Devils,0.55,0.3333333333333333
+2022-03-27,6:00 PM,Colorado Avalanche,2,Minnesota Wild,3,OT,Minnesota Wild,Colorado Avalanche,0.6333333333333333,0.7666666666666667
+2022-03-27,7:00 PM,Montreal Canadiens,2,New Jersey Devils,3,SO,New Jersey Devils,Montreal Canadiens,0.3,0.4666666666666667
+2022-03-27,6:00 PM,Philadelphia Flyers,4,Nashville Predators,5,,Nashville Predators,Philadelphia Flyers,0.5333333333333333,0.3333333333333333
+2022-03-27,2:00 PM,Tampa Bay Lightning,4,New York Islanders,1,,Tampa Bay Lightning,New York Islanders,0.5166666666666667,0.65
+2022-03-27,5:00 PM,Buffalo Sabres,4,New York Rangers,5,OT,New York Rangers,Buffalo Sabres,0.65,0.48333333333333334
+2022-03-27,5:00 PM,Detroit Red Wings,2,Pittsburgh Penguins,11,,Pittsburgh Penguins,Detroit Red Wings,0.6833333333333333,0.4166666666666667
+2022-03-27,7:00 PM,Florida Panthers,2,Toronto Maple Leafs,5,,Toronto Maple Leafs,Florida Panthers,0.6,0.75
+2022-03-27,7:00 PM,Arizona Coyotes,1,Winnipeg Jets,2,OT,Winnipeg Jets,Arizona Coyotes,0.5333333333333333,0.4166666666666667
+2022-03-28,8:30 PM,Buffalo Sabres,6,Chicago Blackhawks,5,,Buffalo Sabres,Chicago Blackhawks,0.45,0.4666666666666667
+2022-03-28,9:30 PM,Arizona Coyotes,1,Edmonton Oilers,6,,Edmonton Oilers,Arizona Coyotes,0.65,0.4166666666666667
+2022-03-28,10:30 PM,Seattle Kraken,6,Los Angeles Kings,1,,Seattle Kraken,Los Angeles Kings,0.6333333333333333,0.36666666666666664
+2022-03-28,7:30 PM,Vancouver Canucks,1,St. Louis Blues,4,,St. Louis Blues,Vancouver Canucks,0.6,0.6333333333333333
+2022-03-28,7:00 PM,Carolina Hurricanes,6,Washington Capitals,1,,Carolina Hurricanes,Washington Capitals,0.5833333333333334,0.6833333333333333
+2022-03-29,10:00 PM,Dallas Stars,3,Anaheim Ducks,2,,Dallas Stars,Anaheim Ducks,0.36666666666666664,0.6166666666666667
+2022-03-29,7:00 PM,Toronto Maple Leafs,6,Boston Bruins,4,,Toronto Maple Leafs,Boston Bruins,0.6833333333333333,0.6333333333333333
+2022-03-29,7:00 PM,New York Islanders,4,Columbus Blue Jackets,3,,New York Islanders,Columbus Blue Jackets,0.5666666666666667,0.5166666666666667
+2022-03-29,9:00 PM,Colorado Avalanche,2,Calgary Flames,1,,Colorado Avalanche,Calgary Flames,0.7666666666666667,0.75
+2022-03-29,7:00 PM,Montreal Canadiens,4,Florida Panthers,7,,Florida Panthers,Montreal Canadiens,0.7166666666666667,0.4666666666666667
+2022-03-29,8:00 PM,Philadelphia Flyers,1,Minnesota Wild,4,,Minnesota Wild,Philadelphia Flyers,0.6333333333333333,0.3333333333333333
+2022-03-29,8:00 PM,Ottawa Senators,1,Nashville Predators,4,,Nashville Predators,Ottawa Senators,0.5333333333333333,0.4166666666666667
+2022-03-29,7:00 PM,New York Rangers,3,Pittsburgh Penguins,2,,New York Rangers,Pittsburgh Penguins,0.6833333333333333,0.65
+2022-03-29,7:00 PM,Carolina Hurricanes,3,Tampa Bay Lightning,4,OT,Tampa Bay Lightning,Carolina Hurricanes,0.65,0.6833333333333333
+2022-03-30,10:00 PM,San Jose Sharks,2,Arizona Coyotes,5,,Arizona Coyotes,San Jose Sharks,0.4166666666666667,0.48333333333333334
+2022-03-30,7:00 PM,Winnipeg Jets,3,Buffalo Sabres,2,SO,Winnipeg Jets,Buffalo Sabres,0.5,0.5666666666666667
+2022-03-30,7:30 PM,New York Rangers,5,Detroit Red Wings,4,OT,New York Rangers,Detroit Red Wings,0.4,0.6833333333333333
+2022-03-30,9:30 PM,Los Angeles Kings,3,Edmonton Oilers,4,SO,Edmonton Oilers,Los Angeles Kings,0.65,0.6
+2022-03-30,10:00 PM,Vegas Golden Knights,3,Seattle Kraken,0,,Vegas Golden Knights,Seattle Kraken,0.4,0.48333333333333334
+2022-03-30,10:00 PM,St. Louis Blues,4,Vancouver Canucks,3,,St. Louis Blues,Vancouver Canucks,0.6,0.6
+2022-03-31,10:00 PM,Dallas Stars,3,Anaheim Ducks,2,OT,Dallas Stars,Anaheim Ducks,0.3333333333333333,0.65
+2022-03-31,7:00 PM,New Jersey Devils,1,Boston Bruins,8,,Boston Bruins,New Jersey Devils,0.6833333333333333,0.3333333333333333
+2022-03-31,7:00 PM,Montreal Canadiens,0,Carolina Hurricanes,4,,Carolina Hurricanes,Montreal Canadiens,0.6666666666666666,0.4666666666666667
+2022-03-31,9:00 PM,Los Angeles Kings,3,Calgary Flames,2,SO,Los Angeles Kings,Calgary Flames,0.7666666666666667,0.6166666666666667
+2022-03-31,9:00 PM,San Jose Sharks,2,Colorado Avalanche,4,,Colorado Avalanche,San Jose Sharks,0.75,0.45
+2022-03-31,7:00 PM,Chicago Blackhawks,0,Florida Panthers,4,,Florida Panthers,Chicago Blackhawks,0.7166666666666667,0.4166666666666667
+2022-03-31,8:00 PM,Pittsburgh Penguins,4,Minnesota Wild,3,OT,Pittsburgh Penguins,Minnesota Wild,0.65,0.65
+2022-03-31,7:00 PM,Columbus Blue Jackets,2,New York Islanders,5,,New York Islanders,Columbus Blue Jackets,0.5166666666666667,0.5333333333333333
+2022-03-31,7:00 PM,Winnipeg Jets,3,Toronto Maple Leafs,7,,Toronto Maple Leafs,Winnipeg Jets,0.6333333333333333,0.5833333333333334
+2022-04-01,10:30 PM,Anaheim Ducks,5,Arizona Coyotes,0,,Anaheim Ducks,Arizona Coyotes,0.4166666666666667,0.35
+2022-04-01,7:00 PM,Nashville Predators,3,Buffalo Sabres,4,,Buffalo Sabres,Nashville Predators,0.5,0.5333333333333333
+2022-04-01,7:30 PM,Ottawa Senators,5,Detroit Red Wings,2,,Ottawa Senators,Detroit Red Wings,0.4,0.38333333333333336
+2022-04-01,9:00 PM,St. Louis Blues,5,Edmonton Oilers,6,OT,Edmonton Oilers,St. Louis Blues,0.65,0.6
+2022-04-01,7:00 PM,New York Islanders,3,New York Rangers,0,,New York Islanders,New York Rangers,0.6833333333333333,0.55
+2022-04-01,10:00 PM,Vegas Golden Knights,5,Seattle Kraken,2,,Vegas Golden Knights,Seattle Kraken,0.4,0.5
+2022-04-01,7:00 PM,Chicago Blackhawks,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,Chicago Blackhawks,0.65,0.38333333333333336
+2022-04-02,7:00 PM,Columbus Blue Jackets,2,Boston Bruins,5,,Boston Bruins,Columbus Blue Jackets,0.6833333333333333,0.5333333333333333
+2022-04-02,7:00 PM,Minnesota Wild,3,Carolina Hurricanes,1,,Minnesota Wild,Carolina Hurricanes,0.7,0.6333333333333333
+2022-04-02,10:00 PM,St. Louis Blues,6,Calgary Flames,4,,St. Louis Blues,Calgary Flames,0.75,0.5833333333333334
+2022-04-02,3:00 PM,Pittsburgh Penguins,2,Colorado Avalanche,3,,Colorado Avalanche,Pittsburgh Penguins,0.75,0.65
+2022-04-02,12:30 PM,Florida Panthers,7,New Jersey Devils,6,OT,Florida Panthers,New Jersey Devils,0.3333333333333333,0.7166666666666667
+2022-04-02,7:00 PM,Toronto Maple Leafs,6,Philadelphia Flyers,3,,Toronto Maple Leafs,Philadelphia Flyers,0.3333333333333333,0.6666666666666666
+2022-04-02,10:30 PM,Dallas Stars,5,San Jose Sharks,4,,Dallas Stars,San Jose Sharks,0.4166666666666667,0.6833333333333333
+2022-04-02,7:00 PM,Montreal Canadiens,5,Tampa Bay Lightning,4,SO,Montreal Canadiens,Tampa Bay Lightning,0.6833333333333333,0.43333333333333335
+2022-04-02,7:00 PM,Los Angeles Kings,3,Winnipeg Jets,2,,Los Angeles Kings,Winnipeg Jets,0.5833333333333334,0.65
+2022-04-03,8:00 PM,Edmonton Oilers,6,Anaheim Ducks,1,,Edmonton Oilers,Anaheim Ducks,0.38333333333333336,0.65
+2022-04-03,1:00 PM,Florida Panthers,5,Buffalo Sabres,3,,Florida Panthers,Buffalo Sabres,0.5,0.7166666666666667
+2022-04-03,7:00 PM,Arizona Coyotes,3,Chicago Blackhawks,2,OT,Arizona Coyotes,Chicago Blackhawks,0.36666666666666664,0.38333333333333336
+2022-04-03,4:00 PM,New York Islanders,4,New Jersey Devils,3,,New York Islanders,New Jersey Devils,0.35,0.5833333333333334
+2022-04-03,7:00 PM,Philadelphia Flyers,4,New York Rangers,3,SO,Philadelphia Flyers,New York Rangers,0.65,0.3333333333333333
+2022-04-03,1:00 PM,Detroit Red Wings,2,Ottawa Senators,5,,Ottawa Senators,Detroit Red Wings,0.4,0.4
+2022-04-03,9:00 PM,Dallas Stars,1,Seattle Kraken,4,,Seattle Kraken,Dallas Stars,0.36666666666666664,0.6833333333333333
+2022-04-03,7:00 PM,Vegas Golden Knights,3,Vancouver Canucks,2,OT,Vegas Golden Knights,Vancouver Canucks,0.5666666666666667,0.5333333333333333
+2022-04-03,7:00 PM,Minnesota Wild,5,Washington Capitals,1,,Minnesota Wild,Washington Capitals,0.55,0.6333333333333333
+2022-04-04,7:00 PM,Boston Bruins,3,Columbus Blue Jackets,2,OT,Boston Bruins,Columbus Blue Jackets,0.5333333333333333,0.6833333333333333
+2022-04-04,10:30 PM,Calgary Flames,3,Los Angeles Kings,2,,Calgary Flames,Los Angeles Kings,0.6833333333333333,0.7166666666666667
+2022-04-04,8:00 PM,Arizona Coyotes,1,St. Louis Blues,5,,St. Louis Blues,Arizona Coyotes,0.6166666666666667,0.4166666666666667
+2022-04-04,7:30 PM,Toronto Maple Leafs,6,Tampa Bay Lightning,2,,Toronto Maple Leafs,Tampa Bay Lightning,0.6666666666666666,0.6666666666666666
+2022-04-05,7:00 PM,Carolina Hurricanes,2,Buffalo Sabres,4,,Buffalo Sabres,Carolina Hurricanes,0.5,0.6666666666666666
+2022-04-05,8:30 PM,New York Islanders,2,Dallas Stars,3,,Dallas Stars,New York Islanders,0.65,0.5833333333333334
+2022-04-05,7:30 PM,Boston Bruins,3,Detroit Red Wings,5,,Detroit Red Wings,Boston Bruins,0.36666666666666664,0.7166666666666667
+2022-04-05,7:00 PM,Toronto Maple Leafs,6,Florida Panthers,7,OT,Florida Panthers,Toronto Maple Leafs,0.75,0.6666666666666666
+2022-04-05,7:00 PM,Ottawa Senators,6,Montreal Canadiens,3,,Ottawa Senators,Montreal Canadiens,0.45,0.43333333333333335
+2022-04-05,7:00 PM,New York Rangers,3,New Jersey Devils,1,,New York Rangers,New Jersey Devils,0.31666666666666665,0.6333333333333333
+2022-04-05,8:00 PM,Minnesota Wild,2,Nashville Predators,6,,Nashville Predators,Minnesota Wild,0.5333333333333333,0.6333333333333333
+2022-04-05,7:00 PM,Columbus Blue Jackets,4,Philadelphia Flyers,2,,Columbus Blue Jackets,Philadelphia Flyers,0.35,0.55
+2022-04-05,7:00 PM,Colorado Avalanche,6,Pittsburgh Penguins,4,,Colorado Avalanche,Pittsburgh Penguins,0.6166666666666667,0.75
+2022-04-05,10:30 PM,Edmonton Oilers,2,San Jose Sharks,1,OT,Edmonton Oilers,San Jose Sharks,0.4166666666666667,0.65
+2022-04-06,10:00 PM,Calgary Flames,4,Anaheim Ducks,2,,Calgary Flames,Anaheim Ducks,0.38333333333333336,0.75
+2022-04-06,8:00 PM,Seattle Kraken,1,St. Louis Blues,4,,St. Louis Blues,Seattle Kraken,0.6166666666666667,0.36666666666666664
+2022-04-06,10:00 PM,Vancouver Canucks,5,Vegas Golden Knights,1,,Vancouver Canucks,Vegas Golden Knights,0.5333333333333333,0.5666666666666667
+2022-04-06,7:30 PM,Detroit Red Wings,3,Winnipeg Jets,1,,Detroit Red Wings,Winnipeg Jets,0.5833333333333334,0.36666666666666664
+2022-04-06,7:30 PM,Tampa Bay Lightning,3,Washington Capitals,4,,Washington Capitals,Tampa Bay Lightning,0.55,0.6333333333333333
+2022-04-07,10:00 PM,Vancouver Canucks,5,Arizona Coyotes,1,,Vancouver Canucks,Arizona Coyotes,0.4166666666666667,0.6
+2022-04-07,7:30 PM,Buffalo Sabres,3,Carolina Hurricanes,5,,Carolina Hurricanes,Buffalo Sabres,0.6333333333333333,0.5
+2022-04-07,7:00 PM,Philadelphia Flyers,4,Columbus Blue Jackets,1,,Philadelphia Flyers,Columbus Blue Jackets,0.55,0.35
+2022-04-07,8:30 PM,Seattle Kraken,2,Chicago Blackhawks,0,,Seattle Kraken,Chicago Blackhawks,0.38333333333333336,0.36666666666666664
+2022-04-07,8:30 PM,Toronto Maple Leafs,4,Dallas Stars,3,OT,Toronto Maple Leafs,Dallas Stars,0.65,0.65
+2022-04-07,10:30 PM,Edmonton Oilers,3,Los Angeles Kings,2,,Edmonton Oilers,Los Angeles Kings,0.65,0.6666666666666666
+2022-04-07,7:00 PM,Montreal Canadiens,7,New Jersey Devils,4,,Montreal Canadiens,New Jersey Devils,0.31666666666666665,0.43333333333333335
+2022-04-07,7:00 PM,Pittsburgh Penguins,0,New York Rangers,3,,New York Rangers,Pittsburgh Penguins,0.6666666666666666,0.5833333333333334
+2022-04-07,7:00 PM,Nashville Predators,3,Ottawa Senators,2,,Nashville Predators,Ottawa Senators,0.43333333333333335,0.55
+2022-04-07,10:30 PM,Calgary Flames,4,San Jose Sharks,2,,Calgary Flames,San Jose Sharks,0.4166666666666667,0.75
+2022-04-08,7:00 PM,New York Islanders,2,Carolina Hurricanes,1,,New York Islanders,Carolina Hurricanes,0.6333333333333333,0.5833333333333334
+2022-04-08,7:00 PM,Buffalo Sabres,3,Florida Panthers,4,,Florida Panthers,Buffalo Sabres,0.75,0.5
+2022-04-08,8:00 PM,Minnesota Wild,3,St. Louis Blues,4,OT,St. Louis Blues,Minnesota Wild,0.6166666666666667,0.6
+2022-04-08,7:00 PM,Boston Bruins,2,Tampa Bay Lightning,1,OT,Boston Bruins,Tampa Bay Lightning,0.6,0.7
+2022-04-08,8:00 PM,Colorado Avalanche,5,Winnipeg Jets,4,OT,Colorado Avalanche,Winnipeg Jets,0.55,0.75
+2022-04-09,2:00 PM,New Jersey Devils,3,Dallas Stars,1,,New Jersey Devils,Dallas Stars,0.6333333333333333,0.31666666666666665
+2022-04-09,7:00 PM,Columbus Blue Jackets,5,Detroit Red Wings,4,OT,Columbus Blue Jackets,Detroit Red Wings,0.38333333333333336,0.5166666666666667
+2022-04-09,10:00 PM,Colorado Avalanche,2,Edmonton Oilers,1,SO,Colorado Avalanche,Edmonton Oilers,0.6666666666666666,0.75
+2022-04-09,6:00 PM,Florida Panthers,4,Nashville Predators,1,,Florida Panthers,Nashville Predators,0.5833333333333334,0.75
+2022-04-09,7:00 PM,Ottawa Senators,1,New York Rangers,5,,New York Rangers,Ottawa Senators,0.6666666666666666,0.43333333333333335
+2022-04-09,7:30 PM,Anaheim Ducks,5,Philadelphia Flyers,3,,Anaheim Ducks,Philadelphia Flyers,0.38333333333333336,0.38333333333333336
+2022-04-09,3:00 PM,Washington Capitals,6,Pittsburgh Penguins,3,,Washington Capitals,Pittsburgh Penguins,0.55,0.55
+2022-04-09,7:00 PM,Calgary Flames,4,Seattle Kraken,1,,Calgary Flames,Seattle Kraken,0.36666666666666664,0.75
+2022-04-09,8:00 PM,New York Islanders,1,St. Louis Blues,6,,St. Louis Blues,New York Islanders,0.6166666666666667,0.5833333333333334
+2022-04-09,7:00 PM,Montreal Canadiens,2,Toronto Maple Leafs,3,,Toronto Maple Leafs,Montreal Canadiens,0.65,0.4666666666666667
+2022-04-09,10:00 PM,San Jose Sharks,2,Vancouver Canucks,4,,Vancouver Canucks,San Jose Sharks,0.6166666666666667,0.38333333333333336
+2022-04-09,10:00 PM,Arizona Coyotes,1,Vegas Golden Knights,6,,Vegas Golden Knights,Arizona Coyotes,0.5,0.4166666666666667
+2022-04-10,6:00 PM,Anaheim Ducks,2,Carolina Hurricanes,5,,Carolina Hurricanes,Anaheim Ducks,0.6,0.38333333333333336
+2022-04-10,7:00 PM,Dallas Stars,6,Chicago Blackhawks,4,,Dallas Stars,Chicago Blackhawks,0.36666666666666664,0.6333333333333333
+2022-04-10,5:00 PM,Los Angeles Kings,3,Minnesota Wild,6,,Minnesota Wild,Los Angeles Kings,0.5833333333333334,0.6333333333333333
+2022-04-10,7:30 PM,Winnipeg Jets,4,Ottawa Senators,3,,Winnipeg Jets,Ottawa Senators,0.4,0.5666666666666667
+2022-04-10,4:00 PM,Nashville Predators,2,Pittsburgh Penguins,3,OT,Pittsburgh Penguins,Nashville Predators,0.5333333333333333,0.5833333333333334
+2022-04-10,5:00 PM,Buffalo Sabres,0,Tampa Bay Lightning,5,,Tampa Bay Lightning,Buffalo Sabres,0.5833333333333334,0.4666666666666667
+2022-04-10,1:30 PM,Boston Bruins,2,Washington Capitals,4,,Washington Capitals,Boston Bruins,0.5833333333333334,0.7
+2022-04-11,7:00 PM,Winnipeg Jets,4,Montreal Canadiens,2,,Winnipeg Jets,Montreal Canadiens,0.4666666666666667,0.5666666666666667
+2022-04-12,10:00 PM,New Jersey Devils,6,Arizona Coyotes,2,,New Jersey Devils,Arizona Coyotes,0.4166666666666667,0.35
+2022-04-12,7:00 PM,St. Louis Blues,4,Boston Bruins,2,,St. Louis Blues,Boston Bruins,0.7,0.65
+2022-04-12,9:00 PM,Seattle Kraken,3,Calgary Flames,5,,Calgary Flames,Seattle Kraken,0.75,0.36666666666666664
+2022-04-12,8:30 PM,Los Angeles Kings,5,Chicago Blackhawks,2,,Los Angeles Kings,Chicago Blackhawks,0.36666666666666664,0.6
+2022-04-12,9:30 PM,Tampa Bay Lightning,0,Dallas Stars,1,,Dallas Stars,Tampa Bay Lightning,0.6333333333333333,0.6166666666666667
+2022-04-12,7:30 PM,Ottawa Senators,4,Detroit Red Wings,1,,Ottawa Senators,Detroit Red Wings,0.4,0.36666666666666664
+2022-04-12,7:00 PM,Anaheim Ducks,2,Florida Panthers,3,OT,Florida Panthers,Anaheim Ducks,0.7833333333333333,0.35
+2022-04-12,8:00 PM,Edmonton Oilers,1,Minnesota Wild,5,,Minnesota Wild,Edmonton Oilers,0.5833333333333334,0.6833333333333333
+2022-04-12,8:00 PM,San Jose Sharks,0,Nashville Predators,1,OT,Nashville Predators,San Jose Sharks,0.5666666666666667,0.38333333333333336
+2022-04-12,7:30 PM,Pittsburgh Penguins,4,New York Islanders,5,SO,New York Islanders,Pittsburgh Penguins,0.5833333333333334,0.55
+2022-04-12,7:00 PM,Carolina Hurricanes,4,New York Rangers,2,,Carolina Hurricanes,New York Rangers,0.6666666666666666,0.6166666666666667
+2022-04-12,7:00 PM,Buffalo Sabres,5,Toronto Maple Leafs,2,,Buffalo Sabres,Toronto Maple Leafs,0.65,0.4666666666666667
+2022-04-12,10:00 PM,Vegas Golden Knights,4,Vancouver Canucks,5,OT,Vancouver Canucks,Vegas Golden Knights,0.6166666666666667,0.5166666666666667
+2022-04-12,7:00 PM,Philadelphia Flyers,2,Washington Capitals,9,,Washington Capitals,Philadelphia Flyers,0.5833333333333334,0.38333333333333336
+2022-04-13,7:00 PM,Montreal Canadiens,1,Columbus Blue Jackets,5,,Columbus Blue Jackets,Montreal Canadiens,0.55,0.4666666666666667
+2022-04-13,9:30 PM,Los Angeles Kings,3,Colorado Avalanche,9,,Colorado Avalanche,Los Angeles Kings,0.75,0.6166666666666667
+2022-04-13,7:00 PM,New York Rangers,4,Philadelphia Flyers,0,,New York Rangers,Philadelphia Flyers,0.38333333333333336,0.6666666666666666
+2022-04-14,7:00 PM,Ottawa Senators,3,Boston Bruins,2,,Ottawa Senators,Boston Bruins,0.6666666666666666,0.4
+2022-04-14,7:00 PM,St. Louis Blues,6,Buffalo Sabres,2,,St. Louis Blues,Buffalo Sabres,0.5,0.65
+2022-04-14,7:00 PM,Detroit Red Wings,3,Carolina Hurricanes,0,,Detroit Red Wings,Carolina Hurricanes,0.65,0.4
+2022-04-14,9:00 PM,Vegas Golden Knights,6,Calgary Flames,1,,Vegas Golden Knights,Calgary Flames,0.75,0.5333333333333333
+2022-04-14,8:30 PM,San Jose Sharks,4,Chicago Blackhawks,5,SO,Chicago Blackhawks,San Jose Sharks,0.3333333333333333,0.4
+2022-04-14,9:00 PM,New Jersey Devils,1,Colorado Avalanche,3,,Colorado Avalanche,New Jersey Devils,0.75,0.38333333333333336
+2022-04-14,8:00 PM,Minnesota Wild,3,Dallas Stars,2,OT,Minnesota Wild,Dallas Stars,0.6666666666666666,0.6166666666666667
+2022-04-14,8:00 PM,Edmonton Oilers,4,Nashville Predators,0,,Edmonton Oilers,Nashville Predators,0.5666666666666667,0.6833333333333333
+2022-04-14,7:00 PM,New York Islanders,3,Pittsburgh Penguins,6,,Pittsburgh Penguins,New York Islanders,0.5666666666666667,0.6166666666666667
+2022-04-14,7:00 PM,Anaheim Ducks,3,Tampa Bay Lightning,4,OT,Tampa Bay Lightning,Anaheim Ducks,0.5833333333333334,0.35
+2022-04-14,7:00 PM,Washington Capitals,3,Toronto Maple Leafs,7,,Toronto Maple Leafs,Washington Capitals,0.6166666666666667,0.6166666666666667
+2022-04-14,10:00 PM,Arizona Coyotes,1,Vancouver Canucks,7,,Vancouver Canucks,Arizona Coyotes,0.6333333333333333,0.4166666666666667
+2022-04-15,7:00 PM,Winnipeg Jets,1,Florida Panthers,6,,Florida Panthers,Winnipeg Jets,0.7833333333333333,0.5833333333333334
+2022-04-15,7:00 PM,New York Islanders,3,Montreal Canadiens,0,,New York Islanders,Montreal Canadiens,0.4666666666666667,0.6166666666666667
+2022-04-16,12:30 PM,Pittsburgh Penguins,1,Boston Bruins,2,,Boston Bruins,Pittsburgh Penguins,0.6666666666666666,0.5833333333333334
+2022-04-16,7:00 PM,Philadelphia Flyers,3,Buffalo Sabres,4,,Buffalo Sabres,Philadelphia Flyers,0.48333333333333334,0.35
+2022-04-16,10:00 PM,Arizona Coyotes,1,Calgary Flames,9,,Calgary Flames,Arizona Coyotes,0.7166666666666667,0.38333333333333336
+2022-04-16,9:00 PM,Carolina Hurricanes,4,Colorado Avalanche,7,,Colorado Avalanche,Carolina Hurricanes,0.7666666666666667,0.6166666666666667
+2022-04-16,8:00 PM,San Jose Sharks,1,Dallas Stars,2,,Dallas Stars,San Jose Sharks,0.65,0.38333333333333336
+2022-04-16,4:00 PM,Vegas Golden Knights,0,Edmonton Oilers,4,,Edmonton Oilers,Vegas Golden Knights,0.6833333333333333,0.5333333333333333
+2022-04-16,10:30 PM,Columbus Blue Jackets,1,Los Angeles Kings,2,,Los Angeles Kings,Columbus Blue Jackets,0.5833333333333334,0.55
+2022-04-16,7:00 PM,Washington Capitals,8,Montreal Canadiens,4,,Washington Capitals,Montreal Canadiens,0.4666666666666667,0.6166666666666667
+2022-04-16,12:30 PM,Chicago Blackhawks,3,Nashville Predators,4,,Nashville Predators,Chicago Blackhawks,0.5333333333333333,0.36666666666666664
+2022-04-16,12:30 PM,Detroit Red Wings,0,New York Rangers,4,,New York Rangers,Detroit Red Wings,0.7,0.4
+2022-04-16,7:00 PM,Toronto Maple Leafs,5,Ottawa Senators,4,OT,Toronto Maple Leafs,Ottawa Senators,0.43333333333333335,0.65
+2022-04-16,10:00 PM,New Jersey Devils,3,Seattle Kraken,4,SO,Seattle Kraken,New Jersey Devils,0.3333333333333333,0.38333333333333336
+2022-04-16,3:00 PM,Minnesota Wild,5,St. Louis Blues,6,OT,St. Louis Blues,Minnesota Wild,0.6833333333333333,0.6166666666666667
+2022-04-16,7:00 PM,Winnipeg Jets,4,Tampa Bay Lightning,7,,Tampa Bay Lightning,Winnipeg Jets,0.5833333333333334,0.55
+2022-04-17,8:30 PM,Columbus Blue Jackets,4,Anaheim Ducks,6,,Anaheim Ducks,Columbus Blue Jackets,0.3333333333333333,0.5166666666666667
+2022-04-17,1:00 PM,Florida Panthers,6,Detroit Red Wings,1,,Florida Panthers,Detroit Red Wings,0.4,0.7833333333333333
+2022-04-17,6:00 PM,San Jose Sharks,4,Minnesota Wild,5,OT,Minnesota Wild,San Jose Sharks,0.6,0.36666666666666664
+2022-04-17,6:00 PM,St. Louis Blues,8,Nashville Predators,3,,St. Louis Blues,Nashville Predators,0.55,0.7166666666666667
+2022-04-17,5:00 PM,Buffalo Sabres,5,Philadelphia Flyers,3,,Buffalo Sabres,Philadelphia Flyers,0.31666666666666665,0.48333333333333334
+2022-04-17,7:30 PM,New York Islanders,2,Toronto Maple Leafs,4,,Toronto Maple Leafs,New York Islanders,0.6833333333333333,0.6166666666666667
+2022-04-18,10:00 PM,Carolina Hurricanes,5,Arizona Coyotes,3,,Carolina Hurricanes,Arizona Coyotes,0.38333333333333336,0.6166666666666667
+2022-04-18,8:00 PM,Calgary Flames,5,Chicago Blackhawks,2,,Calgary Flames,Chicago Blackhawks,0.36666666666666664,0.7166666666666667
+2022-04-18,9:00 PM,Washington Capitals,3,Colorado Avalanche,2,,Washington Capitals,Colorado Avalanche,0.7666666666666667,0.6166666666666667
+2022-04-18,10:00 PM,Ottawa Senators,2,Seattle Kraken,4,,Seattle Kraken,Ottawa Senators,0.36666666666666664,0.4166666666666667
+2022-04-18,10:30 PM,Dallas Stars,2,Vancouver Canucks,6,,Vancouver Canucks,Dallas Stars,0.6333333333333333,0.65
+2022-04-18,10:00 PM,New Jersey Devils,3,Vegas Golden Knights,2,,New Jersey Devils,Vegas Golden Knights,0.5,0.4
+2022-04-19,10:00 PM,Los Angeles Kings,2,Anaheim Ducks,1,,Los Angeles Kings,Anaheim Ducks,0.3333333333333333,0.5833333333333334
+2022-04-19,7:00 PM,Minnesota Wild,2,Montreal Canadiens,0,,Minnesota Wild,Montreal Canadiens,0.4666666666666667,0.6333333333333333
+2022-04-19,8:00 PM,Calgary Flames,2,Nashville Predators,3,SO,Nashville Predators,Calgary Flames,0.5166666666666667,0.7166666666666667
+2022-04-19,7:30 PM,Florida Panthers,3,New York Islanders,2,OT,Florida Panthers,New York Islanders,0.6,0.7833333333333333
+2022-04-19,7:00 PM,Winnipeg Jets,0,New York Rangers,3,,New York Rangers,Winnipeg Jets,0.7,0.55
+2022-04-19,10:30 PM,Columbus Blue Jackets,2,San Jose Sharks,3,,San Jose Sharks,Columbus Blue Jackets,0.38333333333333336,0.48333333333333334
+2022-04-19,8:00 PM,Boston Bruins,3,St. Louis Blues,2,OT,Boston Bruins,St. Louis Blues,0.7166666666666667,0.7
+2022-04-19,7:00 PM,Detroit Red Wings,4,Tampa Bay Lightning,3,,Detroit Red Wings,Tampa Bay Lightning,0.6,0.36666666666666664
+2022-04-19,7:00 PM,Philadelphia Flyers,2,Toronto Maple Leafs,5,,Toronto Maple Leafs,Philadelphia Flyers,0.6833333333333333,0.31666666666666665
+2022-04-19,10:00 PM,Ottawa Senators,4,Vancouver Canucks,3,SO,Ottawa Senators,Vancouver Canucks,0.6666666666666666,0.4166666666666667
+2022-04-20,10:00 PM,Chicago Blackhawks,4,Arizona Coyotes,3,OT,Chicago Blackhawks,Arizona Coyotes,0.38333333333333336,0.36666666666666664
+2022-04-20,8:30 PM,Dallas Stars,2,Edmonton Oilers,5,,Edmonton Oilers,Dallas Stars,0.6833333333333333,0.65
+2022-04-20,10:00 PM,Colorado Avalanche,2,Seattle Kraken,3,,Seattle Kraken,Colorado Avalanche,0.4,0.7333333333333333
+2022-04-20,10:00 PM,Washington Capitals,3,Vegas Golden Knights,4,OT,Vegas Golden Knights,Washington Capitals,0.4666666666666667,0.6166666666666667
+2022-04-21,7:00 PM,Winnipeg Jets,2,Carolina Hurricanes,4,,Carolina Hurricanes,Winnipeg Jets,0.6333333333333333,0.5166666666666667
+2022-04-21,9:00 PM,Dallas Stars,2,Calgary Flames,4,,Calgary Flames,Dallas Stars,0.7,0.6166666666666667
+2022-04-21,7:00 PM,Detroit Red Wings,2,Florida Panthers,5,,Florida Panthers,Detroit Red Wings,0.7833333333333333,0.4
+2022-04-21,10:30 PM,Chicago Blackhawks,1,Los Angeles Kings,4,,Los Angeles Kings,Chicago Blackhawks,0.6166666666666667,0.36666666666666664
+2022-04-21,8:00 PM,Vancouver Canucks,3,Minnesota Wild,6,,Minnesota Wild,Vancouver Canucks,0.6666666666666666,0.65
+2022-04-21,7:00 PM,Philadelphia Flyers,6,Montreal Canadiens,3,,Philadelphia Flyers,Montreal Canadiens,0.4666666666666667,0.31666666666666665
+2022-04-21,7:00 PM,Buffalo Sabres,5,New Jersey Devils,2,,Buffalo Sabres,New Jersey Devils,0.43333333333333335,0.48333333333333334
+2022-04-21,7:30 PM,New York Rangers,6,New York Islanders,3,,New York Rangers,New York Islanders,0.5833333333333334,0.7
+2022-04-21,7:00 PM,Boston Bruins,0,Pittsburgh Penguins,4,,Pittsburgh Penguins,Boston Bruins,0.55,0.7
+2022-04-21,10:30 PM,St. Louis Blues,3,San Jose Sharks,1,,St. Louis Blues,San Jose Sharks,0.4,0.7
+2022-04-21,8:00 PM,Toronto Maple Leafs,1,Tampa Bay Lightning,8,,Tampa Bay Lightning,Toronto Maple Leafs,0.5666666666666667,0.6833333333333333
+2022-04-22,10:30 PM,Washington Capitals,2,Arizona Coyotes,0,,Washington Capitals,Arizona Coyotes,0.36666666666666664,0.6333333333333333
+2022-04-22,7:00 PM,Ottawa Senators,2,Columbus Blue Jackets,1,SO,Ottawa Senators,Columbus Blue Jackets,0.48333333333333334,0.4166666666666667
+2022-04-22,9:00 PM,Colorado Avalanche,3,Edmonton Oilers,6,,Edmonton Oilers,Colorado Avalanche,0.6833333333333333,0.7333333333333333
+2022-04-22,8:00 PM,Seattle Kraken,3,Minnesota Wild,6,,Minnesota Wild,Seattle Kraken,0.6666666666666666,0.4
+2022-04-23,10:00 PM,St. Louis Blues,5,Arizona Coyotes,4,OT,St. Louis Blues,Arizona Coyotes,0.36666666666666664,0.7166666666666667
+2022-04-23,3:00 PM,New York Rangers,1,Boston Bruins,3,,Boston Bruins,New York Rangers,0.6833333333333333,0.7
+2022-04-23,12:30 PM,New York Islanders,3,Buffalo Sabres,5,,Buffalo Sabres,New York Islanders,0.5166666666666667,0.5666666666666667
+2022-04-23,10:00 PM,Vancouver Canucks,3,Calgary Flames,6,,Calgary Flames,Vancouver Canucks,0.7,0.65
+2022-04-23,8:00 PM,Seattle Kraken,2,Dallas Stars,3,,Dallas Stars,Seattle Kraken,0.5833333333333334,0.4
+2022-04-23,12:30 PM,Pittsburgh Penguins,7,Detroit Red Wings,2,,Pittsburgh Penguins,Detroit Red Wings,0.36666666666666664,0.55
+2022-04-23,7:00 PM,Toronto Maple Leafs,2,Florida Panthers,3,OT,Florida Panthers,Toronto Maple Leafs,0.8166666666666667,0.6833333333333333
+2022-04-23,10:30 PM,Anaheim Ducks,2,Los Angeles Kings,4,,Los Angeles Kings,Anaheim Ducks,0.6166666666666667,0.31666666666666665
+2022-04-23,12:30 PM,Carolina Hurricanes,3,New Jersey Devils,2,OT,Carolina Hurricanes,New Jersey Devils,0.4,0.6333333333333333
+2022-04-23,7:00 PM,Montreal Canadiens,4,Ottawa Senators,6,,Ottawa Senators,Montreal Canadiens,0.43333333333333335,0.4666666666666667
+2022-04-23,8:00 PM,Chicago Blackhawks,1,San Jose Sharks,4,,San Jose Sharks,Chicago Blackhawks,0.4,0.36666666666666664
+2022-04-23,7:00 PM,Nashville Predators,2,Tampa Bay Lightning,6,,Tampa Bay Lightning,Nashville Predators,0.6,0.55
+2022-04-24,8:30 PM,St. Louis Blues,6,Anaheim Ducks,3,,St. Louis Blues,Anaheim Ducks,0.31666666666666665,0.7166666666666667
+2022-04-24,1:00 PM,Edmonton Oilers,2,Columbus Blue Jackets,5,,Columbus Blue Jackets,Edmonton Oilers,0.4666666666666667,0.6833333333333333
+2022-04-24,7:00 PM,Tampa Bay Lightning,8,Florida Panthers,4,,Tampa Bay Lightning,Florida Panthers,0.8166666666666667,0.6
+2022-04-24,7:00 PM,Boston Bruins,5,Montreal Canadiens,3,,Boston Bruins,Montreal Canadiens,0.43333333333333335,0.7166666666666667
+2022-04-24,1:00 PM,Detroit Red Wings,3,New Jersey Devils,0,,Detroit Red Wings,New Jersey Devils,0.38333333333333336,0.3333333333333333
+2022-04-24,8:00 PM,Minnesota Wild,5,Nashville Predators,4,OT,Minnesota Wild,Nashville Predators,0.55,0.7
+2022-04-24,1:00 PM,Carolina Hurricanes,5,New York Islanders,2,,Carolina Hurricanes,New York Islanders,0.5666666666666667,0.6333333333333333
+2022-04-24,4:00 PM,Pittsburgh Penguins,1,Philadelphia Flyers,4,,Philadelphia Flyers,Pittsburgh Penguins,0.3333333333333333,0.55
+2022-04-24,10:00 PM,San Jose Sharks,5,Vegas Golden Knights,4,SO,San Jose Sharks,Vegas Golden Knights,0.5,0.4166666666666667
+2022-04-24,7:00 PM,Colorado Avalanche,1,Winnipeg Jets,4,,Winnipeg Jets,Colorado Avalanche,0.48333333333333334,0.7
+2022-04-24,7:00 PM,Toronto Maple Leafs,4,Washington Capitals,3,SO,Toronto Maple Leafs,Washington Capitals,0.6666666666666666,0.7
+2022-04-25,8:00 PM,Philadelphia Flyers,1,Chicago Blackhawks,3,,Chicago Blackhawks,Philadelphia Flyers,0.3333333333333333,0.36666666666666664
+2022-04-26,7:00 PM,Florida Panthers,2,Boston Bruins,4,,Boston Bruins,Florida Panthers,0.7166666666666667,0.7833333333333333
+2022-04-26,9:30 PM,St. Louis Blues,3,Colorado Avalanche,5,,Colorado Avalanche,St. Louis Blues,0.6666666666666666,0.7166666666666667
+2022-04-26,8:30 PM,Vegas Golden Knights,2,Dallas Stars,3,SO,Dallas Stars,Vegas Golden Knights,0.6166666666666667,0.5166666666666667
+2022-04-26,8:00 PM,Arizona Coyotes,5,Minnesota Wild,3,,Arizona Coyotes,Minnesota Wild,0.7333333333333333,0.38333333333333336
+2022-04-26,8:00 PM,Calgary Flames,5,Nashville Predators,4,OT,Calgary Flames,Nashville Predators,0.5666666666666667,0.7
+2022-04-26,7:00 PM,Carolina Hurricanes,4,New York Rangers,3,,Carolina Hurricanes,New York Rangers,0.6833333333333333,0.6333333333333333
+2022-04-26,7:00 PM,New Jersey Devils,4,Ottawa Senators,5,OT,Ottawa Senators,New Jersey Devils,0.4666666666666667,0.38333333333333336
+2022-04-26,7:00 PM,Edmonton Oilers,5,Pittsburgh Penguins,1,,Edmonton Oilers,Pittsburgh Penguins,0.5166666666666667,0.65
+2022-04-26,10:30 PM,Anaheim Ducks,5,San Jose Sharks,2,,Anaheim Ducks,San Jose Sharks,0.45,0.31666666666666665
+2022-04-26,7:00 PM,Columbus Blue Jackets,1,Tampa Bay Lightning,4,,Tampa Bay Lightning,Columbus Blue Jackets,0.6,0.4666666666666667
+2022-04-26,7:00 PM,Detroit Red Wings,0,Toronto Maple Leafs,3,,Toronto Maple Leafs,Detroit Red Wings,0.7166666666666667,0.36666666666666664
+2022-04-26,10:00 PM,Seattle Kraken,2,Vancouver Canucks,5,,Vancouver Canucks,Seattle Kraken,0.6166666666666667,0.36666666666666664
+2022-04-26,7:00 PM,New York Islanders,4,Washington Capitals,1,,New York Islanders,Washington Capitals,0.65,0.5333333333333333
+2022-04-27,8:30 PM,Vegas Golden Knights,3,Chicago Blackhawks,4,SO,Chicago Blackhawks,Vegas Golden Knights,0.36666666666666664,0.5166666666666667
+2022-04-27,8:30 PM,Arizona Coyotes,4,Dallas Stars,3,OT,Arizona Coyotes,Dallas Stars,0.6166666666666667,0.38333333333333336
+2022-04-27,7:30 PM,Montreal Canadiens,4,New York Rangers,3,,Montreal Canadiens,New York Rangers,0.65,0.4
+2022-04-27,10:00 PM,Los Angeles Kings,5,Seattle Kraken,3,,Los Angeles Kings,Seattle Kraken,0.36666666666666664,0.6166666666666667
+2022-04-27,7:30 PM,Philadelphia Flyers,0,Winnipeg Jets,4,,Winnipeg Jets,Philadelphia Flyers,0.5166666666666667,0.35
+2022-04-28,7:00 PM,Buffalo Sabres,0,Boston Bruins,5,,Boston Bruins,Buffalo Sabres,0.7166666666666667,0.55
+2022-04-28,7:00 PM,New Jersey Devils,3,Carolina Hurricanes,6,,Carolina Hurricanes,New Jersey Devils,0.6333333333333333,0.4
+2022-04-28,7:00 PM,Tampa Bay Lightning,2,Columbus Blue Jackets,5,,Columbus Blue Jackets,Tampa Bay Lightning,0.43333333333333335,0.6
+2022-04-28,9:00 PM,Nashville Predators,5,Colorado Avalanche,4,SO,Nashville Predators,Colorado Avalanche,0.7,0.5833333333333334
+2022-04-28,9:00 PM,San Jose Sharks,4,Edmonton Oilers,5,OT,Edmonton Oilers,San Jose Sharks,0.6833333333333333,0.43333333333333335
+2022-04-28,8:00 PM,Calgary Flames,2,Minnesota Wild,3,OT,Minnesota Wild,Calgary Flames,0.7333333333333333,0.7333333333333333
+2022-04-28,7:00 PM,Washington Capitals,1,New York Islanders,5,,New York Islanders,Washington Capitals,0.5666666666666667,0.65
+2022-04-28,7:00 PM,Florida Panthers,4,Ottawa Senators,0,,Florida Panthers,Ottawa Senators,0.4666666666666667,0.75
+2022-04-28,10:00 PM,Los Angeles Kings,2,Vancouver Canucks,3,OT,Vancouver Canucks,Los Angeles Kings,0.6166666666666667,0.6166666666666667
+2022-04-29,10:30 PM,Nashville Predators,4,Arizona Coyotes,5,,Arizona Coyotes,Nashville Predators,0.4166666666666667,0.5833333333333334
+2022-04-29,7:00 PM,Chicago Blackhawks,2,Buffalo Sabres,3,OT,Buffalo Sabres,Chicago Blackhawks,0.55,0.38333333333333336
+2022-04-29,8:30 PM,Anaheim Ducks,2,Dallas Stars,4,,Dallas Stars,Anaheim Ducks,0.6166666666666667,0.35
+2022-04-29,9:00 PM,Vancouver Canucks,2,Edmonton Oilers,3,SO,Edmonton Oilers,Vancouver Canucks,0.7166666666666667,0.65
+2022-04-29,8:00 PM,Colorado Avalanche,1,Minnesota Wild,4,,Minnesota Wild,Colorado Avalanche,0.7666666666666667,0.6833333333333333
+2022-04-29,7:00 PM,Florida Panthers,2,Montreal Canadiens,10,,Montreal Canadiens,Florida Panthers,0.4,0.7833333333333333
+2022-04-29,7:00 PM,Detroit Red Wings,5,New Jersey Devils,3,,Detroit Red Wings,New Jersey Devils,0.36666666666666664,0.3333333333333333
+2022-04-29,7:30 PM,Tampa Bay Lightning,6,New York Islanders,4,,Tampa Bay Lightning,New York Islanders,0.6,0.5666666666666667
+2022-04-29,7:00 PM,Washington Capitals,2,New York Rangers,3,,New York Rangers,Washington Capitals,0.6166666666666667,0.6166666666666667
+2022-04-29,7:00 PM,Ottawa Senators,4,Philadelphia Flyers,2,,Ottawa Senators,Philadelphia Flyers,0.35,0.4666666666666667
+2022-04-29,7:00 PM,Columbus Blue Jackets,3,Pittsburgh Penguins,5,,Pittsburgh Penguins,Columbus Blue Jackets,0.5166666666666667,0.43333333333333335
+2022-04-29,10:00 PM,San Jose Sharks,0,Seattle Kraken,3,,Seattle Kraken,San Jose Sharks,0.36666666666666664,0.4166666666666667
+2022-04-29,8:00 PM,Vegas Golden Knights,7,St. Louis Blues,4,,Vegas Golden Knights,St. Louis Blues,0.6833333333333333,0.5
+2022-04-29,7:00 PM,Boston Bruins,2,Toronto Maple Leafs,5,,Toronto Maple Leafs,Boston Bruins,0.7166666666666667,0.7166666666666667
+2022-04-29,8:00 PM,Calgary Flames,1,Winnipeg Jets,3,,Winnipeg Jets,Calgary Flames,0.55,0.7166666666666667
+2022-05-01,2:00 PM,Seattle Kraken,3,Winnipeg Jets,4,,Winnipeg Jets,Seattle Kraken,0.5666666666666667,0.4

@@ -1,0 +1,1083 @@
+Date,Time,Visitor,Visitor_Goals,Home,Home_Goals,OT,Winner,Loser,HPP,VPP
+2019-10-02,10:00 PM,Vancouver Canucks,2,Edmonton Oilers,3,,Edmonton Oilers,Vancouver Canucks,0.0,0.0
+2019-10-02,8:00 PM,Washington Capitals,3,St. Louis Blues,2,OT,Washington Capitals,St. Louis Blues,0.0,0.0
+2019-10-02,7:00 PM,Ottawa Senators,3,Toronto Maple Leafs,5,,Toronto Maple Leafs,Ottawa Senators,0.0,0.0
+2019-10-02,10:30 PM,San Jose Sharks,1,Vegas Golden Knights,4,,Vegas Golden Knights,San Jose Sharks,0.0,0.0
+2019-10-03,10:00 PM,Arizona Coyotes,1,Anaheim Ducks,2,,Anaheim Ducks,Arizona Coyotes,0.0,0.0
+2019-10-03,7:00 PM,Montreal Canadiens,3,Carolina Hurricanes,4,SO,Carolina Hurricanes,Montreal Canadiens,0.0,0.0
+2019-10-03,9:00 PM,Calgary Flames,3,Colorado Avalanche,5,,Colorado Avalanche,Calgary Flames,0.0,0.0
+2019-10-03,8:30 PM,Boston Bruins,2,Dallas Stars,1,,Boston Bruins,Dallas Stars,0.0,0.0
+2019-10-03,8:00 PM,Minnesota Wild,2,Nashville Predators,5,,Nashville Predators,Minnesota Wild,0.0,0.0
+2019-10-03,7:00 PM,Winnipeg Jets,4,New York Rangers,6,,New York Rangers,Winnipeg Jets,0.0,0.0
+2019-10-03,7:00 PM,Buffalo Sabres,3,Pittsburgh Penguins,1,,Buffalo Sabres,Pittsburgh Penguins,0.0,0.0
+2019-10-03,7:00 PM,Florida Panthers,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,Florida Panthers,0.0,0.0
+2019-10-04,7:00 PM,Toronto Maple Leafs,4,Columbus Blue Jackets,1,,Toronto Maple Leafs,Columbus Blue Jackets,0.0,1.0
+2019-10-04,7:00 PM,Winnipeg Jets,5,New Jersey Devils,4,SO,Winnipeg Jets,New Jersey Devils,0.0,0.0
+2019-10-04,7:00 PM,Washington Capitals,2,New York Islanders,1,,Washington Capitals,New York Islanders,0.0,1.0
+2019-10-04,2:00 PM,Chicago Blackhawks,3,Philadelphia Flyers,4,,Philadelphia Flyers,Chicago Blackhawks,0.0,0.0
+2019-10-04,10:30 PM,Vegas Golden Knights,5,San Jose Sharks,1,,Vegas Golden Knights,San Jose Sharks,0.0,1.0
+2019-10-05,10:00 PM,San Jose Sharks,1,Anaheim Ducks,3,,Anaheim Ducks,San Jose Sharks,1.0,0.0
+2019-10-05,9:00 PM,Boston Bruins,1,Arizona Coyotes,0,,Boston Bruins,Arizona Coyotes,0.0,1.0
+2019-10-05,7:00 PM,New Jersey Devils,2,Buffalo Sabres,7,,Buffalo Sabres,New Jersey Devils,1.0,0.5
+2019-10-05,10:00 PM,Vancouver Canucks,0,Calgary Flames,3,,Calgary Flames,Vancouver Canucks,0.0,0.0
+2019-10-05,9:00 PM,Minnesota Wild,2,Colorado Avalanche,4,,Colorado Avalanche,Minnesota Wild,1.0,0.0
+2019-10-05,10:00 PM,Los Angeles Kings,5,Edmonton Oilers,6,,Edmonton Oilers,Los Angeles Kings,1.0,0.0
+2019-10-05,7:00 PM,Tampa Bay Lightning,3,Florida Panthers,4,,Florida Panthers,Tampa Bay Lightning,0.0,1.0
+2019-10-05,8:00 PM,Detroit Red Wings,5,Nashville Predators,3,,Detroit Red Wings,Nashville Predators,1.0,0.0
+2019-10-05,7:00 PM,New York Rangers,4,Ottawa Senators,1,,New York Rangers,Ottawa Senators,0.0,1.0
+2019-10-05,7:00 PM,Columbus Blue Jackets,2,Pittsburgh Penguins,7,,Pittsburgh Penguins,Columbus Blue Jackets,0.0,0.0
+2019-10-05,8:00 PM,Dallas Stars,2,St. Louis Blues,3,,St. Louis Blues,Dallas Stars,0.5,0.0
+2019-10-05,7:00 PM,Montreal Canadiens,6,Toronto Maple Leafs,5,SO,Montreal Canadiens,Toronto Maple Leafs,1.0,0.5
+2019-10-05,7:00 PM,Carolina Hurricanes,3,Washington Capitals,2,OT,Carolina Hurricanes,Washington Capitals,1.0,1.0
+2019-10-06,5:00 PM,Tampa Bay Lightning,3,Carolina Hurricanes,4,OT,Carolina Hurricanes,Tampa Bay Lightning,1.0,0.5
+2019-10-06,7:00 PM,Dallas Stars,3,Detroit Red Wings,4,,Detroit Red Wings,Dallas Stars,1.0,0.0
+2019-10-06,7:00 PM,Winnipeg Jets,1,New York Islanders,4,,New York Islanders,Winnipeg Jets,0.0,0.5
+2019-10-07,7:00 PM,Buffalo Sabres,3,Columbus Blue Jackets,4,OT,Columbus Blue Jackets,Buffalo Sabres,0.0,1.0
+2019-10-07,7:00 PM,St. Louis Blues,3,Toronto Maple Leafs,2,,St. Louis Blues,Toronto Maple Leafs,0.8333333333333334,0.75
+2019-10-08,9:00 PM,Los Angeles Kings,4,Calgary Flames,3,OT,Los Angeles Kings,Calgary Flames,0.5,0.0
+2019-10-08,7:30 PM,Anaheim Ducks,3,Detroit Red Wings,1,,Anaheim Ducks,Detroit Red Wings,1.0,1.0
+2019-10-08,7:00 PM,Carolina Hurricanes,6,Florida Panthers,3,,Carolina Hurricanes,Florida Panthers,0.5,1.0
+2019-10-08,8:00 PM,San Jose Sharks,2,Nashville Predators,5,,Nashville Predators,San Jose Sharks,0.5,0.0
+2019-10-08,7:00 PM,Edmonton Oilers,5,New York Islanders,2,,Edmonton Oilers,New York Islanders,0.5,1.0
+2019-10-08,7:00 PM,Winnipeg Jets,4,Pittsburgh Penguins,1,,Winnipeg Jets,Pittsburgh Penguins,0.5,0.3333333333333333
+2019-10-08,10:00 PM,Boston Bruins,4,Vegas Golden Knights,3,,Boston Bruins,Vegas Golden Knights,1.0,1.0
+2019-10-08,7:00 PM,Dallas Stars,4,Washington Capitals,3,OT,Dallas Stars,Washington Capitals,0.8333333333333334,0.0
+2019-10-09,7:00 PM,Montreal Canadiens,4,Buffalo Sabres,5,OT,Buffalo Sabres,Montreal Canadiens,0.8333333333333334,0.75
+2019-10-09,7:30 PM,New Jersey Devils,0,Philadelphia Flyers,4,,Philadelphia Flyers,New Jersey Devils,1.0,0.25
+2019-10-09,10:00 PM,Los Angeles Kings,2,Vancouver Canucks,8,,Vancouver Canucks,Los Angeles Kings,0.0,0.5
+2019-10-10,10:00 PM,Vegas Golden Knights,1,Arizona Coyotes,4,,Arizona Coyotes,Vegas Golden Knights,0.0,0.6666666666666666
+2019-10-10,8:30 PM,San Jose Sharks,5,Chicago Blackhawks,4,,San Jose Sharks,Chicago Blackhawks,0.0,0.0
+2019-10-10,9:00 PM,Boston Bruins,2,Colorado Avalanche,4,,Colorado Avalanche,Boston Bruins,1.0,1.0
+2019-10-10,8:30 PM,Calgary Flames,3,Dallas Stars,2,SO,Calgary Flames,Dallas Stars,0.25,0.5
+2019-10-10,7:00 PM,Detroit Red Wings,4,Montreal Canadiens,2,,Detroit Red Wings,Montreal Canadiens,0.6666666666666666,0.6666666666666666
+2019-10-10,7:00 PM,Edmonton Oilers,4,New Jersey Devils,3,SO,Edmonton Oilers,New Jersey Devils,0.16666666666666666,1.0
+2019-10-10,8:00 PM,Washington Capitals,5,Nashville Predators,6,,Nashville Predators,Washington Capitals,0.6666666666666666,0.75
+2019-10-10,7:30 PM,St. Louis Blues,6,Ottawa Senators,4,,St. Louis Blues,Ottawa Senators,0.0,0.8333333333333334
+2019-10-10,7:00 PM,Anaheim Ducks,1,Pittsburgh Penguins,2,,Pittsburgh Penguins,Anaheim Ducks,0.3333333333333333,1.0
+2019-10-10,7:00 PM,Tampa Bay Lightning,7,Toronto Maple Leafs,3,,Tampa Bay Lightning,Toronto Maple Leafs,0.625,0.5
+2019-10-10,8:00 PM,Minnesota Wild,2,Winnipeg Jets,5,,Winnipeg Jets,Minnesota Wild,0.5,0.0
+2019-10-11,7:00 PM,Florida Panthers,2,Buffalo Sabres,3,SO,Buffalo Sabres,Florida Panthers,0.875,0.3333333333333333
+2019-10-11,7:30 PM,New York Islanders,2,Carolina Hurricanes,5,,Carolina Hurricanes,New York Islanders,1.0,0.3333333333333333
+2019-10-11,7:00 PM,Anaheim Ducks,2,Columbus Blue Jackets,1,,Anaheim Ducks,Columbus Blue Jackets,0.3333333333333333,0.75
+2019-10-12,7:00 PM,New Jersey Devils,0,Boston Bruins,3,,Boston Bruins,New Jersey Devils,0.75,0.25
+2019-10-12,7:00 PM,Columbus Blue Jackets,3,Carolina Hurricanes,2,,Columbus Blue Jackets,Carolina Hurricanes,1.0,0.25
+2019-10-12,7:00 PM,Winnipeg Jets,3,Chicago Blackhawks,2,OT,Winnipeg Jets,Chicago Blackhawks,0.0,0.6
+2019-10-12,9:00 PM,Arizona Coyotes,2,Colorado Avalanche,3,OT,Colorado Avalanche,Arizona Coyotes,1.0,0.3333333333333333
+2019-10-12,8:00 PM,Washington Capitals,4,Dallas Stars,1,,Washington Capitals,Dallas Stars,0.3,0.6
+2019-10-12,7:00 PM,Toronto Maple Leafs,5,Detroit Red Wings,2,,Toronto Maple Leafs,Detroit Red Wings,0.75,0.5
+2019-10-12,6:00 PM,Nashville Predators,4,Los Angeles Kings,7,,Los Angeles Kings,Nashville Predators,0.3333333333333333,0.75
+2019-10-12,8:30 PM,Pittsburgh Penguins,7,Minnesota Wild,4,,Pittsburgh Penguins,Minnesota Wild,0.0,0.5
+2019-10-12,7:00 PM,St. Louis Blues,3,Montreal Canadiens,6,,Montreal Canadiens,St. Louis Blues,0.5,0.875
+2019-10-12,7:00 PM,Florida Panthers,2,New York Islanders,3,SO,New York Islanders,Florida Panthers,0.25,0.375
+2019-10-12,1:00 PM,Edmonton Oilers,4,New York Rangers,1,,Edmonton Oilers,New York Rangers,1.0,1.0
+2019-10-12,4:00 PM,Tampa Bay Lightning,2,Ottawa Senators,4,,Ottawa Senators,Tampa Bay Lightning,0.0,0.625
+2019-10-12,10:00 PM,Philadelphia Flyers,2,Vancouver Canucks,3,SO,Vancouver Canucks,Philadelphia Flyers,0.3333333333333333,1.0
+2019-10-12,10:00 PM,Calgary Flames,2,Vegas Golden Knights,6,,Vegas Golden Knights,Calgary Flames,0.5,0.625
+2019-10-13,10:00 PM,Vegas Golden Knights,5,Los Angeles Kings,2,,Vegas Golden Knights,Los Angeles Kings,0.5,0.6
+2019-10-13,10:00 PM,Calgary Flames,1,San Jose Sharks,3,,San Jose Sharks,Calgary Flames,0.2,0.5
+2019-10-13,7:00 PM,Pittsburgh Penguins,7,Winnipeg Jets,2,,Pittsburgh Penguins,Winnipeg Jets,0.6666666666666666,0.6
+2019-10-14,1:00 PM,Anaheim Ducks,2,Boston Bruins,4,,Boston Bruins,Anaheim Ducks,0.8,0.8
+2019-10-14,3:00 PM,Dallas Stars,0,Buffalo Sabres,4,,Buffalo Sabres,Dallas Stars,0.9,0.25
+2019-10-14,8:30 PM,Edmonton Oilers,1,Chicago Blackhawks,3,,Chicago Blackhawks,Edmonton Oilers,0.16666666666666666,1.0
+2019-10-14,1:00 PM,Florida Panthers,6,New Jersey Devils,4,,Florida Panthers,New Jersey Devils,0.2,0.4
+2019-10-14,1:00 PM,St. Louis Blues,2,New York Islanders,3,OT,New York Islanders,St. Louis Blues,0.4,0.7
+2019-10-14,1:00 PM,Minnesota Wild,2,Ottawa Senators,0,,Minnesota Wild,Ottawa Senators,0.25,0.0
+2019-10-14,5:00 PM,Colorado Avalanche,6,Washington Capitals,3,,Colorado Avalanche,Washington Capitals,0.6666666666666666,1.0
+2019-10-15,9:00 PM,Philadelphia Flyers,1,Calgary Flames,3,,Calgary Flames,Philadelphia Flyers,0.4166666666666667,0.8333333333333334
+2019-10-15,10:30 PM,Carolina Hurricanes,2,Los Angeles Kings,0,,Carolina Hurricanes,Los Angeles Kings,0.4,0.8333333333333334
+2019-10-15,7:00 PM,Tampa Bay Lightning,3,Montreal Canadiens,1,,Tampa Bay Lightning,Montreal Canadiens,0.6,0.5
+2019-10-15,7:00 PM,Minnesota Wild,2,Toronto Maple Leafs,4,,Toronto Maple Leafs,Minnesota Wild,0.5833333333333334,0.2
+2019-10-15,10:00 PM,Detroit Red Wings,1,Vancouver Canucks,5,,Vancouver Canucks,Detroit Red Wings,0.5,0.6
+2019-10-15,10:00 PM,Nashville Predators,5,Vegas Golden Knights,2,,Nashville Predators,Vegas Golden Knights,0.6666666666666666,0.6
+2019-10-15,8:00 PM,Arizona Coyotes,4,Winnipeg Jets,2,,Arizona Coyotes,Winnipeg Jets,0.5714285714285714,0.375
+2019-10-16,10:00 PM,Buffalo Sabres,2,Anaheim Ducks,5,,Anaheim Ducks,Buffalo Sabres,0.6666666666666666,0.9166666666666666
+2019-10-16,7:00 PM,Dallas Stars,2,Columbus Blue Jackets,3,,Columbus Blue Jackets,Dallas Stars,0.4,0.21428571428571427
+2019-10-16,9:30 PM,Philadelphia Flyers,3,Edmonton Oilers,6,,Edmonton Oilers,Philadelphia Flyers,0.8333333333333334,0.625
+2019-10-16,7:00 PM,Colorado Avalanche,2,Pittsburgh Penguins,3,OT,Pittsburgh Penguins,Colorado Avalanche,0.6666666666666666,1.0
+2019-10-16,10:30 PM,Carolina Hurricanes,2,San Jose Sharks,5,,San Jose Sharks,Carolina Hurricanes,0.3333333333333333,0.8571428571428571
+2019-10-16,7:00 PM,Toronto Maple Leafs,3,Washington Capitals,4,,Washington Capitals,Toronto Maple Leafs,0.5714285714285714,0.6428571428571429
+2019-10-17,10:00 PM,Nashville Predators,2,Arizona Coyotes,5,,Arizona Coyotes,Nashville Predators,0.5,0.6666666666666666
+2019-10-17,7:00 PM,Tampa Bay Lightning,4,Boston Bruins,3,SO,Tampa Bay Lightning,Boston Bruins,0.8333333333333334,0.5833333333333334
+2019-10-17,9:00 PM,Detroit Red Wings,1,Calgary Flames,5,,Calgary Flames,Detroit Red Wings,0.5,0.5
+2019-10-17,10:30 PM,Buffalo Sabres,3,Los Angeles Kings,0,,Buffalo Sabres,Los Angeles Kings,0.3333333333333333,0.7857142857142857
+2019-10-17,7:00 PM,Minnesota Wild,0,Montreal Canadiens,4,,Montreal Canadiens,Minnesota Wild,0.5,0.16666666666666666
+2019-10-17,7:00 PM,New York Rangers,2,New Jersey Devils,5,,New Jersey Devils,New York Rangers,0.16666666666666666,0.6666666666666666
+2019-10-17,8:00 PM,Vancouver Canucks,4,St. Louis Blues,3,SO,Vancouver Canucks,St. Louis Blues,0.6666666666666666,0.6
+2019-10-17,10:00 PM,Ottawa Senators,2,Vegas Golden Knights,3,SO,Vegas Golden Knights,Ottawa Senators,0.5714285714285714,0.2
+2019-10-17,8:00 PM,New York Islanders,3,Winnipeg Jets,1,,New York Islanders,Winnipeg Jets,0.5,0.5
+2019-10-18,10:00 PM,Carolina Hurricanes,2,Anaheim Ducks,4,,Anaheim Ducks,Carolina Hurricanes,0.7142857142857143,0.75
+2019-10-18,8:30 PM,Columbus Blue Jackets,2,Chicago Blackhawks,3,OT,Chicago Blackhawks,Columbus Blue Jackets,0.375,0.5
+2019-10-18,9:00 PM,Detroit Red Wings,1,Edmonton Oilers,2,,Edmonton Oilers,Detroit Red Wings,0.8571428571428571,0.42857142857142855
+2019-10-18,7:00 PM,Colorado Avalanche,5,Florida Panthers,4,OT,Colorado Avalanche,Florida Panthers,0.5,0.9166666666666666
+2019-10-18,7:00 PM,Dallas Stars,2,Pittsburgh Penguins,4,,Pittsburgh Penguins,Dallas Stars,0.7142857142857143,0.1875
+2019-10-18,7:00 PM,New York Rangers,2,Washington Capitals,5,,Washington Capitals,New York Rangers,0.625,0.5
+2019-10-19,7:00 PM,Ottawa Senators,2,Arizona Coyotes,5,,Arizona Coyotes,Ottawa Senators,0.5833333333333334,0.25
+2019-10-19,7:00 PM,New York Islanders,3,Columbus Blue Jackets,2,OT,New York Islanders,Columbus Blue Jackets,0.5,0.5714285714285714
+2019-10-19,10:00 PM,Calgary Flames,1,Los Angeles Kings,4,,Los Angeles Kings,Calgary Flames,0.2857142857142857,0.5625
+2019-10-19,1:00 PM,Vancouver Canucks,0,New Jersey Devils,1,,New Jersey Devils,Vancouver Canucks,0.2857142857142857,0.6666666666666666
+2019-10-19,8:00 PM,Florida Panthers,3,Nashville Predators,2,SO,Florida Panthers,Nashville Predators,0.5714285714285714,0.5
+2019-10-19,7:00 PM,Dallas Stars,4,Philadelphia Flyers,1,,Dallas Stars,Philadelphia Flyers,0.5,0.16666666666666666
+2019-10-19,7:00 PM,Vegas Golden Knights,3,Pittsburgh Penguins,0,,Vegas Golden Knights,Pittsburgh Penguins,0.75,0.625
+2019-10-19,10:30 PM,Buffalo Sabres,4,San Jose Sharks,3,,Buffalo Sabres,San Jose Sharks,0.42857142857142855,0.8125
+2019-10-19,3:00 PM,Montreal Canadiens,5,St. Louis Blues,2,,Montreal Canadiens,St. Louis Blues,0.6428571428571429,0.5714285714285714
+2019-10-19,7:00 PM,Colorado Avalanche,6,Tampa Bay Lightning,2,,Colorado Avalanche,Tampa Bay Lightning,0.6428571428571429,0.9285714285714286
+2019-10-19,7:00 PM,Boston Bruins,3,Toronto Maple Leafs,4,OT,Toronto Maple Leafs,Boston Bruins,0.5625,0.7857142857142857
+2019-10-20,9:00 PM,Calgary Flames,2,Anaheim Ducks,1,,Calgary Flames,Anaheim Ducks,0.75,0.5
+2019-10-20,7:00 PM,Washington Capitals,5,Chicago Blackhawks,3,,Washington Capitals,Chicago Blackhawks,0.5,0.6666666666666666
+2019-10-20,5:00 PM,Montreal Canadiens,3,Minnesota Wild,4,,Minnesota Wild,Montreal Canadiens,0.14285714285714285,0.625
+2019-10-20,1:00 PM,Vancouver Canucks,3,New York Rangers,2,,Vancouver Canucks,New York Rangers,0.4,0.5714285714285714
+2019-10-20,7:00 PM,Edmonton Oilers,0,Winnipeg Jets,1,SO,Winnipeg Jets,Edmonton Oilers,0.4444444444444444,0.875
+2019-10-21,8:30 PM,Ottawa Senators,1,Dallas Stars,2,,Dallas Stars,Ottawa Senators,0.25,0.21428571428571427
+2019-10-21,7:00 PM,Vegas Golden Knights,2,Philadelphia Flyers,6,,Philadelphia Flyers,Vegas Golden Knights,0.4166666666666667,0.6666666666666666
+2019-10-21,8:00 PM,Colorado Avalanche,1,St. Louis Blues,3,,St. Louis Blues,Colorado Avalanche,0.5625,0.9375
+2019-10-21,7:00 PM,Columbus Blue Jackets,4,Toronto Maple Leafs,3,OT,Columbus Blue Jackets,Toronto Maple Leafs,0.6111111111111112,0.5
+2019-10-22,7:00 PM,Toronto Maple Leafs,2,Boston Bruins,4,,Boston Bruins,Toronto Maple Leafs,0.75,0.6
+2019-10-22,7:00 PM,San Jose Sharks,3,Buffalo Sabres,4,OT,Buffalo Sabres,San Jose Sharks,0.8333333333333334,0.375
+2019-10-22,9:00 PM,Washington Capitals,5,Calgary Flames,3,,Washington Capitals,Calgary Flames,0.55,0.7
+2019-10-22,8:30 PM,Vegas Golden Knights,2,Chicago Blackhawks,1,SO,Vegas Golden Knights,Chicago Blackhawks,0.4166666666666667,0.6
+2019-10-22,7:30 PM,Vancouver Canucks,5,Detroit Red Wings,2,,Vancouver Canucks,Detroit Red Wings,0.375,0.625
+2019-10-22,7:00 PM,Pittsburgh Penguins,2,Florida Panthers,4,,Florida Panthers,Pittsburgh Penguins,0.5625,0.6666666666666666
+2019-10-22,8:00 PM,Edmonton Oilers,0,Minnesota Wild,3,,Minnesota Wild,Edmonton Oilers,0.25,0.8333333333333334
+2019-10-22,8:00 PM,Anaheim Ducks,1,Nashville Predators,6,,Nashville Predators,Anaheim Ducks,0.5625,0.6666666666666666
+2019-10-22,7:00 PM,Arizona Coyotes,3,New York Rangers,2,OT,Arizona Coyotes,New York Rangers,0.3333333333333333,0.6428571428571429
+2019-10-22,8:00 PM,Los Angeles Kings,3,Winnipeg Jets,2,,Los Angeles Kings,Winnipeg Jets,0.5,0.375
+2019-10-23,7:30 PM,Detroit Red Wings,2,Ottawa Senators,5,,Ottawa Senators,Detroit Red Wings,0.1875,0.3333333333333333
+2019-10-23,8:00 PM,Pittsburgh Penguins,2,Tampa Bay Lightning,3,,Tampa Bay Lightning,Pittsburgh Penguins,0.5625,0.6
+2019-10-24,7:00 PM,Carolina Hurricanes,3,Columbus Blue Jackets,4,OT,Columbus Blue Jackets,Carolina Hurricanes,0.5555555555555556,0.6666666666666666
+2019-10-24,9:00 PM,Florida Panthers,5,Calgary Flames,6,SO,Calgary Flames,Florida Panthers,0.5,0.6111111111111112
+2019-10-24,8:30 PM,Philadelphia Flyers,4,Chicago Blackhawks,1,,Philadelphia Flyers,Chicago Blackhawks,0.42857142857142855,0.5
+2019-10-24,8:30 PM,Anaheim Ducks,1,Dallas Stars,2,,Dallas Stars,Anaheim Ducks,0.3181818181818182,0.6
+2019-10-24,9:00 PM,Washington Capitals,3,Edmonton Oilers,4,OT,Edmonton Oilers,Washington Capitals,0.75,0.7272727272727273
+2019-10-24,7:00 PM,San Jose Sharks,4,Montreal Canadiens,2,,San Jose Sharks,Montreal Canadiens,0.5555555555555556,0.3888888888888889
+2019-10-24,8:00 PM,Minnesota Wild,0,Nashville Predators,4,,Nashville Predators,Minnesota Wild,0.6111111111111112,0.3333333333333333
+2019-10-24,7:00 PM,Arizona Coyotes,2,New York Islanders,4,,New York Islanders,Arizona Coyotes,0.625,0.6875
+2019-10-24,7:00 PM,Buffalo Sabres,2,New York Rangers,6,,New York Rangers,Buffalo Sabres,0.35714285714285715,0.85
+2019-10-24,8:00 PM,Los Angeles Kings,2,St. Louis Blues,5,,St. Louis Blues,Los Angeles Kings,0.6111111111111112,0.4444444444444444
+2019-10-25,7:30 PM,Buffalo Sabres,2,Detroit Red Wings,0,,Buffalo Sabres,Detroit Red Wings,0.3,0.7727272727272727
+2019-10-25,7:00 PM,Arizona Coyotes,5,New Jersey Devils,3,,Arizona Coyotes,New Jersey Devils,0.375,0.6111111111111112
+2019-10-25,7:30 PM,New York Islanders,4,Ottawa Senators,2,,New York Islanders,Ottawa Senators,0.2777777777777778,0.6666666666666666
+2019-10-25,7:00 PM,San Jose Sharks,1,Toronto Maple Leafs,4,,Toronto Maple Leafs,San Jose Sharks,0.5454545454545454,0.45
+2019-10-25,10:00 PM,Washington Capitals,6,Vancouver Canucks,5,SO,Washington Capitals,Vancouver Canucks,0.6666666666666666,0.7083333333333334
+2019-10-25,6:00 PM,Colorado Avalanche,6,Vegas Golden Knights,1,,Colorado Avalanche,Vegas Golden Knights,0.6363636363636364,0.8333333333333334
+2019-10-26,7:00 PM,St. Louis Blues,0,Boston Bruins,3,,Boston Bruins,St. Louis Blues,0.7777777777777778,0.65
+2019-10-26,1:00 PM,Chicago Blackhawks,0,Carolina Hurricanes,4,,Carolina Hurricanes,Chicago Blackhawks,0.65,0.375
+2019-10-26,9:00 PM,Anaheim Ducks,5,Colorado Avalanche,2,,Anaheim Ducks,Colorado Avalanche,0.85,0.5454545454545454
+2019-10-26,8:00 PM,Pittsburgh Penguins,3,Dallas Stars,0,,Pittsburgh Penguins,Dallas Stars,0.375,0.5454545454545454
+2019-10-26,8:00 PM,Los Angeles Kings,1,Minnesota Wild,5,,Minnesota Wild,Los Angeles Kings,0.3,0.4
+2019-10-26,7:00 PM,Toronto Maple Leafs,2,Montreal Canadiens,5,,Montreal Canadiens,Toronto Maple Leafs,0.5,0.5833333333333334
+2019-10-26,7:00 PM,Columbus Blue Jackets,4,Philadelphia Flyers,7,,Philadelphia Flyers,Columbus Blue Jackets,0.5625,0.6
+2019-10-26,7:00 PM,Nashville Predators,3,Tampa Bay Lightning,2,OT,Nashville Predators,Tampa Bay Lightning,0.6111111111111112,0.65
+2019-10-26,10:00 PM,Calgary Flames,1,Winnipeg Jets,2,OT,Winnipeg Jets,Calgary Flames,0.45454545454545453,0.5416666666666666
+2019-10-27,7:00 PM,Los Angeles Kings,1,Chicago Blackhawks,5,,Chicago Blackhawks,Los Angeles Kings,0.3333333333333333,0.36363636363636365
+2019-10-27,5:00 PM,St. Louis Blues,5,Detroit Red Wings,4,OT,St. Louis Blues,Detroit Red Wings,0.2727272727272727,0.5909090909090909
+2019-10-27,4:00 PM,Florida Panthers,6,Edmonton Oilers,2,,Florida Panthers,Edmonton Oilers,0.7727272727272727,0.6
+2019-10-27,7:00 PM,Philadelphia Flyers,3,New York Islanders,5,,New York Islanders,Philadelphia Flyers,0.7,0.6111111111111112
+2019-10-27,7:00 PM,Boston Bruins,7,New York Rangers,4,,Boston Bruins,New York Rangers,0.4375,0.8
+2019-10-27,7:00 PM,San Jose Sharks,2,Ottawa Senators,5,,Ottawa Senators,San Jose Sharks,0.25,0.4090909090909091
+2019-10-27,8:00 PM,Anaheim Ducks,2,Vegas Golden Knights,5,,Vegas Golden Knights,Anaheim Ducks,0.5833333333333334,0.5833333333333334
+2019-10-28,7:00 PM,Arizona Coyotes,3,Buffalo Sabres,2,SO,Arizona Coyotes,Buffalo Sabres,0.7916666666666666,0.65
+2019-10-28,10:00 PM,Florida Panthers,2,Vancouver Canucks,7,,Vancouver Canucks,Florida Panthers,0.65,0.6363636363636364
+2019-10-29,10:00 PM,Winnipeg Jets,4,Anaheim Ducks,7,,Anaheim Ducks,Winnipeg Jets,0.5384615384615384,0.5
+2019-10-29,7:00 PM,San Jose Sharks,1,Boston Bruins,5,,Boston Bruins,San Jose Sharks,0.8181818181818182,0.375
+2019-10-29,7:00 PM,Calgary Flames,1,Carolina Hurricanes,2,,Carolina Hurricanes,Calgary Flames,0.6818181818181818,0.5384615384615384
+2019-10-29,8:30 PM,Minnesota Wild,3,Dallas Stars,6,,Dallas Stars,Minnesota Wild,0.34615384615384615,0.36363636363636365
+2019-10-29,7:30 PM,Edmonton Oilers,1,Detroit Red Wings,3,,Detroit Red Wings,Edmonton Oilers,0.2916666666666667,0.7083333333333334
+2019-10-29,8:00 PM,Chicago Blackhawks,0,Nashville Predators,3,,Nashville Predators,Chicago Blackhawks,0.6818181818181818,0.4
+2019-10-29,7:30 PM,Tampa Bay Lightning,1,New York Rangers,4,,New York Rangers,Tampa Bay Lightning,0.3888888888888889,0.6
+2019-10-29,7:00 PM,Philadelphia Flyers,1,Pittsburgh Penguins,7,,Pittsburgh Penguins,Philadelphia Flyers,0.5833333333333334,0.55
+2019-10-29,7:00 PM,Washington Capitals,4,Toronto Maple Leafs,3,OT,Washington Capitals,Toronto Maple Leafs,0.5384615384615384,0.7307692307692307
+2019-10-30,10:00 PM,Montreal Canadiens,4,Arizona Coyotes,1,,Montreal Canadiens,Arizona Coyotes,0.6818181818181818,0.5454545454545454
+2019-10-30,7:30 PM,Edmonton Oilers,4,Columbus Blue Jackets,1,,Edmonton Oilers,Columbus Blue Jackets,0.5454545454545454,0.6538461538461539
+2019-10-30,10:00 PM,Florida Panthers,4,Colorado Avalanche,3,OT,Florida Panthers,Colorado Avalanche,0.7727272727272727,0.5833333333333334
+2019-10-30,10:30 PM,Vancouver Canucks,5,Los Angeles Kings,3,,Vancouver Canucks,Los Angeles Kings,0.3333333333333333,0.6818181818181818
+2019-10-30,7:00 PM,Tampa Bay Lightning,7,New Jersey Devils,6,OT,Tampa Bay Lightning,New Jersey Devils,0.3333333333333333,0.5454545454545454
+2019-10-30,8:00 PM,Minnesota Wild,1,St. Louis Blues,2,,St. Louis Blues,Minnesota Wild,0.625,0.3333333333333333
+2019-10-31,8:00 PM,Calgary Flames,6,Nashville Predators,5,OT,Calgary Flames,Nashville Predators,0.7083333333333334,0.5
+2019-10-31,10:00 PM,Montreal Canadiens,5,Vegas Golden Knights,4,OT,Montreal Canadiens,Vegas Golden Knights,0.6153846153846154,0.5833333333333334
+2019-11-01,10:00 PM,Vancouver Canucks,1,Anaheim Ducks,2,OT,Anaheim Ducks,Vancouver Canucks,0.5714285714285714,0.7083333333333334
+2019-11-01,7:30 PM,Detroit Red Wings,3,Carolina Hurricanes,7,,Carolina Hurricanes,Detroit Red Wings,0.7083333333333334,0.34615384615384615
+2019-11-01,9:00 PM,Dallas Stars,2,Colorado Avalanche,1,,Dallas Stars,Colorado Avalanche,0.75,0.39285714285714285
+2019-11-01,7:00 PM,Philadelphia Flyers,4,New Jersey Devils,3,SO,Philadelphia Flyers,New Jersey Devils,0.35,0.5
+2019-11-01,7:00 PM,Tampa Bay Lightning,2,New York Islanders,5,,New York Islanders,Tampa Bay Lightning,0.7272727272727273,0.5833333333333334
+2019-11-01,10:30 PM,Winnipeg Jets,3,San Jose Sharks,2,,Winnipeg Jets,San Jose Sharks,0.34615384615384615,0.46153846153846156
+2019-11-01,8:00 PM,Columbus Blue Jackets,3,St. Louis Blues,4,OT,St. Louis Blues,Columbus Blue Jackets,0.6538461538461539,0.5
+2019-11-01,7:00 PM,Buffalo Sabres,1,Washington Capitals,6,,Washington Capitals,Buffalo Sabres,0.75,0.7692307692307693
+2019-11-02,9:00 PM,Colorado Avalanche,0,Arizona Coyotes,3,,Arizona Coyotes,Colorado Avalanche,0.625,0.6923076923076923
+2019-11-02,7:00 PM,Ottawa Senators,2,Boston Bruins,5,,Boston Bruins,Ottawa Senators,0.8333333333333334,0.3181818181818182
+2019-11-02,7:00 PM,New York Islanders,1,Buffalo Sabres,0,,New York Islanders,Buffalo Sabres,0.7142857142857143,0.75
+2019-11-02,7:00 PM,New Jersey Devils,5,Carolina Hurricanes,3,,New Jersey Devils,Carolina Hurricanes,0.7307692307692307,0.36363636363636365
+2019-11-02,7:00 PM,Calgary Flames,3,Columbus Blue Jackets,0,,Calgary Flames,Columbus Blue Jackets,0.5,0.5333333333333333
+2019-11-02,7:00 PM,Montreal Canadiens,1,Dallas Stars,4,,Dallas Stars,Montreal Canadiens,0.43333333333333335,0.6153846153846154
+2019-11-02,7:00 PM,Detroit Red Wings,0,Florida Panthers,4,,Florida Panthers,Detroit Red Wings,0.6153846153846154,0.32142857142857145
+2019-11-02,10:30 PM,Chicago Blackhawks,3,Los Angeles Kings,4,OT,Los Angeles Kings,Chicago Blackhawks,0.3076923076923077,0.36363636363636365
+2019-11-02,8:00 PM,St. Louis Blues,4,Minnesota Wild,3,OT,St. Louis Blues,Minnesota Wild,0.3076923076923077,0.6785714285714286
+2019-11-02,2:00 PM,New York Rangers,2,Nashville Predators,1,,New York Rangers,Nashville Predators,0.6923076923076923,0.45
+2019-11-02,7:00 PM,Toronto Maple Leafs,4,Philadelphia Flyers,3,SO,Toronto Maple Leafs,Philadelphia Flyers,0.5416666666666666,0.5357142857142857
+2019-11-02,1:00 PM,Edmonton Oilers,2,Pittsburgh Penguins,1,OT,Edmonton Oilers,Pittsburgh Penguins,0.6153846153846154,0.6785714285714286
+2019-11-02,10:00 PM,Vancouver Canucks,5,San Jose Sharks,2,,Vancouver Canucks,San Jose Sharks,0.32142857142857145,0.6923076923076923
+2019-11-02,10:00 PM,Winnipeg Jets,4,Vegas Golden Knights,3,OT,Winnipeg Jets,Vegas Golden Knights,0.6071428571428571,0.5
+2019-11-03,8:00 PM,Chicago Blackhawks,3,Anaheim Ducks,2,OT,Chicago Blackhawks,Anaheim Ducks,0.6,0.375
+2019-11-03,7:00 PM,Calgary Flames,2,Washington Capitals,4,,Washington Capitals,Calgary Flames,0.7666666666666667,0.5625
+2019-11-04,7:00 PM,Pittsburgh Penguins,4,Boston Bruins,6,,Boston Bruins,Pittsburgh Penguins,0.8461538461538461,0.6071428571428571
+2019-11-04,7:30 PM,Nashville Predators,6,Detroit Red Wings,1,,Nashville Predators,Detroit Red Wings,0.3,0.6428571428571429
+2019-11-04,9:00 PM,Arizona Coyotes,3,Edmonton Oilers,2,OT,Arizona Coyotes,Edmonton Oilers,0.7,0.6538461538461539
+2019-11-04,7:00 PM,Ottawa Senators,6,New York Rangers,2,,Ottawa Senators,New York Rangers,0.5,0.2916666666666667
+2019-11-05,10:00 PM,Minnesota Wild,4,Anaheim Ducks,2,,Minnesota Wild,Anaheim Ducks,0.59375,0.32142857142857145
+2019-11-05,7:00 PM,Vegas Golden Knights,2,Columbus Blue Jackets,1,,Vegas Golden Knights,Columbus Blue Jackets,0.4642857142857143,0.6
+2019-11-05,9:00 PM,Arizona Coyotes,3,Calgary Flames,4,OT,Calgary Flames,Arizona Coyotes,0.5294117647058824,0.6785714285714286
+2019-11-05,8:30 PM,Colorado Avalanche,1,Dallas Stars,4,,Dallas Stars,Colorado Avalanche,0.46875,0.6428571428571429
+2019-11-05,7:30 PM,Boston Bruins,4,Montreal Canadiens,5,,Montreal Canadiens,Boston Bruins,0.5714285714285714,0.8571428571428571
+2019-11-05,7:00 PM,Ottawa Senators,1,New York Islanders,4,,New York Islanders,Ottawa Senators,0.7692307692307693,0.34615384615384615
+2019-11-05,7:00 PM,Carolina Hurricanes,1,Philadelphia Flyers,4,,Philadelphia Flyers,Carolina Hurricanes,0.5384615384615384,0.6785714285714286
+2019-11-05,10:00 PM,Chicago Blackhawks,2,San Jose Sharks,4,,San Jose Sharks,Chicago Blackhawks,0.3,0.4230769230769231
+2019-11-05,7:30 PM,Los Angeles Kings,1,Toronto Maple Leafs,3,,Toronto Maple Leafs,Los Angeles Kings,0.5666666666666667,0.35714285714285715
+2019-11-05,10:00 PM,St. Louis Blues,2,Vancouver Canucks,1,OT,St. Louis Blues,Vancouver Canucks,0.7142857142857143,0.7
+2019-11-05,8:00 PM,New Jersey Devils,2,Winnipeg Jets,1,SO,New Jersey Devils,Winnipeg Jets,0.5333333333333333,0.4166666666666667
+2019-11-06,8:30 PM,St. Louis Blues,5,Edmonton Oilers,2,,St. Louis Blues,Edmonton Oilers,0.6875,0.71875
+2019-11-06,8:00 PM,Detroit Red Wings,1,New York Rangers,5,,New York Rangers,Detroit Red Wings,0.4583333333333333,0.28125
+2019-11-07,9:00 PM,Columbus Blue Jackets,3,Arizona Coyotes,2,,Columbus Blue Jackets,Arizona Coyotes,0.6666666666666666,0.43333333333333335
+2019-11-07,7:00 PM,New York Rangers,4,Carolina Hurricanes,2,,New York Rangers,Carolina Hurricanes,0.6333333333333333,0.5
+2019-11-07,9:00 PM,New Jersey Devils,2,Calgary Flames,5,,Calgary Flames,New Jersey Devils,0.5555555555555556,0.46153846153846156
+2019-11-07,8:30 PM,Vancouver Canucks,2,Chicago Blackhawks,5,,Chicago Blackhawks,Vancouver Canucks,0.39285714285714285,0.7
+2019-11-07,9:00 PM,Nashville Predators,4,Colorado Avalanche,9,,Colorado Avalanche,Nashville Predators,0.6,0.6666666666666666
+2019-11-07,7:00 PM,Washington Capitals,5,Florida Panthers,4,OT,Washington Capitals,Florida Panthers,0.6428571428571429,0.78125
+2019-11-07,7:00 PM,Pittsburgh Penguins,4,New York Islanders,3,OT,Pittsburgh Penguins,New York Islanders,0.7857142857142857,0.5666666666666667
+2019-11-07,7:30 PM,Los Angeles Kings,2,Ottawa Senators,3,OT,Ottawa Senators,Los Angeles Kings,0.32142857142857145,0.3333333333333333
+2019-11-07,7:00 PM,Montreal Canadiens,2,Philadelphia Flyers,3,OT,Philadelphia Flyers,Montreal Canadiens,0.5714285714285714,0.6
+2019-11-07,10:30 PM,Minnesota Wild,5,San Jose Sharks,6,,San Jose Sharks,Minnesota Wild,0.34375,0.36666666666666664
+2019-11-07,7:00 PM,Vegas Golden Knights,1,Toronto Maple Leafs,2,OT,Toronto Maple Leafs,Vegas Golden Knights,0.59375,0.625
+2019-11-08,2:00 PM,Tampa Bay Lightning,3,Buffalo Sabres,2,,Tampa Bay Lightning,Buffalo Sabres,0.6666666666666666,0.5384615384615384
+2019-11-08,7:30 PM,Boston Bruins,2,Detroit Red Wings,4,,Detroit Red Wings,Boston Bruins,0.2647058823529412,0.8
+2019-11-08,9:00 PM,New Jersey Devils,0,Edmonton Oilers,4,,Edmonton Oilers,New Jersey Devils,0.6470588235294118,0.42857142857142855
+2019-11-08,8:00 PM,Vancouver Canucks,1,Winnipeg Jets,4,,Winnipeg Jets,Vancouver Canucks,0.53125,0.65625
+2019-11-09,8:00 PM,Minnesota Wild,4,Arizona Coyotes,3,,Minnesota Wild,Arizona Coyotes,0.625,0.34375
+2019-11-09,10:00 PM,St. Louis Blues,3,Calgary Flames,2,OT,St. Louis Blues,Calgary Flames,0.5789473684210527,0.7352941176470589
+2019-11-09,9:00 PM,Columbus Blue Jackets,2,Colorado Avalanche,4,,Colorado Avalanche,Columbus Blue Jackets,0.625,0.46875
+2019-11-09,7:00 PM,Los Angeles Kings,2,Montreal Canadiens,3,,Montreal Canadiens,Los Angeles Kings,0.59375,0.34375
+2019-11-09,1:00 PM,Florida Panthers,1,New York Islanders,2,,New York Islanders,Florida Panthers,0.7666666666666667,0.6333333333333333
+2019-11-09,7:00 PM,Carolina Hurricanes,1,Ottawa Senators,4,,Ottawa Senators,Carolina Hurricanes,0.36666666666666664,0.59375
+2019-11-09,7:00 PM,Chicago Blackhawks,2,Pittsburgh Penguins,3,SO,Pittsburgh Penguins,Chicago Blackhawks,0.59375,0.43333333333333335
+2019-11-09,10:30 PM,Nashville Predators,1,San Jose Sharks,2,SO,San Jose Sharks,Nashville Predators,0.38235294117647056,0.625
+2019-11-09,1:00 PM,Buffalo Sabres,3,Tampa Bay Lightning,5,,Tampa Bay Lightning,Buffalo Sabres,0.5714285714285714,0.625
+2019-11-09,7:00 PM,Philadelphia Flyers,3,Toronto Maple Leafs,2,SO,Philadelphia Flyers,Toronto Maple Leafs,0.6176470588235294,0.6
+2019-11-09,7:00 PM,Vegas Golden Knights,2,Washington Capitals,5,,Washington Capitals,Vegas Golden Knights,0.7941176470588235,0.6176470588235294
+2019-11-10,9:00 PM,Edmonton Oilers,6,Anaheim Ducks,2,,Edmonton Oilers,Anaheim Ducks,0.5588235294117647,0.6666666666666666
+2019-11-10,7:00 PM,Philadelphia Flyers,3,Boston Bruins,2,SO,Philadelphia Flyers,Boston Bruins,0.75,0.625
+2019-11-10,7:00 PM,Toronto Maple Leafs,4,Chicago Blackhawks,5,,Chicago Blackhawks,Toronto Maple Leafs,0.4375,0.6111111111111112
+2019-11-10,5:00 PM,Vegas Golden Knights,2,Detroit Red Wings,3,,Detroit Red Wings,Vegas Golden Knights,0.3055555555555556,0.5833333333333334
+2019-11-10,1:00 PM,Florida Panthers,6,New York Rangers,5,SO,Florida Panthers,New York Rangers,0.5357142857142857,0.59375
+2019-11-10,4:00 PM,New Jersey Devils,2,Vancouver Canucks,1,,New Jersey Devils,Vancouver Canucks,0.6176470588235294,0.4
+2019-11-10,2:00 PM,Dallas Stars,2,Winnipeg Jets,3,OT,Winnipeg Jets,Dallas Stars,0.5588235294117647,0.5
+2019-11-11,7:00 PM,Ottawa Senators,2,Carolina Hurricanes,8,,Carolina Hurricanes,Ottawa Senators,0.5588235294117647,0.40625
+2019-11-11,7:00 PM,Arizona Coyotes,4,Washington Capitals,3,SO,Arizona Coyotes,Washington Capitals,0.8055555555555556,0.5882352941176471
+2019-11-12,10:00 PM,Detroit Red Wings,4,Anaheim Ducks,3,OT,Detroit Red Wings,Anaheim Ducks,0.5277777777777778,0.34210526315789475
+2019-11-12,7:00 PM,Florida Panthers,5,Boston Bruins,4,SO,Florida Panthers,Boston Bruins,0.7352941176470589,0.6176470588235294
+2019-11-12,10:30 PM,Minnesota Wild,1,Los Angeles Kings,3,,Los Angeles Kings,Minnesota Wild,0.3235294117647059,0.38235294117647056
+2019-11-12,7:00 PM,Columbus Blue Jackets,2,Montreal Canadiens,3,SO,Montreal Canadiens,Columbus Blue Jackets,0.6176470588235294,0.4411764705882353
+2019-11-12,7:30 PM,Pittsburgh Penguins,2,New York Rangers,3,OT,New York Rangers,Pittsburgh Penguins,0.5333333333333333,0.6176470588235294
+2019-11-12,10:30 PM,Edmonton Oilers,3,San Jose Sharks,6,,San Jose Sharks,Edmonton Oilers,0.4166666666666667,0.6842105263157895
+2019-11-12,8:00 PM,Arizona Coyotes,3,St. Louis Blues,2,SO,Arizona Coyotes,St. Louis Blues,0.75,0.6111111111111112
+2019-11-12,10:00 PM,Nashville Predators,3,Vancouver Canucks,5,,Vancouver Canucks,Nashville Predators,0.5833333333333334,0.6176470588235294
+2019-11-12,8:00 PM,Colorado Avalanche,4,Winnipeg Jets,0,,Colorado Avalanche,Winnipeg Jets,0.5833333333333334,0.6470588235294118
+2019-11-13,9:30 PM,Dallas Stars,3,Calgary Flames,1,,Dallas Stars,Calgary Flames,0.575,0.5
+2019-11-13,7:00 PM,Ottawa Senators,4,New Jersey Devils,2,,Ottawa Senators,New Jersey Devils,0.4375,0.38235294117647056
+2019-11-13,7:00 PM,Toronto Maple Leafs,4,New York Islanders,5,,New York Islanders,Toronto Maple Leafs,0.78125,0.5789473684210527
+2019-11-13,7:30 PM,Washington Capitals,2,Philadelphia Flyers,1,SO,Washington Capitals,Philadelphia Flyers,0.6470588235294118,0.7894736842105263
+2019-11-13,10:00 PM,Chicago Blackhawks,5,Vegas Golden Knights,3,,Chicago Blackhawks,Vegas Golden Knights,0.5526315789473685,0.47058823529411764
+2019-11-14,10:00 PM,San Jose Sharks,5,Anaheim Ducks,3,,San Jose Sharks,Anaheim Ducks,0.5263157894736842,0.4473684210526316
+2019-11-14,7:00 PM,Carolina Hurricanes,5,Buffalo Sabres,4,OT,Carolina Hurricanes,Buffalo Sabres,0.5882352941176471,0.5833333333333334
+2019-11-14,9:00 PM,Colorado Avalanche,2,Edmonton Oilers,6,,Edmonton Oilers,Colorado Avalanche,0.65,0.6666666666666666
+2019-11-14,7:00 PM,Winnipeg Jets,4,Florida Panthers,3,,Winnipeg Jets,Florida Panthers,0.6388888888888888,0.5526315789473685
+2019-11-14,10:30 PM,Detroit Red Wings,2,Los Angeles Kings,3,OT,Los Angeles Kings,Detroit Red Wings,0.3611111111111111,0.375
+2019-11-14,8:00 PM,Arizona Coyotes,2,Minnesota Wild,3,,Minnesota Wild,Arizona Coyotes,0.3611111111111111,0.631578947368421
+2019-11-14,7:00 PM,New York Rangers,3,Tampa Bay Lightning,9,,Tampa Bay Lightning,New York Rangers,0.6,0.5625
+2019-11-14,10:00 PM,Dallas Stars,4,Vancouver Canucks,2,,Dallas Stars,Vancouver Canucks,0.6052631578947368,0.5263157894736842
+2019-11-15,7:00 PM,St. Louis Blues,2,Columbus Blue Jackets,3,OT,Columbus Blue Jackets,St. Louis Blues,0.4444444444444444,0.7368421052631579
+2019-11-15,7:00 PM,Pittsburgh Penguins,1,New Jersey Devils,2,,New Jersey Devils,Pittsburgh Penguins,0.4117647058823529,0.6111111111111112
+2019-11-15,7:30 PM,Philadelphia Flyers,1,Ottawa Senators,2,,Ottawa Senators,Philadelphia Flyers,0.4166666666666667,0.6388888888888888
+2019-11-15,7:00 PM,Boston Bruins,4,Toronto Maple Leafs,2,,Boston Bruins,Toronto Maple Leafs,0.55,0.7222222222222222
+2019-11-15,7:00 PM,Montreal Canadiens,5,Washington Capitals,2,,Montreal Canadiens,Washington Capitals,0.8,0.6388888888888888
+2019-11-16,4:00 PM,Calgary Flames,0,Arizona Coyotes,3,,Arizona Coyotes,Calgary Flames,0.6,0.5476190476190477
+2019-11-16,7:00 PM,Washington Capitals,3,Boston Bruins,2,SO,Washington Capitals,Boston Bruins,0.7368421052631579,0.7619047619047619
+2019-11-16,7:00 PM,Ottawa Senators,2,Buffalo Sabres,4,,Buffalo Sabres,Ottawa Senators,0.5833333333333334,0.4473684210526316
+2019-11-16,4:00 PM,Dallas Stars,5,Edmonton Oilers,4,OT,Dallas Stars,Edmonton Oilers,0.6666666666666666,0.55
+2019-11-16,7:00 PM,New York Rangers,3,Florida Panthers,4,,Florida Panthers,New York Rangers,0.6052631578947368,0.5294117647058824
+2019-11-16,4:00 PM,Vegas Golden Knights,3,Los Angeles Kings,4,,Los Angeles Kings,Vegas Golden Knights,0.39473684210526316,0.525
+2019-11-16,2:00 PM,Carolina Hurricanes,4,Minnesota Wild,3,OT,Carolina Hurricanes,Minnesota Wild,0.39473684210526316,0.6052631578947368
+2019-11-16,7:00 PM,New Jersey Devils,4,Montreal Canadiens,3,OT,New Jersey Devils,Montreal Canadiens,0.6578947368421053,0.4444444444444444
+2019-11-16,8:00 PM,Chicago Blackhawks,7,Nashville Predators,2,,Chicago Blackhawks,Nashville Predators,0.5833333333333334,0.5
+2019-11-16,7:00 PM,New York Islanders,4,Philadelphia Flyers,3,SO,New York Islanders,Philadelphia Flyers,0.6052631578947368,0.7941176470588235
+2019-11-16,7:00 PM,Toronto Maple Leafs,1,Pittsburgh Penguins,6,,Pittsburgh Penguins,Toronto Maple Leafs,0.5789473684210527,0.5238095238095238
+2019-11-16,10:30 PM,Detroit Red Wings,3,San Jose Sharks,4,SO,San Jose Sharks,Detroit Red Wings,0.475,0.38095238095238093
+2019-11-16,8:00 PM,Anaheim Ducks,4,St. Louis Blues,1,,Anaheim Ducks,St. Louis Blues,0.725,0.5
+2019-11-16,4:00 PM,Winnipeg Jets,4,Tampa Bay Lightning,3,,Winnipeg Jets,Tampa Bay Lightning,0.625,0.575
+2019-11-16,10:00 PM,Colorado Avalanche,5,Vancouver Canucks,4,OT,Colorado Avalanche,Vancouver Canucks,0.575,0.631578947368421
+2019-11-17,7:00 PM,Buffalo Sabres,1,Chicago Blackhawks,4,,Chicago Blackhawks,Buffalo Sabres,0.5263157894736842,0.6052631578947368
+2019-11-17,7:00 PM,Calgary Flames,0,Vegas Golden Knights,6,,Vegas Golden Knights,Calgary Flames,0.5,0.5227272727272727
+2019-11-18,9:00 PM,Los Angeles Kings,0,Arizona Coyotes,3,,Arizona Coyotes,Los Angeles Kings,0.6190476190476191,0.425
+2019-11-18,7:00 PM,Anaheim Ducks,2,Washington Capitals,5,,Washington Capitals,Anaheim Ducks,0.7727272727272727,0.5238095238095238
+2019-11-19,7:00 PM,Minnesota Wild,4,Buffalo Sabres,1,,Minnesota Wild,Buffalo Sabres,0.575,0.4
+2019-11-19,7:00 PM,Montreal Canadiens,2,Columbus Blue Jackets,5,,Columbus Blue Jackets,Montreal Canadiens,0.47368421052631576,0.65
+2019-11-19,9:00 PM,Colorado Avalanche,3,Calgary Flames,2,,Colorado Avalanche,Calgary Flames,0.5,0.65
+2019-11-19,8:30 PM,Carolina Hurricanes,4,Chicago Blackhawks,2,,Carolina Hurricanes,Chicago Blackhawks,0.55,0.625
+2019-11-19,8:30 PM,Vancouver Canucks,1,Dallas Stars,6,,Dallas Stars,Vancouver Canucks,0.5714285714285714,0.5714285714285714
+2019-11-19,7:30 PM,Ottawa Senators,4,Detroit Red Wings,3,,Ottawa Senators,Detroit Red Wings,0.38636363636363635,0.425
+2019-11-19,7:00 PM,Philadelphia Flyers,2,Florida Panthers,5,,Florida Panthers,Philadelphia Flyers,0.625,0.6
+2019-11-19,7:00 PM,Boston Bruins,5,New Jersey Devils,1,,Boston Bruins,New Jersey Devils,0.47368421052631576,0.725
+2019-11-19,8:00 PM,Winnipeg Jets,2,Nashville Predators,1,,Winnipeg Jets,Nashville Predators,0.5526315789473685,0.5952380952380952
+2019-11-19,7:00 PM,New York Islanders,5,Pittsburgh Penguins,4,OT,New York Islanders,Pittsburgh Penguins,0.6,0.8055555555555556
+2019-11-19,10:30 PM,Edmonton Oilers,5,San Jose Sharks,2,,Edmonton Oilers,San Jose Sharks,0.5,0.6590909090909091
+2019-11-19,8:00 PM,Tampa Bay Lightning,1,St. Louis Blues,3,,St. Louis Blues,Tampa Bay Lightning,0.6904761904761905,0.5882352941176471
+2019-11-19,10:00 PM,Toronto Maple Leafs,2,Vegas Golden Knights,4,,Vegas Golden Knights,Toronto Maple Leafs,0.5227272727272727,0.5
+2019-11-20,7:30 PM,Ottawa Senators,2,Montreal Canadiens,1,OT,Ottawa Senators,Montreal Canadiens,0.6190476190476191,0.4523809523809524
+2019-11-20,8:00 PM,Washington Capitals,1,New York Rangers,4,,New York Rangers,Washington Capitals,0.5,0.782608695652174
+2019-11-21,9:00 PM,Toronto Maple Leafs,3,Arizona Coyotes,1,,Toronto Maple Leafs,Arizona Coyotes,0.6363636363636364,0.4782608695652174
+2019-11-21,7:00 PM,Buffalo Sabres,2,Boston Bruins,3,,Boston Bruins,Buffalo Sabres,0.7380952380952381,0.5476190476190477
+2019-11-21,7:00 PM,Philadelphia Flyers,5,Carolina Hurricanes,3,,Philadelphia Flyers,Carolina Hurricanes,0.6428571428571429,0.5714285714285714
+2019-11-21,7:00 PM,Detroit Red Wings,4,Columbus Blue Jackets,5,,Columbus Blue Jackets,Detroit Red Wings,0.5,0.3695652173913043
+2019-11-21,8:30 PM,Tampa Bay Lightning,4,Chicago Blackhawks,2,,Tampa Bay Lightning,Chicago Blackhawks,0.5238095238095238,0.5555555555555556
+2019-11-21,8:30 PM,Winnipeg Jets,3,Dallas Stars,5,,Dallas Stars,Winnipeg Jets,0.5909090909090909,0.6136363636363636
+2019-11-21,7:00 PM,Anaheim Ducks,4,Florida Panthers,5,OT,Florida Panthers,Anaheim Ducks,0.6428571428571429,0.5
+2019-11-21,10:30 PM,Edmonton Oilers,1,Los Angeles Kings,5,,Los Angeles Kings,Edmonton Oilers,0.40476190476190477,0.6739130434782609
+2019-11-21,8:00 PM,Colorado Avalanche,2,Minnesota Wild,3,,Minnesota Wild,Colorado Avalanche,0.42857142857142855,0.6666666666666666
+2019-11-21,8:00 PM,Vancouver Canucks,6,Nashville Predators,3,,Vancouver Canucks,Nashville Predators,0.525,0.5454545454545454
+2019-11-21,7:00 PM,Pittsburgh Penguins,3,New York Islanders,4,OT,New York Islanders,Pittsburgh Penguins,0.8157894736842105,0.5952380952380952
+2019-11-21,8:00 PM,Calgary Flames,0,St. Louis Blues,5,,St. Louis Blues,Calgary Flames,0.7045454545454546,0.4791666666666667
+2019-11-21,10:00 PM,San Jose Sharks,2,Vegas Golden Knights,1,OT,San Jose Sharks,Vegas Golden Knights,0.5434782608695652,0.4772727272727273
+2019-11-22,7:30 PM,New York Rangers,1,Ottawa Senators,4,,Ottawa Senators,New York Rangers,0.4772727272727273,0.5263157894736842
+2019-11-22,7:00 PM,New Jersey Devils,1,Pittsburgh Penguins,4,,Pittsburgh Penguins,New Jersey Devils,0.5909090909090909,0.45
+2019-11-23,7:00 PM,Minnesota Wild,4,Boston Bruins,5,OT,Boston Bruins,Minnesota Wild,0.75,0.45454545454545453
+2019-11-23,7:00 PM,Florida Panthers,2,Carolina Hurricanes,4,,Carolina Hurricanes,Florida Panthers,0.6136363636363636,0.6590909090909091
+2019-11-23,7:00 PM,Toronto Maple Leafs,5,Colorado Avalanche,3,,Toronto Maple Leafs,Colorado Avalanche,0.6363636363636364,0.5
+2019-11-23,8:00 PM,Chicago Blackhawks,1,Dallas Stars,2,SO,Dallas Stars,Chicago Blackhawks,0.6086956521739131,0.5
+2019-11-23,4:00 PM,Arizona Coyotes,3,Los Angeles Kings,2,,Arizona Coyotes,Los Angeles Kings,0.4318181818181818,0.6086956521739131
+2019-11-23,7:00 PM,New York Rangers,6,Montreal Canadiens,5,,New York Rangers,Montreal Canadiens,0.6136363636363636,0.5
+2019-11-23,7:00 PM,Detroit Red Wings,1,New Jersey Devils,5,,New Jersey Devils,Detroit Red Wings,0.42857142857142855,0.3541666666666667
+2019-11-23,1:00 PM,Calgary Flames,3,Philadelphia Flyers,2,SO,Calgary Flames,Philadelphia Flyers,0.5909090909090909,0.46
+2019-11-23,10:30 PM,New York Islanders,1,San Jose Sharks,2,OT,San Jose Sharks,New York Islanders,0.5,0.825
+2019-11-23,8:00 PM,Nashville Predators,4,St. Louis Blues,2,,Nashville Predators,St. Louis Blues,0.717391304347826,0.5
+2019-11-23,7:00 PM,Anaheim Ducks,2,Tampa Bay Lightning,6,,Tampa Bay Lightning,Anaheim Ducks,0.5789473684210527,0.5
+2019-11-23,10:00 PM,Edmonton Oilers,4,Vegas Golden Knights,2,,Edmonton Oilers,Vegas Golden Knights,0.5416666666666666,0.6458333333333334
+2019-11-23,7:00 PM,Columbus Blue Jackets,3,Winnipeg Jets,4,,Winnipeg Jets,Columbus Blue Jackets,0.5869565217391305,0.5238095238095238
+2019-11-23,12:30 PM,Vancouver Canucks,2,Washington Capitals,1,SO,Vancouver Canucks,Washington Capitals,0.75,0.5652173913043478
+2019-11-24,8:00 PM,Edmonton Oilers,4,Arizona Coyotes,3,SO,Edmonton Oilers,Arizona Coyotes,0.625,0.66
+2019-11-24,7:00 PM,Carolina Hurricanes,2,Detroit Red Wings,0,,Carolina Hurricanes,Detroit Red Wings,0.34,0.6304347826086957
+2019-11-24,5:00 PM,Buffalo Sabres,5,Florida Panthers,2,,Buffalo Sabres,Florida Panthers,0.6304347826086957,0.5227272727272727
+2019-11-25,10:00 PM,New York Islanders,0,Anaheim Ducks,3,,Anaheim Ducks,New York Islanders,0.4791666666666667,0.8095238095238095
+2019-11-25,7:00 PM,Ottawa Senators,0,Columbus Blue Jackets,1,,Columbus Blue Jackets,Ottawa Senators,0.5,0.5
+2019-11-25,8:30 PM,Vegas Golden Knights,2,Dallas Stars,4,,Dallas Stars,Vegas Golden Knights,0.625,0.52
+2019-11-25,10:30 PM,San Jose Sharks,4,Los Angeles Kings,3,OT,San Jose Sharks,Los Angeles Kings,0.41304347826086957,0.5208333333333334
+2019-11-25,8:00 PM,St. Louis Blues,2,Nashville Predators,3,SO,Nashville Predators,St. Louis Blues,0.5227272727272727,0.6875
+2019-11-25,7:00 PM,Minnesota Wild,2,New York Rangers,3,OT,New York Rangers,Minnesota Wild,0.5238095238095238,0.45652173913043476
+2019-11-25,7:00 PM,Vancouver Canucks,1,Philadelphia Flyers,2,,Philadelphia Flyers,Vancouver Canucks,0.5869565217391305,0.5833333333333334
+2019-11-25,7:00 PM,Calgary Flames,2,Pittsburgh Penguins,3,OT,Pittsburgh Penguins,Calgary Flames,0.6086956521739131,0.4807692307692308
+2019-11-25,7:00 PM,Buffalo Sabres,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,Buffalo Sabres,0.6,0.5434782608695652
+2019-11-26,8:00 PM,Dallas Stars,0,Chicago Blackhawks,3,,Chicago Blackhawks,Dallas Stars,0.5,0.64
+2019-11-26,7:00 PM,Boston Bruins,8,Montreal Canadiens,1,,Boston Bruins,Montreal Canadiens,0.5869565217391305,0.7608695652173914
+2019-11-26,7:00 PM,Minnesota Wild,3,New Jersey Devils,2,,Minnesota Wild,New Jersey Devils,0.45454545454545453,0.4583333333333333
+2019-11-27,9:30 PM,Anaheim Ducks,3,Arizona Coyotes,4,SO,Arizona Coyotes,Anaheim Ducks,0.62,0.5
+2019-11-27,7:00 PM,Calgary Flames,3,Buffalo Sabres,2,OT,Calgary Flames,Buffalo Sabres,0.5208333333333334,0.48148148148148145
+2019-11-27,7:00 PM,Philadelphia Flyers,3,Columbus Blue Jackets,2,,Philadelphia Flyers,Columbus Blue Jackets,0.5217391304347826,0.6041666666666666
+2019-11-27,10:00 PM,Edmonton Oilers,1,Colorado Avalanche,4,,Colorado Avalanche,Edmonton Oilers,0.6086956521739131,0.6730769230769231
+2019-11-27,7:00 PM,Toronto Maple Leafs,6,Detroit Red Wings,0,,Toronto Maple Leafs,Detroit Red Wings,0.3269230769230769,0.52
+2019-11-27,10:30 PM,New York Islanders,1,Los Angeles Kings,4,,Los Angeles Kings,New York Islanders,0.4166666666666667,0.7727272727272727
+2019-11-27,8:00 PM,Vegas Golden Knights,4,Nashville Predators,3,OT,Vegas Golden Knights,Nashville Predators,0.5434782608695652,0.5
+2019-11-27,7:00 PM,Carolina Hurricanes,2,New York Rangers,3,,New York Rangers,Carolina Hurricanes,0.5454545454545454,0.6458333333333334
+2019-11-27,7:00 PM,Boston Bruins,2,Ottawa Senators,1,,Boston Bruins,Ottawa Senators,0.4791666666666667,0.7708333333333334
+2019-11-27,7:00 PM,Vancouver Canucks,6,Pittsburgh Penguins,8,,Pittsburgh Penguins,Vancouver Canucks,0.625,0.56
+2019-11-27,10:30 PM,Winnipeg Jets,5,San Jose Sharks,1,,Winnipeg Jets,San Jose Sharks,0.54,0.6041666666666666
+2019-11-27,7:00 PM,St. Louis Blues,4,Tampa Bay Lightning,3,,St. Louis Blues,Tampa Bay Lightning,0.6190476190476191,0.68
+2019-11-27,7:00 PM,Florida Panthers,3,Washington Capitals,4,,Washington Capitals,Florida Panthers,0.74,0.6041666666666666
+2019-11-28,7:30 PM,New Jersey Devils,6,Montreal Canadiens,4,,New Jersey Devils,Montreal Canadiens,0.5625,0.43478260869565216
+2019-11-29,4:00 PM,Winnipeg Jets,3,Anaheim Ducks,0,,Winnipeg Jets,Anaheim Ducks,0.5,0.62
+2019-11-29,1:00 PM,New York Rangers,2,Boston Bruins,3,OT,Boston Bruins,New York Rangers,0.78,0.5652173913043478
+2019-11-29,4:00 PM,Toronto Maple Leafs,4,Buffalo Sabres,6,,Buffalo Sabres,Toronto Maple Leafs,0.52,0.5384615384615384
+2019-11-29,7:30 PM,Nashville Predators,3,Carolina Hurricanes,0,,Nashville Predators,Carolina Hurricanes,0.62,0.5416666666666666
+2019-11-29,7:00 PM,Pittsburgh Penguins,2,Columbus Blue Jackets,5,,Columbus Blue Jackets,Pittsburgh Penguins,0.5,0.64
+2019-11-29,4:00 PM,Colorado Avalanche,5,Chicago Blackhawks,2,,Colorado Avalanche,Chicago Blackhawks,0.5208333333333334,0.625
+2019-11-29,8:30 PM,St. Louis Blues,3,Dallas Stars,1,,St. Louis Blues,Dallas Stars,0.6153846153846154,0.6923076923076923
+2019-11-29,4:00 PM,Ottawa Senators,2,Minnesota Wild,7,,Minnesota Wild,Ottawa Senators,0.48,0.46
+2019-11-29,4:00 PM,Detroit Red Wings,1,Philadelphia Flyers,6,,Philadelphia Flyers,Detroit Red Wings,0.62,0.3148148148148148
+2019-11-29,4:00 PM,Los Angeles Kings,1,San Jose Sharks,4,,San Jose Sharks,Los Angeles Kings,0.5192307692307693,0.44
+2019-11-29,6:00 PM,Arizona Coyotes,1,Vegas Golden Knights,2,SO,Vegas Golden Knights,Arizona Coyotes,0.5185185185185185,0.6346153846153846
+2019-11-29,5:00 PM,Tampa Bay Lightning,3,Washington Capitals,4,OT,Washington Capitals,Tampa Bay Lightning,0.75,0.5909090909090909
+2019-11-30,8:00 PM,San Jose Sharks,4,Arizona Coyotes,2,,San Jose Sharks,Arizona Coyotes,0.6296296296296297,0.5370370370370371
+2019-11-30,7:00 PM,Ottawa Senators,1,Calgary Flames,3,,Calgary Flames,Ottawa Senators,0.5,0.4423076923076923
+2019-11-30,9:00 PM,Chicago Blackhawks,3,Colorado Avalanche,7,,Colorado Avalanche,Chicago Blackhawks,0.64,0.5
+2019-11-30,7:00 PM,Washington Capitals,5,Detroit Red Wings,2,,Washington Capitals,Detroit Red Wings,0.30357142857142855,0.7592592592592593
+2019-11-30,10:00 PM,Vancouver Canucks,5,Edmonton Oilers,2,,Vancouver Canucks,Edmonton Oilers,0.6481481481481481,0.5384615384615384
+2019-11-30,7:00 PM,Nashville Predators,0,Florida Panthers,3,,Florida Panthers,Nashville Predators,0.58,0.56
+2019-11-30,10:00 PM,Winnipeg Jets,1,Los Angeles Kings,2,,Los Angeles Kings,Winnipeg Jets,0.4230769230769231,0.6346153846153846
+2019-11-30,3:00 PM,Philadelphia Flyers,4,Montreal Canadiens,3,OT,Philadelphia Flyers,Montreal Canadiens,0.54,0.6346153846153846
+2019-11-30,1:00 PM,New York Rangers,4,New Jersey Devils,0,,New York Rangers,New Jersey Devils,0.4583333333333333,0.5625
+2019-11-30,7:00 PM,Columbus Blue Jackets,0,New York Islanders,2,,New York Islanders,Columbus Blue Jackets,0.7391304347826086,0.52
+2019-11-30,8:00 PM,Pittsburgh Penguins,2,St. Louis Blues,5,,St. Louis Blues,Pittsburgh Penguins,0.7037037037037037,0.6153846153846154
+2019-11-30,7:00 PM,Carolina Hurricanes,3,Tampa Bay Lightning,2,,Carolina Hurricanes,Tampa Bay Lightning,0.5869565217391305,0.5961538461538461
+2019-11-30,7:00 PM,Buffalo Sabres,1,Toronto Maple Leafs,2,OT,Toronto Maple Leafs,Buffalo Sabres,0.5185185185185185,0.5384615384615384
+2019-12-01,7:00 PM,Montreal Canadiens,1,Boston Bruins,3,,Boston Bruins,Montreal Canadiens,0.7884615384615384,0.5384615384615384
+2019-12-01,3:00 PM,Dallas Stars,2,Minnesota Wild,3,SO,Minnesota Wild,Dallas Stars,0.5,0.5925925925925926
+2019-12-01,10:00 PM,Edmonton Oilers,3,Vancouver Canucks,2,,Edmonton Oilers,Vancouver Canucks,0.5555555555555556,0.625
+2019-12-02,10:00 PM,Los Angeles Kings,2,Anaheim Ducks,4,,Anaheim Ducks,Los Angeles Kings,0.48148148148148145,0.4444444444444444
+2019-12-02,7:00 PM,New Jersey Devils,1,Buffalo Sabres,7,,Buffalo Sabres,New Jersey Devils,0.5370370370370371,0.44
+2019-12-02,8:30 PM,St. Louis Blues,4,Chicago Blackhawks,0,,St. Louis Blues,Chicago Blackhawks,0.4807692307692308,0.7142857142857143
+2019-12-02,7:30 PM,New York Islanders,4,Detroit Red Wings,1,,New York Islanders,Detroit Red Wings,0.29310344827586204,0.75
+2019-12-02,7:00 PM,Vegas Golden Knights,4,New York Rangers,1,,Vegas Golden Knights,New York Rangers,0.58,0.5357142857142857
+2019-12-03,7:00 PM,Carolina Hurricanes,0,Boston Bruins,2,,Boston Bruins,Carolina Hurricanes,0.7962962962962963,0.6111111111111112
+2019-12-03,7:00 PM,Arizona Coyotes,4,Columbus Blue Jackets,2,,Arizona Coyotes,Columbus Blue Jackets,0.5,0.6071428571428571
+2019-12-03,7:00 PM,Minnesota Wild,4,Florida Panthers,2,,Minnesota Wild,Florida Panthers,0.5961538461538461,0.5185185185185185
+2019-12-03,7:00 PM,New York Islanders,2,Montreal Canadiens,4,,Montreal Canadiens,New York Islanders,0.5185185185185185,0.76
+2019-12-03,7:00 PM,Vegas Golden Knights,4,New Jersey Devils,3,,Vegas Golden Knights,New Jersey Devils,0.4230769230769231,0.5517241379310345
+2019-12-03,8:00 PM,Tampa Bay Lightning,3,Nashville Predators,2,OT,Tampa Bay Lightning,Nashville Predators,0.5384615384615384,0.5625
+2019-12-03,7:00 PM,Toronto Maple Leafs,1,Philadelphia Flyers,6,,Philadelphia Flyers,Toronto Maple Leafs,0.6481481481481481,0.5357142857142857
+2019-12-03,10:30 PM,Washington Capitals,5,San Jose Sharks,2,,Washington Capitals,San Jose Sharks,0.5535714285714286,0.7678571428571429
+2019-12-03,10:00 PM,Ottawa Senators,2,Vancouver Canucks,5,,Vancouver Canucks,Ottawa Senators,0.5357142857142857,0.42592592592592593
+2019-12-03,8:00 PM,Dallas Stars,1,Winnipeg Jets,5,,Winnipeg Jets,Dallas Stars,0.6111111111111112,0.5892857142857143
+2019-12-04,9:30 PM,Ottawa Senators,5,Edmonton Oilers,2,,Ottawa Senators,Edmonton Oilers,0.6379310344827587,0.4107142857142857
+2019-12-04,10:00 PM,Washington Capitals,3,Los Angeles Kings,1,,Washington Capitals,Los Angeles Kings,0.42857142857142855,0.7758620689655172
+2019-12-04,8:00 PM,St. Louis Blues,0,Pittsburgh Penguins,3,,Pittsburgh Penguins,St. Louis Blues,0.5925925925925926,0.7241379310344828
+2019-12-04,7:00 PM,Colorado Avalanche,3,Toronto Maple Leafs,1,,Colorado Avalanche,Toronto Maple Leafs,0.5172413793103449,0.6538461538461539
+2019-12-05,7:00 PM,Chicago Blackhawks,4,Boston Bruins,3,OT,Chicago Blackhawks,Boston Bruins,0.8035714285714286,0.46296296296296297
+2019-12-05,7:00 PM,San Jose Sharks,2,Carolina Hurricanes,3,SO,Carolina Hurricanes,San Jose Sharks,0.5892857142857143,0.5344827586206896
+2019-12-05,7:00 PM,New York Rangers,3,Columbus Blue Jackets,2,,New York Rangers,Columbus Blue Jackets,0.48148148148148145,0.5576923076923077
+2019-12-05,9:00 PM,Buffalo Sabres,3,Calgary Flames,4,,Calgary Flames,Buffalo Sabres,0.5172413793103449,0.5535714285714286
+2019-12-05,8:30 PM,Winnipeg Jets,2,Dallas Stars,3,OT,Dallas Stars,Winnipeg Jets,0.5689655172413793,0.625
+2019-12-05,7:00 PM,Colorado Avalanche,3,Montreal Canadiens,2,,Colorado Avalanche,Montreal Canadiens,0.5357142857142857,0.6666666666666666
+2019-12-05,7:00 PM,Vegas Golden Knights,2,New York Islanders,3,OT,New York Islanders,Vegas Golden Knights,0.7307692307692307,0.5666666666666667
+2019-12-05,7:00 PM,Arizona Coyotes,3,Philadelphia Flyers,1,,Arizona Coyotes,Philadelphia Flyers,0.6607142857142857,0.6206896551724138
+2019-12-05,7:00 PM,Minnesota Wild,5,Tampa Bay Lightning,4,,Minnesota Wild,Tampa Bay Lightning,0.58,0.5357142857142857
+2019-12-06,10:00 PM,Washington Capitals,3,Anaheim Ducks,2,,Washington Capitals,Anaheim Ducks,0.5,0.7833333333333333
+2019-12-06,9:00 PM,Los Angeles Kings,1,Edmonton Oilers,2,,Edmonton Oilers,Los Angeles Kings,0.6166666666666667,0.41379310344827586
+2019-12-06,7:00 PM,Chicago Blackhawks,2,New Jersey Devils,1,SO,Chicago Blackhawks,New Jersey Devils,0.4074074074074074,0.48214285714285715
+2019-12-06,7:00 PM,Montreal Canadiens,2,New York Rangers,1,,Montreal Canadiens,New York Rangers,0.5740740740740741,0.5172413793103449
+2019-12-06,7:00 PM,Arizona Coyotes,0,Pittsburgh Penguins,2,,Pittsburgh Penguins,Arizona Coyotes,0.6071428571428571,0.6333333333333333
+2019-12-07,7:00 PM,Colorado Avalanche,4,Boston Bruins,1,,Colorado Avalanche,Boston Bruins,0.7931034482758621,0.6785714285714286
+2019-12-07,7:00 PM,Minnesota Wild,2,Carolina Hurricanes,6,,Carolina Hurricanes,Minnesota Wild,0.603448275862069,0.5517241379310345
+2019-12-07,10:00 PM,Los Angeles Kings,3,Calgary Flames,4,,Calgary Flames,Los Angeles Kings,0.5333333333333333,0.4
+2019-12-07,9:00 PM,New York Islanders,1,Dallas Stars,3,,Dallas Stars,New York Islanders,0.5833333333333334,0.7407407407407407
+2019-12-07,7:00 PM,Pittsburgh Penguins,5,Detroit Red Wings,3,,Pittsburgh Penguins,Detroit Red Wings,0.2833333333333333,0.6206896551724138
+2019-12-07,7:00 PM,Columbus Blue Jackets,1,Florida Panthers,4,,Florida Panthers,Columbus Blue Jackets,0.5740740740740741,0.4642857142857143
+2019-12-07,8:00 PM,New Jersey Devils,4,Nashville Predators,6,,Nashville Predators,New Jersey Devils,0.5370370370370371,0.4107142857142857
+2019-12-07,1:00 PM,Ottawa Senators,3,Philadelphia Flyers,4,,Philadelphia Flyers,Ottawa Senators,0.6379310344827587,0.43103448275862066
+2019-12-07,7:00 PM,Toronto Maple Leafs,5,St. Louis Blues,2,,Toronto Maple Leafs,St. Louis Blues,0.7,0.5
+2019-12-07,7:00 PM,San Jose Sharks,1,Tampa Bay Lightning,7,,Tampa Bay Lightning,San Jose Sharks,0.5576923076923077,0.5333333333333333
+2019-12-07,4:00 PM,Buffalo Sabres,5,Vancouver Canucks,6,OT,Vancouver Canucks,Buffalo Sabres,0.5517241379310345,0.5344827586206896
+2019-12-08,7:00 PM,Arizona Coyotes,4,Chicago Blackhawks,3,SO,Arizona Coyotes,Chicago Blackhawks,0.5,0.6333333333333333
+2019-12-08,8:00 PM,Buffalo Sabres,3,Edmonton Oilers,2,OT,Buffalo Sabres,Edmonton Oilers,0.6166666666666667,0.5333333333333333
+2019-12-08,5:00 PM,San Jose Sharks,1,Florida Panthers,5,,Florida Panthers,San Jose Sharks,0.5892857142857143,0.5333333333333333
+2019-12-08,7:00 PM,New York Rangers,5,Vegas Golden Knights,0,,New York Rangers,Vegas Golden Knights,0.55,0.5535714285714286
+2019-12-08,3:00 PM,Anaheim Ducks,2,Winnipeg Jets,3,,Winnipeg Jets,Anaheim Ducks,0.6206896551724138,0.4827586206896552
+2019-12-09,9:00 PM,Calgary Flames,5,Colorado Avalanche,4,OT,Calgary Flames,Colorado Avalanche,0.6896551724137931,0.5666666666666667
+2019-12-09,7:30 PM,Boston Bruins,2,Ottawa Senators,5,,Ottawa Senators,Boston Bruins,0.4166666666666667,0.7666666666666667
+2019-12-09,7:00 PM,New York Islanders,5,Tampa Bay Lightning,1,,New York Islanders,Tampa Bay Lightning,0.5740740740740741,0.7142857142857143
+2019-12-09,7:00 PM,Columbus Blue Jackets,5,Washington Capitals,2,,Columbus Blue Jackets,Washington Capitals,0.7833333333333333,0.4482758620689655
+2019-12-10,9:00 PM,Calgary Flames,5,Arizona Coyotes,2,,Calgary Flames,Arizona Coyotes,0.6666666666666666,0.5666666666666667
+2019-12-10,7:30 PM,St. Louis Blues,2,Buffalo Sabres,5,,Buffalo Sabres,St. Louis Blues,0.5333333333333333,0.6833333333333333
+2019-12-10,8:30 PM,New Jersey Devils,0,Dallas Stars,2,,Dallas Stars,New Jersey Devils,0.6166666666666667,0.39655172413793105
+2019-12-10,9:00 PM,Carolina Hurricanes,6,Edmonton Oilers,3,,Carolina Hurricanes,Edmonton Oilers,0.6,0.6166666666666667
+2019-12-10,7:00 PM,Tampa Bay Lightning,2,Florida Panthers,1,,Tampa Bay Lightning,Florida Panthers,0.603448275862069,0.5535714285714286
+2019-12-10,10:30 PM,New York Rangers,1,Los Angeles Kings,3,,Los Angeles Kings,New York Rangers,0.4,0.5689655172413793
+2019-12-10,8:00 PM,Anaheim Ducks,3,Minnesota Wild,2,SO,Anaheim Ducks,Minnesota Wild,0.5333333333333333,0.4666666666666667
+2019-12-10,8:00 PM,San Jose Sharks,1,Nashville Predators,3,,Nashville Predators,San Jose Sharks,0.5535714285714286,0.5333333333333333
+2019-12-10,7:00 PM,Montreal Canadiens,4,Pittsburgh Penguins,1,,Montreal Canadiens,Pittsburgh Penguins,0.6333333333333333,0.5333333333333333
+2019-12-10,10:00 PM,Toronto Maple Leafs,4,Vancouver Canucks,1,,Toronto Maple Leafs,Vancouver Canucks,0.5666666666666667,0.5
+2019-12-10,10:00 PM,Chicago Blackhawks,1,Vegas Golden Knights,5,,Vegas Golden Knights,Chicago Blackhawks,0.5166666666666667,0.5
+2019-12-10,8:00 PM,Detroit Red Wings,1,Winnipeg Jets,5,,Winnipeg Jets,Detroit Red Wings,0.6333333333333333,0.25
+2019-12-11,9:30 PM,Philadelphia Flyers,1,Colorado Avalanche,3,,Colorado Avalanche,Philadelphia Flyers,0.6833333333333333,0.65
+2019-12-11,7:30 PM,Ottawa Senators,2,Montreal Canadiens,3,OT,Montreal Canadiens,Ottawa Senators,0.55,0.45
+2019-12-11,7:00 PM,Boston Bruins,2,Washington Capitals,3,,Washington Capitals,Boston Bruins,0.75,0.7333333333333333
+2019-12-12,10:00 PM,Los Angeles Kings,2,Anaheim Ducks,1,,Los Angeles Kings,Anaheim Ducks,0.4666666666666667,0.4
+2019-12-12,9:00 PM,Chicago Blackhawks,2,Arizona Coyotes,5,,Arizona Coyotes,Chicago Blackhawks,0.6333333333333333,0.5
+2019-12-12,7:00 PM,Nashville Predators,3,Buffalo Sabres,4,,Buffalo Sabres,Nashville Predators,0.5333333333333333,0.5689655172413793
+2019-12-12,9:00 PM,Toronto Maple Leafs,2,Calgary Flames,4,,Calgary Flames,Toronto Maple Leafs,0.5833333333333334,0.5
+2019-12-12,7:30 PM,Winnipeg Jets,2,Detroit Red Wings,5,,Detroit Red Wings,Winnipeg Jets,0.21666666666666667,0.6666666666666666
+2019-12-12,7:00 PM,New York Islanders,3,Florida Panthers,1,,New York Islanders,Florida Panthers,0.5833333333333334,0.7241379310344828
+2019-12-12,8:00 PM,Edmonton Oilers,5,Minnesota Wild,6,,Minnesota Wild,Edmonton Oilers,0.55,0.5666666666666667
+2019-12-12,7:00 PM,Columbus Blue Jackets,0,Pittsburgh Penguins,1,OT,Pittsburgh Penguins,Columbus Blue Jackets,0.6333333333333333,0.4666666666666667
+2019-12-12,10:30 PM,New York Rangers,6,San Jose Sharks,3,,New York Rangers,San Jose Sharks,0.5333333333333333,0.55
+2019-12-12,8:00 PM,Vegas Golden Knights,2,St. Louis Blues,4,,St. Louis Blues,Vegas Golden Knights,0.65,0.55
+2019-12-12,7:00 PM,Boston Bruins,2,Tampa Bay Lightning,3,,Tampa Bay Lightning,Boston Bruins,0.5689655172413793,0.7
+2019-12-12,10:00 PM,Carolina Hurricanes,0,Vancouver Canucks,1,OT,Vancouver Canucks,Carolina Hurricanes,0.5666666666666667,0.6166666666666667
+2019-12-13,9:00 PM,New Jersey Devils,1,Colorado Avalanche,3,,Colorado Avalanche,New Jersey Devils,0.6833333333333333,0.38333333333333336
+2019-12-13,8:00 PM,Vegas Golden Knights,3,Dallas Stars,2,OT,Vegas Golden Knights,Dallas Stars,0.65,0.55
+2019-12-14,4:00 PM,New York Rangers,3,Anaheim Ducks,4,SO,Anaheim Ducks,New York Rangers,0.43333333333333335,0.55
+2019-12-14,8:00 PM,New Jersey Devils,2,Arizona Coyotes,1,,New Jersey Devils,Arizona Coyotes,0.65,0.36666666666666664
+2019-12-14,4:00 PM,Carolina Hurricanes,4,Calgary Flames,0,,Carolina Hurricanes,Calgary Flames,0.5833333333333334,0.6
+2019-12-14,7:00 PM,Toronto Maple Leafs,4,Edmonton Oilers,1,,Toronto Maple Leafs,Edmonton Oilers,0.5333333333333333,0.48333333333333334
+2019-12-14,7:00 PM,Boston Bruins,4,Florida Panthers,2,,Boston Bruins,Florida Panthers,0.5833333333333334,0.6666666666666666
+2019-12-14,7:00 PM,Philadelphia Flyers,1,Minnesota Wild,4,,Minnesota Wild,Philadelphia Flyers,0.5833333333333334,0.6166666666666667
+2019-12-14,7:00 PM,Detroit Red Wings,2,Montreal Canadiens,1,,Detroit Red Wings,Montreal Canadiens,0.55,0.25
+2019-12-14,6:30 PM,Dallas Stars,4,Nashville Predators,1,,Dallas Stars,Nashville Predators,0.55,0.6666666666666666
+2019-12-14,1:00 PM,Buffalo Sabres,2,New York Islanders,3,OT,New York Islanders,Buffalo Sabres,0.7333333333333333,0.55
+2019-12-14,1:00 PM,Columbus Blue Jackets,3,Ottawa Senators,4,OT,Ottawa Senators,Columbus Blue Jackets,0.4666666666666667,0.48333333333333334
+2019-12-14,7:00 PM,Los Angeles Kings,4,Pittsburgh Penguins,5,SO,Pittsburgh Penguins,Los Angeles Kings,0.6333333333333333,0.43333333333333335
+2019-12-14,10:00 PM,Vancouver Canucks,2,San Jose Sharks,4,,San Jose Sharks,Vancouver Canucks,0.5333333333333333,0.6
+2019-12-14,8:00 PM,Chicago Blackhawks,3,St. Louis Blues,4,,St. Louis Blues,Chicago Blackhawks,0.65,0.5
+2019-12-14,7:00 PM,Washington Capitals,5,Tampa Bay Lightning,2,,Washington Capitals,Tampa Bay Lightning,0.5833333333333334,0.7666666666666667
+2019-12-15,7:00 PM,Minnesota Wild,3,Chicago Blackhawks,5,,Chicago Blackhawks,Minnesota Wild,0.48333333333333334,0.6166666666666667
+2019-12-15,7:00 PM,Los Angeles Kings,4,Detroit Red Wings,2,,Los Angeles Kings,Detroit Red Wings,0.25,0.4166666666666667
+2019-12-15,8:00 PM,Vancouver Canucks,3,Vegas Golden Knights,6,,Vegas Golden Knights,Vancouver Canucks,0.55,0.5666666666666667
+2019-12-15,5:00 PM,Philadelphia Flyers,3,Winnipeg Jets,7,,Winnipeg Jets,Philadelphia Flyers,0.6333333333333333,0.5833333333333334
+2019-12-16,7:00 PM,Washington Capitals,0,Columbus Blue Jackets,3,,Columbus Blue Jackets,Washington Capitals,0.5,0.7833333333333333
+2019-12-16,8:30 PM,Edmonton Oilers,2,Dallas Stars,1,,Edmonton Oilers,Dallas Stars,0.6666666666666666,0.5
+2019-12-16,7:00 PM,Ottawa Senators,1,Florida Panthers,6,,Florida Panthers,Ottawa Senators,0.55,0.5
+2019-12-16,7:00 PM,Nashville Predators,5,New York Rangers,2,,Nashville Predators,New York Rangers,0.5333333333333333,0.5166666666666667
+2019-12-16,8:00 PM,Colorado Avalanche,2,St. Louis Blues,5,,St. Louis Blues,Colorado Avalanche,0.65,0.6833333333333333
+2019-12-17,7:00 PM,Los Angeles Kings,4,Boston Bruins,3,OT,Los Angeles Kings,Boston Bruins,0.7,0.45
+2019-12-17,9:00 PM,Pittsburgh Penguins,4,Calgary Flames,1,,Pittsburgh Penguins,Calgary Flames,0.5833333333333334,0.6666666666666666
+2019-12-17,7:30 PM,Columbus Blue Jackets,5,Detroit Red Wings,3,,Columbus Blue Jackets,Detroit Red Wings,0.25,0.5
+2019-12-17,7:00 PM,Nashville Predators,8,New York Islanders,3,,Nashville Predators,New York Islanders,0.7666666666666667,0.55
+2019-12-17,7:00 PM,Anaheim Ducks,1,Philadelphia Flyers,4,,Philadelphia Flyers,Anaheim Ducks,0.5666666666666667,0.43333333333333335
+2019-12-17,10:30 PM,Arizona Coyotes,3,San Jose Sharks,2,,Arizona Coyotes,San Jose Sharks,0.5333333333333333,0.6166666666666667
+2019-12-17,7:00 PM,Ottawa Senators,3,Tampa Bay Lightning,4,OT,Tampa Bay Lightning,Ottawa Senators,0.55,0.4666666666666667
+2019-12-17,7:00 PM,Buffalo Sabres,3,Toronto Maple Leafs,5,,Toronto Maple Leafs,Buffalo Sabres,0.5166666666666667,0.5333333333333333
+2019-12-17,10:00 PM,Montreal Canadiens,3,Vancouver Canucks,1,,Montreal Canadiens,Vancouver Canucks,0.5333333333333333,0.5333333333333333
+2019-12-17,10:00 PM,Minnesota Wild,2,Vegas Golden Knights,3,,Vegas Golden Knights,Minnesota Wild,0.55,0.6166666666666667
+2019-12-17,8:00 PM,Carolina Hurricanes,6,Winnipeg Jets,3,,Carolina Hurricanes,Winnipeg Jets,0.6666666666666666,0.6
+2019-12-18,8:00 PM,Colorado Avalanche,4,Chicago Blackhawks,1,,Colorado Avalanche,Chicago Blackhawks,0.48333333333333334,0.65
+2019-12-18,7:00 PM,Anaheim Ducks,1,New Jersey Devils,3,,New Jersey Devils,Anaheim Ducks,0.4,0.43333333333333335
+2019-12-18,8:30 PM,Edmonton Oilers,1,St. Louis Blues,2,,St. Louis Blues,Edmonton Oilers,0.6833333333333333,0.5333333333333333
+2019-12-19,9:30 PM,Minnesota Wild,8,Arizona Coyotes,5,,Minnesota Wild,Arizona Coyotes,0.6166666666666667,0.5833333333333334
+2019-12-19,7:00 PM,New York Islanders,3,Boston Bruins,2,SO,New York Islanders,Boston Bruins,0.6833333333333333,0.7333333333333333
+2019-12-19,7:00 PM,Los Angeles Kings,2,Columbus Blue Jackets,3,OT,Columbus Blue Jackets,Los Angeles Kings,0.5333333333333333,0.48333333333333334
+2019-12-19,9:00 PM,Montreal Canadiens,4,Calgary Flames,3,OT,Montreal Canadiens,Calgary Flames,0.5833333333333334,0.5666666666666667
+2019-12-19,9:00 PM,Carolina Hurricanes,3,Colorado Avalanche,1,,Carolina Hurricanes,Colorado Avalanche,0.65,0.6
+2019-12-19,7:30 PM,Nashville Predators,4,Ottawa Senators,5,OT,Ottawa Senators,Nashville Predators,0.48333333333333334,0.55
+2019-12-19,7:00 PM,Buffalo Sabres,1,Philadelphia Flyers,6,,Philadelphia Flyers,Buffalo Sabres,0.6,0.5
+2019-12-19,7:00 PM,Dallas Stars,4,Tampa Bay Lightning,3,OT,Dallas Stars,Tampa Bay Lightning,0.5833333333333334,0.65
+2019-12-19,10:00 PM,Vegas Golden Knights,4,Vancouver Canucks,5,OT,Vancouver Canucks,Vegas Golden Knights,0.5,0.5833333333333334
+2019-12-19,8:00 PM,Chicago Blackhawks,4,Winnipeg Jets,1,,Chicago Blackhawks,Winnipeg Jets,0.6333333333333333,0.45
+2019-12-20,9:00 PM,Pittsburgh Penguins,5,Edmonton Oilers,2,,Pittsburgh Penguins,Edmonton Oilers,0.5,0.6666666666666666
+2019-12-20,7:00 PM,Dallas Stars,4,Florida Panthers,7,,Florida Panthers,Dallas Stars,0.5833333333333334,0.6833333333333333
+2019-12-20,7:00 PM,Washington Capitals,6,New Jersey Devils,3,,Washington Capitals,New Jersey Devils,0.43333333333333335,0.7833333333333333
+2019-12-20,7:00 PM,Toronto Maple Leafs,6,New York Rangers,3,,Toronto Maple Leafs,New York Rangers,0.5333333333333333,0.55
+2019-12-21,7:00 PM,Nashville Predators,4,Boston Bruins,3,OT,Nashville Predators,Boston Bruins,0.6666666666666666,0.5333333333333333
+2019-12-21,1:00 PM,Los Angeles Kings,2,Buffalo Sabres,3,,Buffalo Sabres,Los Angeles Kings,0.4666666666666667,0.5
+2019-12-21,7:00 PM,Florida Panthers,4,Carolina Hurricanes,2,,Florida Panthers,Carolina Hurricanes,0.6,0.6
+2019-12-21,7:00 PM,New Jersey Devils,1,Columbus Blue Jackets,5,,Columbus Blue Jackets,New Jersey Devils,0.5333333333333333,0.4166666666666667
+2019-12-21,9:00 PM,Chicago Blackhawks,5,Colorado Avalanche,3,,Chicago Blackhawks,Colorado Avalanche,0.6166666666666667,0.48333333333333334
+2019-12-21,7:00 PM,Montreal Canadiens,3,Edmonton Oilers,4,,Edmonton Oilers,Montreal Canadiens,0.4666666666666667,0.5666666666666667
+2019-12-21,2:00 PM,Winnipeg Jets,6,Minnesota Wild,0,,Winnipeg Jets,Minnesota Wild,0.6166666666666667,0.6
+2019-12-21,1:00 PM,Anaheim Ducks,6,New York Islanders,5,SO,Anaheim Ducks,New York Islanders,0.7666666666666667,0.4
+2019-12-21,7:00 PM,Philadelphia Flyers,5,Ottawa Senators,4,SO,Philadelphia Flyers,Ottawa Senators,0.5,0.6333333333333333
+2019-12-21,10:30 PM,St. Louis Blues,5,San Jose Sharks,2,,St. Louis Blues,San Jose Sharks,0.5,0.7
+2019-12-21,7:00 PM,Detroit Red Wings,1,Toronto Maple Leafs,4,,Toronto Maple Leafs,Detroit Red Wings,0.55,0.25
+2019-12-21,10:00 PM,Pittsburgh Penguins,1,Vancouver Canucks,4,,Vancouver Canucks,Pittsburgh Penguins,0.5,0.6666666666666666
+2019-12-21,7:00 PM,Tampa Bay Lightning,1,Washington Capitals,3,,Washington Capitals,Tampa Bay Lightning,0.7833333333333333,0.5833333333333334
+2019-12-22,7:00 PM,Calgary Flames,5,Dallas Stars,1,,Calgary Flames,Dallas Stars,0.6833333333333333,0.5666666666666667
+2019-12-22,7:00 PM,Arizona Coyotes,5,Detroit Red Wings,2,,Arizona Coyotes,Detroit Red Wings,0.25,0.5833333333333334
+2019-12-22,12:30 PM,Anaheim Ducks,1,New York Rangers,5,,New York Rangers,Anaheim Ducks,0.5333333333333333,0.43333333333333335
+2019-12-22,10:00 PM,Vegas Golden Knights,3,San Jose Sharks,1,,Vegas Golden Knights,San Jose Sharks,0.4666666666666667,0.5666666666666667
+2019-12-23,7:00 PM,Washington Capitals,3,Boston Bruins,7,,Boston Bruins,Washington Capitals,0.6666666666666666,0.8166666666666667
+2019-12-23,8:30 PM,New Jersey Devils,7,Chicago Blackhawks,1,,New Jersey Devils,Chicago Blackhawks,0.5,0.4166666666666667
+2019-12-23,10:00 PM,St. Louis Blues,4,Los Angeles Kings,1,,St. Louis Blues,Los Angeles Kings,0.4666666666666667,0.7166666666666667
+2019-12-23,5:00 PM,Calgary Flames,0,Minnesota Wild,3,,Minnesota Wild,Calgary Flames,0.6166666666666667,0.5666666666666667
+2019-12-23,8:00 PM,Arizona Coyotes,2,Nashville Predators,3,,Nashville Predators,Arizona Coyotes,0.5666666666666667,0.5833333333333334
+2019-12-23,7:00 PM,Columbus Blue Jackets,3,New York Islanders,2,,Columbus Blue Jackets,New York Islanders,0.7833333333333333,0.5333333333333333
+2019-12-23,7:30 PM,Buffalo Sabres,1,Ottawa Senators,3,,Ottawa Senators,Buffalo Sabres,0.5166666666666667,0.5
+2019-12-23,7:00 PM,New York Rangers,1,Philadelphia Flyers,5,,Philadelphia Flyers,New York Rangers,0.6666666666666666,0.5666666666666667
+2019-12-23,7:00 PM,Florida Panthers,1,Tampa Bay Lightning,6,,Tampa Bay Lightning,Florida Panthers,0.55,0.6166666666666667
+2019-12-23,2:00 PM,Carolina Hurricanes,6,Toronto Maple Leafs,8,,Toronto Maple Leafs,Carolina Hurricanes,0.55,0.6
+2019-12-23,10:00 PM,Edmonton Oilers,2,Vancouver Canucks,4,,Vancouver Canucks,Edmonton Oilers,0.5333333333333333,0.48333333333333334
+2019-12-23,10:00 PM,Colorado Avalanche,7,Vegas Golden Knights,3,,Colorado Avalanche,Vegas Golden Knights,0.5666666666666667,0.6
+2019-12-23,8:00 PM,Montreal Canadiens,6,Winnipeg Jets,2,,Montreal Canadiens,Winnipeg Jets,0.6,0.5666666666666667
+2019-12-27,10:00 PM,Vegas Golden Knights,3,Anaheim Ducks,4,,Anaheim Ducks,Vegas Golden Knights,0.4,0.5666666666666667
+2019-12-27,7:00 PM,Boston Bruins,3,Buffalo Sabres,0,,Boston Bruins,Buffalo Sabres,0.4666666666666667,0.6833333333333333
+2019-12-27,8:30 PM,New York Islanders,2,Chicago Blackhawks,5,,Chicago Blackhawks,New York Islanders,0.5,0.75
+2019-12-27,8:00 PM,Minnesota Wild,6,Colorado Avalanche,4,,Minnesota Wild,Colorado Avalanche,0.6,0.6166666666666667
+2019-12-27,9:00 PM,Calgary Flames,5,Edmonton Oilers,1,,Calgary Flames,Edmonton Oilers,0.48333333333333334,0.5666666666666667
+2019-12-27,7:00 PM,Toronto Maple Leafs,5,New Jersey Devils,4,OT,Toronto Maple Leafs,New Jersey Devils,0.45,0.5833333333333334
+2019-12-27,8:00 PM,Pittsburgh Penguins,5,Nashville Predators,2,,Pittsburgh Penguins,Nashville Predators,0.5666666666666667,0.6333333333333333
+2019-12-27,7:00 PM,Carolina Hurricanes,3,New York Rangers,5,,New York Rangers,Carolina Hurricanes,0.5666666666666667,0.5666666666666667
+2019-12-27,10:00 PM,Los Angeles Kings,3,San Jose Sharks,2,OT,Los Angeles Kings,San Jose Sharks,0.4666666666666667,0.43333333333333335
+2019-12-27,8:00 PM,St. Louis Blues,5,Winnipeg Jets,4,OT,St. Louis Blues,Winnipeg Jets,0.6,0.75
+2019-12-27,7:00 PM,Columbus Blue Jackets,1,Washington Capitals,2,OT,Washington Capitals,Columbus Blue Jackets,0.7833333333333333,0.55
+2019-12-28,7:00 PM,Washington Capitals,4,Carolina Hurricanes,6,,Carolina Hurricanes,Washington Capitals,0.5666666666666667,0.7833333333333333
+2019-12-28,7:00 PM,Colorado Avalanche,2,Dallas Stars,3,SO,Dallas Stars,Colorado Avalanche,0.6833333333333333,0.5666666666666667
+2019-12-28,7:00 PM,Detroit Red Wings,4,Florida Panthers,5,,Florida Panthers,Detroit Red Wings,0.5833333333333334,0.25
+2019-12-28,7:00 PM,Nashville Predators,4,Pittsburgh Penguins,6,,Pittsburgh Penguins,Nashville Predators,0.6333333333333333,0.5666666666666667
+2019-12-28,10:30 PM,Philadelphia Flyers,1,San Jose Sharks,6,,San Jose Sharks,Philadelphia Flyers,0.4666666666666667,0.6666666666666666
+2019-12-28,7:00 PM,Montreal Canadiens,4,Tampa Bay Lightning,5,,Tampa Bay Lightning,Montreal Canadiens,0.5833333333333334,0.5666666666666667
+2019-12-28,7:00 PM,New York Rangers,5,Toronto Maple Leafs,4,OT,New York Rangers,Toronto Maple Leafs,0.5833333333333334,0.5833333333333334
+2019-12-28,10:00 PM,Los Angeles Kings,2,Vancouver Canucks,3,,Vancouver Canucks,Los Angeles Kings,0.5333333333333333,0.4666666666666667
+2019-12-28,10:00 PM,Arizona Coyotes,1,Vegas Golden Knights,4,,Vegas Golden Knights,Arizona Coyotes,0.5333333333333333,0.5833333333333334
+2019-12-29,8:30 PM,Philadelphia Flyers,2,Anaheim Ducks,1,OT,Philadelphia Flyers,Anaheim Ducks,0.4,0.6333333333333333
+2019-12-29,8:00 PM,Dallas Stars,4,Arizona Coyotes,2,,Dallas Stars,Arizona Coyotes,0.55,0.7166666666666667
+2019-12-29,7:00 PM,Buffalo Sabres,2,Boston Bruins,3,,Boston Bruins,Buffalo Sabres,0.6833333333333333,0.43333333333333335
+2019-12-29,5:00 PM,Chicago Blackhawks,3,Columbus Blue Jackets,2,SO,Chicago Blackhawks,Columbus Blue Jackets,0.55,0.5333333333333333
+2019-12-29,9:30 PM,Vancouver Canucks,5,Calgary Flames,2,,Vancouver Canucks,Calgary Flames,0.5666666666666667,0.5333333333333333
+2019-12-29,7:00 PM,Montreal Canadiens,5,Florida Panthers,6,,Florida Panthers,Montreal Canadiens,0.6,0.5333333333333333
+2019-12-29,6:00 PM,New York Islanders,3,Minnesota Wild,1,,New York Islanders,Minnesota Wild,0.6166666666666667,0.7166666666666667
+2019-12-29,5:00 PM,New Jersey Devils,4,Ottawa Senators,3,OT,New Jersey Devils,Ottawa Senators,0.55,0.43333333333333335
+2019-12-29,3:00 PM,Winnipeg Jets,1,St. Louis Blues,4,,St. Louis Blues,Winnipeg Jets,0.75,0.6166666666666667
+2019-12-29,7:00 PM,Detroit Red Wings,1,Tampa Bay Lightning,2,,Tampa Bay Lightning,Detroit Red Wings,0.5833333333333334,0.25
+2019-12-30,7:00 PM,Ottawa Senators,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Ottawa Senators,0.6333333333333333,0.5333333333333333
+2019-12-31,9:00 PM,St. Louis Blues,1,Arizona Coyotes,3,,Arizona Coyotes,St. Louis Blues,0.5166666666666667,0.75
+2019-12-31,7:00 PM,Tampa Bay Lightning,6,Buffalo Sabres,4,,Tampa Bay Lightning,Buffalo Sabres,0.4,0.5833333333333334
+2019-12-31,7:00 PM,Montreal Canadiens,1,Carolina Hurricanes,3,,Carolina Hurricanes,Montreal Canadiens,0.6,0.5333333333333333
+2019-12-31,7:00 PM,Florida Panthers,1,Columbus Blue Jackets,4,,Columbus Blue Jackets,Florida Panthers,0.5333333333333333,0.6
+2019-12-31,9:00 PM,Chicago Blackhawks,5,Calgary Flames,3,,Chicago Blackhawks,Calgary Flames,0.5666666666666667,0.5333333333333333
+2019-12-31,8:00 PM,Winnipeg Jets,7,Colorado Avalanche,4,,Winnipeg Jets,Colorado Avalanche,0.5833333333333334,0.6166666666666667
+2019-12-31,7:30 PM,San Jose Sharks,0,Detroit Red Wings,2,,Detroit Red Wings,San Jose Sharks,0.25,0.4666666666666667
+2019-12-31,9:00 PM,New York Rangers,5,Edmonton Oilers,7,,Edmonton Oilers,New York Rangers,0.45,0.5833333333333334
+2019-12-31,9:00 PM,Philadelphia Flyers,3,Los Angeles Kings,5,,Los Angeles Kings,Philadelphia Flyers,0.4666666666666667,0.6333333333333333
+2019-12-31,6:00 PM,Toronto Maple Leafs,4,Minnesota Wild,1,,Toronto Maple Leafs,Minnesota Wild,0.6166666666666667,0.5833333333333334
+2019-12-31,1:00 PM,Boston Bruins,2,New Jersey Devils,3,SO,New Jersey Devils,Boston Bruins,0.43333333333333335,0.6833333333333333
+2019-12-31,3:00 PM,Anaheim Ducks,2,Vegas Golden Knights,5,,Vegas Golden Knights,Anaheim Ducks,0.5666666666666667,0.4166666666666667
+2019-12-31,1:00 PM,New York Islanders,4,Washington Capitals,3,,New York Islanders,Washington Capitals,0.75,0.7166666666666667
+2020-01-01,2:00 PM,Nashville Predators,2,Dallas Stars,4,,Dallas Stars,Nashville Predators,0.7166666666666667,0.55
+2020-01-02,9:00 PM,Anaheim Ducks,2,Arizona Coyotes,4,,Arizona Coyotes,Anaheim Ducks,0.55,0.4166666666666667
+2020-01-02,7:00 PM,Columbus Blue Jackets,2,Boston Bruins,1,OT,Columbus Blue Jackets,Boston Bruins,0.6666666666666666,0.5333333333333333
+2020-01-02,7:00 PM,Edmonton Oilers,2,Buffalo Sabres,3,OT,Buffalo Sabres,Edmonton Oilers,0.4,0.48333333333333334
+2020-01-02,9:00 PM,New York Rangers,3,Calgary Flames,4,,Calgary Flames,New York Rangers,0.5333333333333333,0.5833333333333334
+2020-01-02,9:30 PM,St. Louis Blues,3,Colorado Avalanche,7,,Colorado Avalanche,St. Louis Blues,0.55,0.75
+2020-01-02,7:00 PM,Tampa Bay Lightning,2,Montreal Canadiens,1,,Tampa Bay Lightning,Montreal Canadiens,0.5333333333333333,0.6166666666666667
+2020-01-02,7:00 PM,New Jersey Devils,2,New York Islanders,1,,New Jersey Devils,New York Islanders,0.7166666666666667,0.4666666666666667
+2020-01-02,7:30 PM,Florida Panthers,6,Ottawa Senators,3,,Florida Panthers,Ottawa Senators,0.5333333333333333,0.5666666666666667
+2020-01-02,7:00 PM,San Jose Sharks,3,Pittsburgh Penguins,2,OT,San Jose Sharks,Pittsburgh Penguins,0.6666666666666666,0.4666666666666667
+2020-01-02,10:00 PM,Chicago Blackhawks,5,Vancouver Canucks,7,,Vancouver Canucks,Chicago Blackhawks,0.55,0.5666666666666667
+2020-01-02,10:00 PM,Philadelphia Flyers,4,Vegas Golden Knights,5,,Vegas Golden Knights,Philadelphia Flyers,0.5666666666666667,0.6333333333333333
+2020-01-02,8:00 PM,Toronto Maple Leafs,6,Winnipeg Jets,3,,Toronto Maple Leafs,Winnipeg Jets,0.6166666666666667,0.6166666666666667
+2020-01-03,7:30 PM,Washington Capitals,4,Carolina Hurricanes,3,,Washington Capitals,Carolina Hurricanes,0.6166666666666667,0.7166666666666667
+2020-01-03,8:30 PM,Detroit Red Wings,1,Dallas Stars,4,,Dallas Stars,Detroit Red Wings,0.7166666666666667,0.2833333333333333
+2020-01-04,8:00 PM,Philadelphia Flyers,2,Arizona Coyotes,6,,Arizona Coyotes,Philadelphia Flyers,0.55,0.6333333333333333
+2020-01-04,1:00 PM,Edmonton Oilers,4,Boston Bruins,1,,Edmonton Oilers,Boston Bruins,0.65,0.5
+2020-01-04,1:00 PM,Florida Panthers,2,Buffalo Sabres,3,,Buffalo Sabres,Florida Panthers,0.4,0.5833333333333334
+2020-01-04,1:00 PM,San Jose Sharks,3,Columbus Blue Jackets,2,,San Jose Sharks,Columbus Blue Jackets,0.5666666666666667,0.5
+2020-01-04,10:30 PM,Nashville Predators,4,Los Angeles Kings,1,,Nashville Predators,Los Angeles Kings,0.5,0.5166666666666667
+2020-01-04,2:00 PM,Winnipeg Jets,2,Minnesota Wild,3,OT,Minnesota Wild,Winnipeg Jets,0.5833333333333334,0.6166666666666667
+2020-01-04,7:00 PM,Pittsburgh Penguins,3,Montreal Canadiens,2,OT,Pittsburgh Penguins,Montreal Canadiens,0.5,0.6833333333333333
+2020-01-04,7:00 PM,Colorado Avalanche,5,New Jersey Devils,2,,Colorado Avalanche,New Jersey Devils,0.48333333333333334,0.5833333333333334
+2020-01-04,7:00 PM,Tampa Bay Lightning,5,Ottawa Senators,3,,Tampa Bay Lightning,Ottawa Senators,0.5,0.6166666666666667
+2020-01-04,7:00 PM,New York Islanders,0,Toronto Maple Leafs,3,,Toronto Maple Leafs,New York Islanders,0.6166666666666667,0.6833333333333333
+2020-01-04,10:00 PM,New York Rangers,1,Vancouver Canucks,2,,Vancouver Canucks,New York Rangers,0.55,0.55
+2020-01-04,4:00 PM,St. Louis Blues,4,Vegas Golden Knights,5,OT,Vegas Golden Knights,St. Louis Blues,0.5833333333333334,0.7166666666666667
+2020-01-05,10:00 PM,Nashville Predators,4,Anaheim Ducks,5,SO,Anaheim Ducks,Nashville Predators,0.4166666666666667,0.5166666666666667
+2020-01-05,5:00 PM,Tampa Bay Lightning,3,Carolina Hurricanes,1,,Tampa Bay Lightning,Carolina Hurricanes,0.5833333333333334,0.6333333333333333
+2020-01-05,7:30 PM,Detroit Red Wings,2,Chicago Blackhawks,4,,Chicago Blackhawks,Detroit Red Wings,0.55,0.26666666666666666
+2020-01-05,7:00 PM,Calgary Flames,5,Minnesota Wild,4,SO,Calgary Flames,Minnesota Wild,0.6166666666666667,0.55
+2020-01-05,5:00 PM,Florida Panthers,4,Pittsburgh Penguins,1,,Florida Panthers,Pittsburgh Penguins,0.7166666666666667,0.55
+2020-01-05,12:30 PM,San Jose Sharks,4,Washington Capitals,5,OT,Washington Capitals,San Jose Sharks,0.7333333333333333,0.5333333333333333
+2020-01-06,10:30 PM,Columbus Blue Jackets,4,Los Angeles Kings,2,,Columbus Blue Jackets,Los Angeles Kings,0.5,0.5666666666666667
+2020-01-06,7:00 PM,Winnipeg Jets,3,Montreal Canadiens,2,,Winnipeg Jets,Montreal Canadiens,0.48333333333333334,0.6
+2020-01-06,7:00 PM,Colorado Avalanche,0,New York Islanders,1,,New York Islanders,Colorado Avalanche,0.65,0.6
+2020-01-06,7:00 PM,Edmonton Oilers,6,Toronto Maple Leafs,4,,Edmonton Oilers,Toronto Maple Leafs,0.65,0.5
+2020-01-07,10:00 PM,Columbus Blue Jackets,4,Anaheim Ducks,3,,Columbus Blue Jackets,Anaheim Ducks,0.4166666666666667,0.5833333333333334
+2020-01-07,7:00 PM,Philadelphia Flyers,4,Carolina Hurricanes,5,OT,Carolina Hurricanes,Philadelphia Flyers,0.55,0.6
+2020-01-07,8:30 PM,Calgary Flames,2,Chicago Blackhawks,1,,Calgary Flames,Chicago Blackhawks,0.55,0.5833333333333334
+2020-01-07,7:30 PM,Montreal Canadiens,3,Detroit Red Wings,4,,Detroit Red Wings,Montreal Canadiens,0.23333333333333334,0.45
+2020-01-07,7:00 PM,Arizona Coyotes,5,Florida Panthers,2,,Arizona Coyotes,Florida Panthers,0.5833333333333334,0.55
+2020-01-07,7:00 PM,New York Islanders,4,New Jersey Devils,3,OT,New York Islanders,New Jersey Devils,0.4666666666666667,0.65
+2020-01-07,8:00 PM,Boston Bruins,6,Nashville Predators,2,,Boston Bruins,Nashville Predators,0.5,0.6166666666666667
+2020-01-07,7:30 PM,Colorado Avalanche,3,New York Rangers,5,,New York Rangers,Colorado Avalanche,0.5166666666666667,0.6
+2020-01-07,8:00 PM,San Jose Sharks,2,St. Louis Blues,3,,St. Louis Blues,San Jose Sharks,0.7,0.55
+2020-01-07,7:00 PM,Vancouver Canucks,2,Tampa Bay Lightning,9,,Tampa Bay Lightning,Vancouver Canucks,0.6666666666666666,0.55
+2020-01-07,10:00 PM,Pittsburgh Penguins,4,Vegas Golden Knights,3,,Pittsburgh Penguins,Vegas Golden Knights,0.6,0.6833333333333333
+2020-01-07,7:00 PM,Ottawa Senators,1,Washington Capitals,6,,Washington Capitals,Ottawa Senators,0.7333333333333333,0.5
+2020-01-08,10:00 PM,Dallas Stars,2,Los Angeles Kings,1,,Dallas Stars,Los Angeles Kings,0.4666666666666667,0.7166666666666667
+2020-01-08,7:30 PM,Washington Capitals,2,Philadelphia Flyers,3,,Philadelphia Flyers,Washington Capitals,0.6,0.7333333333333333
+2020-01-08,7:30 PM,Winnipeg Jets,4,Toronto Maple Leafs,3,SO,Winnipeg Jets,Toronto Maple Leafs,0.6333333333333333,0.6333333333333333
+2020-01-09,10:00 PM,Dallas Stars,3,Anaheim Ducks,0,,Dallas Stars,Anaheim Ducks,0.4166666666666667,0.75
+2020-01-09,7:00 PM,Winnipeg Jets,4,Boston Bruins,5,,Boston Bruins,Winnipeg Jets,0.6166666666666667,0.6333333333333333
+2020-01-09,9:00 PM,Minnesota Wild,1,Calgary Flames,2,,Calgary Flames,Minnesota Wild,0.5833333333333334,0.6333333333333333
+2020-01-09,8:30 PM,Nashville Predators,5,Chicago Blackhawks,2,,Nashville Predators,Chicago Blackhawks,0.55,0.4666666666666667
+2020-01-09,7:00 PM,Vancouver Canucks,2,Florida Panthers,5,,Florida Panthers,Vancouver Canucks,0.55,0.5333333333333333
+2020-01-09,7:00 PM,Edmonton Oilers,4,Montreal Canadiens,2,,Edmonton Oilers,Montreal Canadiens,0.45,0.5
+2020-01-09,7:00 PM,New Jersey Devils,3,New York Rangers,6,,New York Rangers,New Jersey Devils,0.55,0.45
+2020-01-09,10:30 PM,Columbus Blue Jackets,1,San Jose Sharks,3,,San Jose Sharks,Columbus Blue Jackets,0.55,0.6166666666666667
+2020-01-09,8:00 PM,Buffalo Sabres,1,St. Louis Blues,5,,St. Louis Blues,Buffalo Sabres,0.7,0.4166666666666667
+2020-01-09,7:00 PM,Arizona Coyotes,0,Tampa Bay Lightning,4,,Tampa Bay Lightning,Arizona Coyotes,0.6666666666666666,0.5666666666666667
+2020-01-09,10:00 PM,Los Angeles Kings,5,Vegas Golden Knights,2,,Los Angeles Kings,Vegas Golden Knights,0.5666666666666667,0.4666666666666667
+2020-01-10,7:30 PM,Arizona Coyotes,0,Carolina Hurricanes,3,,Carolina Hurricanes,Arizona Coyotes,0.55,0.5666666666666667
+2020-01-10,9:00 PM,Pittsburgh Penguins,4,Colorado Avalanche,3,OT,Pittsburgh Penguins,Colorado Avalanche,0.6,0.6833333333333333
+2020-01-10,7:30 PM,Ottawa Senators,2,Detroit Red Wings,3,SO,Detroit Red Wings,Ottawa Senators,0.26666666666666666,0.4666666666666667
+2020-01-11,1:00 PM,Vancouver Canucks,6,Buffalo Sabres,3,,Vancouver Canucks,Buffalo Sabres,0.4166666666666667,0.5
+2020-01-11,7:00 PM,Los Angeles Kings,0,Carolina Hurricanes,2,,Carolina Hurricanes,Los Angeles Kings,0.5833333333333334,0.48333333333333334
+2020-01-11,10:00 PM,Edmonton Oilers,3,Calgary Flames,4,,Calgary Flames,Edmonton Oilers,0.5833333333333334,0.5166666666666667
+2020-01-11,8:30 PM,Anaheim Ducks,2,Chicago Blackhawks,4,,Chicago Blackhawks,Anaheim Ducks,0.5166666666666667,0.38333333333333336
+2020-01-11,7:00 PM,Boston Bruins,3,New York Islanders,2,OT,Boston Bruins,New York Islanders,0.65,0.65
+2020-01-11,7:00 PM,Montreal Canadiens,2,Ottawa Senators,1,OT,Montreal Canadiens,Ottawa Senators,0.48333333333333334,0.4166666666666667
+2020-01-11,7:00 PM,Tampa Bay Lightning,1,Philadelphia Flyers,0,,Tampa Bay Lightning,Philadelphia Flyers,0.6,0.7
+2020-01-11,10:30 PM,Dallas Stars,1,San Jose Sharks,2,,San Jose Sharks,Dallas Stars,0.55,0.75
+2020-01-11,8:00 PM,New York Rangers,2,St. Louis Blues,5,,St. Louis Blues,New York Rangers,0.7,0.55
+2020-01-11,10:00 PM,Columbus Blue Jackets,3,Vegas Golden Knights,0,,Columbus Blue Jackets,Vegas Golden Knights,0.55,0.6166666666666667
+2020-01-11,7:00 PM,New Jersey Devils,5,Washington Capitals,1,,New Jersey Devils,Washington Capitals,0.7,0.4166666666666667
+2020-01-12,6:00 PM,Pittsburgh Penguins,4,Arizona Coyotes,3,SO,Pittsburgh Penguins,Arizona Coyotes,0.5666666666666667,0.7
+2020-01-12,5:00 PM,Buffalo Sabres,5,Detroit Red Wings,1,,Buffalo Sabres,Detroit Red Wings,0.3,0.4166666666666667
+2020-01-12,7:00 PM,Toronto Maple Leafs,4,Florida Panthers,8,,Florida Panthers,Toronto Maple Leafs,0.55,0.6166666666666667
+2020-01-12,4:00 PM,Vancouver Canucks,4,Minnesota Wild,1,,Vancouver Canucks,Minnesota Wild,0.6166666666666667,0.5166666666666667
+2020-01-12,7:00 PM,Tampa Bay Lightning,1,New Jersey Devils,3,,New Jersey Devils,Tampa Bay Lightning,0.45,0.7
+2020-01-12,2:00 PM,Nashville Predators,1,Winnipeg Jets,0,,Nashville Predators,Winnipeg Jets,0.6,0.48333333333333334
+2020-01-13,7:00 PM,Calgary Flames,0,Montreal Canadiens,2,,Montreal Canadiens,Calgary Flames,0.43333333333333335,0.6166666666666667
+2020-01-13,7:00 PM,New York Islanders,2,New York Rangers,6,,New York Rangers,New York Islanders,0.5166666666666667,0.6333333333333333
+2020-01-13,7:00 PM,Boston Bruins,5,Philadelphia Flyers,6,SO,Philadelphia Flyers,Boston Bruins,0.5666666666666667,0.6833333333333333
+2020-01-13,8:00 PM,Anaheim Ducks,1,St. Louis Blues,4,,St. Louis Blues,Anaheim Ducks,0.7,0.35
+2020-01-13,7:00 PM,Carolina Hurricanes,0,Washington Capitals,2,,Washington Capitals,Carolina Hurricanes,0.6666666666666666,0.6166666666666667
+2020-01-14,9:00 PM,San Jose Sharks,3,Arizona Coyotes,6,,Arizona Coyotes,San Jose Sharks,0.55,0.55
+2020-01-14,7:00 PM,Vegas Golden Knights,2,Buffalo Sabres,4,,Buffalo Sabres,Vegas Golden Knights,0.45,0.55
+2020-01-14,7:00 PM,Boston Bruins,0,Columbus Blue Jackets,3,,Columbus Blue Jackets,Boston Bruins,0.6166666666666667,0.6833333333333333
+2020-01-14,9:00 PM,Dallas Stars,3,Colorado Avalanche,2,OT,Dallas Stars,Colorado Avalanche,0.6166666666666667,0.7166666666666667
+2020-01-14,9:00 PM,Nashville Predators,2,Edmonton Oilers,4,,Edmonton Oilers,Nashville Predators,0.5166666666666667,0.5166666666666667
+2020-01-14,7:00 PM,Detroit Red Wings,2,New York Islanders,8,,New York Islanders,Detroit Red Wings,0.6,0.3
+2020-01-14,7:30 PM,Chicago Blackhawks,3,Ottawa Senators,2,OT,Chicago Blackhawks,Ottawa Senators,0.4666666666666667,0.5333333333333333
+2020-01-14,7:00 PM,Minnesota Wild,3,Pittsburgh Penguins,7,,Pittsburgh Penguins,Minnesota Wild,0.7333333333333333,0.5833333333333334
+2020-01-14,7:00 PM,Los Angeles Kings,3,Tampa Bay Lightning,4,SO,Tampa Bay Lightning,Los Angeles Kings,0.6666666666666666,0.48333333333333334
+2020-01-14,7:00 PM,New Jersey Devils,4,Toronto Maple Leafs,7,,Toronto Maple Leafs,New Jersey Devils,0.5833333333333334,0.48333333333333334
+2020-01-14,8:00 PM,Vancouver Canucks,0,Winnipeg Jets,4,,Winnipeg Jets,Vancouver Canucks,0.5833333333333334,0.55
+2020-01-15,7:30 PM,Chicago Blackhawks,4,Montreal Canadiens,1,,Chicago Blackhawks,Montreal Canadiens,0.43333333333333335,0.5333333333333333
+2020-01-15,8:00 PM,Philadelphia Flyers,4,St. Louis Blues,3,OT,Philadelphia Flyers,St. Louis Blues,0.7,0.5666666666666667
+2020-01-16,7:00 PM,Pittsburgh Penguins,1,Boston Bruins,4,,Boston Bruins,Pittsburgh Penguins,0.6666666666666666,0.7333333333333333
+2020-01-16,7:00 PM,Carolina Hurricanes,2,Columbus Blue Jackets,3,,Columbus Blue Jackets,Carolina Hurricanes,0.65,0.6166666666666667
+2020-01-16,9:00 PM,San Jose Sharks,0,Colorado Avalanche,4,,Colorado Avalanche,San Jose Sharks,0.6,0.5166666666666667
+2020-01-16,8:30 PM,Buffalo Sabres,4,Dallas Stars,1,,Buffalo Sabres,Dallas Stars,0.7166666666666667,0.48333333333333334
+2020-01-16,7:00 PM,Los Angeles Kings,3,Florida Panthers,4,,Florida Panthers,Los Angeles Kings,0.5666666666666667,0.4666666666666667
+2020-01-16,8:00 PM,Tampa Bay Lightning,2,Minnesota Wild,3,,Minnesota Wild,Tampa Bay Lightning,0.5833333333333334,0.6666666666666666
+2020-01-16,8:00 PM,Anaheim Ducks,4,Nashville Predators,2,,Anaheim Ducks,Nashville Predators,0.48333333333333334,0.3333333333333333
+2020-01-16,7:00 PM,New York Rangers,3,New York Islanders,2,,New York Rangers,New York Islanders,0.6166666666666667,0.5333333333333333
+2020-01-16,7:30 PM,Vegas Golden Knights,4,Ottawa Senators,2,,Vegas Golden Knights,Ottawa Senators,0.45,0.55
+2020-01-16,7:00 PM,Montreal Canadiens,4,Philadelphia Flyers,1,,Montreal Canadiens,Philadelphia Flyers,0.5666666666666667,0.4
+2020-01-16,7:00 PM,Calgary Flames,2,Toronto Maple Leafs,1,SO,Calgary Flames,Toronto Maple Leafs,0.5833333333333334,0.5833333333333334
+2020-01-16,10:00 PM,Arizona Coyotes,1,Vancouver Canucks,3,,Vancouver Canucks,Arizona Coyotes,0.55,0.55
+2020-01-16,7:00 PM,New Jersey Devils,2,Washington Capitals,5,,Washington Capitals,New Jersey Devils,0.6666666666666666,0.45
+2020-01-17,7:30 PM,Anaheim Ducks,2,Carolina Hurricanes,1,OT,Anaheim Ducks,Carolina Hurricanes,0.6166666666666667,0.36666666666666664
+2020-01-17,7:30 PM,Pittsburgh Penguins,2,Detroit Red Wings,1,OT,Pittsburgh Penguins,Detroit Red Wings,0.3,0.7
+2020-01-17,8:00 PM,Tampa Bay Lightning,7,Winnipeg Jets,1,,Tampa Bay Lightning,Winnipeg Jets,0.5833333333333334,0.6666666666666666
+2020-01-18,7:00 PM,New Jersey Devils,0,Columbus Blue Jackets,5,,Columbus Blue Jackets,New Jersey Devils,0.6666666666666666,0.45
+2020-01-18,3:00 PM,St. Louis Blues,3,Colorado Avalanche,5,,Colorado Avalanche,St. Louis Blues,0.6,0.6833333333333333
+2020-01-18,7:00 PM,Florida Panthers,4,Detroit Red Wings,1,,Florida Panthers,Detroit Red Wings,0.2833333333333333,0.6
+2020-01-18,3:00 PM,Arizona Coyotes,3,Edmonton Oilers,7,,Edmonton Oilers,Arizona Coyotes,0.5166666666666667,0.55
+2020-01-18,9:00 PM,Dallas Stars,0,Minnesota Wild,7,,Minnesota Wild,Dallas Stars,0.5833333333333334,0.6833333333333333
+2020-01-18,7:00 PM,Vegas Golden Knights,4,Montreal Canadiens,5,SO,Montreal Canadiens,Vegas Golden Knights,0.4,0.5833333333333334
+2020-01-18,8:00 PM,Buffalo Sabres,1,Nashville Predators,2,,Nashville Predators,Buffalo Sabres,0.48333333333333334,0.5
+2020-01-18,1:00 PM,Washington Capitals,6,New York Islanders,4,,Washington Capitals,New York Islanders,0.5833333333333334,0.6666666666666666
+2020-01-18,4:00 PM,Calgary Flames,2,Ottawa Senators,5,,Ottawa Senators,Calgary Flames,0.45,0.5833333333333334
+2020-01-18,7:00 PM,Los Angeles Kings,1,Philadelphia Flyers,4,,Philadelphia Flyers,Los Angeles Kings,0.55,0.43333333333333335
+2020-01-18,7:00 PM,Chicago Blackhawks,6,Toronto Maple Leafs,2,,Chicago Blackhawks,Toronto Maple Leafs,0.5833333333333334,0.5333333333333333
+2020-01-18,10:00 PM,San Jose Sharks,1,Vancouver Canucks,4,,Vancouver Canucks,San Jose Sharks,0.5833333333333334,0.48333333333333334
+2020-01-19,5:00 PM,New York Islanders,1,Carolina Hurricanes,2,SO,Carolina Hurricanes,New York Islanders,0.6,0.55
+2020-01-19,7:00 PM,Winnipeg Jets,2,Chicago Blackhawks,5,,Chicago Blackhawks,Winnipeg Jets,0.5333333333333333,0.55
+2020-01-19,7:00 PM,Columbus Blue Jackets,2,New York Rangers,1,,Columbus Blue Jackets,New York Rangers,0.5333333333333333,0.6666666666666666
+2020-01-19,12:30 PM,Boston Bruins,3,Pittsburgh Penguins,4,,Pittsburgh Penguins,Boston Bruins,0.7166666666666667,0.6666666666666666
+2020-01-20,3:00 PM,Detroit Red Wings,3,Colorado Avalanche,6,,Colorado Avalanche,Detroit Red Wings,0.6,0.25
+2020-01-20,8:00 PM,Florida Panthers,5,Minnesota Wild,4,,Florida Panthers,Minnesota Wild,0.6166666666666667,0.6
+2020-01-21,7:00 PM,Vegas Golden Knights,2,Boston Bruins,3,,Boston Bruins,Vegas Golden Knights,0.65,0.6
+2020-01-21,7:00 PM,Winnipeg Jets,1,Carolina Hurricanes,4,,Carolina Hurricanes,Winnipeg Jets,0.6,0.55
+2020-01-21,8:30 PM,Florida Panthers,4,Chicago Blackhawks,3,,Florida Panthers,Chicago Blackhawks,0.5333333333333333,0.6
+2020-01-21,7:00 PM,New York Islanders,4,New York Rangers,2,,New York Islanders,New York Rangers,0.5333333333333333,0.5333333333333333
+2020-01-21,7:30 PM,Pittsburgh Penguins,0,Philadelphia Flyers,3,,Philadelphia Flyers,Pittsburgh Penguins,0.5833333333333334,0.75
+2020-01-22,7:30 PM,Winnipeg Jets,3,Columbus Blue Jackets,4,,Columbus Blue Jackets,Winnipeg Jets,0.6666666666666666,0.5166666666666667
+2020-01-22,8:00 PM,Detroit Red Wings,2,Minnesota Wild,4,,Minnesota Wild,Detroit Red Wings,0.5833333333333334,0.21666666666666667
+2020-01-27,8:00 PM,Tampa Bay Lightning,2,Dallas Stars,3,OT,Dallas Stars,Tampa Bay Lightning,0.6666666666666666,0.7
+2020-01-27,7:00 PM,Washington Capitals,4,Montreal Canadiens,2,,Washington Capitals,Montreal Canadiens,0.4166666666666667,0.6833333333333333
+2020-01-27,8:00 PM,Toronto Maple Leafs,5,Nashville Predators,2,,Toronto Maple Leafs,Nashville Predators,0.5,0.5833333333333334
+2020-01-27,7:30 PM,New Jersey Devils,4,Ottawa Senators,3,SO,New Jersey Devils,Ottawa Senators,0.45,0.4166666666666667
+2020-01-27,10:30 PM,Anaheim Ducks,2,San Jose Sharks,4,,San Jose Sharks,Anaheim Ducks,0.45,0.4
+2020-01-27,10:00 PM,St. Louis Blues,1,Vancouver Canucks,3,,Vancouver Canucks,St. Louis Blues,0.5833333333333334,0.6666666666666666
+2020-01-28,7:00 PM,Ottawa Senators,5,Buffalo Sabres,2,,Ottawa Senators,Buffalo Sabres,0.4666666666666667,0.43333333333333335
+2020-01-28,9:00 PM,St. Louis Blues,5,Calgary Flames,4,SO,St. Louis Blues,Calgary Flames,0.5666666666666667,0.65
+2020-01-29,10:00 PM,Arizona Coyotes,2,Anaheim Ducks,4,,Anaheim Ducks,Arizona Coyotes,0.38333333333333336,0.5166666666666667
+2020-01-29,7:30 PM,Toronto Maple Leafs,5,Dallas Stars,3,,Toronto Maple Leafs,Dallas Stars,0.6666666666666666,0.6166666666666667
+2020-01-29,10:00 PM,Calgary Flames,4,Edmonton Oilers,3,SO,Calgary Flames,Edmonton Oilers,0.5166666666666667,0.5833333333333334
+2020-01-29,10:00 PM,Tampa Bay Lightning,4,Los Angeles Kings,2,,Tampa Bay Lightning,Los Angeles Kings,0.4,0.6833333333333333
+2020-01-29,10:30 PM,Vancouver Canucks,5,San Jose Sharks,2,,Vancouver Canucks,San Jose Sharks,0.45,0.6166666666666667
+2020-01-29,7:30 PM,Nashville Predators,5,Washington Capitals,4,,Nashville Predators,Washington Capitals,0.6833333333333333,0.5
+2020-01-30,9:30 PM,Los Angeles Kings,3,Arizona Coyotes,2,OT,Los Angeles Kings,Arizona Coyotes,0.48333333333333334,0.4
+2020-01-30,7:00 PM,Montreal Canadiens,3,Buffalo Sabres,1,,Montreal Canadiens,Buffalo Sabres,0.4666666666666667,0.4166666666666667
+2020-01-30,7:30 PM,Nashville Predators,6,New Jersey Devils,5,SO,Nashville Predators,New Jersey Devils,0.4166666666666667,0.5333333333333333
+2020-01-31,10:00 PM,Tampa Bay Lightning,4,Anaheim Ducks,3,,Tampa Bay Lightning,Anaheim Ducks,0.4166666666666667,0.6833333333333333
+2020-01-31,7:30 PM,Vegas Golden Knights,4,Carolina Hurricanes,3,,Vegas Golden Knights,Carolina Hurricanes,0.6,0.5666666666666667
+2020-01-31,9:00 PM,St. Louis Blues,2,Edmonton Oilers,4,,Edmonton Oilers,St. Louis Blues,0.5333333333333333,0.6833333333333333
+2020-01-31,7:00 PM,Detroit Red Wings,2,New York Rangers,4,,New York Rangers,Detroit Red Wings,0.5333333333333333,0.2
+2020-01-31,7:30 PM,Washington Capitals,5,Ottawa Senators,3,,Washington Capitals,Ottawa Senators,0.4666666666666667,0.6833333333333333
+2020-01-31,7:00 PM,Philadelphia Flyers,3,Pittsburgh Penguins,4,OT,Pittsburgh Penguins,Philadelphia Flyers,0.7166666666666667,0.6
+2020-01-31,8:00 PM,Boston Bruins,2,Winnipeg Jets,1,,Boston Bruins,Winnipeg Jets,0.48333333333333334,0.65
+2020-02-01,8:00 PM,Chicago Blackhawks,3,Arizona Coyotes,2,SO,Chicago Blackhawks,Arizona Coyotes,0.5,0.5333333333333333
+2020-02-01,1:00 PM,Columbus Blue Jackets,1,Buffalo Sabres,2,OT,Buffalo Sabres,Columbus Blue Jackets,0.4666666666666667,0.6666666666666666
+2020-02-01,10:00 PM,Edmonton Oilers,8,Calgary Flames,3,,Edmonton Oilers,Calgary Flames,0.6166666666666667,0.5333333333333333
+2020-02-01,7:00 PM,New York Rangers,1,Detroit Red Wings,0,,New York Rangers,Detroit Red Wings,0.18333333333333332,0.5333333333333333
+2020-02-01,10:30 PM,Anaheim Ducks,3,Los Angeles Kings,1,,Anaheim Ducks,Los Angeles Kings,0.4,0.38333333333333336
+2020-02-01,8:00 PM,Boston Bruins,6,Minnesota Wild,1,,Boston Bruins,Minnesota Wild,0.6,0.65
+2020-02-01,2:00 PM,Florida Panthers,0,Montreal Canadiens,4,,Montreal Canadiens,Florida Panthers,0.43333333333333335,0.6333333333333333
+2020-02-01,7:00 PM,Dallas Stars,3,New Jersey Devils,2,OT,Dallas Stars,New Jersey Devils,0.43333333333333335,0.6333333333333333
+2020-02-01,8:00 PM,Vegas Golden Knights,3,Nashville Predators,0,,Vegas Golden Knights,Nashville Predators,0.5666666666666667,0.5666666666666667
+2020-02-01,1:00 PM,Vancouver Canucks,4,New York Islanders,3,OT,Vancouver Canucks,New York Islanders,0.5333333333333333,0.6333333333333333
+2020-02-01,7:00 PM,Colorado Avalanche,3,Philadelphia Flyers,6,,Philadelphia Flyers,Colorado Avalanche,0.6166666666666667,0.6333333333333333
+2020-02-01,10:30 PM,Tampa Bay Lightning,3,San Jose Sharks,0,,Tampa Bay Lightning,San Jose Sharks,0.45,0.6833333333333333
+2020-02-01,7:00 PM,Ottawa Senators,1,Toronto Maple Leafs,2,OT,Toronto Maple Leafs,Ottawa Senators,0.65,0.43333333333333335
+2020-02-01,7:00 PM,St. Louis Blues,2,Winnipeg Jets,5,,Winnipeg Jets,St. Louis Blues,0.45,0.65
+2020-02-02,2:00 PM,Vancouver Canucks,3,Carolina Hurricanes,4,SO,Carolina Hurricanes,Vancouver Canucks,0.5666666666666667,0.6666666666666666
+2020-02-02,2:00 PM,Columbus Blue Jackets,4,Montreal Canadiens,3,,Columbus Blue Jackets,Montreal Canadiens,0.4666666666666667,0.6833333333333333
+2020-02-02,12:30 PM,Pittsburgh Penguins,4,Washington Capitals,3,,Pittsburgh Penguins,Washington Capitals,0.6833333333333333,0.7333333333333333
+2020-02-03,7:30 PM,Philadelphia Flyers,3,Detroit Red Wings,0,,Philadelphia Flyers,Detroit Red Wings,0.18333333333333332,0.6166666666666667
+2020-02-03,7:00 PM,Dallas Stars,5,New York Rangers,3,,Dallas Stars,New York Rangers,0.5666666666666667,0.6333333333333333
+2020-02-03,7:00 PM,Florida Panthers,5,Toronto Maple Leafs,3,,Florida Panthers,Toronto Maple Leafs,0.6833333333333333,0.6
+2020-02-04,9:00 PM,Edmonton Oilers,0,Arizona Coyotes,3,,Arizona Coyotes,Edmonton Oilers,0.48333333333333334,0.55
+2020-02-04,7:00 PM,Vancouver Canucks,0,Boston Bruins,4,,Boston Bruins,Vancouver Canucks,0.65,0.65
+2020-02-04,7:00 PM,Colorado Avalanche,6,Buffalo Sabres,1,,Colorado Avalanche,Buffalo Sabres,0.5,0.6
+2020-02-04,7:00 PM,Florida Panthers,0,Columbus Blue Jackets,1,OT,Columbus Blue Jackets,Florida Panthers,0.6833333333333333,0.6
+2020-02-04,9:00 PM,San Jose Sharks,3,Calgary Flames,1,,San Jose Sharks,Calgary Flames,0.6166666666666667,0.4166666666666667
+2020-02-04,8:00 PM,Chicago Blackhawks,2,Minnesota Wild,3,OT,Minnesota Wild,Chicago Blackhawks,0.5666666666666667,0.5666666666666667
+2020-02-04,7:00 PM,Montreal Canadiens,5,New Jersey Devils,4,SO,Montreal Canadiens,New Jersey Devils,0.45,0.4666666666666667
+2020-02-04,7:00 PM,Dallas Stars,3,New York Islanders,4,OT,New York Islanders,Dallas Stars,0.5166666666666667,0.6333333333333333
+2020-02-04,7:30 PM,Anaheim Ducks,3,Ottawa Senators,2,SO,Anaheim Ducks,Ottawa Senators,0.4166666666666667,0.4166666666666667
+2020-02-04,8:00 PM,Carolina Hurricanes,3,St. Louis Blues,6,,St. Louis Blues,Carolina Hurricanes,0.6166666666666667,0.6
+2020-02-04,7:00 PM,Vegas Golden Knights,2,Tampa Bay Lightning,4,,Tampa Bay Lightning,Vegas Golden Knights,0.7166666666666667,0.5833333333333334
+2020-02-04,8:00 PM,Nashville Predators,2,Winnipeg Jets,1,OT,Nashville Predators,Winnipeg Jets,0.48333333333333334,0.5666666666666667
+2020-02-04,7:00 PM,Los Angeles Kings,2,Washington Capitals,4,,Washington Capitals,Los Angeles Kings,0.65,0.4
+2020-02-05,8:00 PM,Boston Bruins,2,Chicago Blackhawks,1,OT,Boston Bruins,Chicago Blackhawks,0.5666666666666667,0.65
+2020-02-05,7:30 PM,Toronto Maple Leafs,3,New York Rangers,5,,New York Rangers,Toronto Maple Leafs,0.5333333333333333,0.6833333333333333
+2020-02-06,9:00 PM,Carolina Hurricanes,5,Arizona Coyotes,3,,Carolina Hurricanes,Arizona Coyotes,0.5,0.5666666666666667
+2020-02-06,7:00 PM,Detroit Red Wings,4,Buffalo Sabres,3,SO,Detroit Red Wings,Buffalo Sabres,0.4666666666666667,0.18333333333333332
+2020-02-06,9:00 PM,Nashville Predators,3,Calgary Flames,2,,Nashville Predators,Calgary Flames,0.6166666666666667,0.5666666666666667
+2020-02-06,9:30 PM,San Jose Sharks,6,Edmonton Oilers,3,,San Jose Sharks,Edmonton Oilers,0.5166666666666667,0.4166666666666667
+2020-02-06,7:00 PM,Vegas Golden Knights,7,Florida Panthers,2,,Vegas Golden Knights,Florida Panthers,0.5833333333333334,0.5833333333333334
+2020-02-06,8:00 PM,Vancouver Canucks,2,Minnesota Wild,4,,Minnesota Wild,Vancouver Canucks,0.5666666666666667,0.6166666666666667
+2020-02-06,7:00 PM,Anaheim Ducks,2,Montreal Canadiens,3,OT,Montreal Canadiens,Anaheim Ducks,0.5,0.43333333333333335
+2020-02-06,7:00 PM,Los Angeles Kings,3,New York Islanders,5,,New York Islanders,Los Angeles Kings,0.5333333333333333,0.38333333333333336
+2020-02-06,7:30 PM,Colorado Avalanche,4,Ottawa Senators,1,,Colorado Avalanche,Ottawa Senators,0.4,0.6
+2020-02-06,7:00 PM,New Jersey Devils,5,Philadelphia Flyers,0,,New Jersey Devils,Philadelphia Flyers,0.6333333333333333,0.43333333333333335
+2020-02-06,8:00 PM,Winnipeg Jets,4,St. Louis Blues,2,,Winnipeg Jets,St. Louis Blues,0.65,0.4666666666666667
+2020-02-06,7:00 PM,Pittsburgh Penguins,2,Tampa Bay Lightning,4,,Tampa Bay Lightning,Pittsburgh Penguins,0.7333333333333333,0.75
+2020-02-07,7:00 PM,Detroit Red Wings,0,Columbus Blue Jackets,2,,Columbus Blue Jackets,Detroit Red Wings,0.7166666666666667,0.21666666666666667
+2020-02-07,8:30 PM,Minnesota Wild,3,Dallas Stars,2,,Minnesota Wild,Dallas Stars,0.6166666666666667,0.5833333333333334
+2020-02-07,7:00 PM,Buffalo Sabres,3,New York Rangers,2,,Buffalo Sabres,New York Rangers,0.5333333333333333,0.48333333333333334
+2020-02-07,7:00 PM,Anaheim Ducks,4,Toronto Maple Leafs,5,OT,Toronto Maple Leafs,Anaheim Ducks,0.65,0.45
+2020-02-08,3:00 PM,Arizona Coyotes,2,Boston Bruins,4,,Boston Bruins,Arizona Coyotes,0.65,0.4666666666666667
+2020-02-08,7:00 PM,Colorado Avalanche,2,Columbus Blue Jackets,1,,Colorado Avalanche,Columbus Blue Jackets,0.7166666666666667,0.6333333333333333
+2020-02-08,7:00 PM,Nashville Predators,2,Edmonton Oilers,3,,Edmonton Oilers,Nashville Predators,0.5166666666666667,0.5666666666666667
+2020-02-08,7:00 PM,Pittsburgh Penguins,3,Florida Panthers,2,,Pittsburgh Penguins,Florida Panthers,0.5833333333333334,0.7166666666666667
+2020-02-08,7:00 PM,Toronto Maple Leafs,1,Montreal Canadiens,2,OT,Montreal Canadiens,Toronto Maple Leafs,0.5166666666666667,0.65
+2020-02-08,7:00 PM,Los Angeles Kings,0,New Jersey Devils,3,,New Jersey Devils,Los Angeles Kings,0.4666666666666667,0.35
+2020-02-08,8:00 PM,Dallas Stars,3,St. Louis Blues,2,OT,Dallas Stars,St. Louis Blues,0.6333333333333333,0.5833333333333334
+2020-02-08,7:00 PM,New York Islanders,1,Tampa Bay Lightning,3,,Tampa Bay Lightning,New York Islanders,0.7666666666666667,0.5666666666666667
+2020-02-08,10:00 PM,Calgary Flames,6,Vancouver Canucks,2,,Calgary Flames,Vancouver Canucks,0.6166666666666667,0.6166666666666667
+2020-02-08,10:00 PM,Carolina Hurricanes,6,Vegas Golden Knights,5,SO,Carolina Hurricanes,Vegas Golden Knights,0.6166666666666667,0.5666666666666667
+2020-02-08,2:00 PM,Ottawa Senators,2,Winnipeg Jets,5,,Winnipeg Jets,Ottawa Senators,0.4666666666666667,0.4
+2020-02-08,7:00 PM,Philadelphia Flyers,7,Washington Capitals,2,,Philadelphia Flyers,Washington Capitals,0.6833333333333333,0.6
+2020-02-09,3:00 PM,Anaheim Ducks,3,Buffalo Sabres,2,,Anaheim Ducks,Buffalo Sabres,0.5,0.43333333333333335
+2020-02-09,12:30 PM,Boston Bruins,1,Detroit Red Wings,3,,Detroit Red Wings,Boston Bruins,0.21666666666666667,0.65
+2020-02-09,7:30 PM,Colorado Avalanche,3,Minnesota Wild,2,,Colorado Avalanche,Minnesota Wild,0.6,0.6666666666666666
+2020-02-09,6:00 PM,Los Angeles Kings,1,New York Rangers,4,,New York Rangers,Los Angeles Kings,0.5,0.35
+2020-02-09,7:00 PM,Chicago Blackhawks,2,Winnipeg Jets,5,,Winnipeg Jets,Chicago Blackhawks,0.4666666666666667,0.55
+2020-02-10,7:30 PM,Tampa Bay Lightning,2,Columbus Blue Jackets,1,OT,Tampa Bay Lightning,Columbus Blue Jackets,0.7166666666666667,0.7666666666666667
+2020-02-10,7:00 PM,Arizona Coyotes,3,Montreal Canadiens,2,,Arizona Coyotes,Montreal Canadiens,0.55,0.45
+2020-02-10,7:00 PM,Florida Panthers,1,Philadelphia Flyers,4,,Philadelphia Flyers,Florida Panthers,0.6,0.5833333333333334
+2020-02-10,10:30 PM,Calgary Flames,6,San Jose Sharks,2,,Calgary Flames,San Jose Sharks,0.4166666666666667,0.6166666666666667
+2020-02-10,10:00 PM,Nashville Predators,2,Vancouver Canucks,6,,Vancouver Canucks,Nashville Predators,0.6166666666666667,0.55
+2020-02-10,7:00 PM,New York Islanders,5,Washington Capitals,3,,New York Islanders,Washington Capitals,0.6666666666666666,0.5666666666666667
+2020-02-11,7:00 PM,Detroit Red Wings,2,Buffalo Sabres,3,,Buffalo Sabres,Detroit Red Wings,0.4666666666666667,0.25
+2020-02-11,9:00 PM,Ottawa Senators,0,Colorado Avalanche,3,,Colorado Avalanche,Ottawa Senators,0.6666666666666666,0.4
+2020-02-11,8:30 PM,Carolina Hurricanes,1,Dallas Stars,4,,Dallas Stars,Carolina Hurricanes,0.5833333333333334,0.6
+2020-02-11,9:00 PM,Chicago Blackhawks,3,Edmonton Oilers,5,,Edmonton Oilers,Chicago Blackhawks,0.5166666666666667,0.55
+2020-02-11,8:00 PM,Vegas Golden Knights,0,Minnesota Wild,4,,Minnesota Wild,Vegas Golden Knights,0.5666666666666667,0.6
+2020-02-11,7:00 PM,Florida Panthers,5,New Jersey Devils,3,,Florida Panthers,New Jersey Devils,0.4666666666666667,0.5833333333333334
+2020-02-11,7:00 PM,Philadelphia Flyers,3,New York Islanders,5,,New York Islanders,Philadelphia Flyers,0.5666666666666667,0.6
+2020-02-11,7:00 PM,Tampa Bay Lightning,2,Pittsburgh Penguins,1,OT,Tampa Bay Lightning,Pittsburgh Penguins,0.7166666666666667,0.8
+2020-02-11,7:00 PM,Arizona Coyotes,2,Toronto Maple Leafs,3,OT,Toronto Maple Leafs,Arizona Coyotes,0.6333333333333333,0.48333333333333334
+2020-02-11,8:00 PM,New York Rangers,4,Winnipeg Jets,1,,New York Rangers,Winnipeg Jets,0.5,0.5166666666666667
+2020-02-12,7:30 PM,Montreal Canadiens,1,Boston Bruins,4,,Boston Bruins,Montreal Canadiens,0.6166666666666667,0.5166666666666667
+2020-02-12,10:00 PM,Calgary Flames,3,Los Angeles Kings,5,,Los Angeles Kings,Calgary Flames,0.31666666666666665,0.6333333333333333
+2020-02-12,10:30 PM,Chicago Blackhawks,0,Vancouver Canucks,3,,Vancouver Canucks,Chicago Blackhawks,0.6166666666666667,0.55
+2020-02-13,10:00 PM,Calgary Flames,6,Anaheim Ducks,0,,Calgary Flames,Anaheim Ducks,0.45,0.6
+2020-02-13,7:00 PM,Columbus Blue Jackets,3,Buffalo Sabres,4,OT,Buffalo Sabres,Columbus Blue Jackets,0.48333333333333334,0.7333333333333333
+2020-02-13,9:30 PM,Washington Capitals,3,Colorado Avalanche,2,,Washington Capitals,Colorado Avalanche,0.6666666666666666,0.6333333333333333
+2020-02-13,7:00 PM,Philadelphia Flyers,6,Florida Panthers,2,,Philadelphia Flyers,Florida Panthers,0.5833333333333334,0.5666666666666667
+2020-02-13,8:00 PM,New York Rangers,4,Minnesota Wild,3,SO,New York Rangers,Minnesota Wild,0.5666666666666667,0.5166666666666667
+2020-02-13,7:00 PM,Detroit Red Wings,1,New Jersey Devils,4,,New Jersey Devils,Detroit Red Wings,0.4666666666666667,0.25
+2020-02-13,8:00 PM,New York Islanders,0,Nashville Predators,5,,Nashville Predators,New York Islanders,0.5166666666666667,0.5666666666666667
+2020-02-13,7:30 PM,Arizona Coyotes,2,Ottawa Senators,3,,Ottawa Senators,Arizona Coyotes,0.4,0.4666666666666667
+2020-02-13,7:00 PM,Edmonton Oilers,1,Tampa Bay Lightning,3,,Tampa Bay Lightning,Edmonton Oilers,0.8,0.5166666666666667
+2020-02-13,7:00 PM,Dallas Stars,3,Toronto Maple Leafs,2,,Dallas Stars,Toronto Maple Leafs,0.6666666666666666,0.6166666666666667
+2020-02-13,10:00 PM,St. Louis Blues,5,Vegas Golden Knights,6,OT,Vegas Golden Knights,St. Louis Blues,0.5666666666666667,0.6166666666666667
+2020-02-14,7:00 PM,New Jersey Devils,2,Carolina Hurricanes,5,,Carolina Hurricanes,New Jersey Devils,0.6,0.5
+2020-02-14,7:00 PM,New York Rangers,3,Columbus Blue Jackets,1,,New York Rangers,Columbus Blue Jackets,0.75,0.55
+2020-02-14,7:00 PM,Montreal Canadiens,1,Pittsburgh Penguins,4,,Pittsburgh Penguins,Montreal Canadiens,0.7,0.5166666666666667
+2020-02-14,7:00 PM,San Jose Sharks,3,Winnipeg Jets,2,,San Jose Sharks,Winnipeg Jets,0.4666666666666667,0.4166666666666667
+2020-02-15,10:00 PM,Washington Capitals,1,Arizona Coyotes,3,,Arizona Coyotes,Washington Capitals,0.43333333333333335,0.6333333333333333
+2020-02-15,1:00 PM,Detroit Red Wings,1,Boston Bruins,4,,Boston Bruins,Detroit Red Wings,0.6166666666666667,0.25
+2020-02-15,10:00 PM,Chicago Blackhawks,8,Calgary Flames,4,,Chicago Blackhawks,Calgary Flames,0.6,0.55
+2020-02-15,8:00 PM,Los Angeles Kings,3,Colorado Avalanche,1,,Los Angeles Kings,Colorado Avalanche,0.6333333333333333,0.35
+2020-02-15,4:00 PM,Edmonton Oilers,4,Florida Panthers,1,,Edmonton Oilers,Florida Panthers,0.5833333333333334,0.5166666666666667
+2020-02-15,5:00 PM,San Jose Sharks,2,Minnesota Wild,0,,San Jose Sharks,Minnesota Wild,0.55,0.4166666666666667
+2020-02-15,7:00 PM,Dallas Stars,4,Montreal Canadiens,3,OT,Dallas Stars,Montreal Canadiens,0.48333333333333334,0.65
+2020-02-15,7:00 PM,Toronto Maple Leafs,4,Ottawa Senators,2,,Toronto Maple Leafs,Ottawa Senators,0.43333333333333335,0.6333333333333333
+2020-02-15,3:00 PM,Nashville Predators,4,St. Louis Blues,3,,Nashville Predators,St. Louis Blues,0.6,0.55
+2020-02-15,4:00 PM,Philadelphia Flyers,3,Tampa Bay Lightning,5,,Tampa Bay Lightning,Philadelphia Flyers,0.8333333333333334,0.5666666666666667
+2020-02-15,10:30 PM,New York Islanders,0,Vegas Golden Knights,1,,Vegas Golden Knights,New York Islanders,0.5666666666666667,0.5666666666666667
+2020-02-16,7:00 PM,Toronto Maple Leafs,2,Buffalo Sabres,5,,Buffalo Sabres,Toronto Maple Leafs,0.48333333333333334,0.6666666666666666
+2020-02-16,4:00 PM,Edmonton Oilers,4,Carolina Hurricanes,3,OT,Edmonton Oilers,Carolina Hurricanes,0.6,0.55
+2020-02-16,6:00 PM,Columbus Blue Jackets,3,New Jersey Devils,4,SO,New Jersey Devils,Columbus Blue Jackets,0.5,0.75
+2020-02-16,6:00 PM,St. Louis Blues,1,Nashville Predators,2,,Nashville Predators,St. Louis Blues,0.5666666666666667,0.5666666666666667
+2020-02-16,3:30 PM,Boston Bruins,3,New York Rangers,1,,Boston Bruins,New York Rangers,0.55,0.6333333333333333
+2020-02-16,6:00 PM,Dallas Stars,3,Ottawa Senators,4,OT,Ottawa Senators,Dallas Stars,0.43333333333333335,0.6666666666666666
+2020-02-16,12:30 PM,Detroit Red Wings,1,Pittsburgh Penguins,5,,Pittsburgh Penguins,Detroit Red Wings,0.7333333333333333,0.25
+2020-02-16,5:00 PM,Anaheim Ducks,5,Vancouver Canucks,1,,Anaheim Ducks,Vancouver Canucks,0.65,0.45
+2020-02-16,8:30 PM,Chicago Blackhawks,2,Winnipeg Jets,3,,Winnipeg Jets,Chicago Blackhawks,0.45,0.55
+2020-02-17,4:00 PM,New York Islanders,1,Arizona Coyotes,2,,Arizona Coyotes,New York Islanders,0.4666666666666667,0.5333333333333333
+2020-02-17,4:00 PM,Anaheim Ducks,4,Calgary Flames,6,,Calgary Flames,Anaheim Ducks,0.5666666666666667,0.45
+2020-02-17,9:00 PM,Tampa Bay Lightning,4,Colorado Avalanche,3,OT,Tampa Bay Lightning,Colorado Avalanche,0.6,0.8333333333333334
+2020-02-17,4:00 PM,Florida Panthers,5,San Jose Sharks,3,,Florida Panthers,San Jose Sharks,0.4166666666666667,0.55
+2020-02-17,6:00 PM,Washington Capitals,2,Vegas Golden Knights,3,,Vegas Golden Knights,Washington Capitals,0.5666666666666667,0.6
+2020-02-18,7:30 PM,Montreal Canadiens,3,Detroit Red Wings,4,,Detroit Red Wings,Montreal Canadiens,0.25,0.4666666666666667
+2020-02-18,8:00 PM,Carolina Hurricanes,4,Nashville Predators,1,,Carolina Hurricanes,Nashville Predators,0.5666666666666667,0.6166666666666667
+2020-02-18,7:30 PM,Buffalo Sabres,4,Ottawa Senators,7,,Ottawa Senators,Buffalo Sabres,0.43333333333333335,0.5166666666666667
+2020-02-18,7:00 PM,Columbus Blue Jackets,1,Philadelphia Flyers,5,,Philadelphia Flyers,Columbus Blue Jackets,0.5666666666666667,0.7333333333333333
+2020-02-18,7:00 PM,Toronto Maple Leafs,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Toronto Maple Leafs,0.7666666666666667,0.6666666666666666
+2020-02-18,8:00 PM,New Jersey Devils,0,St. Louis Blues,3,,St. Louis Blues,New Jersey Devils,0.5333333333333333,0.5166666666666667
+2020-02-18,8:00 PM,Los Angeles Kings,3,Winnipeg Jets,6,,Winnipeg Jets,Los Angeles Kings,0.45,0.38333333333333336
+2020-02-19,10:00 PM,Florida Panthers,4,Anaheim Ducks,1,,Florida Panthers,Anaheim Ducks,0.45,0.55
+2020-02-19,8:00 PM,New York Rangers,6,Chicago Blackhawks,3,,New York Rangers,Chicago Blackhawks,0.5166666666666667,0.55
+2020-02-19,10:00 PM,New York Islanders,1,Colorado Avalanche,3,,Colorado Avalanche,New York Islanders,0.5833333333333334,0.5333333333333333
+2020-02-19,8:30 PM,Arizona Coyotes,2,Dallas Stars,3,,Dallas Stars,Arizona Coyotes,0.6833333333333333,0.4666666666666667
+2020-02-19,8:30 PM,Boston Bruins,2,Edmonton Oilers,1,OT,Boston Bruins,Edmonton Oilers,0.55,0.6666666666666666
+2020-02-19,10:30 PM,Minnesota Wild,4,Vancouver Canucks,3,SO,Minnesota Wild,Vancouver Canucks,0.6166666666666667,0.5166666666666667
+2020-02-20,7:00 PM,Philadelphia Flyers,4,Columbus Blue Jackets,3,OT,Philadelphia Flyers,Columbus Blue Jackets,0.7166666666666667,0.5666666666666667
+2020-02-20,10:30 PM,Florida Panthers,4,Los Angeles Kings,5,,Los Angeles Kings,Florida Panthers,0.38333333333333336,0.5833333333333334
+2020-02-20,7:00 PM,San Jose Sharks,1,New Jersey Devils,2,,New Jersey Devils,San Jose Sharks,0.5166666666666667,0.4166666666666667
+2020-02-20,7:30 PM,Winnipeg Jets,5,Ottawa Senators,1,,Winnipeg Jets,Ottawa Senators,0.4666666666666667,0.45
+2020-02-20,8:00 PM,Arizona Coyotes,0,St. Louis Blues,1,,St. Louis Blues,Arizona Coyotes,0.5666666666666667,0.4666666666666667
+2020-02-20,7:00 PM,Pittsburgh Penguins,0,Toronto Maple Leafs,4,,Toronto Maple Leafs,Pittsburgh Penguins,0.6333333333333333,0.7666666666666667
+2020-02-20,10:00 PM,Tampa Bay Lightning,3,Vegas Golden Knights,5,,Vegas Golden Knights,Tampa Bay Lightning,0.5833333333333334,0.8333333333333334
+2020-02-20,7:00 PM,Montreal Canadiens,4,Washington Capitals,3,OT,Montreal Canadiens,Washington Capitals,0.5666666666666667,0.43333333333333335
+2020-02-21,10:00 PM,Colorado Avalanche,1,Anaheim Ducks,0,,Colorado Avalanche,Anaheim Ducks,0.45,0.5833333333333334
+2020-02-21,7:00 PM,New York Rangers,5,Carolina Hurricanes,2,,New York Rangers,Carolina Hurricanes,0.6166666666666667,0.55
+2020-02-21,9:00 PM,Boston Bruins,4,Calgary Flames,3,,Boston Bruins,Calgary Flames,0.5666666666666667,0.7
+2020-02-21,8:30 PM,Nashville Predators,1,Chicago Blackhawks,2,OT,Chicago Blackhawks,Nashville Predators,0.5,0.5333333333333333
+2020-02-21,8:30 PM,St. Louis Blues,5,Dallas Stars,1,,St. Louis Blues,Dallas Stars,0.6833333333333333,0.6
+2020-02-21,9:00 PM,Minnesota Wild,5,Edmonton Oilers,3,,Minnesota Wild,Edmonton Oilers,0.5666666666666667,0.5166666666666667
+2020-02-21,8:00 PM,Detroit Red Wings,1,New York Islanders,4,,New York Islanders,Detroit Red Wings,0.5,0.2833333333333333
+2020-02-22,8:00 PM,Tampa Bay Lightning,3,Arizona Coyotes,7,,Arizona Coyotes,Tampa Bay Lightning,0.43333333333333335,0.8333333333333334
+2020-02-22,10:30 PM,Colorado Avalanche,2,Los Angeles Kings,1,SO,Colorado Avalanche,Los Angeles Kings,0.4166666666666667,0.6
+2020-02-22,1:00 PM,Washington Capitals,2,New Jersey Devils,3,,New Jersey Devils,Washington Capitals,0.55,0.55
+2020-02-22,8:00 PM,Columbus Blue Jackets,3,Nashville Predators,4,SO,Nashville Predators,Columbus Blue Jackets,0.55,0.7166666666666667
+2020-02-22,7:00 PM,San Jose Sharks,2,New York Rangers,3,,New York Rangers,San Jose Sharks,0.5833333333333334,0.4
+2020-02-22,7:00 PM,Montreal Canadiens,3,Ottawa Senators,0,,Montreal Canadiens,Ottawa Senators,0.43333333333333335,0.4666666666666667
+2020-02-22,1:00 PM,Winnipeg Jets,2,Philadelphia Flyers,4,,Philadelphia Flyers,Winnipeg Jets,0.6,0.48333333333333334
+2020-02-22,1:00 PM,Buffalo Sabres,5,Pittsburgh Penguins,2,,Buffalo Sabres,Pittsburgh Penguins,0.7333333333333333,0.5
+2020-02-22,7:00 PM,Carolina Hurricanes,6,Toronto Maple Leafs,3,,Carolina Hurricanes,Toronto Maple Leafs,0.6333333333333333,0.5833333333333334
+2020-02-22,10:00 PM,Boston Bruins,3,Vancouver Canucks,9,,Vancouver Canucks,Boston Bruins,0.6,0.7333333333333333
+2020-02-22,10:00 PM,Florida Panthers,3,Vegas Golden Knights,5,,Vegas Golden Knights,Florida Panthers,0.6166666666666667,0.5833333333333334
+2020-02-23,10:00 PM,Vegas Golden Knights,6,Anaheim Ducks,5,OT,Vegas Golden Knights,Anaheim Ducks,0.4166666666666667,0.6166666666666667
+2020-02-23,3:00 PM,Winnipeg Jets,1,Buffalo Sabres,2,,Buffalo Sabres,Winnipeg Jets,0.5,0.45
+2020-02-23,3:00 PM,Chicago Blackhawks,1,Dallas Stars,2,,Dallas Stars,Chicago Blackhawks,0.65,0.5333333333333333
+2020-02-23,7:00 PM,Calgary Flames,4,Detroit Red Wings,2,,Calgary Flames,Detroit Red Wings,0.25,0.5333333333333333
+2020-02-23,10:00 PM,Edmonton Oilers,4,Los Angeles Kings,2,,Edmonton Oilers,Los Angeles Kings,0.4,0.5333333333333333
+2020-02-23,7:30 PM,St. Louis Blues,4,Minnesota Wild,1,,St. Louis Blues,Minnesota Wild,0.55,0.6333333333333333
+2020-02-23,5:00 PM,San Jose Sharks,1,New York Islanders,4,,New York Islanders,San Jose Sharks,0.5,0.4
+2020-02-23,12:00 PM,Pittsburgh Penguins,3,Washington Capitals,5,,Washington Capitals,Pittsburgh Penguins,0.5166666666666667,0.7
+2020-02-24,7:00 PM,Ottawa Senators,3,Columbus Blue Jackets,4,OT,Columbus Blue Jackets,Ottawa Senators,0.7,0.4166666666666667
+2020-02-25,10:00 PM,Edmonton Oilers,3,Anaheim Ducks,4,OT,Anaheim Ducks,Edmonton Oilers,0.43333333333333335,0.55
+2020-02-25,9:00 PM,Florida Panthers,2,Arizona Coyotes,1,,Florida Panthers,Arizona Coyotes,0.4666666666666667,0.5833333333333334
+2020-02-25,7:00 PM,Calgary Flames,5,Boston Bruins,2,,Calgary Flames,Boston Bruins,0.7333333333333333,0.5333333333333333
+2020-02-25,7:00 PM,Dallas Stars,4,Carolina Hurricanes,1,,Dallas Stars,Carolina Hurricanes,0.5833333333333334,0.65
+2020-02-25,7:30 PM,New Jersey Devils,4,Detroit Red Wings,1,,New Jersey Devils,Detroit Red Wings,0.21666666666666667,0.5833333333333334
+2020-02-25,8:00 PM,Columbus Blue Jackets,4,Minnesota Wild,5,,Minnesota Wild,Columbus Blue Jackets,0.5333333333333333,0.7
+2020-02-25,7:00 PM,Vancouver Canucks,4,Montreal Canadiens,3,OT,Vancouver Canucks,Montreal Canadiens,0.4666666666666667,0.6333333333333333
+2020-02-25,8:00 PM,Ottawa Senators,2,Nashville Predators,3,,Nashville Predators,Ottawa Senators,0.5833333333333334,0.4
+2020-02-25,7:00 PM,New York Rangers,4,New York Islanders,3,OT,New York Rangers,New York Islanders,0.5,0.5833333333333334
+2020-02-25,7:00 PM,San Jose Sharks,2,Philadelphia Flyers,4,,Philadelphia Flyers,San Jose Sharks,0.6333333333333333,0.4
+2020-02-25,8:00 PM,Chicago Blackhawks,5,St. Louis Blues,6,,St. Louis Blues,Chicago Blackhawks,0.6333333333333333,0.5333333333333333
+2020-02-25,7:00 PM,Toronto Maple Leafs,4,Tampa Bay Lightning,3,,Toronto Maple Leafs,Tampa Bay Lightning,0.8,0.6333333333333333
+2020-02-25,7:00 PM,Winnipeg Jets,3,Washington Capitals,4,SO,Washington Capitals,Winnipeg Jets,0.55,0.45
+2020-02-26,8:00 PM,Buffalo Sabres,2,Colorado Avalanche,3,,Colorado Avalanche,Buffalo Sabres,0.6,0.5
+2020-02-26,10:30 PM,Pittsburgh Penguins,1,Los Angeles Kings,2,,Los Angeles Kings,Pittsburgh Penguins,0.36666666666666664,0.7
+2020-02-26,10:30 PM,Edmonton Oilers,0,Vegas Golden Knights,3,,Vegas Golden Knights,Edmonton Oilers,0.65,0.5666666666666667
+2020-02-27,7:30 PM,Dallas Stars,3,Boston Bruins,4,,Boston Bruins,Dallas Stars,0.7,0.6666666666666666
+2020-02-27,7:30 PM,Minnesota Wild,7,Detroit Red Wings,1,,Minnesota Wild,Detroit Red Wings,0.21666666666666667,0.5333333333333333
+2020-02-27,7:00 PM,Toronto Maple Leafs,5,Florida Panthers,3,,Toronto Maple Leafs,Florida Panthers,0.5833333333333334,0.6333333333333333
+2020-02-27,7:00 PM,New York Rangers,5,Montreal Canadiens,2,,New York Rangers,Montreal Canadiens,0.45,0.6
+2020-02-27,8:00 PM,Calgary Flames,3,Nashville Predators,4,OT,Nashville Predators,Calgary Flames,0.5833333333333334,0.5333333333333333
+2020-02-27,7:30 PM,Vancouver Canucks,2,Ottawa Senators,5,,Ottawa Senators,Vancouver Canucks,0.4,0.6333333333333333
+2020-02-27,10:30 PM,New Jersey Devils,2,San Jose Sharks,3,OT,San Jose Sharks,New Jersey Devils,0.4,0.5833333333333334
+2020-02-27,8:00 PM,New York Islanders,2,St. Louis Blues,3,OT,St. Louis Blues,New York Islanders,0.6333333333333333,0.5166666666666667
+2020-02-27,7:00 PM,Chicago Blackhawks,5,Tampa Bay Lightning,2,,Chicago Blackhawks,Tampa Bay Lightning,0.7833333333333333,0.5333333333333333
+2020-02-27,8:00 PM,Washington Capitals,0,Winnipeg Jets,3,,Winnipeg Jets,Washington Capitals,0.4666666666666667,0.55
+2020-02-28,10:00 PM,Pittsburgh Penguins,2,Anaheim Ducks,3,,Anaheim Ducks,Pittsburgh Penguins,0.43333333333333335,0.6666666666666666
+2020-02-28,7:00 PM,Colorado Avalanche,3,Carolina Hurricanes,2,,Colorado Avalanche,Carolina Hurricanes,0.5666666666666667,0.6
+2020-02-28,7:00 PM,Minnesota Wild,5,Columbus Blue Jackets,0,,Minnesota Wild,Columbus Blue Jackets,0.6666666666666666,0.5333333333333333
+2020-02-28,7:00 PM,New York Rangers,2,Philadelphia Flyers,5,,Philadelphia Flyers,New York Rangers,0.6666666666666666,0.6333333333333333
+2020-02-28,10:00 PM,Buffalo Sabres,2,Vegas Golden Knights,4,,Vegas Golden Knights,Buffalo Sabres,0.65,0.4666666666666667
+2020-02-29,8:00 PM,Buffalo Sabres,2,Arizona Coyotes,5,,Arizona Coyotes,Buffalo Sabres,0.43333333333333335,0.45
+2020-02-29,10:00 PM,Winnipeg Jets,2,Edmonton Oilers,3,,Edmonton Oilers,Winnipeg Jets,0.5666666666666667,0.4666666666666667
+2020-02-29,6:00 PM,Chicago Blackhawks,3,Florida Panthers,2,SO,Chicago Blackhawks,Florida Panthers,0.55,0.5333333333333333
+2020-02-29,4:00 PM,New Jersey Devils,1,Los Angeles Kings,2,OT,Los Angeles Kings,New Jersey Devils,0.38333333333333336,0.5666666666666667
+2020-02-29,7:00 PM,Carolina Hurricanes,3,Montreal Canadiens,4,OT,Montreal Canadiens,Carolina Hurricanes,0.45,0.5333333333333333
+2020-02-29,7:00 PM,Colorado Avalanche,3,Nashville Predators,2,,Colorado Avalanche,Nashville Predators,0.5833333333333334,0.6333333333333333
+2020-02-29,1:00 PM,Boston Bruins,4,New York Islanders,0,,Boston Bruins,New York Islanders,0.5,0.7166666666666667
+2020-02-29,7:00 PM,Detroit Red Wings,3,Ottawa Senators,4,SO,Ottawa Senators,Detroit Red Wings,0.4166666666666667,0.21666666666666667
+2020-02-29,10:30 PM,Pittsburgh Penguins,0,San Jose Sharks,5,,San Jose Sharks,Pittsburgh Penguins,0.43333333333333335,0.6333333333333333
+2020-02-29,8:00 PM,Dallas Stars,3,St. Louis Blues,4,SO,St. Louis Blues,Dallas Stars,0.6333333333333333,0.6333333333333333
+2020-02-29,4:00 PM,Calgary Flames,3,Tampa Bay Lightning,4,,Tampa Bay Lightning,Calgary Flames,0.7833333333333333,0.55
+2020-02-29,7:00 PM,Vancouver Canucks,2,Toronto Maple Leafs,4,,Toronto Maple Leafs,Vancouver Canucks,0.6333333333333333,0.6333333333333333
+2020-03-01,8:00 PM,New Jersey Devils,3,Anaheim Ducks,0,,New Jersey Devils,Anaheim Ducks,0.4666666666666667,0.5833333333333334
+2020-03-01,7:00 PM,Vancouver Canucks,3,Columbus Blue Jackets,5,,Columbus Blue Jackets,Vancouver Canucks,0.6333333333333333,0.6333333333333333
+2020-03-01,4:00 PM,Calgary Flames,3,Florida Panthers,0,,Calgary Flames,Florida Panthers,0.5333333333333333,0.55
+2020-03-01,8:00 PM,Washington Capitals,4,Minnesota Wild,3,,Washington Capitals,Minnesota Wild,0.5666666666666667,0.5166666666666667
+2020-03-01,12:00 PM,Philadelphia Flyers,5,New York Rangers,3,,Philadelphia Flyers,New York Rangers,0.6333333333333333,0.6666666666666666
+2020-03-01,10:30 PM,Los Angeles Kings,4,Vegas Golden Knights,1,,Los Angeles Kings,Vegas Golden Knights,0.65,0.38333333333333336
+2020-03-02,7:30 PM,Colorado Avalanche,2,Detroit Red Wings,1,,Colorado Avalanche,Detroit Red Wings,0.23333333333333334,0.6333333333333333
+2020-03-02,8:00 PM,Edmonton Oilers,8,Nashville Predators,3,,Edmonton Oilers,Nashville Predators,0.5666666666666667,0.6
+2020-03-03,8:30 PM,Anaheim Ducks,2,Chicago Blackhawks,6,,Chicago Blackhawks,Anaheim Ducks,0.5666666666666667,0.4666666666666667
+2020-03-03,8:30 PM,Edmonton Oilers,2,Dallas Stars,1,OT,Edmonton Oilers,Dallas Stars,0.65,0.6
+2020-03-03,8:00 PM,Nashville Predators,1,Minnesota Wild,3,,Minnesota Wild,Nashville Predators,0.5666666666666667,0.5333333333333333
+2020-03-03,7:00 PM,Montreal Canadiens,6,New York Islanders,2,,Montreal Canadiens,New York Islanders,0.48333333333333334,0.45
+2020-03-03,7:00 PM,St. Louis Blues,3,New York Rangers,1,,St. Louis Blues,New York Rangers,0.6,0.6333333333333333
+2020-03-03,7:00 PM,Ottawa Senators,3,Pittsburgh Penguins,7,,Pittsburgh Penguins,Ottawa Senators,0.6,0.4166666666666667
+2020-03-03,10:30 PM,Toronto Maple Leafs,2,San Jose Sharks,5,,San Jose Sharks,Toronto Maple Leafs,0.43333333333333335,0.6333333333333333
+2020-03-03,7:30 PM,Boston Bruins,2,Tampa Bay Lightning,1,,Boston Bruins,Tampa Bay Lightning,0.7833333333333333,0.7333333333333333
+2020-03-03,10:00 PM,New Jersey Devils,0,Vegas Golden Knights,3,,Vegas Golden Knights,New Jersey Devils,0.6166666666666667,0.6166666666666667
+2020-03-03,8:00 PM,Buffalo Sabres,1,Winnipeg Jets,3,,Winnipeg Jets,Buffalo Sabres,0.4666666666666667,0.45
+2020-03-04,8:30 PM,Columbus Blue Jackets,2,Calgary Flames,3,OT,Calgary Flames,Columbus Blue Jackets,0.5666666666666667,0.6333333333333333
+2020-03-04,9:30 PM,Anaheim Ducks,4,Colorado Avalanche,3,OT,Anaheim Ducks,Colorado Avalanche,0.6666666666666666,0.43333333333333335
+2020-03-04,10:30 PM,Arizona Coyotes,4,Vancouver Canucks,2,,Arizona Coyotes,Vancouver Canucks,0.6333333333333333,0.4666666666666667
+2020-03-04,7:00 PM,Philadelphia Flyers,5,Washington Capitals,2,,Philadelphia Flyers,Washington Capitals,0.55,0.6666666666666666
+2020-03-05,7:00 PM,Pittsburgh Penguins,4,Buffalo Sabres,2,,Pittsburgh Penguins,Buffalo Sabres,0.45,0.6
+2020-03-05,8:30 PM,Edmonton Oilers,3,Chicago Blackhawks,4,,Chicago Blackhawks,Edmonton Oilers,0.5666666666666667,0.6333333333333333
+2020-03-05,7:00 PM,Boston Bruins,2,Florida Panthers,1,OT,Boston Bruins,Florida Panthers,0.5333333333333333,0.75
+2020-03-05,10:30 PM,Toronto Maple Leafs,0,Los Angeles Kings,1,SO,Los Angeles Kings,Toronto Maple Leafs,0.38333333333333336,0.6
+2020-03-05,8:00 PM,Dallas Stars,0,Nashville Predators,2,,Nashville Predators,Dallas Stars,0.5,0.6333333333333333
+2020-03-05,7:00 PM,Washington Capitals,5,New York Rangers,6,OT,New York Rangers,Washington Capitals,0.6,0.5166666666666667
+2020-03-05,7:30 PM,New York Islanders,3,Ottawa Senators,4,,Ottawa Senators,New York Islanders,0.4,0.48333333333333334
+2020-03-05,7:00 PM,Carolina Hurricanes,1,Philadelphia Flyers,4,,Philadelphia Flyers,Carolina Hurricanes,0.6666666666666666,0.5166666666666667
+2020-03-05,10:30 PM,Minnesota Wild,3,San Jose Sharks,2,,Minnesota Wild,San Jose Sharks,0.4666666666666667,0.5666666666666667
+2020-03-05,7:00 PM,Montreal Canadiens,0,Tampa Bay Lightning,4,,Tampa Bay Lightning,Montreal Canadiens,0.75,0.48333333333333334
+2020-03-06,10:00 PM,Toronto Maple Leafs,1,Anaheim Ducks,2,,Anaheim Ducks,Toronto Maple Leafs,0.4666666666666667,0.5833333333333334
+2020-03-06,9:00 PM,Arizona Coyotes,2,Calgary Flames,3,,Calgary Flames,Arizona Coyotes,0.5666666666666667,0.4666666666666667
+2020-03-06,7:30 PM,Chicago Blackhawks,1,Detroit Red Wings,2,,Detroit Red Wings,Chicago Blackhawks,0.23333333333333334,0.5666666666666667
+2020-03-06,7:00 PM,St. Louis Blues,2,New Jersey Devils,4,,New Jersey Devils,St. Louis Blues,0.5833333333333334,0.6333333333333333
+2020-03-06,10:00 PM,Colorado Avalanche,3,Vancouver Canucks,6,,Vancouver Canucks,Colorado Avalanche,0.6,0.6833333333333333
+2020-03-06,8:00 PM,Vegas Golden Knights,0,Winnipeg Jets,4,,Winnipeg Jets,Vegas Golden Knights,0.48333333333333334,0.6333333333333333
+2020-03-07,7:00 PM,Tampa Bay Lightning,5,Boston Bruins,3,,Tampa Bay Lightning,Boston Bruins,0.75,0.75
+2020-03-07,2:00 PM,Nashville Predators,1,Dallas Stars,0,,Nashville Predators,Dallas Stars,0.6333333333333333,0.5333333333333333
+2020-03-07,10:00 PM,Columbus Blue Jackets,1,Edmonton Oilers,4,,Edmonton Oilers,Columbus Blue Jackets,0.6333333333333333,0.6333333333333333
+2020-03-07,7:00 PM,Montreal Canadiens,1,Florida Panthers,4,,Florida Panthers,Montreal Canadiens,0.5166666666666667,0.48333333333333334
+2020-03-07,4:00 PM,Minnesota Wild,3,Los Angeles Kings,7,,Los Angeles Kings,Minnesota Wild,0.4,0.6
+2020-03-07,1:00 PM,Carolina Hurricanes,3,New York Islanders,2,OT,Carolina Hurricanes,New York Islanders,0.48333333333333334,0.48333333333333334
+2020-03-07,7:00 PM,New Jersey Devils,6,New York Rangers,4,,New Jersey Devils,New York Rangers,0.6,0.6
+2020-03-07,7:00 PM,Buffalo Sabres,1,Philadelphia Flyers,3,,Philadelphia Flyers,Buffalo Sabres,0.6666666666666666,0.4166666666666667
+2020-03-07,1:00 PM,Washington Capitals,5,Pittsburgh Penguins,2,,Washington Capitals,Pittsburgh Penguins,0.6333333333333333,0.5
+2020-03-07,7:00 PM,Ottawa Senators,2,San Jose Sharks,1,OT,Ottawa Senators,San Jose Sharks,0.4666666666666667,0.4
+2020-03-08,9:00 PM,Minnesota Wild,5,Anaheim Ducks,4,OT,Minnesota Wild,Anaheim Ducks,0.4666666666666667,0.5666666666666667
+2020-03-08,7:00 PM,Vegas Golden Knights,5,Calgary Flames,3,,Vegas Golden Knights,Calgary Flames,0.6,0.6
+2020-03-08,7:30 PM,St. Louis Blues,2,Chicago Blackhawks,0,,St. Louis Blues,Chicago Blackhawks,0.5666666666666667,0.6
+2020-03-08,5:00 PM,Tampa Bay Lightning,4,Detroit Red Wings,5,SO,Detroit Red Wings,Tampa Bay Lightning,0.26666666666666666,0.75
+2020-03-08,1:30 PM,Carolina Hurricanes,6,Pittsburgh Penguins,2,,Carolina Hurricanes,Pittsburgh Penguins,0.6,0.5166666666666667
+2020-03-08,10:00 PM,Colorado Avalanche,4,San Jose Sharks,3,,Colorado Avalanche,San Jose Sharks,0.48333333333333334,0.65
+2020-03-08,10:00 PM,Columbus Blue Jackets,2,Vancouver Canucks,1,,Columbus Blue Jackets,Vancouver Canucks,0.6,0.6166666666666667
+2020-03-09,7:00 PM,Washington Capitals,2,Buffalo Sabres,3,SO,Buffalo Sabres,Washington Capitals,0.4166666666666667,0.5333333333333333
+2020-03-09,9:00 PM,Vegas Golden Knights,3,Edmonton Oilers,2,OT,Vegas Golden Knights,Edmonton Oilers,0.6333333333333333,0.6333333333333333
+2020-03-09,10:30 PM,Colorado Avalanche,1,Los Angeles Kings,3,,Los Angeles Kings,Colorado Avalanche,0.43333333333333335,0.6833333333333333
+2020-03-09,8:00 PM,Florida Panthers,2,St. Louis Blues,1,,Florida Panthers,St. Louis Blues,0.6,0.5166666666666667
+2020-03-09,8:00 PM,Arizona Coyotes,2,Winnipeg Jets,4,,Winnipeg Jets,Arizona Coyotes,0.5166666666666667,0.4666666666666667
+2020-03-10,10:00 PM,Ottawa Senators,2,Anaheim Ducks,5,,Anaheim Ducks,Ottawa Senators,0.4666666666666667,0.4166666666666667
+2020-03-10,8:30 PM,New York Rangers,4,Dallas Stars,2,,New York Rangers,Dallas Stars,0.6333333333333333,0.5666666666666667
+2020-03-10,7:30 PM,Carolina Hurricanes,5,Detroit Red Wings,2,,Carolina Hurricanes,Detroit Red Wings,0.3,0.55
+2020-03-10,7:00 PM,Nashville Predators,4,Montreal Canadiens,2,,Nashville Predators,Montreal Canadiens,0.48333333333333334,0.5666666666666667
+2020-03-10,7:00 PM,Pittsburgh Penguins,5,New Jersey Devils,2,,Pittsburgh Penguins,New Jersey Devils,0.6,0.5666666666666667
+2020-03-10,7:00 PM,Boston Bruins,2,Philadelphia Flyers,0,,Boston Bruins,Philadelphia Flyers,0.7,0.7166666666666667
+2020-03-10,7:00 PM,Tampa Bay Lightning,1,Toronto Maple Leafs,2,,Toronto Maple Leafs,Tampa Bay Lightning,0.55,0.7333333333333333
+2020-03-10,10:00 PM,New York Islanders,4,Vancouver Canucks,5,SO,Vancouver Canucks,New York Islanders,0.5666666666666667,0.4666666666666667
+2020-03-11,10:00 PM,St. Louis Blues,4,Anaheim Ducks,2,,St. Louis Blues,Anaheim Ducks,0.5,0.5666666666666667
+2020-03-11,8:00 PM,San Jose Sharks,2,Chicago Blackhawks,6,,Chicago Blackhawks,San Jose Sharks,0.5333333333333333,0.4666666666666667
+2020-03-11,10:00 PM,New York Rangers,2,Colorado Avalanche,3,OT,Colorado Avalanche,New York Rangers,0.6666666666666666,0.6
+2020-03-11,9:00 PM,Winnipeg Jets,4,Edmonton Oilers,2,,Winnipeg Jets,Edmonton Oilers,0.65,0.5166666666666667
+2020-03-11,10:30 PM,Ottawa Senators,2,Los Angeles Kings,3,,Los Angeles Kings,Ottawa Senators,0.4666666666666667,0.4166666666666667

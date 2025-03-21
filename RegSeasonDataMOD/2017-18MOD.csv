@@ -1,0 +1,1272 @@
+Date,Time,Visitor,Visitor_Goals,Home,Home_Goals,OT,Winner,Loser,HPP,VPP
+2017-10-04,10:00 PM,Calgary Flames,0,Edmonton Oilers,3,,Edmonton Oilers,Calgary Flames,0.0,0.0
+2017-10-04,8:00 PM,St. Louis Blues,5,Pittsburgh Penguins,4,OT,St. Louis Blues,Pittsburgh Penguins,0.0,0.0
+2017-10-04,10:30 PM,Philadelphia Flyers,5,San Jose Sharks,3,,Philadelphia Flyers,San Jose Sharks,0.0,0.0
+2017-10-04,7:00 PM,Toronto Maple Leafs,7,Winnipeg Jets,2,,Toronto Maple Leafs,Winnipeg Jets,0.0,0.0
+2017-10-05,10:00 PM,Arizona Coyotes,4,Anaheim Ducks,5,,Anaheim Ducks,Arizona Coyotes,0.0,0.0
+2017-10-05,7:00 PM,Nashville Predators,3,Boston Bruins,4,,Boston Bruins,Nashville Predators,0.0,0.0
+2017-10-05,7:00 PM,Montreal Canadiens,3,Buffalo Sabres,2,SO,Montreal Canadiens,Buffalo Sabres,0.0,0.0
+2017-10-05,8:30 PM,Pittsburgh Penguins,1,Chicago Blackhawks,10,,Chicago Blackhawks,Pittsburgh Penguins,0.0,0.5
+2017-10-05,7:30 PM,Minnesota Wild,2,Detroit Red Wings,4,,Detroit Red Wings,Minnesota Wild,0.0,0.0
+2017-10-05,10:00 PM,Philadelphia Flyers,0,Los Angeles Kings,2,,Los Angeles Kings,Philadelphia Flyers,0.0,1.0
+2017-10-05,7:00 PM,Colorado Avalanche,4,New York Rangers,2,,Colorado Avalanche,New York Rangers,0.0,0.0
+2017-10-05,7:30 PM,Washington Capitals,5,Ottawa Senators,4,SO,Washington Capitals,Ottawa Senators,0.0,0.0
+2017-10-06,7:00 PM,New York Islanders,0,Columbus Blue Jackets,5,,Columbus Blue Jackets,New York Islanders,0.0,0.0
+2017-10-06,8:30 PM,Vegas Golden Knights,2,Dallas Stars,1,,Vegas Golden Knights,Dallas Stars,0.0,0.0
+2017-10-06,7:30 PM,Florida Panthers,3,Tampa Bay Lightning,5,,Tampa Bay Lightning,Florida Panthers,0.0,0.0
+2017-10-07,10:00 PM,Philadelphia Flyers,3,Anaheim Ducks,2,OT,Philadelphia Flyers,Anaheim Ducks,1.0,0.5
+2017-10-07,9:00 PM,Vegas Golden Knights,2,Arizona Coyotes,1,OT,Vegas Golden Knights,Arizona Coyotes,0.0,1.0
+2017-10-07,7:00 PM,Minnesota Wild,4,Carolina Hurricanes,5,SO,Carolina Hurricanes,Minnesota Wild,0.0,0.0
+2017-10-07,10:00 PM,Winnipeg Jets,3,Calgary Flames,6,,Calgary Flames,Winnipeg Jets,0.0,0.0
+2017-10-07,8:30 PM,Columbus Blue Jackets,1,Chicago Blackhawks,5,,Chicago Blackhawks,Columbus Blue Jackets,1.0,1.0
+2017-10-07,7:00 PM,Tampa Bay Lightning,4,Florida Panthers,5,,Florida Panthers,Tampa Bay Lightning,0.0,1.0
+2017-10-07,2:00 PM,Colorado Avalanche,1,New Jersey Devils,4,,New Jersey Devils,Colorado Avalanche,0.0,1.0
+2017-10-07,7:00 PM,Buffalo Sabres,3,New York Islanders,6,,New York Islanders,Buffalo Sabres,0.0,0.5
+2017-10-07,7:00 PM,Detroit Red Wings,2,Ottawa Senators,1,SO,Detroit Red Wings,Ottawa Senators,0.5,1.0
+2017-10-07,7:00 PM,Nashville Predators,0,Pittsburgh Penguins,4,,Pittsburgh Penguins,Nashville Predators,0.25,0.0
+2017-10-07,10:30 PM,Los Angeles Kings,4,San Jose Sharks,1,,Los Angeles Kings,San Jose Sharks,0.0,1.0
+2017-10-07,8:00 PM,Dallas Stars,2,St. Louis Blues,4,,St. Louis Blues,Dallas Stars,1.0,0.0
+2017-10-07,7:00 PM,New York Rangers,5,Toronto Maple Leafs,8,,Toronto Maple Leafs,New York Rangers,1.0,0.0
+2017-10-07,10:00 PM,Edmonton Oilers,2,Vancouver Canucks,3,,Vancouver Canucks,Edmonton Oilers,0.0,1.0
+2017-10-07,7:00 PM,Montreal Canadiens,1,Washington Capitals,6,,Washington Capitals,Montreal Canadiens,1.0,1.0
+2017-10-08,7:00 PM,Montreal Canadiens,0,New York Rangers,2,,New York Rangers,Montreal Canadiens,0.0,0.5
+2017-10-09,10:00 PM,Calgary Flames,2,Anaheim Ducks,0,,Calgary Flames,Anaheim Ducks,0.75,0.5
+2017-10-09,1:00 PM,Colorado Avalanche,4,Boston Bruins,0,,Colorado Avalanche,Boston Bruins,1.0,0.5
+2017-10-09,3:00 PM,New Jersey Devils,6,Buffalo Sabres,2,,New Jersey Devils,Buffalo Sabres,0.25,1.0
+2017-10-09,9:00 PM,Winnipeg Jets,5,Edmonton Oilers,2,,Winnipeg Jets,Edmonton Oilers,0.5,0.0
+2017-10-09,1:00 PM,St. Louis Blues,3,New York Islanders,2,SO,St. Louis Blues,New York Islanders,0.5,1.0
+2017-10-09,7:30 PM,Washington Capitals,3,Tampa Bay Lightning,4,OT,Tampa Bay Lightning,Washington Capitals,0.5,1.0
+2017-10-09,7:00 PM,Chicago Blackhawks,3,Toronto Maple Leafs,4,OT,Toronto Maple Leafs,Chicago Blackhawks,1.0,1.0
+2017-10-10,7:00 PM,Columbus Blue Jackets,2,Carolina Hurricanes,1,OT,Columbus Blue Jackets,Carolina Hurricanes,1.0,0.5
+2017-10-10,8:30 PM,Detroit Red Wings,2,Dallas Stars,4,,Dallas Stars,Detroit Red Wings,0.0,1.0
+2017-10-10,7:30 PM,Chicago Blackhawks,3,Montreal Canadiens,1,,Chicago Blackhawks,Montreal Canadiens,0.3333333333333333,0.8333333333333334
+2017-10-10,8:00 PM,Philadelphia Flyers,5,Nashville Predators,6,,Nashville Predators,Philadelphia Flyers,0.0,0.6666666666666666
+2017-10-10,7:00 PM,St. Louis Blues,3,New York Rangers,1,,St. Louis Blues,New York Rangers,0.3333333333333333,1.0
+2017-10-10,10:00 PM,Ottawa Senators,3,Vancouver Canucks,2,SO,Ottawa Senators,Vancouver Canucks,1.0,0.5
+2017-10-10,10:00 PM,Arizona Coyotes,2,Vegas Golden Knights,5,,Vegas Golden Knights,Arizona Coyotes,1.0,0.25
+2017-10-11,10:00 PM,New York Islanders,2,Anaheim Ducks,3,,Anaheim Ducks,New York Islanders,0.5,0.5
+2017-10-11,9:30 PM,Boston Bruins,3,Colorado Avalanche,6,,Colorado Avalanche,Boston Bruins,0.6666666666666666,0.5
+2017-10-11,10:30 PM,Calgary Flames,4,Los Angeles Kings,3,OT,Calgary Flames,Los Angeles Kings,1.0,0.6666666666666666
+2017-10-11,7:30 PM,New Jersey Devils,6,Toronto Maple Leafs,3,,New Jersey Devils,Toronto Maple Leafs,1.0,1.0
+2017-10-11,7:30 PM,Pittsburgh Penguins,3,Washington Capitals,2,,Pittsburgh Penguins,Washington Capitals,0.8333333333333334,0.5
+2017-10-12,10:00 PM,Detroit Red Wings,4,Arizona Coyotes,2,,Detroit Red Wings,Arizona Coyotes,0.16666666666666666,0.6666666666666666
+2017-10-12,8:30 PM,Minnesota Wild,5,Chicago Blackhawks,2,,Minnesota Wild,Chicago Blackhawks,0.875,0.25
+2017-10-12,7:30 PM,St. Louis Blues,2,Florida Panthers,5,,Florida Panthers,St. Louis Blues,0.5,1.0
+2017-10-12,8:00 PM,Dallas Stars,1,Nashville Predators,4,,Nashville Predators,Dallas Stars,0.3333333333333333,0.3333333333333333
+2017-10-12,10:30 PM,Buffalo Sabres,2,San Jose Sharks,3,,San Jose Sharks,Buffalo Sabres,0.0,0.16666666666666666
+2017-10-12,7:30 PM,Pittsburgh Penguins,4,Tampa Bay Lightning,5,,Tampa Bay Lightning,Pittsburgh Penguins,0.6666666666666666,0.625
+2017-10-12,10:00 PM,Winnipeg Jets,4,Vancouver Canucks,2,,Winnipeg Jets,Vancouver Canucks,0.75,0.3333333333333333
+2017-10-13,7:00 PM,New York Rangers,1,Columbus Blue Jackets,3,,Columbus Blue Jackets,New York Rangers,0.6666666666666666,0.25
+2017-10-13,9:00 PM,Ottawa Senators,6,Calgary Flames,0,,Ottawa Senators,Calgary Flames,0.75,0.6666666666666666
+2017-10-13,9:00 PM,Anaheim Ducks,1,Colorado Avalanche,3,,Colorado Avalanche,Anaheim Ducks,0.75,0.625
+2017-10-13,7:00 PM,Washington Capitals,5,New Jersey Devils,2,,Washington Capitals,New Jersey Devils,1.0,0.625
+2017-10-13,10:30 PM,Detroit Red Wings,6,Vegas Golden Knights,3,,Detroit Red Wings,Vegas Golden Knights,1.0,0.75
+2017-10-14,9:00 PM,Boston Bruins,6,Arizona Coyotes,2,,Boston Bruins,Arizona Coyotes,0.125,0.3333333333333333
+2017-10-14,8:30 PM,Nashville Predators,1,Chicago Blackhawks,2,OT,Chicago Blackhawks,Nashville Predators,0.7,0.5
+2017-10-14,8:00 PM,Colorado Avalanche,1,Dallas Stars,3,,Dallas Stars,Colorado Avalanche,0.25,0.8
+2017-10-14,10:00 PM,Ottawa Senators,6,Edmonton Oilers,1,,Ottawa Senators,Edmonton Oilers,0.3333333333333333,0.75
+2017-10-14,10:30 PM,Buffalo Sabres,2,Los Angeles Kings,4,,Los Angeles Kings,Buffalo Sabres,0.8333333333333334,0.125
+2017-10-14,8:00 PM,Columbus Blue Jackets,5,Minnesota Wild,4,OT,Columbus Blue Jackets,Minnesota Wild,0.5,0.75
+2017-10-14,7:00 PM,Toronto Maple Leafs,4,Montreal Canadiens,3,OT,Toronto Maple Leafs,Montreal Canadiens,0.25,0.75
+2017-10-14,7:00 PM,New Jersey Devils,3,New York Rangers,2,,New Jersey Devils,New York Rangers,0.2,0.75
+2017-10-14,7:00 PM,Washington Capitals,2,Philadelphia Flyers,8,,Philadelphia Flyers,Washington Capitals,0.5,0.7
+2017-10-14,7:00 PM,Florida Panthers,3,Pittsburgh Penguins,4,,Pittsburgh Penguins,Florida Panthers,0.5,0.6666666666666666
+2017-10-14,10:30 PM,New York Islanders,3,San Jose Sharks,1,,New York Islanders,San Jose Sharks,0.3333333333333333,0.375
+2017-10-14,7:00 PM,St. Louis Blues,1,Tampa Bay Lightning,2,,Tampa Bay Lightning,St. Louis Blues,0.75,0.8
+2017-10-14,10:00 PM,Calgary Flames,5,Vancouver Canucks,2,,Calgary Flames,Vancouver Canucks,0.5,0.6
+2017-10-14,7:00 PM,Carolina Hurricanes,1,Winnipeg Jets,2,,Winnipeg Jets,Carolina Hurricanes,0.5,0.75
+2017-10-15,9:00 PM,Buffalo Sabres,3,Anaheim Ducks,1,,Buffalo Sabres,Anaheim Ducks,0.5,0.1
+2017-10-15,10:30 PM,New York Islanders,2,Los Angeles Kings,3,,Los Angeles Kings,New York Islanders,0.875,0.5
+2017-10-15,7:00 PM,Boston Bruins,1,Vegas Golden Knights,3,,Vegas Golden Knights,Boston Bruins,0.75,0.5
+2017-10-16,7:30 PM,Tampa Bay Lightning,3,Detroit Red Wings,2,,Tampa Bay Lightning,Detroit Red Wings,0.8,0.8
+2017-10-17,8:30 PM,Arizona Coyotes,1,Dallas Stars,3,,Dallas Stars,Arizona Coyotes,0.4,0.1
+2017-10-17,9:00 PM,Carolina Hurricanes,5,Edmonton Oilers,3,,Carolina Hurricanes,Edmonton Oilers,0.25,0.5
+2017-10-17,7:30 PM,Tampa Bay Lightning,4,New Jersey Devils,5,SO,New Jersey Devils,Tampa Bay Lightning,0.8,0.8333333333333334
+2017-10-17,8:00 PM,Colorado Avalanche,1,Nashville Predators,4,,Nashville Predators,Colorado Avalanche,0.5,0.6666666666666666
+2017-10-17,7:00 PM,Pittsburgh Penguins,5,New York Rangers,4,OT,Pittsburgh Penguins,New York Rangers,0.16666666666666666,0.5833333333333334
+2017-10-17,7:30 PM,Vancouver Canucks,3,Ottawa Senators,0,,Vancouver Canucks,Ottawa Senators,0.8,0.375
+2017-10-17,7:00 PM,Florida Panthers,1,Philadelphia Flyers,5,,Philadelphia Flyers,Florida Panthers,0.6,0.5
+2017-10-17,10:30 PM,Montreal Canadiens,2,San Jose Sharks,5,,San Jose Sharks,Montreal Canadiens,0.25,0.3
+2017-10-17,10:00 PM,Buffalo Sabres,4,Vegas Golden Knights,5,OT,Vegas Golden Knights,Buffalo Sabres,0.8,0.25
+2017-10-17,8:00 PM,Columbus Blue Jackets,5,Winnipeg Jets,2,,Columbus Blue Jackets,Winnipeg Jets,0.6,0.8
+2017-10-17,7:00 PM,Toronto Maple Leafs,2,Washington Capitals,0,,Toronto Maple Leafs,Washington Capitals,0.5833333333333334,0.8
+2017-10-18,10:30 PM,Montreal Canadiens,1,Los Angeles Kings,5,,Los Angeles Kings,Montreal Canadiens,0.9,0.25
+2017-10-18,8:00 PM,Chicago Blackhawks,2,St. Louis Blues,5,,St. Louis Blues,Chicago Blackhawks,0.6666666666666666,0.75
+2017-10-18,7:30 PM,Detroit Red Wings,3,Toronto Maple Leafs,6,,Toronto Maple Leafs,Detroit Red Wings,0.8333333333333334,0.6666666666666666
+2017-10-19,10:00 PM,Dallas Stars,5,Arizona Coyotes,4,,Dallas Stars,Arizona Coyotes,0.08333333333333333,0.5
+2017-10-19,7:00 PM,Vancouver Canucks,3,Boston Bruins,6,,Boston Bruins,Vancouver Canucks,0.4,0.5
+2017-10-19,7:00 PM,Tampa Bay Lightning,2,Columbus Blue Jackets,0,,Tampa Bay Lightning,Columbus Blue Jackets,0.8333333333333334,0.7857142857142857
+2017-10-19,9:00 PM,Carolina Hurricanes,2,Calgary Flames,1,,Carolina Hurricanes,Calgary Flames,0.6666666666666666,0.625
+2017-10-19,8:30 PM,Edmonton Oilers,2,Chicago Blackhawks,1,OT,Edmonton Oilers,Chicago Blackhawks,0.6428571428571429,0.2
+2017-10-19,9:00 PM,St. Louis Blues,4,Colorado Avalanche,3,,St. Louis Blues,Colorado Avalanche,0.5714285714285714,0.7142857142857143
+2017-10-19,7:00 PM,New York Islanders,4,New York Rangers,3,SO,New York Islanders,New York Rangers,0.21428571428571427,0.4166666666666667
+2017-10-19,7:30 PM,New Jersey Devils,5,Ottawa Senators,4,OT,New Jersey Devils,Ottawa Senators,0.6666666666666666,0.8333333333333334
+2017-10-19,7:00 PM,Nashville Predators,1,Philadelphia Flyers,0,,Nashville Predators,Philadelphia Flyers,0.6666666666666666,0.5833333333333334
+2017-10-20,10:00 PM,Montreal Canadiens,2,Anaheim Ducks,6,,Anaheim Ducks,Montreal Canadiens,0.4166666666666667,0.21428571428571427
+2017-10-20,7:00 PM,Vancouver Canucks,4,Buffalo Sabres,2,,Vancouver Canucks,Buffalo Sabres,0.2857142857142857,0.4166666666666667
+2017-10-20,7:30 PM,Washington Capitals,4,Detroit Red Wings,3,OT,Washington Capitals,Detroit Red Wings,0.5714285714285714,0.5
+2017-10-20,7:30 PM,Pittsburgh Penguins,4,Florida Panthers,3,,Pittsburgh Penguins,Florida Panthers,0.4,0.6428571428571429
+2017-10-20,7:00 PM,San Jose Sharks,3,New Jersey Devils,0,,San Jose Sharks,New Jersey Devils,0.8571428571428571,0.4
+2017-10-20,8:00 PM,Minnesota Wild,3,Winnipeg Jets,4,,Winnipeg Jets,Minnesota Wild,0.5,0.5
+2017-10-21,9:00 PM,Chicago Blackhawks,4,Arizona Coyotes,2,,Chicago Blackhawks,Arizona Coyotes,0.07142857142857142,0.625
+2017-10-21,7:00 PM,Buffalo Sabres,5,Boston Bruins,4,OT,Buffalo Sabres,Boston Bruins,0.5,0.25
+2017-10-21,7:00 PM,Los Angeles Kings,6,Columbus Blue Jackets,4,,Los Angeles Kings,Columbus Blue Jackets,0.7142857142857143,0.9166666666666666
+2017-10-21,10:00 PM,Minnesota Wild,4,Calgary Flames,2,,Minnesota Wild,Calgary Flames,0.5714285714285714,0.4
+2017-10-21,8:00 PM,Carolina Hurricanes,3,Dallas Stars,4,,Dallas Stars,Carolina Hurricanes,0.5714285714285714,0.7
+2017-10-21,7:00 PM,San Jose Sharks,3,New York Islanders,5,,New York Islanders,San Jose Sharks,0.5,0.5
+2017-10-21,12:30 PM,Nashville Predators,2,New York Rangers,4,,New York Rangers,Nashville Predators,0.25,0.6428571428571429
+2017-10-21,7:00 PM,Toronto Maple Leafs,3,Ottawa Senators,6,,Ottawa Senators,Toronto Maple Leafs,0.6428571428571429,0.8571428571428571
+2017-10-21,1:00 PM,Edmonton Oilers,1,Philadelphia Flyers,2,,Philadelphia Flyers,Edmonton Oilers,0.5714285714285714,0.3333333333333333
+2017-10-21,7:00 PM,Pittsburgh Penguins,1,Tampa Bay Lightning,7,,Tampa Bay Lightning,Pittsburgh Penguins,0.8125,0.6875
+2017-10-21,10:30 PM,St. Louis Blues,2,Vegas Golden Knights,3,OT,Vegas Golden Knights,St. Louis Blues,0.8333333333333334,0.75
+2017-10-21,7:30 PM,Florida Panthers,4,Washington Capitals,1,,Florida Panthers,Washington Capitals,0.5625,0.3333333333333333
+2017-10-22,7:00 PM,Vancouver Canucks,4,Detroit Red Wings,1,,Vancouver Canucks,Detroit Red Wings,0.5625,0.5
+2017-10-23,7:00 PM,San Jose Sharks,4,New York Rangers,1,,San Jose Sharks,New York Rangers,0.3333333333333333,0.42857142857142855
+2017-10-23,7:00 PM,Los Angeles Kings,2,Toronto Maple Leafs,3,,Toronto Maple Leafs,Los Angeles Kings,0.75,0.9285714285714286
+2017-10-24,7:30 PM,Detroit Red Wings,0,Buffalo Sabres,1,,Buffalo Sabres,Detroit Red Wings,0.3333333333333333,0.5
+2017-10-24,7:00 PM,Tampa Bay Lightning,5,Carolina Hurricanes,1,,Tampa Bay Lightning,Carolina Hurricanes,0.5833333333333334,0.8333333333333334
+2017-10-24,9:00 PM,Dallas Stars,3,Colorado Avalanche,5,,Colorado Avalanche,Dallas Stars,0.5,0.625
+2017-10-24,8:00 PM,Vancouver Canucks,1,Minnesota Wild,0,,Vancouver Canucks,Minnesota Wild,0.5,0.5625
+2017-10-24,7:30 PM,Florida Panthers,1,Montreal Canadiens,5,,Montreal Canadiens,Florida Panthers,0.1875,0.42857142857142855
+2017-10-24,8:00 PM,Calgary Flames,3,Nashville Predators,2,SO,Calgary Flames,Nashville Predators,0.5625,0.5
+2017-10-24,7:00 PM,Arizona Coyotes,3,New York Islanders,5,,New York Islanders,Arizona Coyotes,0.5625,0.0625
+2017-10-24,7:30 PM,Los Angeles Kings,3,Ottawa Senators,2,SO,Los Angeles Kings,Ottawa Senators,0.6875,0.8125
+2017-10-24,7:00 PM,Anaheim Ducks,6,Philadelphia Flyers,2,,Anaheim Ducks,Philadelphia Flyers,0.625,0.5
+2017-10-24,7:00 PM,Edmonton Oilers,1,Pittsburgh Penguins,2,OT,Pittsburgh Penguins,Edmonton Oilers,0.6111111111111112,0.2857142857142857
+2017-10-24,10:00 PM,Chicago Blackhawks,2,Vegas Golden Knights,4,,Vegas Golden Knights,Chicago Blackhawks,0.8571428571428571,0.6666666666666666
+2017-10-25,8:00 PM,Buffalo Sabres,1,Columbus Blue Jackets,5,,Columbus Blue Jackets,Buffalo Sabres,0.625,0.4
+2017-10-25,8:00 PM,Calgary Flames,2,St. Louis Blues,5,,St. Louis Blues,Calgary Flames,0.7222222222222222,0.5555555555555556
+2017-10-26,7:00 PM,San Jose Sharks,1,Boston Bruins,2,,Boston Bruins,San Jose Sharks,0.5,0.5
+2017-10-26,9:00 PM,Dallas Stars,4,Edmonton Oilers,5,,Edmonton Oilers,Dallas Stars,0.3125,0.5555555555555556
+2017-10-26,7:30 PM,Anaheim Ducks,3,Florida Panthers,8,,Florida Panthers,Anaheim Ducks,0.375,0.5625
+2017-10-26,8:00 PM,New York Islanders,4,Minnesota Wild,6,,Minnesota Wild,New York Islanders,0.42857142857142855,0.6111111111111112
+2017-10-26,7:30 PM,Los Angeles Kings,4,Montreal Canadiens,0,,Los Angeles Kings,Montreal Canadiens,0.2777777777777778,0.8333333333333334
+2017-10-26,7:00 PM,Arizona Coyotes,2,New York Rangers,5,,New York Rangers,Arizona Coyotes,0.3,0.05555555555555555
+2017-10-26,7:30 PM,Philadelphia Flyers,4,Ottawa Senators,5,,Ottawa Senators,Philadelphia Flyers,0.6666666666666666,0.5555555555555556
+2017-10-26,7:00 PM,Winnipeg Jets,1,Pittsburgh Penguins,2,OT,Pittsburgh Penguins,Winnipeg Jets,0.65,0.5714285714285714
+2017-10-26,7:30 PM,Detroit Red Wings,2,Tampa Bay Lightning,3,,Tampa Bay Lightning,Detroit Red Wings,0.85,0.45
+2017-10-26,7:00 PM,Carolina Hurricanes,6,Toronto Maple Leafs,3,,Carolina Hurricanes,Toronto Maple Leafs,0.7777777777777778,0.5
+2017-10-26,10:00 PM,Washington Capitals,2,Vancouver Canucks,6,,Vancouver Canucks,Washington Capitals,0.6111111111111112,0.5
+2017-10-27,7:30 PM,St. Louis Blues,2,Carolina Hurricanes,1,,St. Louis Blues,Carolina Hurricanes,0.5625,0.75
+2017-10-27,7:00 PM,Winnipeg Jets,1,Columbus Blue Jackets,2,OT,Columbus Blue Jackets,Winnipeg Jets,0.6666666666666666,0.5625
+2017-10-27,9:00 PM,Dallas Stars,2,Calgary Flames,1,,Dallas Stars,Calgary Flames,0.5,0.5
+2017-10-27,8:30 PM,Nashville Predators,2,Chicago Blackhawks,1,,Nashville Predators,Chicago Blackhawks,0.6,0.5555555555555556
+2017-10-27,7:00 PM,Ottawa Senators,4,New Jersey Devils,5,SO,New Jersey Devils,Ottawa Senators,0.75,0.7
+2017-10-27,6:00 PM,Colorado Avalanche,0,Vegas Golden Knights,7,,Vegas Golden Knights,Colorado Avalanche,0.875,0.5555555555555556
+2017-10-28,7:00 PM,Los Angeles Kings,2,Boston Bruins,1,OT,Los Angeles Kings,Boston Bruins,0.5625,0.85
+2017-10-28,1:00 PM,San Jose Sharks,3,Buffalo Sabres,2,,San Jose Sharks,Buffalo Sabres,0.36363636363636365,0.4444444444444444
+2017-10-28,9:00 PM,Chicago Blackhawks,3,Colorado Avalanche,6,,Colorado Avalanche,Chicago Blackhawks,0.5,0.5454545454545454
+2017-10-28,10:00 PM,Washington Capitals,5,Edmonton Oilers,2,,Washington Capitals,Edmonton Oilers,0.3888888888888889,0.45
+2017-10-28,7:00 PM,Detroit Red Wings,3,Florida Panthers,2,SO,Detroit Red Wings,Florida Panthers,0.4444444444444444,0.4090909090909091
+2017-10-28,8:00 PM,Pittsburgh Penguins,1,Minnesota Wild,2,,Minnesota Wild,Pittsburgh Penguins,0.5,0.6818181818181818
+2017-10-28,7:00 PM,New York Rangers,4,Montreal Canadiens,5,,Montreal Canadiens,New York Rangers,0.25,0.36363636363636365
+2017-10-28,7:00 PM,Arizona Coyotes,3,New Jersey Devils,4,,New Jersey Devils,Arizona Coyotes,0.7777777777777778,0.05
+2017-10-28,8:00 PM,New York Islanders,6,Nashville Predators,2,,New York Islanders,Nashville Predators,0.6,0.55
+2017-10-28,8:00 PM,Columbus Blue Jackets,1,St. Louis Blues,4,,St. Louis Blues,Columbus Blue Jackets,0.7727272727272727,0.7
+2017-10-28,7:00 PM,Anaheim Ducks,4,Tampa Bay Lightning,1,,Anaheim Ducks,Tampa Bay Lightning,0.8636363636363636,0.5
+2017-10-28,7:00 PM,Philadelphia Flyers,4,Toronto Maple Leafs,2,,Philadelphia Flyers,Toronto Maple Leafs,0.7,0.5
+2017-10-29,5:00 PM,Anaheim Ducks,4,Carolina Hurricanes,3,SO,Anaheim Ducks,Carolina Hurricanes,0.5,0.55
+2017-10-29,9:00 PM,Washington Capitals,1,Calgary Flames,2,,Calgary Flames,Washington Capitals,0.45454545454545453,0.5
+2017-10-29,7:00 PM,Pittsburgh Penguins,1,Winnipeg Jets,7,,Winnipeg Jets,Pittsburgh Penguins,0.5555555555555556,0.625
+2017-10-30,7:00 PM,Boston Bruins,3,Columbus Blue Jackets,4,SO,Columbus Blue Jackets,Boston Bruins,0.6363636363636364,0.5555555555555556
+2017-10-30,7:30 PM,Tampa Bay Lightning,8,Florida Panthers,5,,Tampa Bay Lightning,Florida Panthers,0.45,0.7916666666666666
+2017-10-30,7:00 PM,Vegas Golden Knights,3,New York Islanders,6,,New York Islanders,Vegas Golden Knights,0.5909090909090909,0.8888888888888888
+2017-10-30,7:30 PM,Montreal Canadiens,8,Ottawa Senators,3,,Montreal Canadiens,Ottawa Senators,0.6818181818181818,0.3181818181818182
+2017-10-30,7:00 PM,Arizona Coyotes,4,Philadelphia Flyers,3,OT,Arizona Coyotes,Philadelphia Flyers,0.5454545454545454,0.045454545454545456
+2017-10-30,10:30 PM,Toronto Maple Leafs,2,San Jose Sharks,3,,San Jose Sharks,Toronto Maple Leafs,0.5,0.6363636363636364
+2017-10-30,8:00 PM,Los Angeles Kings,2,St. Louis Blues,4,,St. Louis Blues,Los Angeles Kings,0.7916666666666666,0.8636363636363636
+2017-10-30,10:00 PM,Dallas Stars,2,Vancouver Canucks,1,OT,Dallas Stars,Vancouver Canucks,0.65,0.5454545454545454
+2017-10-31,7:30 PM,Arizona Coyotes,3,Detroit Red Wings,5,,Detroit Red Wings,Arizona Coyotes,0.4583333333333333,0.125
+2017-10-31,8:00 PM,Winnipeg Jets,2,Minnesota Wild,1,,Winnipeg Jets,Minnesota Wild,0.5555555555555556,0.6
+2017-10-31,7:00 PM,Vegas Golden Knights,4,New York Rangers,6,,New York Rangers,Vegas Golden Knights,0.3333333333333333,0.8
+2017-11-01,10:00 PM,Toronto Maple Leafs,3,Anaheim Ducks,1,,Toronto Maple Leafs,Anaheim Ducks,0.5909090909090909,0.5833333333333334
+2017-11-01,8:00 PM,Philadelphia Flyers,0,Chicago Blackhawks,3,,Chicago Blackhawks,Philadelphia Flyers,0.5,0.5416666666666666
+2017-11-01,8:30 PM,Pittsburgh Penguins,3,Edmonton Oilers,2,,Pittsburgh Penguins,Edmonton Oilers,0.35,0.5769230769230769
+2017-11-01,10:30 PM,Nashville Predators,1,San Jose Sharks,4,,San Jose Sharks,Nashville Predators,0.5454545454545454,0.5454545454545454
+2017-11-01,10:00 PM,New Jersey Devils,2,Vancouver Canucks,0,,New Jersey Devils,Vancouver Canucks,0.6363636363636364,0.8
+2017-11-02,10:00 PM,Buffalo Sabres,5,Arizona Coyotes,4,,Buffalo Sabres,Arizona Coyotes,0.11538461538461539,0.3333333333333333
+2017-11-02,7:00 PM,Vegas Golden Knights,1,Boston Bruins,2,,Boston Bruins,Vegas Golden Knights,0.55,0.7272727272727273
+2017-11-02,9:00 PM,Pittsburgh Penguins,1,Calgary Flames,2,OT,Calgary Flames,Pittsburgh Penguins,0.5,0.6071428571428571
+2017-11-02,9:00 PM,Carolina Hurricanes,3,Colorado Avalanche,5,,Colorado Avalanche,Carolina Hurricanes,0.5454545454545454,0.5
+2017-11-02,7:30 PM,Columbus Blue Jackets,7,Florida Panthers,3,,Columbus Blue Jackets,Florida Panthers,0.4090909090909091,0.6666666666666666
+2017-11-02,10:30 PM,Toronto Maple Leafs,3,Los Angeles Kings,5,,Los Angeles Kings,Toronto Maple Leafs,0.7916666666666666,0.6153846153846154
+2017-11-02,8:00 PM,Montreal Canadiens,3,Minnesota Wild,6,,Minnesota Wild,Montreal Canadiens,0.5,0.375
+2017-11-02,7:30 PM,Detroit Red Wings,1,Ottawa Senators,3,,Ottawa Senators,Detroit Red Wings,0.625,0.5
+2017-11-02,8:00 PM,Philadelphia Flyers,2,St. Louis Blues,0,,Philadelphia Flyers,St. Louis Blues,0.8076923076923077,0.5
+2017-11-02,7:30 PM,New York Rangers,2,Tampa Bay Lightning,1,OT,New York Rangers,Tampa Bay Lightning,0.8076923076923077,0.38461538461538464
+2017-11-02,8:00 PM,Dallas Stars,2,Winnipeg Jets,5,,Winnipeg Jets,Dallas Stars,0.6363636363636364,0.5833333333333334
+2017-11-02,7:00 PM,New York Islanders,3,Washington Capitals,4,,Washington Capitals,New York Islanders,0.4583333333333333,0.625
+2017-11-03,10:00 PM,Nashville Predators,5,Anaheim Ducks,3,,Nashville Predators,Anaheim Ducks,0.5416666666666666,0.5
+2017-11-03,9:00 PM,New Jersey Devils,3,Edmonton Oilers,6,,Edmonton Oilers,New Jersey Devils,0.3181818181818182,0.8181818181818182
+2017-11-04,9:00 PM,Carolina Hurricanes,1,Arizona Coyotes,2,SO,Arizona Coyotes,Carolina Hurricanes,0.10714285714285714,0.45454545454545453
+2017-11-04,7:00 PM,Washington Capitals,3,Boston Bruins,2,,Washington Capitals,Boston Bruins,0.5909090909090909,0.5
+2017-11-04,8:00 PM,Buffalo Sabres,1,Dallas Stars,5,,Dallas Stars,Buffalo Sabres,0.5384615384615384,0.38461538461538464
+2017-11-04,7:00 PM,New York Rangers,5,Florida Panthers,4,OT,New York Rangers,Florida Panthers,0.375,0.42857142857142855
+2017-11-04,10:30 PM,Nashville Predators,4,Los Angeles Kings,3,OT,Nashville Predators,Los Angeles Kings,0.8076923076923077,0.5384615384615384
+2017-11-04,8:00 PM,Chicago Blackhawks,2,Minnesota Wild,0,,Chicago Blackhawks,Minnesota Wild,0.5454545454545454,0.5384615384615384
+2017-11-04,2:00 PM,Vegas Golden Knights,5,Ottawa Senators,4,,Vegas Golden Knights,Ottawa Senators,0.6538461538461539,0.6666666666666666
+2017-11-04,7:00 PM,Colorado Avalanche,5,Philadelphia Flyers,4,SO,Colorado Avalanche,Philadelphia Flyers,0.5357142857142857,0.5833333333333334
+2017-11-04,10:30 PM,Anaheim Ducks,1,San Jose Sharks,2,SO,San Jose Sharks,Anaheim Ducks,0.5833333333333334,0.5
+2017-11-04,7:00 PM,Toronto Maple Leafs,4,St. Louis Blues,6,,St. Louis Blues,Toronto Maple Leafs,0.75,0.5714285714285714
+2017-11-04,7:00 PM,Columbus Blue Jackets,4,Tampa Bay Lightning,5,SO,Tampa Bay Lightning,Columbus Blue Jackets,0.7857142857142857,0.6923076923076923
+2017-11-04,10:00 PM,Pittsburgh Penguins,2,Vancouver Canucks,4,,Vancouver Canucks,Pittsburgh Penguins,0.5833333333333334,0.6
+2017-11-04,7:00 PM,Montreal Canadiens,5,Winnipeg Jets,4,OT,Montreal Canadiens,Winnipeg Jets,0.6666666666666666,0.34615384615384615
+2017-11-05,9:00 PM,New Jersey Devils,4,Calgary Flames,5,SO,Calgary Flames,New Jersey Devils,0.5384615384615384,0.75
+2017-11-05,7:00 PM,Montreal Canadiens,2,Chicago Blackhawks,0,,Montreal Canadiens,Chicago Blackhawks,0.5714285714285714,0.39285714285714285
+2017-11-05,4:00 PM,Detroit Red Wings,4,Edmonton Oilers,0,,Detroit Red Wings,Edmonton Oilers,0.375,0.4642857142857143
+2017-11-05,6:00 PM,Colorado Avalanche,4,New York Islanders,6,,New York Islanders,Colorado Avalanche,0.5769230769230769,0.6153846153846154
+2017-11-06,7:00 PM,Minnesota Wild,3,Boston Bruins,5,,Boston Bruins,Minnesota Wild,0.5416666666666666,0.5
+2017-11-06,8:30 PM,Winnipeg Jets,4,Dallas Stars,1,,Winnipeg Jets,Dallas Stars,0.5714285714285714,0.6538461538461539
+2017-11-06,7:00 PM,Columbus Blue Jackets,3,New York Rangers,5,,New York Rangers,Columbus Blue Jackets,0.4666666666666667,0.6785714285714286
+2017-11-06,7:00 PM,Vegas Golden Knights,3,Toronto Maple Leafs,4,SO,Toronto Maple Leafs,Vegas Golden Knights,0.5333333333333333,0.6923076923076923
+2017-11-06,10:00 PM,Detroit Red Wings,3,Vancouver Canucks,2,,Detroit Red Wings,Vancouver Canucks,0.6153846153846154,0.5
+2017-11-06,7:00 PM,Arizona Coyotes,2,Washington Capitals,3,OT,Washington Capitals,Arizona Coyotes,0.5357142857142857,0.16666666666666666
+2017-11-07,10:00 PM,Los Angeles Kings,4,Anaheim Ducks,3,OT,Los Angeles Kings,Anaheim Ducks,0.5,0.7857142857142857
+2017-11-07,7:00 PM,Washington Capitals,1,Buffalo Sabres,3,,Buffalo Sabres,Washington Capitals,0.35714285714285715,0.5666666666666667
+2017-11-07,7:00 PM,Florida Panthers,1,Carolina Hurricanes,3,,Carolina Hurricanes,Florida Panthers,0.4583333333333333,0.38461538461538464
+2017-11-07,7:00 PM,Nashville Predators,3,Columbus Blue Jackets,1,,Nashville Predators,Columbus Blue Jackets,0.6333333333333333,0.5714285714285714
+2017-11-07,9:00 PM,Vancouver Canucks,5,Calgary Flames,3,,Vancouver Canucks,Calgary Flames,0.5714285714285714,0.5714285714285714
+2017-11-07,7:30 PM,Vegas Golden Knights,2,Montreal Canadiens,3,,Montreal Canadiens,Vegas Golden Knights,0.43333333333333335,0.6785714285714286
+2017-11-07,7:00 PM,St. Louis Blues,3,New Jersey Devils,1,,St. Louis Blues,New Jersey Devils,0.7307692307692307,0.7666666666666667
+2017-11-07,7:00 PM,Edmonton Oilers,2,New York Islanders,1,OT,Edmonton Oilers,New York Islanders,0.6071428571428571,0.34615384615384615
+2017-11-07,7:00 PM,Arizona Coyotes,1,Pittsburgh Penguins,3,,Pittsburgh Penguins,Arizona Coyotes,0.5625,0.1875
+2017-11-08,8:00 PM,Boston Bruins,2,New York Rangers,4,,New York Rangers,Boston Bruins,0.5,0.5769230769230769
+2017-11-08,10:30 PM,Tampa Bay Lightning,5,San Jose Sharks,1,,Tampa Bay Lightning,San Jose Sharks,0.6153846153846154,0.8
+2017-11-08,7:30 PM,Minnesota Wild,2,Toronto Maple Leafs,4,,Toronto Maple Leafs,Minnesota Wild,0.5625,0.46153846153846156
+2017-11-09,10:00 PM,Vancouver Canucks,1,Anaheim Ducks,4,,Anaheim Ducks,Vancouver Canucks,0.5,0.6
+2017-11-09,9:00 PM,Detroit Red Wings,3,Calgary Flames,6,,Calgary Flames,Detroit Red Wings,0.5333333333333333,0.53125
+2017-11-09,10:30 PM,Tampa Bay Lightning,5,Los Angeles Kings,2,,Tampa Bay Lightning,Los Angeles Kings,0.8,0.8125
+2017-11-09,7:30 PM,Minnesota Wild,3,Montreal Canadiens,0,,Minnesota Wild,Montreal Canadiens,0.46875,0.42857142857142855
+2017-11-09,7:00 PM,Edmonton Oilers,3,New Jersey Devils,2,OT,Edmonton Oilers,New Jersey Devils,0.6785714285714286,0.39285714285714285
+2017-11-09,7:00 PM,Chicago Blackhawks,1,Philadelphia Flyers,3,,Philadelphia Flyers,Chicago Blackhawks,0.5333333333333333,0.5333333333333333
+2017-11-09,8:00 PM,Arizona Coyotes,2,St. Louis Blues,3,SO,St. Louis Blues,Arizona Coyotes,0.78125,0.17647058823529413
+2017-11-10,7:00 PM,Florida Panthers,4,Buffalo Sabres,1,,Florida Panthers,Buffalo Sabres,0.4,0.35714285714285715
+2017-11-10,7:00 PM,Carolina Hurricanes,3,Columbus Blue Jackets,1,,Carolina Hurricanes,Columbus Blue Jackets,0.59375,0.5
+2017-11-10,2:00 PM,Ottawa Senators,4,Colorado Avalanche,3,OT,Ottawa Senators,Colorado Avalanche,0.5714285714285714,0.6071428571428571
+2017-11-10,8:30 PM,New York Islanders,0,Dallas Stars,5,,Dallas Stars,New York Islanders,0.5333333333333333,0.6
+2017-11-10,7:00 PM,Boston Bruins,2,Toronto Maple Leafs,3,OT,Toronto Maple Leafs,Boston Bruins,0.5882352941176471,0.5357142857142857
+2017-11-10,10:30 PM,Winnipeg Jets,2,Vegas Golden Knights,5,,Vegas Golden Knights,Winnipeg Jets,0.6333333333333333,0.6785714285714286
+2017-11-10,7:00 PM,Pittsburgh Penguins,1,Washington Capitals,4,,Washington Capitals,Pittsburgh Penguins,0.53125,0.5882352941176471
+2017-11-11,10:00 PM,Winnipeg Jets,4,Arizona Coyotes,1,,Winnipeg Jets,Arizona Coyotes,0.19444444444444445,0.6333333333333333
+2017-11-11,7:00 PM,Toronto Maple Leafs,4,Boston Bruins,1,,Toronto Maple Leafs,Boston Bruins,0.5333333333333333,0.6111111111111112
+2017-11-11,7:00 PM,Chicago Blackhawks,4,Carolina Hurricanes,3,OT,Chicago Blackhawks,Carolina Hurricanes,0.5357142857142857,0.5
+2017-11-11,7:00 PM,Columbus Blue Jackets,2,Detroit Red Wings,1,SO,Columbus Blue Jackets,Detroit Red Wings,0.5,0.5588235294117647
+2017-11-11,7:00 PM,Buffalo Sabres,1,Montreal Canadiens,2,OT,Montreal Canadiens,Buffalo Sabres,0.4411764705882353,0.375
+2017-11-11,7:00 PM,Florida Panthers,1,New Jersey Devils,2,,New Jersey Devils,Florida Panthers,0.6666666666666666,0.4
+2017-11-11,8:00 PM,Pittsburgh Penguins,4,Nashville Predators,5,SO,Nashville Predators,Pittsburgh Penguins,0.6,0.5555555555555556
+2017-11-11,1:00 PM,Edmonton Oilers,2,New York Rangers,4,,New York Rangers,Edmonton Oilers,0.5294117647058824,0.43333333333333335
+2017-11-11,1:00 PM,Colorado Avalanche,3,Ottawa Senators,4,,Ottawa Senators,Colorado Avalanche,0.6333333333333333,0.5666666666666667
+2017-11-11,7:00 PM,Minnesota Wild,1,Philadelphia Flyers,0,,Minnesota Wild,Philadelphia Flyers,0.5625,0.4666666666666667
+2017-11-11,10:00 PM,Vancouver Canucks,0,San Jose Sharks,5,,San Jose Sharks,Vancouver Canucks,0.5714285714285714,0.5625
+2017-11-11,8:00 PM,New York Islanders,5,St. Louis Blues,2,,New York Islanders,St. Louis Blues,0.7941176470588235,0.5625
+2017-11-12,8:00 PM,Tampa Bay Lightning,2,Anaheim Ducks,1,,Tampa Bay Lightning,Anaheim Ducks,0.53125,0.8235294117647058
+2017-11-12,7:00 PM,New Jersey Devils,7,Chicago Blackhawks,5,,New Jersey Devils,Chicago Blackhawks,0.5294117647058824,0.6875
+2017-11-12,10:30 PM,San Jose Sharks,2,Los Angeles Kings,1,,San Jose Sharks,Los Angeles Kings,0.75,0.6
+2017-11-12,7:00 PM,Edmonton Oilers,1,Washington Capitals,2,SO,Washington Capitals,Edmonton Oilers,0.5588235294117647,0.40625
+2017-11-13,7:00 PM,Dallas Stars,1,Carolina Hurricanes,5,,Carolina Hurricanes,Dallas Stars,0.5333333333333333,0.5625
+2017-11-13,9:00 PM,St. Louis Blues,4,Calgary Flames,7,,Calgary Flames,St. Louis Blues,0.5625,0.75
+2017-11-14,9:00 PM,Vegas Golden Knights,2,Edmonton Oilers,8,,Edmonton Oilers,Vegas Golden Knights,0.4117647058823529,0.65625
+2017-11-14,7:30 PM,Dallas Stars,3,Florida Panthers,4,SO,Florida Panthers,Dallas Stars,0.375,0.5294117647058824
+2017-11-14,10:30 PM,Vancouver Canucks,3,Los Angeles Kings,2,,Vancouver Canucks,Los Angeles Kings,0.7058823529411765,0.5294117647058824
+2017-11-14,8:00 PM,Philadelphia Flyers,0,Minnesota Wild,3,,Minnesota Wild,Philadelphia Flyers,0.5,0.5294117647058824
+2017-11-14,7:30 PM,Columbus Blue Jackets,2,Montreal Canadiens,1,OT,Columbus Blue Jackets,Montreal Canadiens,0.4722222222222222,0.5833333333333334
+2017-11-14,8:00 PM,Washington Capitals,3,Nashville Predators,6,,Nashville Predators,Washington Capitals,0.625,0.5833333333333334
+2017-11-14,7:00 PM,Buffalo Sabres,4,Pittsburgh Penguins,5,OT,Pittsburgh Penguins,Buffalo Sabres,0.5526315789473685,0.38235294117647056
+2017-11-14,8:00 PM,Arizona Coyotes,1,Winnipeg Jets,4,,Winnipeg Jets,Arizona Coyotes,0.65625,0.18421052631578946
+2017-11-15,10:00 PM,Boston Bruins,2,Anaheim Ducks,4,,Anaheim Ducks,Boston Bruins,0.5,0.5
+2017-11-15,8:00 PM,New York Rangers,3,Chicago Blackhawks,6,,Chicago Blackhawks,New York Rangers,0.5,0.5555555555555556
+2017-11-15,7:30 PM,Calgary Flames,2,Detroit Red Wings,8,,Detroit Red Wings,Calgary Flames,0.5,0.5882352941176471
+2017-11-16,9:00 PM,Washington Capitals,2,Colorado Avalanche,6,,Colorado Avalanche,Washington Capitals,0.53125,0.5526315789473685
+2017-11-16,9:00 PM,St. Louis Blues,4,Edmonton Oilers,1,,St. Louis Blues,Edmonton Oilers,0.4444444444444444,0.7105263157894737
+2017-11-16,10:30 PM,Boston Bruins,2,Los Angeles Kings,1,,Boston Bruins,Los Angeles Kings,0.6666666666666666,0.47058823529411764
+2017-11-16,8:00 PM,Nashville Predators,4,Minnesota Wild,6,,Minnesota Wild,Nashville Predators,0.5294117647058824,0.6470588235294118
+2017-11-16,7:30 PM,Arizona Coyotes,5,Montreal Canadiens,4,,Arizona Coyotes,Montreal Canadiens,0.47368421052631576,0.175
+2017-11-16,7:00 PM,Carolina Hurricanes,4,New York Islanders,6,,New York Islanders,Carolina Hurricanes,0.5882352941176471,0.5625
+2017-11-16,7:30 PM,Pittsburgh Penguins,3,Ottawa Senators,1,,Pittsburgh Penguins,Ottawa Senators,0.65625,0.575
+2017-11-16,10:30 PM,Florida Panthers,2,San Jose Sharks,0,,Florida Panthers,San Jose Sharks,0.625,0.4117647058823529
+2017-11-16,7:30 PM,Dallas Stars,1,Tampa Bay Lightning,6,,Tampa Bay Lightning,Dallas Stars,0.8333333333333334,0.5277777777777778
+2017-11-16,7:00 PM,New Jersey Devils,0,Toronto Maple Leafs,1,OT,Toronto Maple Leafs,New Jersey Devils,0.631578947368421,0.7058823529411765
+2017-11-16,10:00 PM,Vegas Golden Knights,5,Vancouver Canucks,2,,Vegas Golden Knights,Vancouver Canucks,0.5555555555555556,0.6176470588235294
+2017-11-16,8:00 PM,Philadelphia Flyers,2,Winnipeg Jets,3,SO,Winnipeg Jets,Philadelphia Flyers,0.6764705882352942,0.5
+2017-11-17,7:00 PM,New York Rangers,0,Columbus Blue Jackets,2,,Columbus Blue Jackets,New York Rangers,0.6052631578947368,0.5263157894736842
+2017-11-17,7:30 PM,Buffalo Sabres,1,Detroit Red Wings,3,,Detroit Red Wings,Buffalo Sabres,0.5263157894736842,0.3888888888888889
+2017-11-18,7:00 PM,Carolina Hurricanes,3,Buffalo Sabres,1,,Carolina Hurricanes,Buffalo Sabres,0.3684210526315789,0.5294117647058824
+2017-11-18,2:00 PM,Edmonton Oilers,3,Dallas Stars,6,,Dallas Stars,Edmonton Oilers,0.5,0.42105263157894735
+2017-11-18,4:00 PM,Florida Panthers,0,Los Angeles Kings,4,,Los Angeles Kings,Florida Panthers,0.631578947368421,0.4444444444444444
+2017-11-18,7:00 PM,Toronto Maple Leafs,6,Montreal Canadiens,0,,Toronto Maple Leafs,Montreal Canadiens,0.45,0.65
+2017-11-18,8:00 PM,Colorado Avalanche,2,Nashville Predators,5,,Nashville Predators,Colorado Avalanche,0.6111111111111112,0.5588235294117647
+2017-11-18,2:00 PM,Arizona Coyotes,3,Ottawa Senators,2,OT,Arizona Coyotes,Ottawa Senators,0.6176470588235294,0.21428571428571427
+2017-11-18,1:00 PM,Calgary Flames,5,Philadelphia Flyers,4,OT,Calgary Flames,Philadelphia Flyers,0.5,0.5555555555555556
+2017-11-18,7:00 PM,Chicago Blackhawks,2,Pittsburgh Penguins,1,,Chicago Blackhawks,Pittsburgh Penguins,0.5952380952380952,0.5263157894736842
+2017-11-18,10:30 PM,Boston Bruins,3,San Jose Sharks,1,,Boston Bruins,San Jose Sharks,0.5882352941176471,0.5
+2017-11-18,7:00 PM,New York Islanders,5,Tampa Bay Lightning,3,,New York Islanders,Tampa Bay Lightning,0.8421052631578947,0.6111111111111112
+2017-11-18,10:00 PM,St. Louis Blues,4,Vancouver Canucks,3,OT,St. Louis Blues,Vancouver Canucks,0.5263157894736842,0.725
+2017-11-18,3:00 PM,New Jersey Devils,2,Winnipeg Jets,5,,Winnipeg Jets,New Jersey Devils,0.6944444444444444,0.6944444444444444
+2017-11-18,7:30 PM,Minnesota Wild,1,Washington Capitals,3,,Washington Capitals,Minnesota Wild,0.525,0.5555555555555556
+2017-11-19,8:00 PM,Florida Panthers,2,Anaheim Ducks,3,,Anaheim Ducks,Florida Panthers,0.5277777777777778,0.42105263157894735
+2017-11-19,5:00 PM,New York Islanders,2,Carolina Hurricanes,4,,Carolina Hurricanes,New York Islanders,0.5555555555555556,0.631578947368421
+2017-11-19,6:00 PM,Colorado Avalanche,4,Detroit Red Wings,3,OT,Colorado Avalanche,Detroit Red Wings,0.55,0.5277777777777778
+2017-11-19,7:00 PM,Ottawa Senators,0,New York Rangers,3,,New York Rangers,Ottawa Senators,0.5,0.6111111111111112
+2017-11-19,8:00 PM,Los Angeles Kings,2,Vegas Golden Knights,4,,Vegas Golden Knights,Los Angeles Kings,0.6388888888888888,0.65
+2017-11-20,7:00 PM,Columbus Blue Jackets,3,Buffalo Sabres,2,,Columbus Blue Jackets,Buffalo Sabres,0.35,0.625
+2017-11-20,8:00 PM,New Jersey Devils,4,Minnesota Wild,3,OT,New Jersey Devils,Minnesota Wild,0.5263157894736842,0.6578947368421053
+2017-11-20,8:00 PM,Winnipeg Jets,3,Nashville Predators,5,,Nashville Predators,Winnipeg Jets,0.631578947368421,0.7105263157894737
+2017-11-20,10:30 PM,Anaheim Ducks,3,San Jose Sharks,2,SO,Anaheim Ducks,San Jose Sharks,0.5555555555555556,0.5526315789473685
+2017-11-20,7:00 PM,Arizona Coyotes,4,Toronto Maple Leafs,1,,Arizona Coyotes,Toronto Maple Leafs,0.6666666666666666,0.25
+2017-11-20,7:00 PM,Calgary Flames,4,Washington Capitals,1,,Calgary Flames,Washington Capitals,0.5476190476190477,0.5789473684210527
+2017-11-21,8:30 PM,Montreal Canadiens,1,Dallas Stars,3,,Dallas Stars,Montreal Canadiens,0.525,0.42857142857142855
+2017-11-21,7:00 PM,Vancouver Canucks,5,Philadelphia Flyers,2,,Vancouver Canucks,Philadelphia Flyers,0.5,0.525
+2017-11-21,8:00 PM,Edmonton Oilers,3,St. Louis Blues,8,,St. Louis Blues,Edmonton Oilers,0.7380952380952381,0.4
+2017-11-22,10:30 PM,Vegas Golden Knights,4,Anaheim Ducks,2,,Vegas Golden Knights,Anaheim Ducks,0.575,0.6578947368421053
+2017-11-22,9:00 PM,San Jose Sharks,3,Arizona Coyotes,1,,San Jose Sharks,Arizona Coyotes,0.2826086956521739,0.5526315789473685
+2017-11-22,7:00 PM,Minnesota Wild,5,Buffalo Sabres,4,,Minnesota Wild,Buffalo Sabres,0.3333333333333333,0.525
+2017-11-22,7:00 PM,New York Rangers,6,Carolina Hurricanes,1,,New York Rangers,Carolina Hurricanes,0.5789473684210527,0.5238095238095238
+2017-11-22,7:00 PM,Calgary Flames,0,Columbus Blue Jackets,1,OT,Columbus Blue Jackets,Calgary Flames,0.6428571428571429,0.6
+2017-11-22,9:00 PM,Dallas Stars,0,Colorado Avalanche,3,,Colorado Avalanche,Dallas Stars,0.5526315789473685,0.5476190476190477
+2017-11-22,7:00 PM,Edmonton Oilers,6,Detroit Red Wings,2,,Edmonton Oilers,Detroit Red Wings,0.5476190476190477,0.38095238095238093
+2017-11-22,7:00 PM,Toronto Maple Leafs,1,Florida Panthers,2,SO,Florida Panthers,Toronto Maple Leafs,0.4,0.6363636363636364
+2017-11-22,10:30 PM,Winnipeg Jets,2,Los Angeles Kings,1,,Winnipeg Jets,Los Angeles Kings,0.6190476190476191,0.675
+2017-11-22,7:00 PM,Boston Bruins,3,New Jersey Devils,2,SO,Boston Bruins,New Jersey Devils,0.675,0.5263157894736842
+2017-11-22,8:00 PM,Montreal Canadiens,2,Nashville Predators,3,SO,Nashville Predators,Montreal Canadiens,0.65,0.4090909090909091
+2017-11-22,7:00 PM,Philadelphia Flyers,3,New York Islanders,4,OT,New York Islanders,Philadelphia Flyers,0.6,0.47619047619047616
+2017-11-22,7:00 PM,Vancouver Canucks,5,Pittsburgh Penguins,2,,Vancouver Canucks,Pittsburgh Penguins,0.5681818181818182,0.5476190476190477
+2017-11-22,7:30 PM,Chicago Blackhawks,2,Tampa Bay Lightning,3,OT,Tampa Bay Lightning,Chicago Blackhawks,0.8,0.55
+2017-11-22,7:00 PM,Ottawa Senators,2,Washington Capitals,5,,Washington Capitals,Ottawa Senators,0.5227272727272727,0.5789473684210527
+2017-11-24,4:00 PM,Winnipeg Jets,4,Anaheim Ducks,1,,Winnipeg Jets,Anaheim Ducks,0.5476190476190477,0.6904761904761905
+2017-11-24,9:00 PM,Los Angeles Kings,2,Arizona Coyotes,3,OT,Arizona Coyotes,Los Angeles Kings,0.2708333333333333,0.5909090909090909
+2017-11-24,1:00 PM,Pittsburgh Penguins,3,Boston Bruins,4,,Boston Bruins,Pittsburgh Penguins,0.55,0.5434782608695652
+2017-11-24,7:00 PM,Edmonton Oilers,1,Buffalo Sabres,3,,Buffalo Sabres,Edmonton Oilers,0.3181818181818182,0.4090909090909091
+2017-11-24,7:30 PM,Toronto Maple Leafs,5,Carolina Hurricanes,4,,Toronto Maple Leafs,Carolina Hurricanes,0.55,0.6304347826086957
+2017-11-24,7:00 PM,Ottawa Senators,2,Columbus Blue Jackets,5,,Columbus Blue Jackets,Ottawa Senators,0.6590909090909091,0.55
+2017-11-24,9:00 PM,Calgary Flames,4,Dallas Stars,6,,Dallas Stars,Calgary Flames,0.5227272727272727,0.5952380952380952
+2017-11-24,4:00 PM,Colorado Avalanche,2,Minnesota Wild,3,SO,Minnesota Wild,Colorado Avalanche,0.5476190476190477,0.575
+2017-11-24,7:00 PM,Vancouver Canucks,2,New Jersey Devils,3,,New Jersey Devils,Vancouver Canucks,0.6666666666666666,0.5681818181818182
+2017-11-24,7:00 PM,Detroit Red Wings,1,New York Rangers,2,OT,New York Rangers,Detroit Red Wings,0.5454545454545454,0.5227272727272727
+2017-11-24,4:00 PM,New York Islanders,5,Philadelphia Flyers,4,OT,New York Islanders,Philadelphia Flyers,0.4772727272727273,0.6190476190476191
+2017-11-24,8:00 PM,Nashville Predators,2,St. Louis Blues,0,,Nashville Predators,St. Louis Blues,0.75,0.6666666666666666
+2017-11-24,6:00 PM,San Jose Sharks,4,Vegas Golden Knights,5,OT,Vegas Golden Knights,San Jose Sharks,0.675,0.575
+2017-11-24,5:00 PM,Tampa Bay Lightning,1,Washington Capitals,3,,Washington Capitals,Tampa Bay Lightning,0.5434782608695652,0.8095238095238095
+2017-11-25,8:00 PM,Vegas Golden Knights,4,Arizona Coyotes,2,,Vegas Golden Knights,Arizona Coyotes,0.3,0.6904761904761905
+2017-11-25,10:00 PM,Calgary Flames,3,Colorado Avalanche,2,,Calgary Flames,Colorado Avalanche,0.5714285714285714,0.5681818181818182
+2017-11-25,7:00 PM,New Jersey Devils,4,Detroit Red Wings,3,OT,New Jersey Devils,Detroit Red Wings,0.5217391304347826,0.6818181818181818
+2017-11-25,7:00 PM,Chicago Blackhawks,4,Florida Panthers,1,,Chicago Blackhawks,Florida Panthers,0.42857142857142855,0.5476190476190477
+2017-11-25,10:30 PM,Anaheim Ducks,1,Los Angeles Kings,2,SO,Los Angeles Kings,Anaheim Ducks,0.5869565217391305,0.5227272727272727
+2017-11-25,7:00 PM,Buffalo Sabres,0,Montreal Canadiens,3,,Montreal Canadiens,Buffalo Sabres,0.41304347826086957,0.34782608695652173
+2017-11-25,7:00 PM,New York Islanders,2,Ottawa Senators,1,,New York Islanders,Ottawa Senators,0.5238095238095238,0.6363636363636364
+2017-11-25,7:00 PM,Tampa Bay Lightning,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Tampa Bay Lightning,0.5208333333333334,0.7727272727272727
+2017-11-25,10:00 PM,Winnipeg Jets,0,San Jose Sharks,4,,San Jose Sharks,Winnipeg Jets,0.5714285714285714,0.7045454545454546
+2017-11-25,8:00 PM,Minnesota Wild,3,St. Louis Blues,6,,St. Louis Blues,Minnesota Wild,0.717391304347826,0.5681818181818182
+2017-11-25,7:00 PM,Washington Capitals,4,Toronto Maple Leafs,2,,Washington Capitals,Toronto Maple Leafs,0.6458333333333334,0.5625
+2017-11-26,5:00 PM,Edmonton Oilers,4,Boston Bruins,2,,Edmonton Oilers,Boston Bruins,0.5714285714285714,0.391304347826087
+2017-11-26,1:00 PM,Nashville Predators,3,Carolina Hurricanes,4,SO,Carolina Hurricanes,Nashville Predators,0.5238095238095238,0.6818181818181818
+2017-11-26,2:00 PM,Vancouver Canucks,3,New York Rangers,4,SO,New York Rangers,Vancouver Canucks,0.5652173913043478,0.5434782608695652
+2017-11-27,8:30 PM,Anaheim Ducks,3,Chicago Blackhawks,7,,Chicago Blackhawks,Anaheim Ducks,0.5681818181818182,0.5217391304347826
+2017-11-27,7:30 PM,Columbus Blue Jackets,1,Montreal Canadiens,3,,Montreal Canadiens,Columbus Blue Jackets,0.4375,0.6739130434782609
+2017-11-27,7:00 PM,Florida Panthers,3,New Jersey Devils,2,,Florida Panthers,New Jersey Devils,0.6956521739130435,0.4090909090909091
+2017-11-27,7:00 PM,Philadelphia Flyers,4,Pittsburgh Penguins,5,OT,Pittsburgh Penguins,Philadelphia Flyers,0.54,0.4782608695652174
+2017-11-27,8:00 PM,Minnesota Wild,2,Winnipeg Jets,7,,Winnipeg Jets,Minnesota Wild,0.6739130434782609,0.5434782608695652
+2017-11-28,7:00 PM,Tampa Bay Lightning,2,Buffalo Sabres,0,,Tampa Bay Lightning,Buffalo Sabres,0.3333333333333333,0.7391304347826086
+2017-11-28,7:00 PM,Carolina Hurricanes,2,Columbus Blue Jackets,3,SO,Columbus Blue Jackets,Carolina Hurricanes,0.6458333333333334,0.5454545454545454
+2017-11-28,9:00 PM,Toronto Maple Leafs,4,Calgary Flames,1,,Toronto Maple Leafs,Calgary Flames,0.5869565217391305,0.62
+2017-11-28,7:30 PM,Los Angeles Kings,4,Detroit Red Wings,1,,Los Angeles Kings,Detroit Red Wings,0.5208333333333334,0.6041666666666666
+2017-11-28,9:00 PM,Arizona Coyotes,2,Edmonton Oilers,3,OT,Edmonton Oilers,Arizona Coyotes,0.4166666666666667,0.28846153846153844
+2017-11-28,8:00 PM,Chicago Blackhawks,2,Nashville Predators,3,,Nashville Predators,Chicago Blackhawks,0.6739130434782609,0.5869565217391305
+2017-11-28,7:00 PM,Vancouver Canucks,2,New York Islanders,5,,New York Islanders,Vancouver Canucks,0.6521739130434783,0.5416666666666666
+2017-11-28,7:00 PM,Florida Panthers,5,New York Rangers,4,,Florida Panthers,New York Rangers,0.5833333333333334,0.43478260869565216
+2017-11-28,7:00 PM,San Jose Sharks,3,Philadelphia Flyers,1,,San Jose Sharks,Philadelphia Flyers,0.4791666666666667,0.5909090909090909
+2017-11-28,10:00 PM,Dallas Stars,3,Vegas Golden Knights,0,,Dallas Stars,Vegas Golden Knights,0.7045454545454546,0.5434782608695652
+2017-11-29,7:30 PM,Tampa Bay Lightning,2,Boston Bruins,3,,Boston Bruins,Tampa Bay Lightning,0.5454545454545454,0.75
+2017-11-29,9:30 PM,Winnipeg Jets,2,Colorado Avalanche,3,OT,Colorado Avalanche,Winnipeg Jets,0.5454545454545454,0.6875
+2017-11-29,7:30 PM,Ottawa Senators,1,Montreal Canadiens,2,,Montreal Canadiens,Ottawa Senators,0.46,0.5
+2017-11-29,9:00 PM,Anaheim Ducks,3,St. Louis Blues,2,,Anaheim Ducks,St. Louis Blues,0.7291666666666666,0.5
+2017-11-30,9:00 PM,Arizona Coyotes,0,Calgary Flames,3,,Calgary Flames,Arizona Coyotes,0.5625,0.2962962962962963
+2017-11-30,8:30 PM,Dallas Stars,4,Chicago Blackhawks,3,OT,Dallas Stars,Chicago Blackhawks,0.5625,0.5625
+2017-11-30,7:30 PM,Montreal Canadiens,6,Detroit Red Wings,3,,Montreal Canadiens,Detroit Red Wings,0.5,0.4807692307692308
+2017-11-30,9:00 PM,Toronto Maple Leafs,6,Edmonton Oilers,4,,Toronto Maple Leafs,Edmonton Oilers,0.44,0.6346153846153846
+2017-11-30,8:00 PM,Vegas Golden Knights,2,Minnesota Wild,4,,Minnesota Wild,Vegas Golden Knights,0.5208333333333334,0.6739130434782609
+2017-11-30,8:00 PM,Vancouver Canucks,5,Nashville Predators,3,,Vancouver Canucks,Nashville Predators,0.6875,0.52
+2017-11-30,7:00 PM,Los Angeles Kings,5,Washington Capitals,2,,Los Angeles Kings,Washington Capitals,0.58,0.62
+2017-12-01,7:00 PM,Pittsburgh Penguins,4,Buffalo Sabres,0,,Pittsburgh Penguins,Buffalo Sabres,0.32,0.5576923076923077
+2017-12-01,7:00 PM,Anaheim Ducks,2,Columbus Blue Jackets,4,,Columbus Blue Jackets,Anaheim Ducks,0.66,0.52
+2017-12-01,9:00 PM,New Jersey Devils,2,Colorado Avalanche,1,,New Jersey Devils,Colorado Avalanche,0.5652173913043478,0.6666666666666666
+2017-12-01,7:30 PM,San Jose Sharks,2,Florida Panthers,1,,San Jose Sharks,Florida Panthers,0.4583333333333333,0.6086956521739131
+2017-12-01,7:00 PM,Ottawa Senators,6,New York Islanders,5,,Ottawa Senators,New York Islanders,0.6666666666666666,0.4782608695652174
+2017-12-01,7:00 PM,Carolina Hurricanes,1,New York Rangers,5,,New York Rangers,Carolina Hurricanes,0.56,0.5434782608695652
+2017-12-01,8:00 PM,Los Angeles Kings,4,St. Louis Blues,1,,Los Angeles Kings,St. Louis Blues,0.7,0.6346153846153846
+2017-12-01,8:00 PM,Vegas Golden Knights,4,Winnipeg Jets,7,,Winnipeg Jets,Vegas Golden Knights,0.68,0.6458333333333334
+2017-12-02,8:00 PM,New Jersey Devils,0,Arizona Coyotes,5,,Arizona Coyotes,New Jersey Devils,0.2857142857142857,0.68
+2017-12-02,7:00 PM,Florida Panthers,2,Carolina Hurricanes,3,OT,Carolina Hurricanes,Florida Panthers,0.5208333333333334,0.44
+2017-12-02,10:00 PM,Edmonton Oilers,7,Calgary Flames,5,,Edmonton Oilers,Calgary Flames,0.58,0.4230769230769231
+2017-12-02,9:00 PM,Chicago Blackhawks,2,Dallas Stars,3,SO,Dallas Stars,Chicago Blackhawks,0.58,0.56
+2017-12-02,6:00 PM,St. Louis Blues,1,Minnesota Wild,2,OT,Minnesota Wild,St. Louis Blues,0.54,0.6730769230769231
+2017-12-02,7:00 PM,Detroit Red Wings,1,Montreal Canadiens,10,,Montreal Canadiens,Detroit Red Wings,0.5,0.4807692307692308
+2017-12-02,8:00 PM,Anaheim Ducks,2,Nashville Predators,3,SO,Nashville Predators,Anaheim Ducks,0.66,0.5
+2017-12-02,1:00 PM,Boston Bruins,3,Philadelphia Flyers,0,,Boston Bruins,Philadelphia Flyers,0.46,0.5652173913043478
+2017-12-02,7:00 PM,Buffalo Sabres,1,Pittsburgh Penguins,5,,Pittsburgh Penguins,Buffalo Sabres,0.5740740740740741,0.3076923076923077
+2017-12-02,7:00 PM,San Jose Sharks,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,San Jose Sharks,0.72,0.625
+2017-12-02,7:00 PM,Toronto Maple Leafs,1,Vancouver Canucks,2,,Vancouver Canucks,Toronto Maple Leafs,0.5384615384615384,0.6481481481481481
+2017-12-02,7:00 PM,Columbus Blue Jackets,3,Washington Capitals,4,,Washington Capitals,Columbus Blue Jackets,0.5576923076923077,0.6730769230769231
+2017-12-03,7:00 PM,Los Angeles Kings,3,Chicago Blackhawks,1,,Los Angeles Kings,Chicago Blackhawks,0.5576923076923077,0.6481481481481481
+2017-12-03,8:00 PM,Dallas Stars,7,Colorado Avalanche,2,,Dallas Stars,Colorado Avalanche,0.5416666666666666,0.5961538461538461
+2017-12-03,8:00 PM,Arizona Coyotes,2,Vegas Golden Knights,3,OT,Vegas Golden Knights,Arizona Coyotes,0.62,0.3103448275862069
+2017-12-03,7:00 PM,Ottawa Senators,0,Winnipeg Jets,5,,Winnipeg Jets,Ottawa Senators,0.6923076923076923,0.5
+2017-12-04,9:00 PM,Philadelphia Flyers,5,Calgary Flames,2,,Philadelphia Flyers,Calgary Flames,0.5576923076923077,0.4423076923076923
+2017-12-04,7:30 PM,New York Islanders,5,Florida Panthers,4,SO,New York Islanders,Florida Panthers,0.4423076923076923,0.64
+2017-12-04,8:00 PM,Boston Bruins,3,Nashville Predators,5,,Nashville Predators,Boston Bruins,0.6730769230769231,0.5833333333333334
+2017-12-04,7:00 PM,San Jose Sharks,1,Washington Capitals,4,,Washington Capitals,San Jose Sharks,0.5740740740740741,0.6
+2017-12-05,7:00 PM,New Jersey Devils,4,Columbus Blue Jackets,1,,New Jersey Devils,Columbus Blue Jackets,0.6481481481481481,0.6538461538461539
+2017-12-05,9:00 PM,Buffalo Sabres,4,Colorado Avalanche,2,,Buffalo Sabres,Colorado Avalanche,0.52,0.2962962962962963
+2017-12-05,8:30 PM,Nashville Predators,5,Dallas Stars,2,,Nashville Predators,Dallas Stars,0.6111111111111112,0.6851851851851852
+2017-12-05,7:30 PM,Winnipeg Jets,1,Detroit Red Wings,5,,Detroit Red Wings,Winnipeg Jets,0.46296296296296297,0.7037037037037037
+2017-12-05,10:00 PM,Minnesota Wild,2,Los Angeles Kings,5,,Los Angeles Kings,Minnesota Wild,0.6607142857142857,0.5576923076923077
+2017-12-05,7:30 PM,St. Louis Blues,4,Montreal Canadiens,3,,St. Louis Blues,Montreal Canadiens,0.5178571428571429,0.6666666666666666
+2017-12-05,7:30 PM,New York Rangers,4,Pittsburgh Penguins,3,,New York Rangers,Pittsburgh Penguins,0.5892857142857143,0.5769230769230769
+2017-12-05,7:30 PM,New York Islanders,2,Tampa Bay Lightning,6,,Tampa Bay Lightning,New York Islanders,0.7307692307692307,0.6538461538461539
+2017-12-05,10:00 PM,Carolina Hurricanes,0,Vancouver Canucks,3,,Vancouver Canucks,Carolina Hurricanes,0.5555555555555556,0.54
+2017-12-05,10:00 PM,Anaheim Ducks,3,Vegas Golden Knights,4,SO,Vegas Golden Knights,Anaheim Ducks,0.6346153846153846,0.5
+2017-12-06,10:00 PM,Ottawa Senators,0,Anaheim Ducks,3,,Anaheim Ducks,Ottawa Senators,0.5,0.48
+2017-12-06,9:30 PM,Philadelphia Flyers,4,Edmonton Oilers,2,,Philadelphia Flyers,Edmonton Oilers,0.4444444444444444,0.46296296296296297
+2017-12-06,7:30 PM,Calgary Flames,1,Toronto Maple Leafs,2,SO,Toronto Maple Leafs,Calgary Flames,0.625,0.5370370370370371
+2017-12-06,8:00 PM,Chicago Blackhawks,2,Washington Capitals,6,,Washington Capitals,Chicago Blackhawks,0.5892857142857143,0.5370370370370371
+2017-12-07,7:00 PM,Arizona Coyotes,1,Boston Bruins,6,,Boston Bruins,Arizona Coyotes,0.56,0.31666666666666665
+2017-12-07,7:30 PM,Winnipeg Jets,4,Florida Panthers,6,,Florida Panthers,Winnipeg Jets,0.4444444444444444,0.6785714285714286
+2017-12-07,10:30 PM,Ottawa Senators,3,Los Angeles Kings,4,OT,Los Angeles Kings,Ottawa Senators,0.6724137931034483,0.46153846153846156
+2017-12-07,7:30 PM,Calgary Flames,3,Montreal Canadiens,2,OT,Calgary Flames,Montreal Canadiens,0.5,0.5357142857142857
+2017-12-07,7:00 PM,New York Islanders,3,Pittsburgh Penguins,4,OT,Pittsburgh Penguins,New York Islanders,0.5689655172413793,0.6296296296296297
+2017-12-07,10:30 PM,Carolina Hurricanes,4,San Jose Sharks,5,OT,San Jose Sharks,Carolina Hurricanes,0.5769230769230769,0.5192307692307693
+2017-12-07,8:00 PM,Dallas Stars,0,St. Louis Blues,3,,St. Louis Blues,Dallas Stars,0.6785714285714286,0.5892857142857143
+2017-12-07,7:30 PM,Colorado Avalanche,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,Colorado Avalanche,0.7407407407407407,0.5
+2017-12-07,10:00 PM,Philadelphia Flyers,4,Vancouver Canucks,1,,Philadelphia Flyers,Vancouver Canucks,0.5714285714285714,0.48214285714285715
+2017-12-08,10:00 PM,Minnesota Wild,3,Anaheim Ducks,2,OT,Minnesota Wild,Anaheim Ducks,0.5172413793103449,0.5370370370370371
+2017-12-08,8:30 PM,Buffalo Sabres,2,Chicago Blackhawks,3,OT,Chicago Blackhawks,Buffalo Sabres,0.5178571428571429,0.32142857142857145
+2017-12-08,7:00 PM,Columbus Blue Jackets,5,New Jersey Devils,3,,Columbus Blue Jackets,New Jersey Devils,0.6666666666666666,0.625
+2017-12-08,8:00 PM,Vegas Golden Knights,4,Nashville Predators,3,SO,Vegas Golden Knights,Nashville Predators,0.6964285714285714,0.6481481481481481
+2017-12-08,7:00 PM,New York Rangers,2,Washington Capitals,4,,Washington Capitals,New York Rangers,0.603448275862069,0.5925925925925926
+2017-12-09,7:00 PM,New York Islanders,1,Boston Bruins,3,,Boston Bruins,New York Islanders,0.5769230769230769,0.625
+2017-12-09,7:00 PM,Arizona Coyotes,0,Columbus Blue Jackets,1,,Columbus Blue Jackets,Arizona Coyotes,0.6379310344827587,0.31666666666666665
+2017-12-09,10:00 PM,Vancouver Canucks,2,Calgary Flames,4,,Calgary Flames,Vancouver Canucks,0.5517241379310345,0.5517241379310345
+2017-12-09,8:00 PM,Vegas Golden Knights,5,Dallas Stars,3,,Vegas Golden Knights,Dallas Stars,0.5689655172413793,0.6607142857142857
+2017-12-09,1:00 PM,St. Louis Blues,6,Detroit Red Wings,1,,St. Louis Blues,Detroit Red Wings,0.48214285714285715,0.6896551724137931
+2017-12-09,7:00 PM,Colorado Avalanche,7,Florida Panthers,3,,Colorado Avalanche,Florida Panthers,0.4642857142857143,0.48148148148148145
+2017-12-09,10:30 PM,Carolina Hurricanes,2,Los Angeles Kings,3,OT,Los Angeles Kings,Carolina Hurricanes,0.6833333333333333,0.5185185185185185
+2017-12-09,7:00 PM,Edmonton Oilers,6,Montreal Canadiens,2,,Edmonton Oilers,Montreal Canadiens,0.5,0.42857142857142855
+2017-12-09,7:00 PM,New Jersey Devils,2,New York Rangers,5,,New York Rangers,New Jersey Devils,0.5714285714285714,0.6428571428571429
+2017-12-09,7:00 PM,Toronto Maple Leafs,4,Pittsburgh Penguins,3,,Toronto Maple Leafs,Pittsburgh Penguins,0.5833333333333334,0.6379310344827587
+2017-12-09,10:00 PM,Ottawa Senators,0,San Jose Sharks,5,,San Jose Sharks,Ottawa Senators,0.5925925925925926,0.46296296296296297
+2017-12-09,7:00 PM,Winnipeg Jets,3,Tampa Bay Lightning,4,OT,Tampa Bay Lightning,Winnipeg Jets,0.75,0.6551724137931034
+2017-12-10,7:00 PM,Arizona Coyotes,1,Chicago Blackhawks,3,,Chicago Blackhawks,Arizona Coyotes,0.5344827586206896,0.3
+2017-12-10,9:00 PM,Minnesota Wild,4,San Jose Sharks,3,OT,Minnesota Wild,San Jose Sharks,0.6071428571428571,0.5535714285714286
+2017-12-10,7:00 PM,Buffalo Sabres,2,St. Louis Blues,3,OT,St. Louis Blues,Buffalo Sabres,0.7,0.3275862068965517
+2017-12-10,7:00 PM,Edmonton Oilers,0,Toronto Maple Leafs,1,,Toronto Maple Leafs,Edmonton Oilers,0.65,0.4482758620689655
+2017-12-11,10:00 PM,Carolina Hurricanes,2,Anaheim Ducks,3,,Anaheim Ducks,Carolina Hurricanes,0.5166666666666667,0.5178571428571429
+2017-12-11,7:30 PM,Florida Panthers,2,Detroit Red Wings,1,OT,Florida Panthers,Detroit Red Wings,0.46551724137931033,0.4482758620689655
+2017-12-11,7:00 PM,Washington Capitals,1,New York Islanders,3,,New York Islanders,Washington Capitals,0.603448275862069,0.6166666666666667
+2017-12-11,7:00 PM,Dallas Stars,2,New York Rangers,1,SO,Dallas Stars,New York Rangers,0.5862068965517241,0.55
+2017-12-11,7:00 PM,Colorado Avalanche,2,Pittsburgh Penguins,1,,Colorado Avalanche,Pittsburgh Penguins,0.5666666666666667,0.5
+2017-12-11,8:00 PM,Vancouver Canucks,1,Winnipeg Jets,5,,Winnipeg Jets,Vancouver Canucks,0.65,0.5333333333333333
+2017-12-12,7:00 PM,Ottawa Senators,2,Buffalo Sabres,3,,Buffalo Sabres,Ottawa Senators,0.3333333333333333,0.44642857142857145
+2017-12-12,7:00 PM,Edmonton Oilers,7,Columbus Blue Jackets,2,,Edmonton Oilers,Columbus Blue Jackets,0.65,0.43333333333333335
+2017-12-12,8:30 PM,Florida Panthers,2,Chicago Blackhawks,3,OT,Chicago Blackhawks,Florida Panthers,0.55,0.4666666666666667
+2017-12-12,8:00 PM,Calgary Flames,1,Minnesota Wild,2,SO,Minnesota Wild,Calgary Flames,0.5689655172413793,0.5666666666666667
+2017-12-12,7:00 PM,Los Angeles Kings,1,New Jersey Devils,5,,New Jersey Devils,Los Angeles Kings,0.6206896551724138,0.6833333333333333
+2017-12-12,7:00 PM,Toronto Maple Leafs,2,Philadelphia Flyers,4,,Philadelphia Flyers,Toronto Maple Leafs,0.5,0.65
+2017-12-12,8:00 PM,Tampa Bay Lightning,3,St. Louis Blues,0,,Tampa Bay Lightning,St. Louis Blues,0.7,0.7586206896551724
+2017-12-12,10:00 PM,Carolina Hurricanes,3,Vegas Golden Knights,2,SO,Carolina Hurricanes,Vegas Golden Knights,0.6724137931034483,0.5
+2017-12-12,7:00 PM,Colorado Avalanche,2,Washington Capitals,5,,Washington Capitals,Colorado Avalanche,0.5833333333333334,0.5172413793103449
+2017-12-13,8:00 PM,Boston Bruins,3,Detroit Red Wings,2,OT,Boston Bruins,Detroit Red Wings,0.4666666666666667,0.5925925925925926
+2017-12-13,7:00 PM,Dallas Stars,5,New York Islanders,2,,Dallas Stars,New York Islanders,0.6166666666666667,0.5833333333333334
+2017-12-13,7:00 PM,New York Rangers,2,Ottawa Senators,3,,Ottawa Senators,New York Rangers,0.43103448275862066,0.5833333333333334
+2017-12-13,10:00 PM,Nashville Predators,7,Vancouver Canucks,1,,Nashville Predators,Vancouver Canucks,0.5,0.6896551724137931
+2017-12-14,9:00 PM,Tampa Bay Lightning,4,Arizona Coyotes,1,,Tampa Bay Lightning,Arizona Coyotes,0.3,0.7666666666666667
+2017-12-14,7:00 PM,Washington Capitals,5,Boston Bruins,3,,Washington Capitals,Boston Bruins,0.6071428571428571,0.5833333333333334
+2017-12-14,7:00 PM,New York Islanders,4,Columbus Blue Jackets,6,,Columbus Blue Jackets,New York Islanders,0.6166666666666667,0.6166666666666667
+2017-12-14,9:00 PM,San Jose Sharks,3,Calgary Flames,2,,San Jose Sharks,Calgary Flames,0.5833333333333334,0.603448275862069
+2017-12-14,9:00 PM,Florida Panthers,1,Colorado Avalanche,2,,Colorado Avalanche,Florida Panthers,0.5,0.48333333333333334
+2017-12-14,9:00 PM,Nashville Predators,4,Edmonton Oilers,0,,Nashville Predators,Edmonton Oilers,0.43333333333333335,0.7
+2017-12-14,8:00 PM,Toronto Maple Leafs,0,Minnesota Wild,2,,Minnesota Wild,Toronto Maple Leafs,0.5833333333333334,0.6166666666666667
+2017-12-14,7:30 PM,New Jersey Devils,1,Montreal Canadiens,2,OT,Montreal Canadiens,New Jersey Devils,0.4666666666666667,0.6333333333333333
+2017-12-14,7:00 PM,Buffalo Sabres,1,Philadelphia Flyers,2,,Philadelphia Flyers,Buffalo Sabres,0.5166666666666667,0.35
+2017-12-14,8:00 PM,Anaheim Ducks,3,St. Louis Blues,1,,Anaheim Ducks,St. Louis Blues,0.6666666666666666,0.5166666666666667
+2017-12-14,10:00 PM,Pittsburgh Penguins,1,Vegas Golden Knights,2,,Vegas Golden Knights,Pittsburgh Penguins,0.6666666666666666,0.5666666666666667
+2017-12-14,8:00 PM,Chicago Blackhawks,5,Winnipeg Jets,1,,Chicago Blackhawks,Winnipeg Jets,0.6833333333333333,0.55
+2017-12-15,7:00 PM,Carolina Hurricanes,5,Buffalo Sabres,4,OT,Carolina Hurricanes,Buffalo Sabres,0.35,0.5166666666666667
+2017-12-15,7:30 PM,Toronto Maple Leafs,1,Detroit Red Wings,3,,Detroit Red Wings,Toronto Maple Leafs,0.45,0.5833333333333334
+2017-12-15,7:00 PM,Dallas Stars,2,New Jersey Devils,5,,New Jersey Devils,Dallas Stars,0.6166666666666667,0.6166666666666667
+2017-12-15,7:00 PM,Los Angeles Kings,2,New York Rangers,4,,New York Rangers,Los Angeles Kings,0.5833333333333334,0.65
+2017-12-15,10:00 PM,San Jose Sharks,3,Vancouver Canucks,4,OT,Vancouver Canucks,San Jose Sharks,0.48333333333333334,0.6166666666666667
+2017-12-16,8:00 PM,Pittsburgh Penguins,4,Arizona Coyotes,2,,Pittsburgh Penguins,Arizona Coyotes,0.3,0.5333333333333333
+2017-12-16,5:00 PM,New York Rangers,3,Boston Bruins,2,OT,New York Rangers,Boston Bruins,0.5862068965517241,0.6166666666666667
+2017-12-16,7:00 PM,Columbus Blue Jackets,1,Carolina Hurricanes,2,,Carolina Hurricanes,Columbus Blue Jackets,0.5166666666666667,0.65
+2017-12-16,10:00 PM,Nashville Predators,2,Calgary Flames,0,,Nashville Predators,Calgary Flames,0.55,0.7333333333333333
+2017-12-16,9:00 PM,Tampa Bay Lightning,6,Colorado Avalanche,5,,Tampa Bay Lightning,Colorado Avalanche,0.5,0.7666666666666667
+2017-12-16,2:00 PM,Edmonton Oilers,3,Minnesota Wild,2,,Edmonton Oilers,Minnesota Wild,0.6166666666666667,0.43333333333333335
+2017-12-16,7:00 PM,Los Angeles Kings,3,New York Islanders,4,OT,New York Islanders,Los Angeles Kings,0.5833333333333334,0.6333333333333333
+2017-12-16,7:00 PM,Montreal Canadiens,0,Ottawa Senators,3,,Ottawa Senators,Montreal Canadiens,0.45,0.5
+2017-12-16,7:00 PM,Dallas Stars,1,Philadelphia Flyers,2,OT,Philadelphia Flyers,Dallas Stars,0.5166666666666667,0.5833333333333334
+2017-12-16,7:00 PM,Winnipeg Jets,0,St. Louis Blues,2,,St. Louis Blues,Winnipeg Jets,0.6333333333333333,0.6833333333333333
+2017-12-16,8:00 PM,Anaheim Ducks,2,Washington Capitals,3,OT,Washington Capitals,Anaheim Ducks,0.6,0.5333333333333333
+2017-12-17,7:00 PM,Minnesota Wild,1,Chicago Blackhawks,4,,Chicago Blackhawks,Minnesota Wild,0.55,0.6
+2017-12-17,8:00 PM,Calgary Flames,6,Vancouver Canucks,1,,Calgary Flames,Vancouver Canucks,0.5166666666666667,0.5166666666666667
+2017-12-17,8:00 PM,Florida Panthers,2,Vegas Golden Knights,5,,Vegas Golden Knights,Florida Panthers,0.6666666666666666,0.45
+2017-12-17,6:00 PM,St. Louis Blues,0,Winnipeg Jets,4,,Winnipeg Jets,St. Louis Blues,0.65,0.6333333333333333
+2017-12-18,7:00 PM,Columbus Blue Jackets,2,Boston Bruins,7,,Boston Bruins,Columbus Blue Jackets,0.5833333333333334,0.6166666666666667
+2017-12-18,9:00 PM,Pittsburgh Penguins,2,Colorado Avalanche,4,,Colorado Avalanche,Pittsburgh Penguins,0.5,0.5333333333333333
+2017-12-18,9:00 PM,San Jose Sharks,3,Edmonton Oilers,5,,Edmonton Oilers,San Jose Sharks,0.4666666666666667,0.6333333333333333
+2017-12-18,7:00 PM,Anaheim Ducks,3,New Jersey Devils,5,,New Jersey Devils,Anaheim Ducks,0.6166666666666667,0.55
+2017-12-18,7:00 PM,Los Angeles Kings,4,Philadelphia Flyers,1,,Los Angeles Kings,Philadelphia Flyers,0.55,0.6166666666666667
+2017-12-19,9:00 PM,Florida Panthers,3,Arizona Coyotes,2,,Florida Panthers,Arizona Coyotes,0.3,0.4166666666666667
+2017-12-19,7:30 PM,Boston Bruins,3,Buffalo Sabres,0,,Boston Bruins,Buffalo Sabres,0.36666666666666664,0.5833333333333334
+2017-12-19,8:30 PM,Washington Capitals,4,Dallas Stars,3,OT,Washington Capitals,Dallas Stars,0.6,0.6333333333333333
+2017-12-19,8:00 PM,Winnipeg Jets,6,Nashville Predators,4,,Winnipeg Jets,Nashville Predators,0.7666666666666667,0.65
+2017-12-19,7:00 PM,Detroit Red Wings,6,New York Islanders,3,,Detroit Red Wings,New York Islanders,0.6,0.45
+2017-12-19,7:00 PM,Anaheim Ducks,1,New York Rangers,4,,New York Rangers,Anaheim Ducks,0.6166666666666667,0.5166666666666667
+2017-12-19,7:00 PM,Minnesota Wild,6,Ottawa Senators,4,,Minnesota Wild,Ottawa Senators,0.4666666666666667,0.5666666666666667
+2017-12-19,2:00 PM,Carolina Hurricanes,1,Toronto Maple Leafs,8,,Toronto Maple Leafs,Carolina Hurricanes,0.5833333333333334,0.5333333333333333
+2017-12-19,10:00 PM,Montreal Canadiens,7,Vancouver Canucks,5,,Montreal Canadiens,Vancouver Canucks,0.5166666666666667,0.5
+2017-12-19,10:00 PM,Tampa Bay Lightning,3,Vegas Golden Knights,4,,Vegas Golden Knights,Tampa Bay Lightning,0.6666666666666666,0.8
+2017-12-20,7:30 PM,Toronto Maple Leafs,2,Columbus Blue Jackets,4,,Columbus Blue Jackets,Toronto Maple Leafs,0.5833333333333334,0.5833333333333334
+2017-12-20,9:30 PM,St. Louis Blues,1,Calgary Flames,2,,Calgary Flames,St. Louis Blues,0.5166666666666667,0.6333333333333333
+2017-12-20,8:00 PM,Detroit Red Wings,3,Philadelphia Flyers,4,,Philadelphia Flyers,Detroit Red Wings,0.5166666666666667,0.48333333333333334
+2017-12-21,7:00 PM,Winnipeg Jets,1,Boston Bruins,2,SO,Boston Bruins,Winnipeg Jets,0.6166666666666667,0.65
+2017-12-21,8:30 PM,Chicago Blackhawks,0,Dallas Stars,4,,Dallas Stars,Chicago Blackhawks,0.5833333333333334,0.5666666666666667
+2017-12-21,9:00 PM,St. Louis Blues,2,Edmonton Oilers,3,,Edmonton Oilers,St. Louis Blues,0.5,0.6333333333333333
+2017-12-21,10:30 PM,Colorado Avalanche,1,Los Angeles Kings,2,OT,Los Angeles Kings,Colorado Avalanche,0.6166666666666667,0.5
+2017-12-21,7:00 PM,New York Rangers,3,New Jersey Devils,4,SO,New Jersey Devils,New York Rangers,0.6166666666666667,0.65
+2017-12-21,8:00 PM,Carolina Hurricanes,4,Nashville Predators,1,,Carolina Hurricanes,Nashville Predators,0.7333333333333333,0.5333333333333333
+2017-12-21,7:00 PM,Anaheim Ducks,5,New York Islanders,4,OT,Anaheim Ducks,New York Islanders,0.6,0.5166666666666667
+2017-12-21,7:00 PM,Columbus Blue Jackets,2,Pittsburgh Penguins,3,SO,Pittsburgh Penguins,Columbus Blue Jackets,0.5333333333333333,0.5833333333333334
+2017-12-21,10:30 PM,Vancouver Canucks,4,San Jose Sharks,5,OT,San Jose Sharks,Vancouver Canucks,0.6333333333333333,0.48333333333333334
+2017-12-21,7:30 PM,Ottawa Senators,3,Tampa Bay Lightning,4,SO,Tampa Bay Lightning,Ottawa Senators,0.7666666666666667,0.45
+2017-12-22,9:00 PM,Washington Capitals,2,Arizona Coyotes,3,OT,Arizona Coyotes,Washington Capitals,0.3,0.6333333333333333
+2017-12-22,7:00 PM,Philadelphia Flyers,2,Buffalo Sabres,4,,Buffalo Sabres,Philadelphia Flyers,0.36666666666666664,0.55
+2017-12-22,9:00 PM,Montreal Canadiens,3,Calgary Flames,2,,Montreal Canadiens,Calgary Flames,0.55,0.5333333333333333
+2017-12-22,7:30 PM,Minnesota Wild,2,Florida Panthers,4,,Florida Panthers,Minnesota Wild,0.45,0.5833333333333334
+2017-12-23,8:00 PM,Colorado Avalanche,6,Arizona Coyotes,2,,Colorado Avalanche,Arizona Coyotes,0.3333333333333333,0.48333333333333334
+2017-12-23,1:00 PM,Detroit Red Wings,1,Boston Bruins,3,,Boston Bruins,Detroit Red Wings,0.65,0.45
+2017-12-23,7:00 PM,Buffalo Sabres,2,Carolina Hurricanes,4,,Carolina Hurricanes,Buffalo Sabres,0.5333333333333333,0.4
+2017-12-23,7:00 PM,Philadelphia Flyers,1,Columbus Blue Jackets,2,SO,Columbus Blue Jackets,Philadelphia Flyers,0.5666666666666667,0.5166666666666667
+2017-12-23,8:00 PM,Nashville Predators,3,Dallas Stars,4,SO,Dallas Stars,Nashville Predators,0.5833333333333334,0.7
+2017-12-23,7:00 PM,Montreal Canadiens,1,Edmonton Oilers,4,,Edmonton Oilers,Montreal Canadiens,0.5333333333333333,0.55
+2017-12-23,7:00 PM,Ottawa Senators,0,Florida Panthers,1,,Florida Panthers,Ottawa Senators,0.48333333333333334,0.43333333333333335
+2017-12-23,7:00 PM,Chicago Blackhawks,1,New Jersey Devils,4,,New Jersey Devils,Chicago Blackhawks,0.65,0.5333333333333333
+2017-12-23,1:00 PM,Winnipeg Jets,2,New York Islanders,5,,New York Islanders,Winnipeg Jets,0.5833333333333334,0.6666666666666666
+2017-12-23,7:00 PM,Toronto Maple Leafs,3,New York Rangers,2,,Toronto Maple Leafs,New York Rangers,0.6666666666666666,0.55
+2017-12-23,7:00 PM,Anaheim Ducks,4,Pittsburgh Penguins,0,,Anaheim Ducks,Pittsburgh Penguins,0.5333333333333333,0.55
+2017-12-23,10:00 PM,Los Angeles Kings,0,San Jose Sharks,2,,San Jose Sharks,Los Angeles Kings,0.6333333333333333,0.6166666666666667
+2017-12-23,7:00 PM,Minnesota Wild,0,Tampa Bay Lightning,3,,Tampa Bay Lightning,Minnesota Wild,0.7666666666666667,0.5833333333333334
+2017-12-23,10:00 PM,St. Louis Blues,3,Vancouver Canucks,1,,St. Louis Blues,Vancouver Canucks,0.5,0.6
+2017-12-23,8:00 PM,Washington Capitals,0,Vegas Golden Knights,3,,Vegas Golden Knights,Washington Capitals,0.6666666666666666,0.65
+2017-12-27,10:00 PM,Vegas Golden Knights,4,Anaheim Ducks,1,,Vegas Golden Knights,Anaheim Ducks,0.55,0.7
+2017-12-27,7:00 PM,Ottawa Senators,1,Boston Bruins,5,,Boston Bruins,Ottawa Senators,0.65,0.4
+2017-12-27,7:00 PM,Montreal Canadiens,1,Carolina Hurricanes,3,,Carolina Hurricanes,Montreal Canadiens,0.5333333333333333,0.55
+2017-12-27,9:00 PM,Arizona Coyotes,3,Colorado Avalanche,1,,Arizona Coyotes,Colorado Avalanche,0.48333333333333334,0.3333333333333333
+2017-12-27,8:00 PM,Dallas Stars,2,Minnesota Wild,4,,Minnesota Wild,Dallas Stars,0.55,0.5833333333333334
+2017-12-27,7:00 PM,Detroit Red Wings,1,New Jersey Devils,3,,New Jersey Devils,Detroit Red Wings,0.65,0.4166666666666667
+2017-12-27,7:00 PM,Buffalo Sabres,2,New York Islanders,3,OT,New York Islanders,Buffalo Sabres,0.6166666666666667,0.36666666666666664
+2017-12-27,8:00 PM,Washington Capitals,0,New York Rangers,1,SO,New York Rangers,Washington Capitals,0.6666666666666666,0.65
+2017-12-27,7:00 PM,Columbus Blue Jackets,4,Pittsburgh Penguins,5,SO,Pittsburgh Penguins,Columbus Blue Jackets,0.5,0.6
+2017-12-27,8:00 PM,Nashville Predators,2,St. Louis Blues,1,,Nashville Predators,St. Louis Blues,0.6,0.7
+2017-12-27,8:00 PM,Edmonton Oilers,3,Winnipeg Jets,4,,Winnipeg Jets,Edmonton Oilers,0.6333333333333333,0.5333333333333333
+2017-12-28,9:00 PM,Toronto Maple Leafs,7,Arizona Coyotes,4,,Toronto Maple Leafs,Arizona Coyotes,0.36666666666666664,0.55
+2017-12-28,7:30 PM,Philadelphia Flyers,2,Florida Panthers,3,,Florida Panthers,Philadelphia Flyers,0.5166666666666667,0.5
+2017-12-28,10:00 PM,Vegas Golden Knights,3,Los Angeles Kings,2,OT,Vegas Golden Knights,Los Angeles Kings,0.5833333333333334,0.7
+2017-12-28,10:30 PM,Calgary Flames,2,San Jose Sharks,3,SO,San Jose Sharks,Calgary Flames,0.6666666666666666,0.5166666666666667
+2017-12-28,7:30 PM,Montreal Canadiens,1,Tampa Bay Lightning,3,,Tampa Bay Lightning,Montreal Canadiens,0.7666666666666667,0.55
+2017-12-28,10:00 PM,Chicago Blackhawks,2,Vancouver Canucks,5,,Vancouver Canucks,Chicago Blackhawks,0.4666666666666667,0.5333333333333333
+2017-12-28,7:30 PM,Boston Bruins,3,Washington Capitals,4,SO,Washington Capitals,Boston Bruins,0.6333333333333333,0.6833333333333333
+2017-12-29,10:00 PM,Calgary Flames,1,Anaheim Ducks,2,,Anaheim Ducks,Calgary Flames,0.5166666666666667,0.5333333333333333
+2017-12-29,7:30 PM,Pittsburgh Penguins,1,Carolina Hurricanes,2,,Carolina Hurricanes,Pittsburgh Penguins,0.5666666666666667,0.5
+2017-12-29,9:00 PM,Toronto Maple Leafs,3,Colorado Avalanche,4,OT,Colorado Avalanche,Toronto Maple Leafs,0.48333333333333334,0.5833333333333334
+2017-12-29,8:30 PM,St. Louis Blues,2,Dallas Stars,4,,Dallas Stars,St. Louis Blues,0.55,0.5833333333333334
+2017-12-29,7:30 PM,New York Rangers,2,Detroit Red Wings,3,SO,Detroit Red Wings,New York Rangers,0.4166666666666667,0.6833333333333333
+2017-12-29,9:00 PM,Chicago Blackhawks,4,Edmonton Oilers,3,OT,Chicago Blackhawks,Edmonton Oilers,0.5333333333333333,0.5
+2017-12-29,8:00 PM,Nashville Predators,2,Minnesota Wild,4,,Minnesota Wild,Nashville Predators,0.5833333333333334,0.7
+2017-12-29,7:00 PM,Buffalo Sabres,4,New Jersey Devils,3,OT,Buffalo Sabres,New Jersey Devils,0.65,0.36666666666666664
+2017-12-29,7:30 PM,Columbus Blue Jackets,4,Ottawa Senators,5,,Ottawa Senators,Columbus Blue Jackets,0.36666666666666664,0.6166666666666667
+2017-12-29,7:30 PM,Philadelphia Flyers,5,Tampa Bay Lightning,3,,Philadelphia Flyers,Tampa Bay Lightning,0.7666666666666667,0.5
+2017-12-29,8:00 PM,New York Islanders,2,Winnipeg Jets,4,,Winnipeg Jets,New York Islanders,0.65,0.6166666666666667
+2017-12-30,7:00 PM,Montreal Canadiens,0,Florida Panthers,2,,Florida Panthers,Montreal Canadiens,0.5166666666666667,0.55
+2017-12-30,8:00 PM,Minnesota Wild,0,Nashville Predators,3,,Nashville Predators,Minnesota Wild,0.6666666666666666,0.5833333333333334
+2017-12-30,7:00 PM,Boston Bruins,5,Ottawa Senators,0,,Boston Bruins,Ottawa Senators,0.4,0.6666666666666666
+2017-12-30,8:00 PM,Carolina Hurricanes,2,St. Louis Blues,3,,St. Louis Blues,Carolina Hurricanes,0.55,0.6
+2017-12-30,10:00 PM,Los Angeles Kings,4,Vancouver Canucks,3,,Los Angeles Kings,Vancouver Canucks,0.4666666666666667,0.6
+2017-12-30,7:00 PM,New Jersey Devils,2,Washington Capitals,5,,Washington Capitals,New Jersey Devils,0.6666666666666666,0.6333333333333333
+2017-12-31,4:00 PM,Arizona Coyotes,2,Anaheim Ducks,5,,Anaheim Ducks,Arizona Coyotes,0.55,0.36666666666666664
+2017-12-31,6:00 PM,Tampa Bay Lightning,5,Columbus Blue Jackets,0,,Tampa Bay Lightning,Columbus Blue Jackets,0.5833333333333334,0.75
+2017-12-31,9:00 PM,Chicago Blackhawks,3,Calgary Flames,4,OT,Calgary Flames,Chicago Blackhawks,0.5333333333333333,0.5333333333333333
+2017-12-31,8:00 PM,New York Islanders,1,Colorado Avalanche,6,,Colorado Avalanche,New York Islanders,0.5166666666666667,0.5833333333333334
+2017-12-31,8:00 PM,San Jose Sharks,0,Dallas Stars,6,,Dallas Stars,San Jose Sharks,0.5833333333333334,0.6666666666666666
+2017-12-31,7:00 PM,Pittsburgh Penguins,1,Detroit Red Wings,4,,Detroit Red Wings,Pittsburgh Penguins,0.45,0.5
+2017-12-31,7:00 PM,Winnipeg Jets,5,Edmonton Oilers,0,,Winnipeg Jets,Edmonton Oilers,0.5333333333333333,0.6666666666666666
+2017-12-31,3:30 PM,Toronto Maple Leafs,3,Vegas Golden Knights,6,,Vegas Golden Knights,Toronto Maple Leafs,0.7,0.5666666666666667
+2018-01-01,1:00 PM,New York Rangers,3,Buffalo Sabres,2,OT,New York Rangers,Buffalo Sabres,0.4,0.6833333333333333
+2018-01-02,7:00 PM,Washington Capitals,5,Carolina Hurricanes,4,OT,Washington Capitals,Carolina Hurricanes,0.5666666666666667,0.7
+2018-01-02,9:00 PM,Winnipeg Jets,2,Colorado Avalanche,3,OT,Colorado Avalanche,Winnipeg Jets,0.55,0.6666666666666666
+2018-01-02,8:30 PM,Columbus Blue Jackets,2,Dallas Stars,1,,Columbus Blue Jackets,Dallas Stars,0.6166666666666667,0.55
+2018-01-02,9:30 PM,Los Angeles Kings,5,Edmonton Oilers,0,,Los Angeles Kings,Edmonton Oilers,0.5,0.6
+2018-01-02,8:00 PM,Florida Panthers,1,Minnesota Wild,5,,Minnesota Wild,Florida Panthers,0.55,0.55
+2018-01-02,7:30 PM,San Jose Sharks,4,Montreal Canadiens,1,,San Jose Sharks,Montreal Canadiens,0.5166666666666667,0.6333333333333333
+2018-01-02,7:00 PM,Boston Bruins,5,New York Islanders,1,,Boston Bruins,New York Islanders,0.55,0.6833333333333333
+2018-01-02,7:00 PM,Pittsburgh Penguins,5,Philadelphia Flyers,1,,Pittsburgh Penguins,Philadelphia Flyers,0.5,0.4666666666666667
+2018-01-02,8:00 PM,New Jersey Devils,2,St. Louis Blues,3,SO,St. Louis Blues,New Jersey Devils,0.55,0.6333333333333333
+2018-01-02,7:00 PM,Tampa Bay Lightning,2,Toronto Maple Leafs,0,,Tampa Bay Lightning,Toronto Maple Leafs,0.5666666666666667,0.75
+2018-01-02,10:00 PM,Anaheim Ducks,5,Vancouver Canucks,0,,Anaheim Ducks,Vancouver Canucks,0.43333333333333335,0.55
+2018-01-02,10:00 PM,Nashville Predators,0,Vegas Golden Knights,3,,Vegas Golden Knights,Nashville Predators,0.7,0.7
+2018-01-03,7:30 PM,Ottawa Senators,1,Detroit Red Wings,2,OT,Detroit Red Wings,Ottawa Senators,0.4666666666666667,0.38333333333333336
+2018-01-03,8:00 PM,Chicago Blackhawks,5,New York Rangers,2,,Chicago Blackhawks,New York Rangers,0.6833333333333333,0.5333333333333333
+2018-01-04,9:00 PM,Nashville Predators,2,Arizona Coyotes,3,OT,Arizona Coyotes,Nashville Predators,0.36666666666666664,0.6833333333333333
+2018-01-04,9:00 PM,Los Angeles Kings,3,Calgary Flames,4,,Calgary Flames,Los Angeles Kings,0.5333333333333333,0.6
+2018-01-04,9:00 PM,Columbus Blue Jackets,0,Colorado Avalanche,2,,Colorado Avalanche,Columbus Blue Jackets,0.55,0.5833333333333334
+2018-01-04,8:30 PM,New Jersey Devils,3,Dallas Stars,4,,Dallas Stars,New Jersey Devils,0.5833333333333334,0.6166666666666667
+2018-01-04,9:00 PM,Anaheim Ducks,1,Edmonton Oilers,2,SO,Edmonton Oilers,Anaheim Ducks,0.5,0.55
+2018-01-04,8:00 PM,Buffalo Sabres,2,Minnesota Wild,6,,Minnesota Wild,Buffalo Sabres,0.5833333333333334,0.38333333333333336
+2018-01-04,7:30 PM,Tampa Bay Lightning,1,Montreal Canadiens,2,SO,Montreal Canadiens,Tampa Bay Lightning,0.5166666666666667,0.75
+2018-01-04,7:00 PM,New York Islanders,4,Philadelphia Flyers,6,,Philadelphia Flyers,New York Islanders,0.5,0.55
+2018-01-04,7:00 PM,Carolina Hurricanes,4,Pittsburgh Penguins,0,,Carolina Hurricanes,Pittsburgh Penguins,0.4666666666666667,0.5833333333333334
+2018-01-04,8:00 PM,Vegas Golden Knights,1,St. Louis Blues,2,,St. Louis Blues,Vegas Golden Knights,0.55,0.7
+2018-01-04,7:00 PM,San Jose Sharks,2,Toronto Maple Leafs,3,SO,Toronto Maple Leafs,San Jose Sharks,0.5666666666666667,0.6666666666666666
+2018-01-05,8:30 PM,Vegas Golden Knights,5,Chicago Blackhawks,4,,Vegas Golden Knights,Chicago Blackhawks,0.5333333333333333,0.6666666666666666
+2018-01-05,7:30 PM,Florida Panthers,2,Detroit Red Wings,4,,Detroit Red Wings,Florida Panthers,0.5,0.5166666666666667
+2018-01-05,7:00 PM,Pittsburgh Penguins,4,New York Islanders,0,,Pittsburgh Penguins,New York Islanders,0.5166666666666667,0.4666666666666667
+2018-01-05,7:30 PM,San Jose Sharks,5,Ottawa Senators,6,OT,Ottawa Senators,San Jose Sharks,0.36666666666666664,0.65
+2018-01-05,8:00 PM,Buffalo Sabres,3,Winnipeg Jets,4,,Winnipeg Jets,Buffalo Sabres,0.65,0.35
+2018-01-06,8:00 PM,New York Rangers,2,Arizona Coyotes,1,SO,New York Rangers,Arizona Coyotes,0.36666666666666664,0.6833333333333333
+2018-01-06,7:00 PM,Carolina Hurricanes,1,Boston Bruins,7,,Boston Bruins,Carolina Hurricanes,0.6833333333333333,0.6
+2018-01-06,10:00 PM,Anaheim Ducks,2,Calgary Flames,3,,Calgary Flames,Anaheim Ducks,0.5666666666666667,0.5666666666666667
+2018-01-06,9:00 PM,Minnesota Wild,2,Colorado Avalanche,7,,Colorado Avalanche,Minnesota Wild,0.5833333333333334,0.5833333333333334
+2018-01-06,3:00 PM,Edmonton Oilers,1,Dallas Stars,5,,Dallas Stars,Edmonton Oilers,0.5833333333333334,0.5333333333333333
+2018-01-06,10:30 PM,Nashville Predators,4,Los Angeles Kings,3,,Nashville Predators,Los Angeles Kings,0.5666666666666667,0.6666666666666666
+2018-01-06,7:00 PM,Tampa Bay Lightning,3,Ottawa Senators,6,,Ottawa Senators,Tampa Bay Lightning,0.38333333333333336,0.7333333333333333
+2018-01-06,1:00 PM,St. Louis Blues,3,Philadelphia Flyers,6,,Philadelphia Flyers,St. Louis Blues,0.5333333333333333,0.55
+2018-01-06,7:00 PM,Vancouver Canucks,2,Toronto Maple Leafs,3,SO,Toronto Maple Leafs,Vancouver Canucks,0.6,0.4
+2018-01-07,5:00 PM,Florida Panthers,2,Columbus Blue Jackets,3,SO,Columbus Blue Jackets,Florida Panthers,0.55,0.5
+2018-01-07,3:00 PM,Edmonton Oilers,1,Chicago Blackhawks,4,,Chicago Blackhawks,Edmonton Oilers,0.5333333333333333,0.5
+2018-01-07,7:00 PM,Tampa Bay Lightning,5,Detroit Red Wings,2,,Tampa Bay Lightning,Detroit Red Wings,0.5333333333333333,0.7
+2018-01-07,7:00 PM,Vancouver Canucks,2,Montreal Canadiens,5,,Montreal Canadiens,Vancouver Canucks,0.5166666666666667,0.4
+2018-01-07,1:00 PM,New Jersey Devils,4,New York Islanders,5,SO,New York Islanders,New Jersey Devils,0.48333333333333334,0.5833333333333334
+2018-01-07,1:00 PM,Buffalo Sabres,1,Philadelphia Flyers,4,,Philadelphia Flyers,Buffalo Sabres,0.5333333333333333,0.35
+2018-01-07,7:30 PM,Boston Bruins,5,Pittsburgh Penguins,6,OT,Pittsburgh Penguins,Boston Bruins,0.5,0.7
+2018-01-07,9:30 PM,New York Rangers,1,Vegas Golden Knights,2,,Vegas Golden Knights,New York Rangers,0.7,0.6833333333333333
+2018-01-07,3:00 PM,San Jose Sharks,1,Winnipeg Jets,4,,Winnipeg Jets,San Jose Sharks,0.65,0.6666666666666666
+2018-01-07,3:00 PM,St. Louis Blues,3,Washington Capitals,4,OT,Washington Capitals,St. Louis Blues,0.7,0.55
+2018-01-08,7:00 PM,Columbus Blue Jackets,3,Toronto Maple Leafs,2,OT,Columbus Blue Jackets,Toronto Maple Leafs,0.6,0.55
+2018-01-09,7:00 PM,Winnipeg Jets,7,Buffalo Sabres,4,,Winnipeg Jets,Buffalo Sabres,0.35,0.6666666666666666
+2018-01-09,8:00 PM,Calgary Flames,3,Minnesota Wild,2,OT,Calgary Flames,Minnesota Wild,0.5833333333333334,0.6
+2018-01-09,8:00 PM,Edmonton Oilers,1,Nashville Predators,2,,Nashville Predators,Edmonton Oilers,0.7,0.5
+2018-01-09,7:30 PM,Chicago Blackhawks,8,Ottawa Senators,2,,Chicago Blackhawks,Ottawa Senators,0.38333333333333336,0.5666666666666667
+2018-01-09,8:00 PM,Florida Panthers,7,St. Louis Blues,4,,Florida Panthers,St. Louis Blues,0.5333333333333333,0.5166666666666667
+2018-01-09,7:30 PM,Carolina Hurricanes,4,Tampa Bay Lightning,5,,Tampa Bay Lightning,Carolina Hurricanes,0.7333333333333333,0.6
+2018-01-09,7:00 PM,Vancouver Canucks,1,Washington Capitals,3,,Washington Capitals,Vancouver Canucks,0.7333333333333333,0.4
+2018-01-10,8:00 PM,Minnesota Wild,2,Chicago Blackhawks,1,,Minnesota Wild,Chicago Blackhawks,0.6,0.6
+2018-01-10,7:30 PM,Ottawa Senators,4,Toronto Maple Leafs,3,,Ottawa Senators,Toronto Maple Leafs,0.6166666666666667,0.36666666666666664
+2018-01-11,7:00 PM,Columbus Blue Jackets,1,Buffalo Sabres,3,,Buffalo Sabres,Columbus Blue Jackets,0.31666666666666665,0.5666666666666667
+2018-01-11,7:30 PM,Calgary Flames,5,Tampa Bay Lightning,1,,Calgary Flames,Tampa Bay Lightning,0.7333333333333333,0.6
+2018-01-11,7:00 PM,Carolina Hurricanes,3,Washington Capitals,1,,Carolina Hurricanes,Washington Capitals,0.7333333333333333,0.5833333333333334
+2018-01-12,9:00 PM,Edmonton Oilers,4,Arizona Coyotes,2,,Edmonton Oilers,Arizona Coyotes,0.38333333333333336,0.4666666666666667
+2018-01-12,7:30 PM,Washington Capitals,4,Carolina Hurricanes,3,,Washington Capitals,Carolina Hurricanes,0.5833333333333334,0.7
+2018-01-12,7:00 PM,Vancouver Canucks,5,Columbus Blue Jackets,2,,Vancouver Canucks,Columbus Blue Jackets,0.5666666666666667,0.36666666666666664
+2018-01-12,8:30 PM,Winnipeg Jets,1,Chicago Blackhawks,2,,Chicago Blackhawks,Winnipeg Jets,0.5666666666666667,0.6666666666666666
+2018-01-12,7:30 PM,Calgary Flames,4,Florida Panthers,2,,Calgary Flames,Florida Panthers,0.55,0.6
+2018-01-13,9:00 PM,Colorado Avalanche,4,Dallas Stars,1,,Colorado Avalanche,Dallas Stars,0.6166666666666667,0.5833333333333334
+2018-01-13,10:30 PM,Anaheim Ducks,4,Los Angeles Kings,2,,Anaheim Ducks,Los Angeles Kings,0.5666666666666667,0.5666666666666667
+2018-01-13,7:00 PM,Winnipeg Jets,1,Minnesota Wild,4,,Minnesota Wild,Winnipeg Jets,0.6333333333333333,0.6666666666666666
+2018-01-13,7:00 PM,Boston Bruins,4,Montreal Canadiens,3,SO,Boston Bruins,Montreal Canadiens,0.5166666666666667,0.7
+2018-01-13,7:00 PM,Philadelphia Flyers,5,New Jersey Devils,3,,Philadelphia Flyers,New Jersey Devils,0.5666666666666667,0.55
+2018-01-13,1:00 PM,New York Islanders,7,New York Rangers,2,,New York Islanders,New York Rangers,0.6833333333333333,0.5166666666666667
+2018-01-13,1:00 PM,Detroit Red Wings,1,Pittsburgh Penguins,4,,Pittsburgh Penguins,Detroit Red Wings,0.5,0.5333333333333333
+2018-01-13,10:30 PM,Arizona Coyotes,5,San Jose Sharks,6,OT,San Jose Sharks,Arizona Coyotes,0.6333333333333333,0.38333333333333336
+2018-01-13,10:00 PM,Edmonton Oilers,3,Vegas Golden Knights,2,OT,Edmonton Oilers,Vegas Golden Knights,0.7333333333333333,0.4666666666666667
+2018-01-14,3:00 PM,Calgary Flames,4,Carolina Hurricanes,1,,Calgary Flames,Carolina Hurricanes,0.55,0.6
+2018-01-14,12:30 PM,Detroit Red Wings,4,Chicago Blackhawks,0,,Detroit Red Wings,Chicago Blackhawks,0.5666666666666667,0.5
+2018-01-14,8:00 PM,Vancouver Canucks,3,Minnesota Wild,2,OT,Vancouver Canucks,Minnesota Wild,0.6333333333333333,0.4
+2018-01-14,7:30 PM,New York Rangers,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,New York Rangers,0.5166666666666667,0.65
+2018-01-15,1:00 PM,Dallas Stars,3,Boston Bruins,2,OT,Dallas Stars,Boston Bruins,0.7,0.5833333333333334
+2018-01-15,3:00 PM,Anaheim Ducks,1,Colorado Avalanche,3,,Colorado Avalanche,Anaheim Ducks,0.5833333333333334,0.5833333333333334
+2018-01-15,4:00 PM,San Jose Sharks,4,Los Angeles Kings,1,,San Jose Sharks,Los Angeles Kings,0.5333333333333333,0.6333333333333333
+2018-01-15,7:30 PM,New York Islanders,5,Montreal Canadiens,4,OT,New York Islanders,Montreal Canadiens,0.5333333333333333,0.5166666666666667
+2018-01-16,9:00 PM,San Jose Sharks,3,Arizona Coyotes,2,SO,San Jose Sharks,Arizona Coyotes,0.36666666666666664,0.6333333333333333
+2018-01-16,7:30 PM,Dallas Stars,4,Detroit Red Wings,2,,Dallas Stars,Detroit Red Wings,0.5,0.6166666666666667
+2018-01-16,8:00 PM,Vegas Golden Knights,0,Nashville Predators,1,,Nashville Predators,Vegas Golden Knights,0.7333333333333333,0.75
+2018-01-16,7:00 PM,New Jersey Devils,4,New York Islanders,1,,New Jersey Devils,New York Islanders,0.5333333333333333,0.5666666666666667
+2018-01-16,7:00 PM,Philadelphia Flyers,1,New York Rangers,5,,New York Rangers,Philadelphia Flyers,0.6166666666666667,0.5833333333333334
+2018-01-16,7:00 PM,St. Louis Blues,2,Toronto Maple Leafs,1,OT,St. Louis Blues,Toronto Maple Leafs,0.6166666666666667,0.5
+2018-01-17,10:00 PM,Pittsburgh Penguins,3,Anaheim Ducks,5,,Anaheim Ducks,Pittsburgh Penguins,0.5666666666666667,0.55
+2018-01-17,7:30 PM,Montreal Canadiens,1,Boston Bruins,4,,Boston Bruins,Montreal Canadiens,0.7166666666666667,0.5166666666666667
+2018-01-18,7:00 PM,Dallas Stars,1,Columbus Blue Jackets,2,SO,Columbus Blue Jackets,Dallas Stars,0.5666666666666667,0.6166666666666667
+2018-01-18,9:00 PM,San Jose Sharks,3,Colorado Avalanche,5,,Colorado Avalanche,San Jose Sharks,0.5833333333333334,0.6333333333333333
+2018-01-18,10:00 PM,Pittsburgh Penguins,3,Los Angeles Kings,1,,Pittsburgh Penguins,Los Angeles Kings,0.5166666666666667,0.5166666666666667
+2018-01-18,7:00 PM,Washington Capitals,3,New Jersey Devils,4,OT,New Jersey Devils,Washington Capitals,0.5833333333333334,0.7
+2018-01-18,8:00 PM,Arizona Coyotes,2,Nashville Predators,3,SO,Nashville Predators,Arizona Coyotes,0.7333333333333333,0.36666666666666664
+2018-01-18,7:00 PM,Boston Bruins,5,New York Islanders,2,,Boston Bruins,New York Islanders,0.5333333333333333,0.7166666666666667
+2018-01-18,7:30 PM,Buffalo Sabres,3,New York Rangers,4,,New York Rangers,Buffalo Sabres,0.6166666666666667,0.35
+2018-01-18,7:30 PM,St. Louis Blues,4,Ottawa Senators,1,,St. Louis Blues,Ottawa Senators,0.4,0.5
+2018-01-18,7:00 PM,Toronto Maple Leafs,2,Philadelphia Flyers,3,OT,Philadelphia Flyers,Toronto Maple Leafs,0.55,0.6
+2018-01-18,7:30 PM,Vegas Golden Knights,4,Tampa Bay Lightning,1,,Vegas Golden Knights,Tampa Bay Lightning,0.7166666666666667,0.7166666666666667
+2018-01-19,10:00 PM,Los Angeles Kings,1,Anaheim Ducks,2,,Anaheim Ducks,Los Angeles Kings,0.5666666666666667,0.48333333333333334
+2018-01-19,7:30 PM,Vegas Golden Knights,3,Florida Panthers,4,OT,Florida Panthers,Vegas Golden Knights,0.5333333333333333,0.7333333333333333
+2018-01-19,7:30 PM,Montreal Canadiens,3,Washington Capitals,2,,Montreal Canadiens,Washington Capitals,0.7166666666666667,0.48333333333333334
+2018-01-20,1:00 PM,Dallas Stars,7,Buffalo Sabres,1,,Dallas Stars,Buffalo Sabres,0.31666666666666665,0.6333333333333333
+2018-01-20,3:00 PM,Winnipeg Jets,2,Calgary Flames,1,SO,Winnipeg Jets,Calgary Flames,0.6333333333333333,0.6333333333333333
+2018-01-20,8:30 PM,New York Islanders,7,Chicago Blackhawks,3,,New York Islanders,Chicago Blackhawks,0.5666666666666667,0.5
+2018-01-20,3:00 PM,New York Rangers,1,Colorado Avalanche,3,,Colorado Avalanche,New York Rangers,0.6166666666666667,0.6166666666666667
+2018-01-20,7:00 PM,Carolina Hurricanes,3,Detroit Red Wings,1,,Carolina Hurricanes,Detroit Red Wings,0.5,0.5333333333333333
+2018-01-20,10:00 PM,Vancouver Canucks,2,Edmonton Oilers,5,,Edmonton Oilers,Vancouver Canucks,0.5,0.4
+2018-01-20,9:00 PM,Tampa Bay Lightning,2,Minnesota Wild,5,,Minnesota Wild,Tampa Bay Lightning,0.6166666666666667,0.6833333333333333
+2018-01-20,7:00 PM,Boston Bruins,4,Montreal Canadiens,1,,Boston Bruins,Montreal Canadiens,0.48333333333333334,0.75
+2018-01-20,8:00 PM,Florida Panthers,3,Nashville Predators,4,,Nashville Predators,Florida Panthers,0.7333333333333333,0.5666666666666667
+2018-01-20,7:00 PM,Toronto Maple Leafs,4,Ottawa Senators,3,,Toronto Maple Leafs,Ottawa Senators,0.36666666666666664,0.5833333333333334
+2018-01-20,1:00 PM,New Jersey Devils,1,Philadelphia Flyers,3,,Philadelphia Flyers,New Jersey Devils,0.5666666666666667,0.6166666666666667
+2018-01-20,8:00 PM,Pittsburgh Penguins,1,San Jose Sharks,2,,San Jose Sharks,Pittsburgh Penguins,0.6333333333333333,0.55
+2018-01-20,8:00 PM,Arizona Coyotes,5,St. Louis Blues,2,,Arizona Coyotes,St. Louis Blues,0.5333333333333333,0.38333333333333336
+2018-01-21,9:00 PM,San Jose Sharks,6,Anaheim Ducks,2,,San Jose Sharks,Anaheim Ducks,0.6,0.6333333333333333
+2018-01-21,6:00 PM,Vegas Golden Knights,5,Carolina Hurricanes,1,,Vegas Golden Knights,Carolina Hurricanes,0.5333333333333333,0.75
+2018-01-21,10:30 PM,New York Rangers,2,Los Angeles Kings,4,,Los Angeles Kings,New York Rangers,0.48333333333333334,0.5833333333333334
+2018-01-21,8:00 PM,Vancouver Canucks,0,Winnipeg Jets,1,,Winnipeg Jets,Vancouver Canucks,0.6333333333333333,0.4
+2018-01-21,12:30 PM,Philadelphia Flyers,2,Washington Capitals,1,OT,Philadelphia Flyers,Washington Capitals,0.6833333333333333,0.5666666666666667
+2018-01-22,9:00 PM,New York Islanders,2,Arizona Coyotes,3,OT,Arizona Coyotes,New York Islanders,0.4,0.5
+2018-01-22,9:00 PM,Buffalo Sabres,2,Calgary Flames,1,OT,Buffalo Sabres,Calgary Flames,0.6166666666666667,0.31666666666666665
+2018-01-22,8:30 PM,Tampa Bay Lightning,2,Chicago Blackhawks,0,,Tampa Bay Lightning,Chicago Blackhawks,0.5666666666666667,0.65
+2018-01-22,8:00 PM,Ottawa Senators,1,Minnesota Wild,3,,Minnesota Wild,Ottawa Senators,0.6166666666666667,0.36666666666666664
+2018-01-22,7:00 PM,Detroit Red Wings,3,New Jersey Devils,0,,Detroit Red Wings,New Jersey Devils,0.6,0.4666666666666667
+2018-01-22,7:00 PM,Colorado Avalanche,4,Toronto Maple Leafs,2,,Colorado Avalanche,Toronto Maple Leafs,0.5833333333333334,0.6333333333333333
+2018-01-23,10:00 PM,New York Rangers,3,Anaheim Ducks,6,,Anaheim Ducks,New York Rangers,0.5666666666666667,0.55
+2018-01-23,7:00 PM,New Jersey Devils,2,Boston Bruins,3,,Boston Bruins,New Jersey Devils,0.7666666666666667,0.5666666666666667
+2018-01-23,8:30 PM,Florida Panthers,1,Dallas Stars,6,,Dallas Stars,Florida Panthers,0.65,0.5333333333333333
+2018-01-23,7:30 PM,Philadelphia Flyers,3,Detroit Red Wings,2,OT,Philadelphia Flyers,Detroit Red Wings,0.4666666666666667,0.6
+2018-01-23,9:00 PM,Buffalo Sabres,5,Edmonton Oilers,0,,Buffalo Sabres,Edmonton Oilers,0.5166666666666667,0.3333333333333333
+2018-01-23,7:30 PM,Colorado Avalanche,2,Montreal Canadiens,4,,Montreal Canadiens,Colorado Avalanche,0.48333333333333334,0.6666666666666666
+2018-01-23,8:00 PM,Tampa Bay Lightning,4,Nashville Predators,3,OT,Tampa Bay Lightning,Nashville Predators,0.7333333333333333,0.65
+2018-01-23,7:00 PM,Carolina Hurricanes,1,Pittsburgh Penguins,3,,Pittsburgh Penguins,Carolina Hurricanes,0.5333333333333333,0.5333333333333333
+2018-01-23,10:30 PM,Winnipeg Jets,5,San Jose Sharks,4,OT,Winnipeg Jets,San Jose Sharks,0.6333333333333333,0.6333333333333333
+2018-01-23,8:00 PM,Ottawa Senators,0,St. Louis Blues,3,,St. Louis Blues,Ottawa Senators,0.5333333333333333,0.3333333333333333
+2018-01-23,10:00 PM,Los Angeles Kings,2,Vancouver Canucks,6,,Vancouver Canucks,Los Angeles Kings,0.4,0.5166666666666667
+2018-01-23,10:00 PM,Columbus Blue Jackets,3,Vegas Golden Knights,6,,Vegas Golden Knights,Columbus Blue Jackets,0.75,0.6
+2018-01-24,10:00 PM,Los Angeles Kings,2,Calgary Flames,1,OT,Los Angeles Kings,Calgary Flames,0.6,0.5166666666666667
+2018-01-24,8:00 PM,Toronto Maple Leafs,3,Chicago Blackhawks,2,OT,Toronto Maple Leafs,Chicago Blackhawks,0.5333333333333333,0.55
+2018-01-25,10:00 PM,Winnipeg Jets,3,Anaheim Ducks,4,SO,Anaheim Ducks,Winnipeg Jets,0.5666666666666667,0.6333333333333333
+2018-01-25,9:00 PM,Columbus Blue Jackets,2,Arizona Coyotes,1,,Columbus Blue Jackets,Arizona Coyotes,0.43333333333333335,0.5666666666666667
+2018-01-25,8:30 PM,Toronto Maple Leafs,4,Dallas Stars,1,,Toronto Maple Leafs,Dallas Stars,0.6833333333333333,0.55
+2018-01-25,7:30 PM,Chicago Blackhawks,5,Detroit Red Wings,1,,Chicago Blackhawks,Detroit Red Wings,0.48333333333333334,0.55
+2018-01-25,9:00 PM,Calgary Flames,3,Edmonton Oilers,4,SO,Edmonton Oilers,Calgary Flames,0.48333333333333334,0.6166666666666667
+2018-01-25,7:30 PM,Washington Capitals,4,Florida Panthers,2,,Washington Capitals,Florida Panthers,0.5333333333333333,0.6666666666666666
+2018-01-25,7:30 PM,Carolina Hurricanes,6,Montreal Canadiens,5,,Carolina Hurricanes,Montreal Canadiens,0.48333333333333334,0.5
+2018-01-25,7:00 PM,Nashville Predators,3,New Jersey Devils,0,,Nashville Predators,New Jersey Devils,0.5333333333333333,0.7166666666666667
+2018-01-25,7:30 PM,Boston Bruins,3,Ottawa Senators,2,,Boston Bruins,Ottawa Senators,0.3,0.8
+2018-01-25,7:00 PM,Tampa Bay Lightning,5,Philadelphia Flyers,1,,Tampa Bay Lightning,Philadelphia Flyers,0.6333333333333333,0.65
+2018-01-25,7:00 PM,Minnesota Wild,3,Pittsburgh Penguins,6,,Pittsburgh Penguins,Minnesota Wild,0.5333333333333333,0.6166666666666667
+2018-01-25,10:30 PM,New York Rangers,6,San Jose Sharks,5,,New York Rangers,San Jose Sharks,0.65,0.55
+2018-01-25,8:00 PM,Colorado Avalanche,1,St. Louis Blues,3,,St. Louis Blues,Colorado Avalanche,0.5333333333333333,0.6333333333333333
+2018-01-25,10:00 PM,Buffalo Sabres,4,Vancouver Canucks,0,,Buffalo Sabres,Vancouver Canucks,0.4,0.35
+2018-01-25,10:00 PM,New York Islanders,2,Vegas Golden Knights,1,,New York Islanders,Vegas Golden Knights,0.7833333333333333,0.48333333333333334
+2018-01-30,7:00 PM,Anaheim Ducks,3,Boston Bruins,1,,Anaheim Ducks,Boston Bruins,0.8333333333333334,0.5666666666666667
+2018-01-30,7:00 PM,New Jersey Devils,3,Buffalo Sabres,1,,New Jersey Devils,Buffalo Sabres,0.38333333333333336,0.5166666666666667
+2018-01-30,7:00 PM,Ottawa Senators,1,Carolina Hurricanes,2,,Carolina Hurricanes,Ottawa Senators,0.5,0.3
+2018-01-30,7:00 PM,Minnesota Wild,3,Columbus Blue Jackets,2,SO,Minnesota Wild,Columbus Blue Jackets,0.5666666666666667,0.6166666666666667
+2018-01-30,9:00 PM,Vegas Golden Knights,4,Calgary Flames,2,,Vegas Golden Knights,Calgary Flames,0.6,0.75
+2018-01-30,8:30 PM,Los Angeles Kings,3,Dallas Stars,0,,Los Angeles Kings,Dallas Stars,0.65,0.55
+2018-01-30,8:00 PM,Chicago Blackhawks,2,Nashville Predators,1,,Chicago Blackhawks,Nashville Predators,0.7166666666666667,0.55
+2018-01-30,7:00 PM,Florida Panthers,4,New York Islanders,1,,Florida Panthers,New York Islanders,0.5166666666666667,0.5
+2018-01-30,7:00 PM,San Jose Sharks,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,San Jose Sharks,0.5333333333333333,0.65
+2018-01-30,8:00 PM,Montreal Canadiens,1,St. Louis Blues,3,,St. Louis Blues,Montreal Canadiens,0.5333333333333333,0.4666666666666667
+2018-01-30,10:00 PM,Colorado Avalanche,3,Vancouver Canucks,4,OT,Vancouver Canucks,Colorado Avalanche,0.4,0.6333333333333333
+2018-01-30,8:00 PM,Tampa Bay Lightning,1,Winnipeg Jets,3,,Winnipeg Jets,Tampa Bay Lightning,0.65,0.65
+2018-01-31,8:00 PM,San Jose Sharks,1,Detroit Red Wings,2,SO,Detroit Red Wings,San Jose Sharks,0.4666666666666667,0.6333333333333333
+2018-01-31,7:30 PM,New York Islanders,0,Toronto Maple Leafs,5,,Toronto Maple Leafs,New York Islanders,0.55,0.48333333333333334
+2018-01-31,8:00 PM,Philadelphia Flyers,3,Washington Capitals,5,,Washington Capitals,Philadelphia Flyers,0.7,0.6166666666666667
+2018-02-01,9:00 PM,Dallas Stars,4,Arizona Coyotes,1,,Dallas Stars,Arizona Coyotes,0.43333333333333335,0.6166666666666667
+2018-02-01,7:00 PM,St. Louis Blues,1,Boston Bruins,3,,Boston Bruins,St. Louis Blues,0.8,0.5333333333333333
+2018-02-01,7:00 PM,Florida Panthers,4,Buffalo Sabres,2,,Florida Panthers,Buffalo Sabres,0.38333333333333336,0.5
+2018-02-01,7:00 PM,Montreal Canadiens,0,Carolina Hurricanes,2,,Carolina Hurricanes,Montreal Canadiens,0.5333333333333333,0.4666666666666667
+2018-02-01,9:00 PM,Tampa Bay Lightning,7,Calgary Flames,4,,Tampa Bay Lightning,Calgary Flames,0.5666666666666667,0.65
+2018-02-01,9:00 PM,Colorado Avalanche,4,Edmonton Oilers,3,OT,Colorado Avalanche,Edmonton Oilers,0.5166666666666667,0.6166666666666667
+2018-02-01,7:00 PM,Philadelphia Flyers,3,New Jersey Devils,4,,New Jersey Devils,Philadelphia Flyers,0.55,0.6
+2018-02-01,8:30 PM,Los Angeles Kings,0,Nashville Predators,5,,Nashville Predators,Los Angeles Kings,0.7166666666666667,0.55
+2018-02-01,7:00 PM,Toronto Maple Leafs,4,New York Rangers,0,,Toronto Maple Leafs,New York Rangers,0.5833333333333334,0.5833333333333334
+2018-02-01,7:00 PM,Anaheim Ducks,1,Ottawa Senators,2,OT,Ottawa Senators,Anaheim Ducks,0.2833333333333333,0.6
+2018-02-01,10:00 PM,Chicago Blackhawks,2,Vancouver Canucks,4,,Vancouver Canucks,Chicago Blackhawks,0.4166666666666667,0.55
+2018-02-01,8:00 PM,Vegas Golden Knights,3,Winnipeg Jets,2,OT,Vegas Golden Knights,Winnipeg Jets,0.65,0.75
+2018-02-02,7:00 PM,Detroit Red Wings,4,Carolina Hurricanes,1,,Detroit Red Wings,Carolina Hurricanes,0.5666666666666667,0.4666666666666667
+2018-02-02,7:00 PM,San Jose Sharks,3,Columbus Blue Jackets,1,,San Jose Sharks,Columbus Blue Jackets,0.55,0.6166666666666667
+2018-02-02,8:00 PM,Vegas Golden Knights,2,Minnesota Wild,5,,Minnesota Wild,Vegas Golden Knights,0.6333333333333333,0.75
+2018-02-02,7:00 PM,Washington Capitals,4,Pittsburgh Penguins,7,,Pittsburgh Penguins,Washington Capitals,0.5666666666666667,0.7333333333333333
+2018-02-03,7:00 PM,Toronto Maple Leafs,1,Boston Bruins,4,,Boston Bruins,Toronto Maple Leafs,0.8,0.6
+2018-02-03,7:00 PM,St. Louis Blues,1,Buffalo Sabres,0,,St. Louis Blues,Buffalo Sabres,0.38333333333333336,0.5333333333333333
+2018-02-03,10:00 PM,Chicago Blackhawks,3,Calgary Flames,4,OT,Calgary Flames,Chicago Blackhawks,0.55,0.5333333333333333
+2018-02-03,8:00 PM,Minnesota Wild,1,Dallas Stars,6,,Dallas Stars,Minnesota Wild,0.65,0.6333333333333333
+2018-02-03,7:00 PM,Detroit Red Wings,2,Florida Panthers,3,,Florida Panthers,Detroit Red Wings,0.5333333333333333,0.4666666666666667
+2018-02-03,10:30 PM,Arizona Coyotes,0,Los Angeles Kings,6,,Los Angeles Kings,Arizona Coyotes,0.55,0.4
+2018-02-03,1:00 PM,Anaheim Ducks,2,Montreal Canadiens,5,,Montreal Canadiens,Anaheim Ducks,0.4666666666666667,0.6166666666666667
+2018-02-03,7:00 PM,Pittsburgh Penguins,1,New Jersey Devils,3,,New Jersey Devils,Pittsburgh Penguins,0.55,0.6
+2018-02-03,8:00 PM,New York Rangers,2,Nashville Predators,5,,Nashville Predators,New York Rangers,0.7166666666666667,0.55
+2018-02-03,7:00 PM,Columbus Blue Jackets,3,New York Islanders,4,,New York Islanders,Columbus Blue Jackets,0.45,0.5166666666666667
+2018-02-03,1:00 PM,Ottawa Senators,4,Philadelphia Flyers,3,SO,Ottawa Senators,Philadelphia Flyers,0.6,0.31666666666666665
+2018-02-03,10:00 PM,Tampa Bay Lightning,4,Vancouver Canucks,2,,Tampa Bay Lightning,Vancouver Canucks,0.4166666666666667,0.65
+2018-02-03,7:00 PM,Colorado Avalanche,0,Winnipeg Jets,3,,Winnipeg Jets,Colorado Avalanche,0.6333333333333333,0.6166666666666667
+2018-02-04,1:00 PM,San Jose Sharks,3,Carolina Hurricanes,1,,San Jose Sharks,Carolina Hurricanes,0.5333333333333333,0.6333333333333333
+2018-02-04,1:00 PM,Ottawa Senators,1,Montreal Canadiens,4,,Montreal Canadiens,Ottawa Senators,0.5,0.35
+2018-02-04,12:30 PM,Vegas Golden Knights,4,Washington Capitals,3,,Vegas Golden Knights,Washington Capitals,0.7,0.7166666666666667
+2018-02-05,8:30 PM,New York Rangers,1,Dallas Stars,2,,Dallas Stars,New York Rangers,0.65,0.5166666666666667
+2018-02-05,9:00 PM,Tampa Bay Lightning,2,Edmonton Oilers,6,,Edmonton Oilers,Tampa Bay Lightning,0.5333333333333333,0.6833333333333333
+2018-02-05,7:00 PM,Nashville Predators,5,New York Islanders,4,OT,Nashville Predators,New York Islanders,0.45,0.7166666666666667
+2018-02-05,7:00 PM,Anaheim Ducks,4,Toronto Maple Leafs,7,,Toronto Maple Leafs,Anaheim Ducks,0.5666666666666667,0.6
+2018-02-06,7:00 PM,Anaheim Ducks,4,Buffalo Sabres,3,OT,Anaheim Ducks,Buffalo Sabres,0.38333333333333336,0.6
+2018-02-06,7:00 PM,Philadelphia Flyers,2,Carolina Hurricanes,1,OT,Philadelphia Flyers,Carolina Hurricanes,0.5166666666666667,0.6
+2018-02-06,7:00 PM,Washington Capitals,3,Columbus Blue Jackets,2,,Washington Capitals,Columbus Blue Jackets,0.48333333333333334,0.7
+2018-02-06,8:30 PM,Calgary Flames,3,Chicago Blackhawks,2,,Calgary Flames,Chicago Blackhawks,0.5166666666666667,0.5833333333333334
+2018-02-06,9:00 PM,San Jose Sharks,1,Colorado Avalanche,3,,Colorado Avalanche,San Jose Sharks,0.6,0.6333333333333333
+2018-02-06,7:30 PM,Boston Bruins,3,Detroit Red Wings,2,,Boston Bruins,Detroit Red Wings,0.45,0.8
+2018-02-06,7:30 PM,Vancouver Canucks,1,Florida Panthers,3,,Florida Panthers,Vancouver Canucks,0.5666666666666667,0.38333333333333336
+2018-02-06,7:30 PM,New Jersey Devils,3,Ottawa Senators,5,,Ottawa Senators,New Jersey Devils,0.35,0.5666666666666667
+2018-02-06,7:00 PM,Vegas Golden Knights,4,Pittsburgh Penguins,5,,Pittsburgh Penguins,Vegas Golden Knights,0.6,0.7166666666666667
+2018-02-06,8:00 PM,Minnesota Wild,6,St. Louis Blues,2,,Minnesota Wild,St. Louis Blues,0.5333333333333333,0.6
+2018-02-06,8:00 PM,Arizona Coyotes,3,Winnipeg Jets,4,,Winnipeg Jets,Arizona Coyotes,0.6666666666666666,0.36666666666666664
+2018-02-07,10:30 PM,Edmonton Oilers,2,Los Angeles Kings,5,,Los Angeles Kings,Edmonton Oilers,0.5833333333333334,0.5666666666666667
+2018-02-07,8:00 PM,Boston Bruins,6,New York Rangers,1,,Boston Bruins,New York Rangers,0.48333333333333334,0.8
+2018-02-07,7:30 PM,Nashville Predators,2,Toronto Maple Leafs,3,SO,Toronto Maple Leafs,Nashville Predators,0.6,0.7166666666666667
+2018-02-08,7:00 PM,New York Islanders,3,Buffalo Sabres,4,,Buffalo Sabres,New York Islanders,0.36666666666666664,0.43333333333333335
+2018-02-08,8:30 PM,Dallas Stars,4,Chicago Blackhawks,2,,Dallas Stars,Chicago Blackhawks,0.48333333333333334,0.65
+2018-02-08,8:00 PM,Arizona Coyotes,4,Minnesota Wild,3,OT,Arizona Coyotes,Minnesota Wild,0.6333333333333333,0.3333333333333333
+2018-02-08,7:00 PM,Calgary Flames,3,New Jersey Devils,2,,Calgary Flames,New Jersey Devils,0.5333333333333333,0.5833333333333334
+2018-02-08,7:30 PM,Nashville Predators,3,Ottawa Senators,4,OT,Ottawa Senators,Nashville Predators,0.38333333333333336,0.7
+2018-02-08,7:00 PM,Montreal Canadiens,3,Philadelphia Flyers,5,,Philadelphia Flyers,Montreal Canadiens,0.6166666666666667,0.5166666666666667
+2018-02-08,10:30 PM,Vegas Golden Knights,5,San Jose Sharks,3,,Vegas Golden Knights,San Jose Sharks,0.6,0.7166666666666667
+2018-02-08,8:00 PM,Colorado Avalanche,1,St. Louis Blues,6,,St. Louis Blues,Colorado Avalanche,0.5333333333333333,0.6333333333333333
+2018-02-08,7:30 PM,Vancouver Canucks,2,Tampa Bay Lightning,5,,Tampa Bay Lightning,Vancouver Canucks,0.6833333333333333,0.38333333333333336
+2018-02-09,10:00 PM,Edmonton Oilers,2,Anaheim Ducks,3,,Anaheim Ducks,Edmonton Oilers,0.6,0.5333333333333333
+2018-02-09,7:30 PM,Vancouver Canucks,1,Carolina Hurricanes,4,,Carolina Hurricanes,Vancouver Canucks,0.5333333333333333,0.36666666666666664
+2018-02-09,8:30 PM,Pittsburgh Penguins,3,Dallas Stars,4,SO,Dallas Stars,Pittsburgh Penguins,0.65,0.6
+2018-02-09,7:30 PM,Los Angeles Kings,3,Florida Panthers,1,,Los Angeles Kings,Florida Panthers,0.5666666666666667,0.6
+2018-02-09,7:00 PM,Detroit Red Wings,6,New York Islanders,7,OT,New York Islanders,Detroit Red Wings,0.43333333333333335,0.45
+2018-02-09,7:00 PM,Calgary Flames,3,New York Rangers,4,,New York Rangers,Calgary Flames,0.45,0.6166666666666667
+2018-02-09,8:00 PM,St. Louis Blues,5,Winnipeg Jets,2,,St. Louis Blues,Winnipeg Jets,0.6666666666666666,0.5666666666666667
+2018-02-09,7:00 PM,Columbus Blue Jackets,2,Washington Capitals,4,,Washington Capitals,Columbus Blue Jackets,0.7,0.45
+2018-02-10,8:00 PM,Philadelphia Flyers,4,Arizona Coyotes,3,SO,Philadelphia Flyers,Arizona Coyotes,0.36666666666666664,0.6333333333333333
+2018-02-10,7:00 PM,Buffalo Sabres,4,Boston Bruins,2,,Buffalo Sabres,Boston Bruins,0.8333333333333334,0.4
+2018-02-10,8:00 PM,Colorado Avalanche,1,Carolina Hurricanes,3,,Carolina Hurricanes,Colorado Avalanche,0.5333333333333333,0.6
+2018-02-10,7:00 PM,New Jersey Devils,1,Columbus Blue Jackets,6,,Columbus Blue Jackets,New Jersey Devils,0.45,0.5
+2018-02-10,8:00 PM,Chicago Blackhawks,0,Minnesota Wild,3,,Minnesota Wild,Chicago Blackhawks,0.65,0.48333333333333334
+2018-02-10,7:00 PM,Nashville Predators,3,Montreal Canadiens,2,SO,Nashville Predators,Montreal Canadiens,0.48333333333333334,0.7
+2018-02-10,10:00 PM,Edmonton Oilers,4,San Jose Sharks,6,,San Jose Sharks,Edmonton Oilers,0.5666666666666667,0.5333333333333333
+2018-02-10,7:00 PM,Los Angeles Kings,3,Tampa Bay Lightning,4,,Tampa Bay Lightning,Los Angeles Kings,0.6833333333333333,0.6
+2018-02-10,7:00 PM,Ottawa Senators,3,Toronto Maple Leafs,6,,Toronto Maple Leafs,Ottawa Senators,0.6,0.4166666666666667
+2018-02-11,8:00 PM,San Jose Sharks,3,Anaheim Ducks,2,SO,San Jose Sharks,Anaheim Ducks,0.6333333333333333,0.6
+2018-02-11,7:00 PM,Colorado Avalanche,5,Buffalo Sabres,4,,Colorado Avalanche,Buffalo Sabres,0.43333333333333335,0.6
+2018-02-11,4:00 PM,Vancouver Canucks,6,Dallas Stars,0,,Vancouver Canucks,Dallas Stars,0.65,0.36666666666666664
+2018-02-11,7:00 PM,Boston Bruins,5,New Jersey Devils,3,,Boston Bruins,New Jersey Devils,0.5,0.8
+2018-02-11,7:00 PM,Calgary Flames,3,New York Islanders,2,,Calgary Flames,New York Islanders,0.43333333333333335,0.5833333333333334
+2018-02-11,12:00 PM,Pittsburgh Penguins,4,St. Louis Blues,1,,Pittsburgh Penguins,St. Louis Blues,0.5833333333333334,0.5833333333333334
+2018-02-11,8:00 PM,Philadelphia Flyers,4,Vegas Golden Knights,1,,Philadelphia Flyers,Vegas Golden Knights,0.75,0.6666666666666666
+2018-02-11,3:00 PM,New York Rangers,3,Winnipeg Jets,1,,New York Rangers,Winnipeg Jets,0.65,0.48333333333333334
+2018-02-11,3:00 PM,Detroit Red Wings,5,Washington Capitals,4,OT,Detroit Red Wings,Washington Capitals,0.7,0.45
+2018-02-12,9:00 PM,Chicago Blackhawks,1,Arizona Coyotes,6,,Arizona Coyotes,Chicago Blackhawks,0.35,0.4666666666666667
+2018-02-12,9:00 PM,Florida Panthers,7,Edmonton Oilers,5,,Florida Panthers,Edmonton Oilers,0.5,0.5666666666666667
+2018-02-12,7:00 PM,Tampa Bay Lightning,3,Toronto Maple Leafs,4,,Toronto Maple Leafs,Tampa Bay Lightning,0.6,0.7166666666666667
+2018-02-13,7:00 PM,Calgary Flames,2,Boston Bruins,5,,Boston Bruins,Calgary Flames,0.8,0.6166666666666667
+2018-02-13,7:00 PM,Tampa Bay Lightning,3,Buffalo Sabres,5,,Buffalo Sabres,Tampa Bay Lightning,0.43333333333333335,0.6833333333333333
+2018-02-13,7:00 PM,Los Angeles Kings,3,Carolina Hurricanes,7,,Carolina Hurricanes,Los Angeles Kings,0.5666666666666667,0.5666666666666667
+2018-02-13,7:30 PM,Anaheim Ducks,1,Detroit Red Wings,2,,Detroit Red Wings,Anaheim Ducks,0.4666666666666667,0.6333333333333333
+2018-02-13,8:00 PM,New York Rangers,2,Minnesota Wild,3,,Minnesota Wild,New York Rangers,0.65,0.48333333333333334
+2018-02-13,8:00 PM,St. Louis Blues,3,Nashville Predators,4,OT,Nashville Predators,St. Louis Blues,0.7,0.55
+2018-02-13,7:00 PM,Columbus Blue Jackets,4,New York Islanders,1,,Columbus Blue Jackets,New York Islanders,0.43333333333333335,0.45
+2018-02-13,7:00 PM,New Jersey Devils,5,Philadelphia Flyers,4,SO,New Jersey Devils,Philadelphia Flyers,0.7,0.4666666666666667
+2018-02-13,7:00 PM,Ottawa Senators,3,Pittsburgh Penguins,6,,Pittsburgh Penguins,Ottawa Senators,0.5833333333333334,0.38333333333333336
+2018-02-13,10:30 PM,Arizona Coyotes,2,San Jose Sharks,1,,Arizona Coyotes,San Jose Sharks,0.6333333333333333,0.38333333333333336
+2018-02-13,10:00 PM,Chicago Blackhawks,2,Vegas Golden Knights,5,,Vegas Golden Knights,Chicago Blackhawks,0.75,0.45
+2018-02-13,8:00 PM,Washington Capitals,3,Winnipeg Jets,4,OT,Winnipeg Jets,Washington Capitals,0.6166666666666667,0.6833333333333333
+2018-02-14,9:30 PM,Montreal Canadiens,0,Colorado Avalanche,2,,Colorado Avalanche,Montreal Canadiens,0.6333333333333333,0.4666666666666667
+2018-02-14,7:00 PM,Columbus Blue Jackets,3,Toronto Maple Leafs,6,,Toronto Maple Leafs,Columbus Blue Jackets,0.6333333333333333,0.45
+2018-02-14,10:00 PM,Florida Panthers,4,Vancouver Canucks,3,,Florida Panthers,Vancouver Canucks,0.36666666666666664,0.5666666666666667
+2018-02-15,9:00 PM,Montreal Canadiens,2,Arizona Coyotes,5,,Arizona Coyotes,Montreal Canadiens,0.4,0.43333333333333335
+2018-02-15,8:30 PM,Anaheim Ducks,3,Chicago Blackhawks,2,,Anaheim Ducks,Chicago Blackhawks,0.45,0.6166666666666667
+2018-02-15,8:00 PM,Washington Capitals,5,Minnesota Wild,2,,Washington Capitals,Minnesota Wild,0.65,0.7
+2018-02-15,7:00 PM,Carolina Hurricanes,2,New Jersey Devils,5,,New Jersey Devils,Carolina Hurricanes,0.5,0.5833333333333334
+2018-02-15,8:00 PM,Calgary Flames,4,Nashville Predators,3,,Calgary Flames,Nashville Predators,0.7333333333333333,0.6166666666666667
+2018-02-15,7:00 PM,New York Rangers,0,New York Islanders,3,,New York Islanders,New York Rangers,0.4166666666666667,0.45
+2018-02-15,7:30 PM,Buffalo Sabres,2,Ottawa Senators,3,OT,Ottawa Senators,Buffalo Sabres,0.38333333333333336,0.4666666666666667
+2018-02-15,7:00 PM,Los Angeles Kings,1,Pittsburgh Penguins,3,,Pittsburgh Penguins,Los Angeles Kings,0.5833333333333334,0.5333333333333333
+2018-02-15,10:30 PM,Vancouver Canucks,1,San Jose Sharks,4,,San Jose Sharks,Vancouver Canucks,0.6,0.3333333333333333
+2018-02-15,7:30 PM,Detroit Red Wings,1,Tampa Bay Lightning,4,,Tampa Bay Lightning,Detroit Red Wings,0.65,0.5
+2018-02-15,10:00 PM,Edmonton Oilers,1,Vegas Golden Knights,4,,Vegas Golden Knights,Edmonton Oilers,0.75,0.4666666666666667
+2018-02-16,7:30 PM,New York Islanders,3,Carolina Hurricanes,0,,New York Islanders,Carolina Hurricanes,0.5666666666666667,0.45
+2018-02-16,7:00 PM,Philadelphia Flyers,2,Columbus Blue Jackets,1,OT,Philadelphia Flyers,Columbus Blue Jackets,0.45,0.6833333333333333
+2018-02-16,8:30 PM,St. Louis Blues,1,Dallas Stars,2,,Dallas Stars,St. Louis Blues,0.6166666666666667,0.5333333333333333
+2018-02-16,8:00 PM,Colorado Avalanche,1,Winnipeg Jets,6,,Winnipeg Jets,Colorado Avalanche,0.6166666666666667,0.6666666666666666
+2018-02-17,4:00 PM,Edmonton Oilers,0,Arizona Coyotes,1,,Arizona Coyotes,Edmonton Oilers,0.43333333333333335,0.4666666666666667
+2018-02-17,1:00 PM,Los Angeles Kings,4,Buffalo Sabres,2,,Los Angeles Kings,Buffalo Sabres,0.45,0.5
+2018-02-17,10:00 PM,Florida Panthers,6,Calgary Flames,3,,Florida Panthers,Calgary Flames,0.6333333333333333,0.5666666666666667
+2018-02-17,8:30 PM,Washington Capitals,1,Chicago Blackhawks,7,,Chicago Blackhawks,Washington Capitals,0.45,0.7
+2018-02-17,2:00 PM,Anaheim Ducks,3,Minnesota Wild,2,SO,Anaheim Ducks,Minnesota Wild,0.65,0.6166666666666667
+2018-02-17,8:00 PM,Detroit Red Wings,3,Nashville Predators,1,,Detroit Red Wings,Nashville Predators,0.7,0.5
+2018-02-17,2:00 PM,New York Rangers,3,Ottawa Senators,6,,Ottawa Senators,New York Rangers,0.4166666666666667,0.45
+2018-02-17,7:00 PM,Toronto Maple Leafs,3,Pittsburgh Penguins,5,,Pittsburgh Penguins,Toronto Maple Leafs,0.6166666666666667,0.6333333333333333
+2018-02-17,7:00 PM,New Jersey Devils,4,Tampa Bay Lightning,3,,New Jersey Devils,Tampa Bay Lightning,0.65,0.5
+2018-02-17,10:00 PM,Boston Bruins,1,Vancouver Canucks,6,,Vancouver Canucks,Boston Bruins,0.3,0.8333333333333334
+2018-02-17,7:00 PM,Montreal Canadiens,3,Vegas Golden Knights,6,,Vegas Golden Knights,Montreal Canadiens,0.75,0.4
+2018-02-18,5:00 PM,New Jersey Devils,3,Carolina Hurricanes,2,OT,New Jersey Devils,Carolina Hurricanes,0.5666666666666667,0.5333333333333333
+2018-02-18,6:00 PM,Pittsburgh Penguins,5,Columbus Blue Jackets,2,,Pittsburgh Penguins,Columbus Blue Jackets,0.4666666666666667,0.6166666666666667
+2018-02-18,3:00 PM,Edmonton Oilers,4,Colorado Avalanche,2,,Edmonton Oilers,Colorado Avalanche,0.6666666666666666,0.43333333333333335
+2018-02-18,7:00 PM,Toronto Maple Leafs,3,Detroit Red Wings,2,,Toronto Maple Leafs,Detroit Red Wings,0.5333333333333333,0.6
+2018-02-18,12:00 PM,Philadelphia Flyers,7,New York Rangers,4,,Philadelphia Flyers,New York Rangers,0.4166666666666667,0.6833333333333333
+2018-02-18,8:00 PM,Dallas Stars,2,San Jose Sharks,5,,San Jose Sharks,Dallas Stars,0.6,0.65
+2018-02-18,8:00 PM,Florida Panthers,2,Winnipeg Jets,7,,Winnipeg Jets,Florida Panthers,0.65,0.6
+2018-02-19,3:00 PM,Washington Capitals,3,Buffalo Sabres,2,,Washington Capitals,Buffalo Sabres,0.43333333333333335,0.6666666666666666
+2018-02-19,4:00 PM,Boston Bruins,2,Calgary Flames,1,OT,Boston Bruins,Calgary Flames,0.6,0.8
+2018-02-19,8:30 PM,Los Angeles Kings,3,Chicago Blackhawks,1,,Los Angeles Kings,Chicago Blackhawks,0.45,0.5
+2018-02-19,8:00 PM,Ottawa Senators,2,Nashville Predators,5,,Nashville Predators,Ottawa Senators,0.6666666666666666,0.43333333333333335
+2018-02-19,1:00 PM,Minnesota Wild,5,New York Islanders,3,,Minnesota Wild,New York Islanders,0.45,0.6333333333333333
+2018-02-19,10:00 PM,Anaheim Ducks,2,Vegas Golden Knights,0,,Anaheim Ducks,Vegas Golden Knights,0.75,0.6333333333333333
+2018-02-20,7:30 PM,Nashville Predators,3,Detroit Red Wings,2,,Nashville Predators,Detroit Red Wings,0.5,0.6666666666666666
+2018-02-20,9:00 PM,Boston Bruins,3,Edmonton Oilers,2,,Boston Bruins,Edmonton Oilers,0.4666666666666667,0.8
+2018-02-20,7:00 PM,Columbus Blue Jackets,2,New Jersey Devils,1,,Columbus Blue Jackets,New Jersey Devils,0.5666666666666667,0.43333333333333335
+2018-02-20,7:00 PM,Montreal Canadiens,2,Philadelphia Flyers,3,OT,Philadelphia Flyers,Montreal Canadiens,0.6833333333333333,0.36666666666666664
+2018-02-20,8:00 PM,San Jose Sharks,3,St. Louis Blues,2,,San Jose Sharks,St. Louis Blues,0.5,0.6166666666666667
+2018-02-20,7:00 PM,Florida Panthers,0,Toronto Maple Leafs,1,,Toronto Maple Leafs,Florida Panthers,0.6,0.5833333333333334
+2018-02-20,10:00 PM,Colorado Avalanche,5,Vancouver Canucks,4,OT,Colorado Avalanche,Vancouver Canucks,0.3333333333333333,0.6333333333333333
+2018-02-20,8:00 PM,Los Angeles Kings,4,Winnipeg Jets,3,,Los Angeles Kings,Winnipeg Jets,0.6833333333333333,0.5
+2018-02-20,7:00 PM,Tampa Bay Lightning,4,Washington Capitals,2,,Tampa Bay Lightning,Washington Capitals,0.6666666666666666,0.6166666666666667
+2018-02-21,10:00 PM,Dallas Stars,0,Anaheim Ducks,2,,Anaheim Ducks,Dallas Stars,0.6333333333333333,0.65
+2018-02-21,8:00 PM,Ottawa Senators,2,Chicago Blackhawks,3,SO,Chicago Blackhawks,Ottawa Senators,0.4166666666666667,0.43333333333333335
+2018-02-21,10:30 PM,Calgary Flames,3,Vegas Golden Knights,7,,Vegas Golden Knights,Calgary Flames,0.7166666666666667,0.5833333333333334
+2018-02-22,9:00 PM,Calgary Flames,5,Arizona Coyotes,2,,Calgary Flames,Arizona Coyotes,0.43333333333333335,0.5666666666666667
+2018-02-22,7:30 PM,Buffalo Sabres,3,Detroit Red Wings,2,OT,Buffalo Sabres,Detroit Red Wings,0.5,0.4166666666666667
+2018-02-22,9:00 PM,Colorado Avalanche,2,Edmonton Oilers,3,OT,Edmonton Oilers,Colorado Avalanche,0.43333333333333335,0.6333333333333333
+2018-02-22,7:30 PM,Washington Capitals,2,Florida Panthers,3,,Florida Panthers,Washington Capitals,0.5666666666666667,0.6333333333333333
+2018-02-22,10:30 PM,Dallas Stars,2,Los Angeles Kings,0,,Dallas Stars,Los Angeles Kings,0.5,0.65
+2018-02-22,7:30 PM,New York Rangers,1,Montreal Canadiens,3,,Montreal Canadiens,New York Rangers,0.38333333333333336,0.4
+2018-02-22,7:00 PM,Minnesota Wild,4,New Jersey Devils,2,,Minnesota Wild,New Jersey Devils,0.5333333333333333,0.6333333333333333
+2018-02-22,8:00 PM,San Jose Sharks,1,Nashville Predators,7,,Nashville Predators,San Jose Sharks,0.6833333333333333,0.6166666666666667
+2018-02-22,7:30 PM,Tampa Bay Lightning,4,Ottawa Senators,3,,Tampa Bay Lightning,Ottawa Senators,0.45,0.6166666666666667
+2018-02-22,7:00 PM,Columbus Blue Jackets,1,Philadelphia Flyers,2,,Philadelphia Flyers,Columbus Blue Jackets,0.6833333333333333,0.43333333333333335
+2018-02-22,7:00 PM,New York Islanders,3,Toronto Maple Leafs,4,SO,Toronto Maple Leafs,New York Islanders,0.6333333333333333,0.45
+2018-02-23,7:30 PM,Pittsburgh Penguins,6,Carolina Hurricanes,1,,Pittsburgh Penguins,Carolina Hurricanes,0.55,0.65
+2018-02-23,8:30 PM,San Jose Sharks,1,Chicago Blackhawks,3,,Chicago Blackhawks,San Jose Sharks,0.4166666666666667,0.6
+2018-02-23,7:00 PM,Minnesota Wild,4,New York Rangers,1,,Minnesota Wild,New York Rangers,0.4,0.6333333333333333
+2018-02-23,8:00 PM,Winnipeg Jets,4,St. Louis Blues,0,,Winnipeg Jets,St. Louis Blues,0.4666666666666667,0.6666666666666666
+2018-02-23,10:30 PM,Vancouver Canucks,3,Vegas Golden Knights,6,,Vegas Golden Knights,Vancouver Canucks,0.7333333333333333,0.35
+2018-02-24,8:00 PM,Anaheim Ducks,0,Arizona Coyotes,2,,Arizona Coyotes,Anaheim Ducks,0.4166666666666667,0.6333333333333333
+2018-02-24,7:00 PM,Chicago Blackhawks,2,Columbus Blue Jackets,3,,Columbus Blue Jackets,Chicago Blackhawks,0.43333333333333335,0.4166666666666667
+2018-02-24,4:00 PM,Colorado Avalanche,1,Calgary Flames,5,,Calgary Flames,Colorado Avalanche,0.6,0.65
+2018-02-24,7:00 PM,Winnipeg Jets,5,Dallas Stars,3,,Winnipeg Jets,Dallas Stars,0.65,0.6666666666666666
+2018-02-24,7:00 PM,Carolina Hurricanes,1,Detroit Red Wings,3,,Detroit Red Wings,Carolina Hurricanes,0.5,0.5166666666666667
+2018-02-24,7:00 PM,Pittsburgh Penguins,5,Florida Panthers,6,,Florida Panthers,Pittsburgh Penguins,0.5666666666666667,0.6833333333333333
+2018-02-24,10:00 PM,Edmonton Oilers,4,Los Angeles Kings,3,,Edmonton Oilers,Los Angeles Kings,0.4666666666666667,0.4666666666666667
+2018-02-24,7:00 PM,Tampa Bay Lightning,4,Montreal Canadiens,3,SO,Tampa Bay Lightning,Montreal Canadiens,0.4,0.6166666666666667
+2018-02-24,6:15 PM,New York Islanders,1,New Jersey Devils,2,,New Jersey Devils,New York Islanders,0.5166666666666667,0.4666666666666667
+2018-02-24,2:00 PM,Philadelphia Flyers,5,Ottawa Senators,3,,Philadelphia Flyers,Ottawa Senators,0.4166666666666667,0.6833333333333333
+2018-02-24,7:00 PM,Boston Bruins,3,Toronto Maple Leafs,4,,Toronto Maple Leafs,Boston Bruins,0.6666666666666666,0.8
+2018-02-24,7:00 PM,Buffalo Sabres,1,Washington Capitals,5,,Washington Capitals,Buffalo Sabres,0.6333333333333333,0.4166666666666667
+2018-02-25,8:00 PM,Edmonton Oilers,6,Anaheim Ducks,5,SO,Edmonton Oilers,Anaheim Ducks,0.6166666666666667,0.4666666666666667
+2018-02-25,9:30 PM,Vancouver Canucks,3,Arizona Coyotes,1,,Vancouver Canucks,Arizona Coyotes,0.45,0.35
+2018-02-25,5:00 PM,Boston Bruins,1,Buffalo Sabres,4,,Buffalo Sabres,Boston Bruins,0.4166666666666667,0.8
+2018-02-25,8:00 PM,San Jose Sharks,2,Minnesota Wild,3,OT,Minnesota Wild,San Jose Sharks,0.6333333333333333,0.6
+2018-02-25,12:00 PM,St. Louis Blues,0,Nashville Predators,4,,Nashville Predators,St. Louis Blues,0.6833333333333333,0.4666666666666667
+2018-02-25,7:30 PM,Detroit Red Wings,3,New York Rangers,2,OT,Detroit Red Wings,New York Rangers,0.36666666666666664,0.5166666666666667
+2018-02-26,7:00 PM,Washington Capitals,1,Columbus Blue Jackets,5,,Columbus Blue Jackets,Washington Capitals,0.43333333333333335,0.6333333333333333
+2018-02-26,9:00 PM,Vancouver Canucks,1,Colorado Avalanche,3,,Colorado Avalanche,Vancouver Canucks,0.6166666666666667,0.38333333333333336
+2018-02-26,10:30 PM,Vegas Golden Knights,2,Los Angeles Kings,3,OT,Los Angeles Kings,Vegas Golden Knights,0.4666666666666667,0.7333333333333333
+2018-02-26,7:30 PM,Philadelphia Flyers,1,Montreal Canadiens,0,SO,Philadelphia Flyers,Montreal Canadiens,0.4166666666666667,0.6833333333333333
+2018-02-26,7:30 PM,Toronto Maple Leafs,3,Tampa Bay Lightning,4,SO,Tampa Bay Lightning,Toronto Maple Leafs,0.6166666666666667,0.7
+2018-02-27,7:00 PM,Carolina Hurricanes,3,Boston Bruins,4,OT,Boston Bruins,Carolina Hurricanes,0.7833333333333333,0.48333333333333334
+2018-02-27,8:30 PM,Calgary Flames,0,Dallas Stars,2,,Dallas Stars,Calgary Flames,0.6166666666666667,0.6333333333333333
+2018-02-27,7:30 PM,Toronto Maple Leafs,2,Florida Panthers,3,OT,Florida Panthers,Toronto Maple Leafs,0.6,0.6833333333333333
+2018-02-27,8:00 PM,St. Louis Blues,3,Minnesota Wild,8,,Minnesota Wild,St. Louis Blues,0.6666666666666666,0.4666666666666667
+2018-02-27,7:00 PM,New Jersey Devils,3,Pittsburgh Penguins,2,,New Jersey Devils,Pittsburgh Penguins,0.6833333333333333,0.5166666666666667
+2018-02-27,10:30 PM,Edmonton Oilers,2,San Jose Sharks,5,,San Jose Sharks,Edmonton Oilers,0.5833333333333334,0.5
+2018-02-27,10:30 PM,Los Angeles Kings,4,Vegas Golden Knights,1,,Los Angeles Kings,Vegas Golden Knights,0.7166666666666667,0.5
+2018-02-27,8:00 PM,Nashville Predators,6,Winnipeg Jets,5,,Nashville Predators,Winnipeg Jets,0.7,0.6833333333333333
+2018-02-27,7:00 PM,Ottawa Senators,2,Washington Capitals,3,,Washington Capitals,Ottawa Senators,0.6,0.38333333333333336
+2018-02-28,9:30 PM,Calgary Flames,2,Colorado Avalanche,5,,Colorado Avalanche,Calgary Flames,0.65,0.6
+2018-02-28,7:00 PM,New York Islanders,1,Montreal Canadiens,3,,Montreal Canadiens,New York Islanders,0.4,0.43333333333333335
+2018-02-28,8:00 PM,Detroit Red Wings,1,St. Louis Blues,2,,St. Louis Blues,Detroit Red Wings,0.43333333333333335,0.5166666666666667
+2018-02-28,7:00 PM,Buffalo Sabres,2,Tampa Bay Lightning,1,OT,Buffalo Sabres,Tampa Bay Lightning,0.65,0.43333333333333335
+2018-02-28,10:00 PM,New York Rangers,6,Vancouver Canucks,5,OT,New York Rangers,Vancouver Canucks,0.35,0.35
+2018-03-01,9:00 PM,Minnesota Wild,3,Arizona Coyotes,5,,Arizona Coyotes,Minnesota Wild,0.45,0.7
+2018-03-01,7:00 PM,Pittsburgh Penguins,4,Boston Bruins,8,,Boston Bruins,Pittsburgh Penguins,0.7833333333333333,0.65
+2018-03-01,8:30 PM,Tampa Bay Lightning,5,Dallas Stars,4,OT,Tampa Bay Lightning,Dallas Stars,0.65,0.6333333333333333
+2018-03-01,9:00 PM,Nashville Predators,4,Edmonton Oilers,2,,Nashville Predators,Edmonton Oilers,0.4666666666666667,0.6833333333333333
+2018-03-01,7:30 PM,New Jersey Devils,2,Florida Panthers,3,,Florida Panthers,New Jersey Devils,0.6,0.5166666666666667
+2018-03-01,10:30 PM,Columbus Blue Jackets,2,Los Angeles Kings,5,,Los Angeles Kings,Columbus Blue Jackets,0.5166666666666667,0.4666666666666667
+2018-03-01,7:00 PM,Carolina Hurricanes,4,Philadelphia Flyers,1,,Carolina Hurricanes,Philadelphia Flyers,0.7166666666666667,0.5
+2018-03-01,10:00 PM,Chicago Blackhawks,2,San Jose Sharks,7,,San Jose Sharks,Chicago Blackhawks,0.5833333333333334,0.38333333333333336
+2018-03-02,10:00 PM,Columbus Blue Jackets,2,Anaheim Ducks,4,,Anaheim Ducks,Columbus Blue Jackets,0.6333333333333333,0.4666666666666667
+2018-03-02,7:30 PM,New Jersey Devils,1,Carolina Hurricanes,3,,Carolina Hurricanes,New Jersey Devils,0.5,0.48333333333333334
+2018-03-02,9:00 PM,New York Rangers,3,Calgary Flames,1,,New York Rangers,Calgary Flames,0.5666666666666667,0.35
+2018-03-02,9:00 PM,Minnesota Wild,1,Colorado Avalanche,7,,Colorado Avalanche,Minnesota Wild,0.65,0.6666666666666666
+2018-03-02,7:30 PM,Buffalo Sabres,1,Florida Panthers,4,,Florida Panthers,Buffalo Sabres,0.6166666666666667,0.4666666666666667
+2018-03-02,7:00 PM,Montreal Canadiens,6,New York Islanders,3,,Montreal Canadiens,New York Islanders,0.43333333333333335,0.43333333333333335
+2018-03-02,10:00 PM,Nashville Predators,4,Vancouver Canucks,3,OT,Nashville Predators,Vancouver Canucks,0.36666666666666664,0.7166666666666667
+2018-03-02,10:00 PM,Ottawa Senators,5,Vegas Golden Knights,4,,Ottawa Senators,Vegas Golden Knights,0.6833333333333333,0.38333333333333336
+2018-03-02,8:00 PM,Detroit Red Wings,3,Winnipeg Jets,4,,Winnipeg Jets,Detroit Red Wings,0.7,0.48333333333333334
+2018-03-03,8:00 PM,Ottawa Senators,1,Arizona Coyotes,2,,Arizona Coyotes,Ottawa Senators,0.48333333333333334,0.4
+2018-03-03,5:00 PM,Montreal Canadiens,1,Boston Bruins,2,OT,Boston Bruins,Montreal Canadiens,0.7833333333333333,0.43333333333333335
+2018-03-03,2:00 PM,St. Louis Blues,2,Dallas Stars,3,OT,Dallas Stars,St. Louis Blues,0.65,0.4666666666666667
+2018-03-03,10:30 PM,New York Rangers,3,Edmonton Oilers,2,,New York Rangers,Edmonton Oilers,0.43333333333333335,0.36666666666666664
+2018-03-03,4:00 PM,Chicago Blackhawks,5,Los Angeles Kings,3,,Chicago Blackhawks,Los Angeles Kings,0.5166666666666667,0.38333333333333336
+2018-03-03,5:00 PM,New York Islanders,2,Pittsburgh Penguins,3,OT,Pittsburgh Penguins,New York Islanders,0.65,0.4166666666666667
+2018-03-03,1:00 PM,Philadelphia Flyers,6,Tampa Bay Lightning,7,SO,Tampa Bay Lightning,Philadelphia Flyers,0.6333333333333333,0.6833333333333333
+2018-03-03,8:00 PM,Toronto Maple Leafs,2,Washington Capitals,5,,Washington Capitals,Toronto Maple Leafs,0.6,0.7
+2018-03-04,4:00 PM,Chicago Blackhawks,3,Anaheim Ducks,6,,Anaheim Ducks,Chicago Blackhawks,0.6666666666666666,0.4166666666666667
+2018-03-04,7:00 PM,Winnipeg Jets,3,Carolina Hurricanes,2,,Winnipeg Jets,Carolina Hurricanes,0.5,0.7
+2018-03-04,3:00 PM,Nashville Predators,4,Colorado Avalanche,3,OT,Nashville Predators,Colorado Avalanche,0.6666666666666666,0.75
+2018-03-04,3:00 PM,Philadelphia Flyers,1,Florida Panthers,4,,Florida Panthers,Philadelphia Flyers,0.65,0.7
+2018-03-04,7:00 PM,Detroit Red Wings,1,Minnesota Wild,4,,Minnesota Wild,Detroit Red Wings,0.6666666666666666,0.48333333333333334
+2018-03-04,5:00 PM,Vegas Golden Knights,3,New Jersey Devils,2,,Vegas Golden Knights,New Jersey Devils,0.45,0.65
+2018-03-04,9:00 PM,Columbus Blue Jackets,4,San Jose Sharks,2,,Columbus Blue Jackets,San Jose Sharks,0.5833333333333334,0.43333333333333335
+2018-03-05,7:30 PM,Toronto Maple Leafs,3,Buffalo Sabres,5,,Buffalo Sabres,Toronto Maple Leafs,0.43333333333333335,0.6666666666666666
+2018-03-05,8:30 PM,Ottawa Senators,3,Dallas Stars,2,OT,Ottawa Senators,Dallas Stars,0.6666666666666666,0.4
+2018-03-05,9:00 PM,Arizona Coyotes,3,Edmonton Oilers,4,OT,Edmonton Oilers,Arizona Coyotes,0.4,0.5166666666666667
+2018-03-05,7:00 PM,Calgary Flames,3,Pittsburgh Penguins,4,OT,Pittsburgh Penguins,Calgary Flames,0.65,0.5666666666666667
+2018-03-05,10:00 PM,New York Islanders,3,Vancouver Canucks,4,OT,Vancouver Canucks,New York Islanders,0.38333333333333336,0.4
+2018-03-06,10:00 PM,Washington Capitals,0,Anaheim Ducks,4,,Anaheim Ducks,Washington Capitals,0.6666666666666666,0.6
+2018-03-06,7:00 PM,Detroit Red Wings,5,Boston Bruins,6,OT,Boston Bruins,Detroit Red Wings,0.7833333333333333,0.48333333333333334
+2018-03-06,7:00 PM,Vegas Golden Knights,1,Columbus Blue Jackets,4,,Columbus Blue Jackets,Vegas Golden Knights,0.45,0.65
+2018-03-06,8:30 PM,Colorado Avalanche,1,Chicago Blackhawks,2,OT,Chicago Blackhawks,Colorado Avalanche,0.4166666666666667,0.65
+2018-03-06,8:00 PM,Carolina Hurricanes,2,Minnesota Wild,6,,Minnesota Wild,Carolina Hurricanes,0.7,0.4666666666666667
+2018-03-06,7:00 PM,Montreal Canadiens,4,New Jersey Devils,6,,New Jersey Devils,Montreal Canadiens,0.4166666666666667,0.4166666666666667
+2018-03-06,8:00 PM,Dallas Stars,0,Nashville Predators,2,,Nashville Predators,Dallas Stars,0.7666666666666667,0.65
+2018-03-06,7:00 PM,Winnipeg Jets,3,New York Rangers,0,,Winnipeg Jets,New York Rangers,0.4,0.7
+2018-03-06,7:30 PM,Florida Panthers,4,Tampa Bay Lightning,5,OT,Tampa Bay Lightning,Florida Panthers,0.6333333333333333,0.6833333333333333
+2018-03-07,7:30 PM,Calgary Flames,5,Buffalo Sabres,1,,Calgary Flames,Buffalo Sabres,0.4666666666666667,0.5666666666666667
+2018-03-07,8:00 PM,Pittsburgh Penguins,5,Philadelphia Flyers,2,,Pittsburgh Penguins,Philadelphia Flyers,0.6833333333333333,0.6833333333333333
+2018-03-07,10:00 PM,Arizona Coyotes,2,Vancouver Canucks,1,,Arizona Coyotes,Vancouver Canucks,0.4,0.5333333333333333
+2018-03-08,7:00 PM,Philadelphia Flyers,2,Boston Bruins,3,,Boston Bruins,Philadelphia Flyers,0.7833333333333333,0.6833333333333333
+2018-03-08,7:00 PM,Colorado Avalanche,4,Columbus Blue Jackets,5,OT,Columbus Blue Jackets,Colorado Avalanche,0.45,0.6666666666666666
+2018-03-08,8:30 PM,Carolina Hurricanes,3,Chicago Blackhawks,2,,Carolina Hurricanes,Chicago Blackhawks,0.4166666666666667,0.43333333333333335
+2018-03-08,7:30 PM,Vegas Golden Knights,4,Detroit Red Wings,0,,Vegas Golden Knights,Detroit Red Wings,0.5,0.6166666666666667
+2018-03-08,9:00 PM,New York Islanders,1,Edmonton Oilers,2,SO,Edmonton Oilers,New York Islanders,0.4,0.38333333333333336
+2018-03-08,7:30 PM,Montreal Canadiens,0,Florida Panthers,5,,Florida Panthers,Montreal Canadiens,0.6666666666666666,0.4166666666666667
+2018-03-08,10:30 PM,Washington Capitals,1,Los Angeles Kings,3,,Los Angeles Kings,Washington Capitals,0.48333333333333334,0.5833333333333334
+2018-03-08,7:00 PM,Winnipeg Jets,3,New Jersey Devils,2,,Winnipeg Jets,New Jersey Devils,0.43333333333333335,0.7166666666666667
+2018-03-08,8:00 PM,Anaheim Ducks,2,Nashville Predators,4,,Nashville Predators,Anaheim Ducks,0.7666666666666667,0.6666666666666666
+2018-03-08,7:30 PM,Buffalo Sabres,4,Ottawa Senators,3,SO,Buffalo Sabres,Ottawa Senators,0.43333333333333335,0.45
+2018-03-08,10:30 PM,St. Louis Blues,0,San Jose Sharks,2,,San Jose Sharks,St. Louis Blues,0.5833333333333334,0.48333333333333334
+2018-03-08,7:30 PM,New York Rangers,3,Tampa Bay Lightning,5,,Tampa Bay Lightning,New York Rangers,0.6666666666666666,0.36666666666666664
+2018-03-09,7:00 PM,Detroit Red Wings,2,Columbus Blue Jackets,3,,Columbus Blue Jackets,Detroit Red Wings,0.4666666666666667,0.4666666666666667
+2018-03-09,8:30 PM,Anaheim Ducks,1,Dallas Stars,2,,Dallas Stars,Anaheim Ducks,0.6166666666666667,0.6666666666666666
+2018-03-09,7:30 PM,Calgary Flames,2,Ottawa Senators,1,,Calgary Flames,Ottawa Senators,0.4166666666666667,0.6
+2018-03-09,10:00 PM,Minnesota Wild,5,Vancouver Canucks,2,,Minnesota Wild,Vancouver Canucks,0.4,0.7
+2018-03-10,1:00 PM,Chicago Blackhawks,4,Boston Bruins,7,,Boston Bruins,Chicago Blackhawks,0.7833333333333333,0.4
+2018-03-10,1:00 PM,Vegas Golden Knights,2,Buffalo Sabres,1,SO,Vegas Golden Knights,Buffalo Sabres,0.45,0.6166666666666667
+2018-03-10,3:00 PM,Arizona Coyotes,2,Colorado Avalanche,5,,Colorado Avalanche,Arizona Coyotes,0.65,0.5666666666666667
+2018-03-10,10:00 PM,Minnesota Wild,1,Edmonton Oilers,4,,Edmonton Oilers,Minnesota Wild,0.43333333333333335,0.7
+2018-03-10,7:00 PM,New York Rangers,3,Florida Panthers,4,SO,Florida Panthers,New York Rangers,0.6666666666666666,0.35
+2018-03-10,4:00 PM,St. Louis Blues,7,Los Angeles Kings,2,,St. Louis Blues,Los Angeles Kings,0.5166666666666667,0.48333333333333334
+2018-03-10,8:00 PM,New Jersey Devils,3,Nashville Predators,2,SO,New Jersey Devils,Nashville Predators,0.8,0.43333333333333335
+2018-03-10,1:00 PM,Winnipeg Jets,1,Philadelphia Flyers,2,,Philadelphia Flyers,Winnipeg Jets,0.65,0.75
+2018-03-10,4:00 PM,Washington Capitals,2,San Jose Sharks,0,,Washington Capitals,San Jose Sharks,0.5833333333333334,0.5833333333333334
+2018-03-10,1:00 PM,Montreal Canadiens,2,Tampa Bay Lightning,3,SO,Tampa Bay Lightning,Montreal Canadiens,0.6666666666666666,0.4166666666666667
+2018-03-10,7:00 PM,Pittsburgh Penguins,2,Toronto Maple Leafs,5,,Toronto Maple Leafs,Pittsburgh Penguins,0.6333333333333333,0.6833333333333333
+2018-03-11,9:00 PM,Vancouver Canucks,0,Arizona Coyotes,1,,Arizona Coyotes,Vancouver Canucks,0.5333333333333333,0.36666666666666664
+2018-03-11,7:00 PM,New York Islanders,5,Calgary Flames,2,,New York Islanders,Calgary Flames,0.6,0.4
+2018-03-11,12:30 PM,Boston Bruins,1,Chicago Blackhawks,3,,Chicago Blackhawks,Boston Bruins,0.36666666666666664,0.8
+2018-03-11,7:30 PM,Dallas Stars,1,Pittsburgh Penguins,3,,Pittsburgh Penguins,Dallas Stars,0.6833333333333333,0.65
+2018-03-12,10:00 PM,St. Louis Blues,4,Anaheim Ducks,2,,St. Louis Blues,Anaheim Ducks,0.6333333333333333,0.48333333333333334
+2018-03-12,7:00 PM,Montreal Canadiens,2,Columbus Blue Jackets,5,,Columbus Blue Jackets,Montreal Canadiens,0.5,0.43333333333333335
+2018-03-12,7:30 PM,Ottawa Senators,5,Florida Panthers,3,,Ottawa Senators,Florida Panthers,0.6666666666666666,0.4166666666666667
+2018-03-12,10:30 PM,Vancouver Canucks,0,Los Angeles Kings,3,,Los Angeles Kings,Vancouver Canucks,0.5,0.36666666666666664
+2018-03-12,7:00 PM,Carolina Hurricanes,3,New York Rangers,6,,New York Rangers,Carolina Hurricanes,0.3333333333333333,0.4666666666666667
+2018-03-12,7:00 PM,Vegas Golden Knights,3,Philadelphia Flyers,2,,Vegas Golden Knights,Philadelphia Flyers,0.6833333333333333,0.6166666666666667
+2018-03-12,10:30 PM,Detroit Red Wings,3,San Jose Sharks,5,,San Jose Sharks,Detroit Red Wings,0.5666666666666667,0.43333333333333335
+2018-03-12,7:00 PM,Winnipeg Jets,2,Washington Capitals,3,OT,Washington Capitals,Winnipeg Jets,0.6,0.7166666666666667
+2018-03-13,10:00 PM,Los Angeles Kings,3,Arizona Coyotes,4,SO,Arizona Coyotes,Los Angeles Kings,0.5666666666666667,0.5
+2018-03-13,7:00 PM,Boston Bruins,6,Carolina Hurricanes,4,,Boston Bruins,Carolina Hurricanes,0.45,0.7666666666666667
+2018-03-13,9:00 PM,Edmonton Oilers,0,Calgary Flames,1,,Calgary Flames,Edmonton Oilers,0.5666666666666667,0.45
+2018-03-13,8:30 PM,Colorado Avalanche,5,Minnesota Wild,1,,Colorado Avalanche,Minnesota Wild,0.7,0.65
+2018-03-13,7:30 PM,Dallas Stars,2,Montreal Canadiens,4,,Montreal Canadiens,Dallas Stars,0.43333333333333335,0.6166666666666667
+2018-03-13,8:00 PM,Winnipeg Jets,1,Nashville Predators,3,,Nashville Predators,Winnipeg Jets,0.7833333333333333,0.7
+2018-03-13,7:30 PM,Ottawa Senators,7,Tampa Bay Lightning,4,,Ottawa Senators,Tampa Bay Lightning,0.6666666666666666,0.43333333333333335
+2018-03-14,10:00 PM,Vancouver Canucks,0,Anaheim Ducks,3,,Anaheim Ducks,Vancouver Canucks,0.6,0.36666666666666664
+2018-03-14,9:30 PM,San Jose Sharks,4,Edmonton Oilers,3,OT,San Jose Sharks,Edmonton Oilers,0.45,0.5833333333333334
+2018-03-14,8:00 PM,Pittsburgh Penguins,3,New York Rangers,4,OT,New York Rangers,Pittsburgh Penguins,0.36666666666666664,0.7166666666666667
+2018-03-14,7:00 PM,Dallas Stars,5,Toronto Maple Leafs,6,SO,Toronto Maple Leafs,Dallas Stars,0.65,0.5833333333333334
+2018-03-14,10:00 PM,New Jersey Devils,8,Vegas Golden Knights,3,,New Jersey Devils,Vegas Golden Knights,0.65,0.45
+2018-03-15,10:00 PM,Nashville Predators,3,Arizona Coyotes,2,,Nashville Predators,Arizona Coyotes,0.5666666666666667,0.8166666666666667
+2018-03-15,7:00 PM,Toronto Maple Leafs,5,Buffalo Sabres,2,,Toronto Maple Leafs,Buffalo Sabres,0.45,0.6833333333333333
+2018-03-15,7:30 PM,Boston Bruins,0,Florida Panthers,3,,Florida Panthers,Boston Bruins,0.6333333333333333,0.7666666666666667
+2018-03-15,10:00 PM,Detroit Red Wings,1,Los Angeles Kings,4,,Los Angeles Kings,Detroit Red Wings,0.48333333333333334,0.4
+2018-03-15,7:30 PM,Pittsburgh Penguins,5,Montreal Canadiens,3,,Pittsburgh Penguins,Montreal Canadiens,0.4666666666666667,0.7
+2018-03-15,7:00 PM,Washington Capitals,7,New York Islanders,3,,Washington Capitals,New York Islanders,0.43333333333333335,0.6
+2018-03-15,7:00 PM,Columbus Blue Jackets,5,Philadelphia Flyers,3,,Columbus Blue Jackets,Philadelphia Flyers,0.65,0.5333333333333333
+2018-03-15,8:00 PM,Colorado Avalanche,4,St. Louis Blues,1,,Colorado Avalanche,St. Louis Blues,0.5166666666666667,0.65
+2018-03-15,8:00 PM,Chicago Blackhawks,2,Winnipeg Jets,6,,Winnipeg Jets,Chicago Blackhawks,0.6666666666666666,0.4
+2018-03-16,10:00 PM,Detroit Red Wings,2,Anaheim Ducks,4,,Anaheim Ducks,Detroit Red Wings,0.6,0.36666666666666664
+2018-03-16,9:00 PM,San Jose Sharks,7,Calgary Flames,4,,San Jose Sharks,Calgary Flames,0.5666666666666667,0.6166666666666667
+2018-03-16,9:00 PM,Nashville Predators,4,Colorado Avalanche,2,,Nashville Predators,Colorado Avalanche,0.65,0.8333333333333334
+2018-03-16,7:30 PM,Dallas Stars,2,Ottawa Senators,3,OT,Ottawa Senators,Dallas Stars,0.43333333333333335,0.6
+2018-03-16,10:30 PM,Minnesota Wild,4,Vegas Golden Knights,2,,Minnesota Wild,Vegas Golden Knights,0.6166666666666667,0.6666666666666666
+2018-03-16,7:00 PM,New York Islanders,3,Washington Capitals,6,,Washington Capitals,New York Islanders,0.6,0.43333333333333335
+2018-03-17,9:00 PM,Minnesota Wild,3,Arizona Coyotes,1,,Minnesota Wild,Arizona Coyotes,0.5666666666666667,0.6666666666666666
+2018-03-17,1:00 PM,Chicago Blackhawks,3,Buffalo Sabres,5,,Buffalo Sabres,Chicago Blackhawks,0.45,0.36666666666666664
+2018-03-17,7:00 PM,Philadelphia Flyers,4,Carolina Hurricanes,2,,Philadelphia Flyers,Carolina Hurricanes,0.4166666666666667,0.6166666666666667
+2018-03-17,7:00 PM,Ottawa Senators,1,Columbus Blue Jackets,2,,Columbus Blue Jackets,Ottawa Senators,0.5333333333333333,0.43333333333333335
+2018-03-17,2:00 PM,Edmonton Oilers,4,Florida Panthers,2,,Edmonton Oilers,Florida Panthers,0.6333333333333333,0.4666666666666667
+2018-03-17,4:00 PM,New Jersey Devils,3,Los Angeles Kings,0,,New Jersey Devils,Los Angeles Kings,0.5166666666666667,0.48333333333333334
+2018-03-17,8:00 PM,New York Rangers,3,St. Louis Blues,4,OT,St. Louis Blues,New York Rangers,0.5166666666666667,0.36666666666666664
+2018-03-17,7:00 PM,Boston Bruins,3,Tampa Bay Lightning,0,,Boston Bruins,Tampa Bay Lightning,0.65,0.7333333333333333
+2018-03-17,7:00 PM,Montreal Canadiens,0,Toronto Maple Leafs,4,,Toronto Maple Leafs,Montreal Canadiens,0.7166666666666667,0.43333333333333335
+2018-03-17,10:00 PM,San Jose Sharks,5,Vancouver Canucks,3,,San Jose Sharks,Vancouver Canucks,0.35,0.6166666666666667
+2018-03-18,9:00 PM,New Jersey Devils,2,Anaheim Ducks,4,,Anaheim Ducks,New Jersey Devils,0.6166666666666667,0.5
+2018-03-18,7:30 PM,St. Louis Blues,5,Chicago Blackhawks,4,OT,St. Louis Blues,Chicago Blackhawks,0.3333333333333333,0.5166666666666667
+2018-03-18,3:00 PM,Detroit Red Wings,1,Colorado Avalanche,5,,Colorado Avalanche,Detroit Red Wings,0.6166666666666667,0.36666666666666664
+2018-03-18,5:00 PM,Carolina Hurricanes,4,New York Islanders,3,,Carolina Hurricanes,New York Islanders,0.43333333333333335,0.4166666666666667
+2018-03-18,5:00 PM,Washington Capitals,3,Philadelphia Flyers,6,,Philadelphia Flyers,Washington Capitals,0.6166666666666667,0.6
+2018-03-18,5:00 PM,Edmonton Oilers,1,Tampa Bay Lightning,3,,Tampa Bay Lightning,Edmonton Oilers,0.65,0.4666666666666667
+2018-03-18,4:00 PM,Calgary Flames,0,Vegas Golden Knights,4,,Vegas Golden Knights,Calgary Flames,0.5833333333333334,0.5333333333333333
+2018-03-18,7:30 PM,Dallas Stars,2,Winnipeg Jets,4,,Winnipeg Jets,Dallas Stars,0.6833333333333333,0.5833333333333334
+2018-03-19,10:00 PM,Calgary Flames,2,Arizona Coyotes,5,,Arizona Coyotes,Calgary Flames,0.5666666666666667,0.5
+2018-03-19,7:00 PM,Columbus Blue Jackets,5,Boston Bruins,4,OT,Columbus Blue Jackets,Boston Bruins,0.75,0.5666666666666667
+2018-03-19,7:00 PM,Nashville Predators,4,Buffalo Sabres,0,,Nashville Predators,Buffalo Sabres,0.48333333333333334,0.8333333333333334
+2018-03-19,8:00 PM,Los Angeles Kings,4,Minnesota Wild,3,OT,Los Angeles Kings,Minnesota Wild,0.7,0.5166666666666667
+2018-03-19,7:30 PM,Florida Panthers,2,Montreal Canadiens,0,,Florida Panthers,Montreal Canadiens,0.4,0.6333333333333333
+2018-03-20,7:00 PM,Edmonton Oilers,7,Carolina Hurricanes,3,,Edmonton Oilers,Carolina Hurricanes,0.45,0.4666666666666667
+2018-03-20,8:30 PM,Colorado Avalanche,5,Chicago Blackhawks,1,,Colorado Avalanche,Chicago Blackhawks,0.35,0.6166666666666667
+2018-03-20,7:30 PM,Philadelphia Flyers,4,Detroit Red Wings,5,SO,Detroit Red Wings,Philadelphia Flyers,0.36666666666666664,0.6166666666666667
+2018-03-20,7:00 PM,Pittsburgh Penguins,1,New York Islanders,4,,New York Islanders,Pittsburgh Penguins,0.43333333333333335,0.7333333333333333
+2018-03-20,7:00 PM,Columbus Blue Jackets,5,New York Rangers,3,,Columbus Blue Jackets,New York Rangers,0.38333333333333336,0.5666666666666667
+2018-03-20,7:30 PM,Florida Panthers,7,Ottawa Senators,2,,Florida Panthers,Ottawa Senators,0.43333333333333335,0.6666666666666666
+2018-03-20,10:30 PM,New Jersey Devils,2,San Jose Sharks,6,,San Jose Sharks,New Jersey Devils,0.6166666666666667,0.5
+2018-03-20,7:30 PM,Toronto Maple Leafs,3,Tampa Bay Lightning,4,,Tampa Bay Lightning,Toronto Maple Leafs,0.65,0.7166666666666667
+2018-03-20,10:00 PM,Vancouver Canucks,1,Vegas Golden Knights,4,,Vegas Golden Knights,Vancouver Canucks,0.6,0.35
+2018-03-20,8:00 PM,Los Angeles Kings,1,Winnipeg Jets,2,OT,Winnipeg Jets,Los Angeles Kings,0.6833333333333333,0.55
+2018-03-20,7:00 PM,Dallas Stars,3,Washington Capitals,4,,Washington Capitals,Dallas Stars,0.5666666666666667,0.55
+2018-03-21,7:00 PM,Arizona Coyotes,4,Buffalo Sabres,1,,Arizona Coyotes,Buffalo Sabres,0.48333333333333334,0.5666666666666667
+2018-03-21,9:30 PM,Anaheim Ducks,4,Calgary Flames,0,,Anaheim Ducks,Calgary Flames,0.4666666666666667,0.65
+2018-03-21,7:00 PM,Montreal Canadiens,3,Pittsburgh Penguins,5,,Pittsburgh Penguins,Montreal Canadiens,0.7,0.38333333333333336
+2018-03-21,8:00 PM,Boston Bruins,1,St. Louis Blues,2,OT,St. Louis Blues,Boston Bruins,0.5166666666666667,0.7333333333333333
+2018-03-22,7:00 PM,Arizona Coyotes,5,Carolina Hurricanes,6,,Carolina Hurricanes,Arizona Coyotes,0.4166666666666667,0.5833333333333334
+2018-03-22,7:00 PM,Florida Panthers,0,Columbus Blue Jackets,4,,Columbus Blue Jackets,Florida Panthers,0.5666666666666667,0.6833333333333333
+2018-03-22,8:30 PM,Vancouver Canucks,5,Chicago Blackhawks,2,,Vancouver Canucks,Chicago Blackhawks,0.31666666666666665,0.35
+2018-03-22,9:00 PM,Los Angeles Kings,7,Colorado Avalanche,1,,Los Angeles Kings,Colorado Avalanche,0.6166666666666667,0.5666666666666667
+2018-03-22,7:30 PM,Washington Capitals,1,Detroit Red Wings,0,,Washington Capitals,Detroit Red Wings,0.36666666666666664,0.5666666666666667
+2018-03-22,8:00 PM,Toronto Maple Leafs,5,Nashville Predators,2,,Toronto Maple Leafs,Nashville Predators,0.8333333333333334,0.6833333333333333
+2018-03-22,7:00 PM,Tampa Bay Lightning,7,New York Islanders,6,,Tampa Bay Lightning,New York Islanders,0.43333333333333335,0.65
+2018-03-22,7:30 PM,Edmonton Oilers,6,Ottawa Senators,2,,Edmonton Oilers,Ottawa Senators,0.4,0.5
+2018-03-22,7:00 PM,New York Rangers,3,Philadelphia Flyers,4,,Philadelphia Flyers,New York Rangers,0.6333333333333333,0.38333333333333336
+2018-03-22,10:00 PM,Vegas Golden Knights,1,San Jose Sharks,2,OT,San Jose Sharks,Vegas Golden Knights,0.6166666666666667,0.6333333333333333
+2018-03-23,7:00 PM,Montreal Canadiens,3,Buffalo Sabres,0,,Montreal Canadiens,Buffalo Sabres,0.48333333333333334,0.36666666666666664
+2018-03-23,8:30 PM,Boston Bruins,3,Dallas Stars,2,,Boston Bruins,Dallas Stars,0.55,0.7333333333333333
+2018-03-23,7:00 PM,New Jersey Devils,4,Pittsburgh Penguins,3,OT,New Jersey Devils,Pittsburgh Penguins,0.7,0.4666666666666667
+2018-03-23,8:00 PM,Vancouver Canucks,1,St. Louis Blues,4,,St. Louis Blues,Vancouver Canucks,0.5166666666666667,0.35
+2018-03-23,8:00 PM,Anaheim Ducks,2,Winnipeg Jets,3,OT,Winnipeg Jets,Anaheim Ducks,0.6833333333333333,0.65
+2018-03-24,7:00 PM,St. Louis Blues,2,Columbus Blue Jackets,1,,St. Louis Blues,Columbus Blue Jackets,0.6,0.55
+2018-03-24,3:00 PM,Vegas Golden Knights,1,Colorado Avalanche,2,SO,Colorado Avalanche,Vegas Golden Knights,0.5833333333333334,0.6166666666666667
+2018-03-24,10:00 PM,Los Angeles Kings,2,Edmonton Oilers,3,,Edmonton Oilers,Los Angeles Kings,0.5333333333333333,0.6
+2018-03-24,7:00 PM,Arizona Coyotes,2,Florida Panthers,4,,Florida Panthers,Arizona Coyotes,0.65,0.5833333333333334
+2018-03-24,8:00 PM,Nashville Predators,1,Minnesota Wild,4,,Minnesota Wild,Nashville Predators,0.7,0.8
+2018-03-24,7:00 PM,Washington Capitals,6,Montreal Canadiens,4,,Washington Capitals,Montreal Canadiens,0.4,0.6
+2018-03-24,7:00 PM,Tampa Bay Lightning,1,New Jersey Devils,2,,New Jersey Devils,Tampa Bay Lightning,0.4666666666666667,0.6833333333333333
+2018-03-24,7:00 PM,Chicago Blackhawks,3,New York Islanders,1,,Chicago Blackhawks,New York Islanders,0.4,0.31666666666666665
+2018-03-24,7:00 PM,Buffalo Sabres,1,New York Rangers,5,,New York Rangers,Buffalo Sabres,0.38333333333333336,0.45
+2018-03-24,7:00 PM,Carolina Hurricanes,5,Ottawa Senators,2,,Carolina Hurricanes,Ottawa Senators,0.4,0.45
+2018-03-24,4:00 PM,Calgary Flames,1,San Jose Sharks,5,,San Jose Sharks,Calgary Flames,0.65,0.43333333333333335
+2018-03-24,7:00 PM,Detroit Red Wings,3,Toronto Maple Leafs,4,,Toronto Maple Leafs,Detroit Red Wings,0.7,0.36666666666666664
+2018-03-25,7:00 PM,Vancouver Canucks,4,Dallas Stars,1,,Vancouver Canucks,Dallas Stars,0.5166666666666667,0.31666666666666665
+2018-03-25,9:30 PM,Anaheim Ducks,5,Edmonton Oilers,4,OT,Anaheim Ducks,Edmonton Oilers,0.5333333333333333,0.6666666666666666
+2018-03-25,7:30 PM,Boston Bruins,2,Minnesota Wild,1,OT,Boston Bruins,Minnesota Wild,0.7,0.7333333333333333
+2018-03-25,12:30 PM,Philadelphia Flyers,4,Pittsburgh Penguins,5,OT,Pittsburgh Penguins,Philadelphia Flyers,0.6833333333333333,0.6333333333333333
+2018-03-25,7:00 PM,Nashville Predators,4,Winnipeg Jets,5,SO,Winnipeg Jets,Nashville Predators,0.6833333333333333,0.7666666666666667
+2018-03-26,7:00 PM,Ottawa Senators,1,Carolina Hurricanes,4,,Carolina Hurricanes,Ottawa Senators,0.48333333333333334,0.4
+2018-03-26,8:30 PM,San Jose Sharks,4,Chicago Blackhawks,3,SO,San Jose Sharks,Chicago Blackhawks,0.35,0.65
+2018-03-26,10:30 PM,Calgary Flames,0,Los Angeles Kings,3,,Los Angeles Kings,Calgary Flames,0.6,0.4166666666666667
+2018-03-26,7:30 PM,Detroit Red Wings,2,Montreal Canadiens,4,,Montreal Canadiens,Detroit Red Wings,0.36666666666666664,0.36666666666666664
+2018-03-26,7:00 PM,Florida Panthers,3,New York Islanders,0,,Florida Panthers,New York Islanders,0.36666666666666664,0.6833333333333333
+2018-03-26,7:30 PM,Washington Capitals,4,New York Rangers,2,,Washington Capitals,New York Rangers,0.38333333333333336,0.6
+2018-03-26,7:30 PM,Arizona Coyotes,4,Tampa Bay Lightning,1,,Arizona Coyotes,Tampa Bay Lightning,0.6833333333333333,0.5666666666666667
+2018-03-26,7:00 PM,Buffalo Sabres,3,Toronto Maple Leafs,2,,Buffalo Sabres,Toronto Maple Leafs,0.7333333333333333,0.45
+2018-03-26,10:00 PM,Colorado Avalanche,1,Vegas Golden Knights,4,,Vegas Golden Knights,Colorado Avalanche,0.6166666666666667,0.5833333333333334
+2018-03-27,8:30 PM,Philadelphia Flyers,2,Dallas Stars,3,OT,Dallas Stars,Philadelphia Flyers,0.48333333333333334,0.6166666666666667
+2018-03-27,7:30 PM,Pittsburgh Penguins,2,Detroit Red Wings,5,,Detroit Red Wings,Pittsburgh Penguins,0.3333333333333333,0.6833333333333333
+2018-03-27,9:00 PM,Columbus Blue Jackets,7,Edmonton Oilers,3,,Columbus Blue Jackets,Edmonton Oilers,0.5166666666666667,0.6
+2018-03-27,7:00 PM,Carolina Hurricanes,3,New Jersey Devils,4,,New Jersey Devils,Carolina Hurricanes,0.5,0.48333333333333334
+2018-03-27,8:00 PM,Minnesota Wild,1,Nashville Predators,2,SO,Nashville Predators,Minnesota Wild,0.75,0.6833333333333333
+2018-03-27,7:30 PM,New York Islanders,4,Ottawa Senators,3,,New York Islanders,Ottawa Senators,0.4,0.36666666666666664
+2018-03-27,8:00 PM,San Jose Sharks,2,St. Louis Blues,3,OT,St. Louis Blues,San Jose Sharks,0.5666666666666667,0.65
+2018-03-27,10:00 PM,Anaheim Ducks,1,Vancouver Canucks,4,,Vancouver Canucks,Anaheim Ducks,0.35,0.6666666666666666
+2018-03-27,8:00 PM,Boston Bruins,4,Winnipeg Jets,5,SO,Winnipeg Jets,Boston Bruins,0.7166666666666667,0.7333333333333333
+2018-03-28,10:00 PM,Philadelphia Flyers,2,Colorado Avalanche,1,,Philadelphia Flyers,Colorado Avalanche,0.55,0.6
+2018-03-28,7:30 PM,Florida Panthers,3,Toronto Maple Leafs,4,,Toronto Maple Leafs,Florida Panthers,0.7166666666666667,0.6833333333333333
+2018-03-28,10:00 PM,Arizona Coyotes,3,Vegas Golden Knights,2,,Arizona Coyotes,Vegas Golden Knights,0.6166666666666667,0.5833333333333334
+2018-03-28,8:00 PM,New York Rangers,2,Washington Capitals,3,OT,Washington Capitals,New York Rangers,0.6166666666666667,0.35
+2018-03-29,7:00 PM,Tampa Bay Lightning,2,Boston Bruins,4,,Boston Bruins,Tampa Bay Lightning,0.7166666666666667,0.6833333333333333
+2018-03-29,7:00 PM,Detroit Red Wings,6,Buffalo Sabres,3,,Detroit Red Wings,Buffalo Sabres,0.48333333333333334,0.35
+2018-03-29,9:00 PM,Columbus Blue Jackets,5,Calgary Flames,1,,Columbus Blue Jackets,Calgary Flames,0.4,0.6
+2018-03-29,8:30 PM,Winnipeg Jets,2,Chicago Blackhawks,6,,Chicago Blackhawks,Winnipeg Jets,0.36666666666666664,0.75
+2018-03-29,10:30 PM,Arizona Coyotes,2,Los Angeles Kings,4,,Los Angeles Kings,Arizona Coyotes,0.6,0.6
+2018-03-29,8:00 PM,Dallas Stars,2,Minnesota Wild,5,,Minnesota Wild,Dallas Stars,0.6833333333333333,0.5
+2018-03-29,7:00 PM,Pittsburgh Penguins,4,New Jersey Devils,3,OT,Pittsburgh Penguins,New Jersey Devils,0.5333333333333333,0.6833333333333333
+2018-03-29,8:00 PM,San Jose Sharks,3,Nashville Predators,5,,Nashville Predators,San Jose Sharks,0.7666666666666667,0.65
+2018-03-29,7:30 PM,Florida Panthers,2,Ottawa Senators,3,OT,Ottawa Senators,Florida Panthers,0.4,0.6833333333333333
+2018-03-29,10:00 PM,Edmonton Oilers,1,Vancouver Canucks,2,,Vancouver Canucks,Edmonton Oilers,0.38333333333333336,0.48333333333333334
+2018-03-30,10:00 PM,Los Angeles Kings,1,Anaheim Ducks,2,OT,Anaheim Ducks,Los Angeles Kings,0.6333333333333333,0.6333333333333333
+2018-03-30,9:00 PM,Chicago Blackhawks,0,Colorado Avalanche,5,,Colorado Avalanche,Chicago Blackhawks,0.55,0.38333333333333336
+2018-03-30,7:00 PM,Toronto Maple Leafs,5,New York Islanders,4,,Toronto Maple Leafs,New York Islanders,0.4,0.7333333333333333
+2018-03-30,7:00 PM,Tampa Bay Lightning,7,New York Rangers,3,,Tampa Bay Lightning,New York Rangers,0.36666666666666664,0.65
+2018-03-30,10:30 PM,St. Louis Blues,3,Vegas Golden Knights,4,OT,Vegas Golden Knights,St. Louis Blues,0.5833333333333334,0.6
+2018-03-30,7:00 PM,Carolina Hurricanes,4,Washington Capitals,1,,Carolina Hurricanes,Washington Capitals,0.65,0.48333333333333334
+2018-03-31,9:00 PM,St. Louis Blues,0,Arizona Coyotes,6,,Arizona Coyotes,St. Louis Blues,0.5666666666666667,0.5833333333333334
+2018-03-31,1:00 PM,Florida Panthers,1,Boston Bruins,5,,Boston Bruins,Florida Panthers,0.7166666666666667,0.7
+2018-03-31,7:00 PM,New York Rangers,2,Carolina Hurricanes,1,,New York Rangers,Carolina Hurricanes,0.5166666666666667,0.36666666666666664
+2018-03-31,10:00 PM,Edmonton Oilers,2,Calgary Flames,3,,Calgary Flames,Edmonton Oilers,0.38333333333333336,0.48333333333333334
+2018-03-31,8:00 PM,Minnesota Wild,1,Dallas Stars,4,,Dallas Stars,Minnesota Wild,0.4666666666666667,0.6833333333333333
+2018-03-31,2:00 PM,Ottawa Senators,0,Detroit Red Wings,2,,Detroit Red Wings,Ottawa Senators,0.38333333333333336,0.43333333333333335
+2018-03-31,7:00 PM,New York Islanders,3,New Jersey Devils,4,,New Jersey Devils,New York Islanders,0.55,0.36666666666666664
+2018-03-31,8:00 PM,Buffalo Sabres,7,Nashville Predators,4,,Buffalo Sabres,Nashville Predators,0.7666666666666667,0.45
+2018-03-31,7:00 PM,Montreal Canadiens,2,Pittsburgh Penguins,5,,Pittsburgh Penguins,Montreal Canadiens,0.6833333333333333,0.4
+2018-03-31,7:00 PM,Winnipeg Jets,3,Toronto Maple Leafs,1,,Winnipeg Jets,Toronto Maple Leafs,0.7333333333333333,0.7166666666666667
+2018-03-31,4:00 PM,Columbus Blue Jackets,4,Vancouver Canucks,5,OT,Vancouver Canucks,Columbus Blue Jackets,0.38333333333333336,0.6333333333333333
+2018-03-31,10:30 PM,San Jose Sharks,2,Vegas Golden Knights,3,,Vegas Golden Knights,San Jose Sharks,0.6166666666666667,0.65
+2018-04-01,9:00 PM,Colorado Avalanche,3,Anaheim Ducks,4,OT,Anaheim Ducks,Colorado Avalanche,0.6666666666666666,0.5833333333333334
+2018-04-01,7:00 PM,New Jersey Devils,2,Montreal Canadiens,1,,New Jersey Devils,Montreal Canadiens,0.36666666666666664,0.5833333333333334
+2018-04-01,12:30 PM,Boston Bruins,3,Philadelphia Flyers,4,OT,Philadelphia Flyers,Boston Bruins,0.6,0.7166666666666667
+2018-04-01,7:30 PM,Washington Capitals,3,Pittsburgh Penguins,1,,Washington Capitals,Pittsburgh Penguins,0.7166666666666667,0.6333333333333333
+2018-04-01,6:00 PM,Nashville Predators,4,Tampa Bay Lightning,1,,Nashville Predators,Tampa Bay Lightning,0.65,0.7666666666666667
+2018-04-02,7:30 PM,Carolina Hurricanes,2,Florida Panthers,3,,Florida Panthers,Carolina Hurricanes,0.7,0.48333333333333334
+2018-04-02,10:30 PM,Colorado Avalanche,1,Los Angeles Kings,3,,Los Angeles Kings,Colorado Avalanche,0.6166666666666667,0.5833333333333334
+2018-04-02,8:00 PM,Edmonton Oilers,0,Minnesota Wild,3,,Minnesota Wild,Edmonton Oilers,0.65,0.45
+2018-04-02,7:30 PM,Winnipeg Jets,6,Ottawa Senators,5,,Winnipeg Jets,Ottawa Senators,0.43333333333333335,0.7166666666666667
+2018-04-02,8:00 PM,Washington Capitals,4,St. Louis Blues,2,,Washington Capitals,St. Louis Blues,0.55,0.6333333333333333
+2018-04-02,7:00 PM,Buffalo Sabres,2,Toronto Maple Leafs,5,,Toronto Maple Leafs,Buffalo Sabres,0.7333333333333333,0.45
+2018-04-03,7:00 PM,Detroit Red Wings,4,Columbus Blue Jackets,5,OT,Columbus Blue Jackets,Detroit Red Wings,0.6166666666666667,0.38333333333333336
+2018-04-03,9:00 PM,Arizona Coyotes,4,Calgary Flames,1,,Arizona Coyotes,Calgary Flames,0.4,0.5666666666666667
+2018-04-03,7:30 PM,Nashville Predators,1,Florida Panthers,2,,Florida Panthers,Nashville Predators,0.7,0.7666666666666667
+2018-04-03,7:30 PM,Winnipeg Jets,5,Montreal Canadiens,4,OT,Winnipeg Jets,Montreal Canadiens,0.36666666666666664,0.7166666666666667
+2018-04-03,7:00 PM,New York Rangers,2,New Jersey Devils,5,,New Jersey Devils,New York Rangers,0.5833333333333334,0.4
+2018-04-03,7:00 PM,Philadelphia Flyers,4,New York Islanders,5,,New York Islanders,Philadelphia Flyers,0.35,0.6333333333333333
+2018-04-03,10:30 PM,Dallas Stars,4,San Jose Sharks,2,,Dallas Stars,San Jose Sharks,0.65,0.4666666666666667
+2018-04-03,7:30 PM,Boston Bruins,0,Tampa Bay Lightning,4,,Tampa Bay Lightning,Boston Bruins,0.6166666666666667,0.7333333333333333
+2018-04-03,10:00 PM,Vegas Golden Knights,5,Vancouver Canucks,4,SO,Vegas Golden Knights,Vancouver Canucks,0.4166666666666667,0.6166666666666667
+2018-04-04,10:00 PM,Minnesota Wild,1,Anaheim Ducks,3,,Anaheim Ducks,Minnesota Wild,0.6666666666666666,0.6833333333333333
+2018-04-04,7:30 PM,Ottawa Senators,4,Buffalo Sabres,2,,Ottawa Senators,Buffalo Sabres,0.4166666666666667,0.4
+2018-04-04,8:00 PM,Chicago Blackhawks,4,St. Louis Blues,3,,Chicago Blackhawks,St. Louis Blues,0.55,0.35
+2018-04-05,7:00 PM,Pittsburgh Penguins,5,Columbus Blue Jackets,4,OT,Pittsburgh Penguins,Columbus Blue Jackets,0.6333333333333333,0.6833333333333333
+2018-04-05,7:30 PM,Montreal Canadiens,4,Detroit Red Wings,3,,Montreal Canadiens,Detroit Red Wings,0.36666666666666664,0.38333333333333336
+2018-04-05,9:00 PM,Vegas Golden Knights,3,Edmonton Oilers,4,,Edmonton Oilers,Vegas Golden Knights,0.43333333333333335,0.6166666666666667
+2018-04-05,7:30 PM,Boston Bruins,2,Florida Panthers,3,,Florida Panthers,Boston Bruins,0.7,0.7
+2018-04-05,10:30 PM,Minnesota Wild,4,Los Angeles Kings,5,OT,Los Angeles Kings,Minnesota Wild,0.6166666666666667,0.65
+2018-04-05,7:00 PM,Toronto Maple Leafs,1,New Jersey Devils,2,,New Jersey Devils,Toronto Maple Leafs,0.5833333333333334,0.7333333333333333
+2018-04-05,7:00 PM,New York Rangers,1,New York Islanders,2,,New York Islanders,New York Rangers,0.35,0.36666666666666664
+2018-04-05,7:00 PM,Carolina Hurricanes,3,Philadelphia Flyers,4,,Philadelphia Flyers,Carolina Hurricanes,0.6333333333333333,0.45
+2018-04-05,10:30 PM,Colorado Avalanche,2,San Jose Sharks,4,,San Jose Sharks,Colorado Avalanche,0.6333333333333333,0.55
+2018-04-05,10:00 PM,Arizona Coyotes,3,Vancouver Canucks,4,OT,Vancouver Canucks,Arizona Coyotes,0.4,0.6
+2018-04-05,8:00 PM,Calgary Flames,1,Winnipeg Jets,2,,Winnipeg Jets,Calgary Flames,0.7333333333333333,0.4
+2018-04-05,7:00 PM,Nashville Predators,4,Washington Capitals,3,,Nashville Predators,Washington Capitals,0.6333333333333333,0.7333333333333333
+2018-04-06,10:00 PM,Dallas Stars,3,Anaheim Ducks,5,,Anaheim Ducks,Dallas Stars,0.6666666666666666,0.5
+2018-04-06,8:30 PM,St. Louis Blues,4,Chicago Blackhawks,1,,St. Louis Blues,Chicago Blackhawks,0.35,0.5166666666666667
+2018-04-06,7:30 PM,Ottawa Senators,0,Pittsburgh Penguins,4,,Pittsburgh Penguins,Ottawa Senators,0.6833333333333333,0.4
+2018-04-06,7:30 PM,Buffalo Sabres,5,Tampa Bay Lightning,7,,Tampa Bay Lightning,Buffalo Sabres,0.65,0.4166666666666667
+2018-04-07,9:00 PM,Anaheim Ducks,3,Arizona Coyotes,0,,Anaheim Ducks,Arizona Coyotes,0.6166666666666667,0.6666666666666666
+2018-04-07,7:00 PM,Ottawa Senators,2,Boston Bruins,5,,Boston Bruins,Ottawa Senators,0.6666666666666666,0.4
+2018-04-07,7:00 PM,Tampa Bay Lightning,2,Carolina Hurricanes,3,OT,Carolina Hurricanes,Tampa Bay Lightning,0.4166666666666667,0.65
+2018-04-07,10:00 PM,Vegas Golden Knights,1,Calgary Flames,7,,Calgary Flames,Vegas Golden Knights,0.4,0.6166666666666667
+2018-04-07,9:00 PM,St. Louis Blues,2,Colorado Avalanche,5,,Colorado Avalanche,St. Louis Blues,0.55,0.5166666666666667
+2018-04-07,7:00 PM,New York Islanders,4,Detroit Red Wings,3,OT,New York Islanders,Detroit Red Wings,0.36666666666666664,0.38333333333333336
+2018-04-07,10:00 PM,Vancouver Canucks,2,Edmonton Oilers,3,SO,Edmonton Oilers,Vancouver Canucks,0.43333333333333335,0.4
+2018-04-07,7:00 PM,Buffalo Sabres,3,Florida Panthers,4,,Florida Panthers,Buffalo Sabres,0.7,0.4166666666666667
+2018-04-07,10:30 PM,Dallas Stars,4,Los Angeles Kings,2,,Dallas Stars,Los Angeles Kings,0.65,0.5
+2018-04-07,8:00 PM,Columbus Blue Jackets,2,Nashville Predators,4,,Nashville Predators,Columbus Blue Jackets,0.7333333333333333,0.65
+2018-04-07,3:00 PM,New York Rangers,0,Philadelphia Flyers,5,,Philadelphia Flyers,New York Rangers,0.6666666666666666,0.36666666666666664
+2018-04-07,10:30 PM,Minnesota Wild,6,San Jose Sharks,3,,Minnesota Wild,San Jose Sharks,0.6333333333333333,0.6333333333333333
+2018-04-07,7:00 PM,Montreal Canadiens,2,Toronto Maple Leafs,4,,Toronto Maple Leafs,Montreal Canadiens,0.7,0.4166666666666667
+2018-04-07,7:00 PM,Chicago Blackhawks,1,Winnipeg Jets,4,,Winnipeg Jets,Chicago Blackhawks,0.7333333333333333,0.35
+2018-04-07,7:00 PM,New Jersey Devils,3,Washington Capitals,5,,Washington Capitals,New Jersey Devils,0.6333333333333333,0.5833333333333334
+2018-04-08,7:30 PM,Florida Panthers,4,Boston Bruins,2,,Florida Panthers,Boston Bruins,0.6666666666666666,0.7
